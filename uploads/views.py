@@ -3,6 +3,7 @@ from django.http import HttpResponse
 from .models import Link
 from . import forms
 from .functions import returnZ
+from .searching_mobile_apps_ids import *
 
 
 # Create your views here.
@@ -25,9 +26,10 @@ def results(request):
             instance = form.save(commit=False)
             instance.author = request.user
             instance.firstChar = returnZ(instance.link_text)
+            defineURL(instance.link_text)
 
             instance.save()
-            print(form)
+
             print("FORM IS VALID DUDE")
             return redirect('uploads:results')
     else:
