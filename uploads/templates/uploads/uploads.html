@@ -1,0 +1,10 @@
+<h2>Virus Detector</h2>
+
+<body>
+<form class = "site-form" action="{% url 'uploads:results' %}" method = "post">
+  {% csrf_token %}
+  {{form}}
+  <input type = "submit" value = "Analyse">
+</form>
+</body>
+</form>

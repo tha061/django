@@ -1,0 +1,9 @@
+{% if latest_link_list %}
+    <ul>
+    {% for link in latest_link_list %}
+      <li><a href="{% url 'uploads:detail' link.id %}">{{ link.link_text }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No links are available.</p>
+{% endif %}
