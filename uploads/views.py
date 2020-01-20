@@ -2,6 +2,7 @@ from django.shortcuts import get_object_or_404, render, redirect
 from django.http import HttpResponse
 from .models import Link
 from . import forms
+from .functions import returnZ
 
 
 # Create your views here.
@@ -22,7 +23,8 @@ def results(request):
 
         if form.is_valid():
             instance = form.save(commit=False)
-            #instance.author = request.user
+            instance.author = request.user
+            instance.firstChar = returnZ(instance.link_text)
 
             instance.save()
             print(form)
