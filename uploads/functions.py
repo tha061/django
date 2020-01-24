@@ -20,3 +20,17 @@ def download_apk(package, version_code, output_path):
         os.rename(output_path + ".temp", output_path)
     except DownloadError as e:
         logging.error(str(e))
+
+
+class APKAnalysis():
+    def __init__(self, name="", fileSize="", VTmd5="", VTmsg="", VTpermalink="", VTresource="", VTresponsecode="", VTscanID="", VTsha1="", VTsha256=""):
+        self.name = name
+        self.fileSize = fileSize
+        self.VTmd5 = VTmd5
+        self.VTmsg = VTmsg
+        self.VTpermalink = VTpermalink
+        self.VTresource = VTresource
+        self.VTresponsecode = VTresponsecode
+        self.VTscanID = VTscanID
+        self.VTsha1 = VTsha1
+        self.VTsha256 = VTsha256
