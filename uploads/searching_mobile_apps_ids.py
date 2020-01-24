@@ -9,11 +9,12 @@ from bs4 import BeautifulSoup
 
 # Seed App-IDs
 
+test = []
 
 def defineURL(str):
-    start_links = str
-    findId(get_source(str))
-    #search(get_source(str), 2)
+
+    #findId(get_source(str))
+    search(get_source(str), 2)
 
 def findId(source):
     print("do we get here")
@@ -21,6 +22,7 @@ def findId(source):
     divs = soup.findAll('div', {'class':'b8cIId ReQCgd Q9MA7b'})
     ids_r =  []
     for item in divs:
+        print(item)
         try:
             ids_r.append(item.find('a').attrs['href'].split('id=')[-1])
         except:
@@ -28,7 +30,7 @@ def findId(source):
     print("REEEEE")
     print(ids_r)
     print("REEEEEEE SOME MORE")
-    print(ids_r)
+    test = ids_r
     return ids_r
 
 def get_source(url):
@@ -36,7 +38,7 @@ def get_source(url):
     page_source = urllib.urlopen(request).read()
     return page_source
 
-'''
+
 def search(source, depth):
     if depth==1:
         return
@@ -57,14 +59,13 @@ def search(source, depth):
     for link in urls:
         search(link,depth+1)
 
-count = 0
-for start_link in start_links:
-    print ("%s : Total apps : %s " % (count, len(urls)))
-    search(start_link,0)
-    count += 1
-
-fo = open("../data/gcrawler_output.txt", "wb")
-for item in urls:
-    fo.write("%s\n"%item)
+fo = open("..gcrawler_output.txt", "wb")
+'''
+print("it stops here 1")
+for item in test:
+    sharedUrl = item
+    print("it stops here")
+    print("shared urlllll:    "+sharedUrl)
+    fo.write(sharedUrl.encode('utf-8'))
+'''
 fo.close()
-''' 
