@@ -1,4 +1,8 @@
-<h1>submitteedddd</h1>
-<ul>
-    <li>1</li>
-</ul>
+<h1>Your json file is available for download here</h1>
+<body>
+<form class = "site-form" action="{% url 'uploads:download_file' %}" method = "post">
+  {% csrf_token %}
+  
+  <input type = "submit" value = "Download">
+</form>
+</body>

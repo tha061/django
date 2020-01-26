@@ -9,6 +9,7 @@ from .download_apk import *
 #from googleplay_api.googleplay import GooglePlayAPI
 from .trackinglibraries import *
 import json
+import mimetypes
 
 
 jsonClass = APKAnalysis()
@@ -33,26 +34,28 @@ def index(request):
     context = {'latest_link_list': latest_link_list}
     return render(request, 'uploads/index.html', context)
 
-def detail(request, link_id):
+def detail(request):
     link = get_object_or_404(Link, pk=link_id)
     return render(request, 'uploads/detail.html', {'link': link})
 
+
+def download_file(request):
+    # fill these variables with real values
+    fl_path = r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder\json.txt'
+    filename = 'json.txt'
+    fl = open(fl_path, 'r')
+    print(fl)
+    mime_type, _ = mimetypes.guess_type(fl_path)
+    response = HttpResponse(fl, content_type=mime_type)
+    response['Content-Disposition'] = "attachment; filename=%s" % filename
+    return response
+
 def results(request):
-
     if request.method == 'POST':
-
         form = forms.CreateLink(request.POST, request.FILES)
-
         if form.is_valid():
-
-
-
             instance = form.save(commit=False)
-
             apkCode = instance.link_text
-
-
-
             instance.author = request.user
             download_apk(instance.link_text)
             print(apkCode +'.apk')
@@ -60,9 +63,7 @@ def results(request):
             APKfilesize = file_size(apkCode +'.apk')
             instance.fileSize = APKfilesize
             instance.firstChar = returnZ(instance.link_text)
-
             k  = vt_scan(apkCode)
-
             print(k)
             instance.VT_permallink = k[0]
             instance.VT_sha1 = k[1]
@@ -72,7 +73,6 @@ def results(request):
             instance.VT_msg  = k[5]
             instance.VT_sha256 = k[6]
             instance.VT_md5 = k[7]
-
             jsonClass.name = apkCode
             jsonClass.fileSize = APKfilesize
             jsonClass.VTpermalink = k[0]
@@ -87,7 +87,7 @@ def results(request):
             serialJSON = jsonClass.__dict__
             print(serialJSON)
 
-            jsonFile = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\uploads\json.txt", "w")
+            jsonFile = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder\json.txt", "w")
             json.dump(serialJSON, jsonFile, indent = 2)
 
             #instance.fileSize = file_size(r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\'+instance.link_text)

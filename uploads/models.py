@@ -2,6 +2,7 @@ from django.db import models
 from django.contrib.auth.models import User
 from django.contrib.postgres.fields import ArrayField
 
+
 class Link(models.Model):
     link_text = models.CharField(max_length=200)
     author = models.ForeignKey(User, default=None,blank=True, on_delete=models.PROTECT, null = True)
@@ -15,6 +16,7 @@ class Link(models.Model):
     VT_msg = models.CharField(max_length=100, blank=True, null=True)
     VT_sha256 = models.CharField(max_length=100, blank=True, null=True)
     VT_md5 = models.CharField(max_length=100, blank=True, null=True)
+    jsonFile = models.FileField(blank = True, null = True)
 
     def __str__(self):
         return self.link_text
