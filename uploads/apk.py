@@ -15,11 +15,15 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-
+try:
+    from StringIO import StringIO
+except ImportError:
+    from io import StringIO
 import os
 import bytecode
 import androguard
-from .dvm_permissions import DVM_PERMISSIONS
+from hashlib import md5
+#from .dvm_permissions import DVM_PERMISSIONS
 
 
 from struct import pack, unpack
@@ -177,19 +181,22 @@ class APK(object):
 
         self.magic_file = magic_file
 
-        if raw:
-            self.__raw = filename
-        else:
-            self.__raw = read(filename)
+        #if raw:
+        self.__raw = filename
+        #else:
+        #    self.__raw = read(filename)
 
         self.zipmodule = zipmodule
         self.file_size = len(self.__raw)
-        self.file_md5 = get_md5(self.__raw)
+        #self.file_md5 = get_md5(self.__raw)
 
         if zipmodule == 0:
             self.zip = ChilkatZip(self.__raw)
         else:
-            self.zip = zipfile.ZipFile(StringIO.StringIO(self.__raw), mode=mode)
+            print("error at line 193")
+            print(zipfile.ZipFile(StringIO(self.__raw), mode=mode))
+            self.zip = zipfile.ZipFile(StringIO(self.__raw), mode=mode)
+
 
         for i in self.zip.namelist():
             if i == "AndroidManifest.xml":
@@ -216,6 +223,13 @@ class APK(object):
                 self.parse_cert(i)
 
         self.get_files_types()
+
+    def get_md5(fpath):
+        m = md5()
+        target_file = open(fpath, 'rb')
+        m.update(target_file.read())
+        target_file.close()
+        return m.hexdigest()
 
     def parse_cert(self, cert_fname):
         """

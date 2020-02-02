@@ -1,6 +1,18 @@
+from zipfile import ZipFile
+import xml.etree.ElementTree as ET
+
+
 
 def returnZ(str):
     return str[0]
+
+def permissionsFromXML(manifestPATH):
+    root = ET.parse(manifestPATH).getroot()
+    permissions = root.findall("uses-permission")
+
+    for perm in permissions:
+        for att in perm.attrib:
+            print("{}\t:\t{}\n".format(att, perm.attrib[att]))
 
 def download_apk(package, version_code, output_path):
     """
@@ -20,6 +32,21 @@ def download_apk(package, version_code, output_path):
         os.rename(output_path + ".temp", output_path)
     except DownloadError as e:
         logging.error(str(e))
+
+def getManifest(path):
+    with ZipFile(path, 'r') as zipObj:
+   # Get a list of all archived file names from the zip
+        listOfFileNames = zipObj.namelist()
+        print(listOfFileNames)
+        print("REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
+
+        zipObj.extract("AndroidManifest.xml", r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads")
+   # Iterate over the file names
+        #for fileName in listOfFileNames:
+       # Check filename endswith csv
+            #if fileName.endswith('.xml'):
+           # Extract a single file from zip
+                #zipObj.extract(fileName, 'temp_csv')
 
 
 class APKAnalysis():

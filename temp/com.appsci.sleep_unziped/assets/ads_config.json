@@ -1,0 +1,133 @@
+{
+  "v2": {
+    "placements": [
+      {
+        "name": "start_ritual",
+        "priority": [
+          {
+            "type": "rewarded",
+            "network": "admob",
+            "id": "ca-app-pub-8766476024538666/2390136069"
+          },
+          {
+            "type": "interstitial",
+            "network": "admob",
+            "id": "ca-app-pub-8766476024538666/4217867830"
+          },
+          {
+            "type": "interstitial",
+            "network": "fb",
+            "id": "2213233878791354_2628596843921720"
+          }
+        ]
+      },
+      {
+        "name": "app_start",
+        "priority": [
+          {
+            "type": "interstitial",
+            "network": "admob",
+            "id": "ca-app-pub-8766476024538666/6979762540"
+          },
+          {
+            "type": "interstitial",
+            "network": "fb",
+            "id": "2213233878791354_2628603927254345"
+          }
+        ]
+      },
+      {
+        "name": "alarm_stop_interstitial",
+        "priority": [
+          {
+            "type": "interstitial",
+            "network": "admob",
+            "id": "ca-app-pub-8766476024538666/9015267164"
+          },
+          {
+            "type": "interstitial",
+            "network": "fb",
+            "id": "2213233878791354_2213244085457000"
+          }
+        ]
+      },
+      {
+        "name": "app_closing_interstitial",
+        "priority": [
+          {
+            "type": "interstitial",
+            "network": "admob",
+            "id": "ca-app-pub-8766476024538666/8359824298"
+          },
+          {
+            "type": "interstitial",
+            "network": "fb",
+            "id": "2213233878791354_2213236995457709"
+          }
+        ]
+      },
+      {
+        "name": "alarm_screen",
+        "priority": [
+          {
+            "type": "native",
+            "network": "admob",
+            "id": "ca-app-pub-8766476024538666/4922665839"
+          },
+          {
+            "type": "native",
+            "network": "fb",
+            "id": "2213233878791354_2628607540587317"
+          }
+        ]
+      },
+      {
+        "name": "wake_feedback",
+        "priority": [
+          {
+            "type": "native",
+            "network": "admob",
+            "id": "ca-app-pub-8766476024538666/8095624084"
+          },
+          {
+            "type": "native",
+            "network": "fb",
+            "id": "2213233878791354_2628612420586829"
+          }
+        ]
+      }
+    ]
+  },
+  "v1": {
+    "placements": [
+      {
+        "name": "alarm_screen",
+        "priority": [
+          "admob",
+          "fb"
+        ]
+      },
+      {
+        "name": "wake_feedback",
+        "priority": [
+          "admob",
+          "fb"
+        ]
+      },
+      {
+        "name": "alarm_stop_interstitial",
+        "priority": [
+          "admob",
+          "fb"
+        ]
+      },
+      {
+        "name": "app_closing_interstitial",
+        "priority": [
+          "admob",
+          "fb"
+        ]
+      }
+    ]
+  }
+}

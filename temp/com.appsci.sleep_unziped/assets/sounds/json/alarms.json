@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "sound": "01master.mp3",
+    "preview_sound": "01master.mp3",
+    "title": "Positive Day",
+    "image": "alarm_melody_pic_positive_day",
+    "premium": false
+  },
+  {
+    "id": 2,
+    "sound": "02master.mp3",
+    "preview_sound": "02master.mp3",
+    "title": "Summer Adventures",
+    "image": "alarm_melody_pic_summer_adventures",
+    "premium": false
+  },
+  {
+    "id": 3,
+    "sound": "03master.mp3",
+    "preview_sound": "03master.mp3",
+    "title": "Countryside",
+    "image": "alarm_melody_pic_melody_countryside",
+    "premium": false
+  },
+  {
+    "id": 4,
+    "sound": "04master.mp3",
+    "preview_sound": "04master.mp3",
+    "title": "Peaceful Times",
+    "image": "alarm_melody_pic_peaceful_times",
+    "premium": true
+  },
+  {
+    "id": 5,
+    "sound": "05master.mp3",
+    "preview_sound": "05master.mp3",
+    "title": "Important Day",
+    "image": "alarm_melody_pic_important_day",
+    "premium": true
+  },
+  {
+    "id": 6,
+    "sound": "06master.mp3",
+    "preview_sound": "06master.mp3",
+    "title": "Avian Fantasy",
+    "image": "alarm_melody_pic_avian_phantasy",
+    "premium": true
+  },
+  {
+    "id": 7,
+    "sound": "07master.mp3",
+    "preview_sound": "07master.mp3",
+    "title": "Sunny Vibes",
+    "image": "alarm_melody_pic_sunny_wibes",
+    "premium": true
+  },
+  {
+    "id": 8,
+    "sound": "08master.mp3",
+    "preview_sound": "08master.mp3",
+    "title": "Piano Dream",
+    "image": "alarm_melody_pic_piano_dream",
+    "premium": true
+  },
+  {
+    "id": 9,
+    "sound": "09master.mp3",
+    "preview_sound": "09master.mp3",
+    "title": "Balanced Mood",
+    "image": "alarm_melody_pic_balanced_mood",
+    "premium": true
+  },
+  {
+    "id": 10,
+    "sound": "10master.mp3",
+    "preview_sound": "10master.mp3",
+    "title": "Ocean Emotions",
+    "image": "alarm_melody_pic_ocean_emotion",
+    "premium": true
+  }
+]

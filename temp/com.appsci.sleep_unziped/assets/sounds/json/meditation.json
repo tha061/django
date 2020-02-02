@@ -1,0 +1,15 @@
+{
+  "id": 0,
+  "title": "Feel your body",
+  "image": "ic_illustration_body_scan",
+  "sounds": [
+    {
+      "id": 1,
+      "url": "Ball_of_light.mp3",
+      "title": "Ball of light",
+      "duration": 548.00,
+      "description": "Feel the light within you and share it without losing nothing",
+      "premium": false
+    }
+  ]
+}

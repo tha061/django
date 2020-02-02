@@ -1,0 +1,102 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/xml/preferences.xml
+SHA1-Digest: yRRU90b6zdNO6xdEykqwLLyfRek=
+
+Name: res/drawable/sys_battery_empty.png
+SHA1-Digest: EPRtZ8q8Bv2+fLnucj5I1SO59+8=
+
+Name: res/drawable-hdpi/home_htc_sense.png
+SHA1-Digest: KikGxMG/j8YzzjLrNF83X8HVtdg=
+
+Name: res/drawable/home_android_1x.png
+SHA1-Digest: RinM6XxNyFgHtrOMTWlVRSJhLOM=
+
+Name: res/layout/fake_battery.xml
+SHA1-Digest: AMqGoJGLM1PQZYJp0scQvXYk0fY=
+
+Name: res/drawable/notification_android_2_3.jpg
+SHA1-Digest: j+lkBtfLR7P2dImy4oNEdWSy00k=
+
+Name: res/drawable-hdpi/notification_android.jpg
+SHA1-Digest: WZStNuORHD9R7AoH3LY/Mr0edp8=
+
+Name: resources.arsc
+SHA1-Digest: +fZQUpCyfcWvRDcAO4z9vIagIkI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: zwt4lL6QW5GfcfclcWRA1r7qiX0=
+
+Name: res/drawable/notification_android.jpg
+SHA1-Digest: iH65Bxm7wMxaLEXsBjtflF/Jvz0=
+
+Name: res/drawable/notification_htc_sense.jpg
+SHA1-Digest: 0g6V8ajobbATpdm39W4WK8qbdEg=
+
+Name: res/drawable/sys_data_connected_wifi_2_3.png
+SHA1-Digest: UAWkjeFIrqFMz8TLM4up9cYiOHM=
+
+Name: res/drawable/sys_signal_4_2_3.png
+SHA1-Digest: TSs3Pndyd9HK2dao45LOuG+GCDc=
+
+Name: res/drawable/sys_battery_empty_2_3.png
+SHA1-Digest: M2qIi8ADtipo5LUQuLfb5pVEcAM=
+
+Name: res/drawable/home_android_2_3.png
+SHA1-Digest: 7uFkEJGsDBk71ZivAAvNKJQQe3w=
+
+Name: res/drawable-hdpi/home_android_2_3.png
+SHA1-Digest: g+oUnq7j5AKm7XReohv82ccnLfs=
+
+Name: res/drawable/image_android.png
+SHA1-Digest: gS5WU1Kzt+3GzONgV/APnoyvjV8=
+
+Name: res/drawable-hdpi/home_android_2_1.png
+SHA1-Digest: y5syVShwkmenVWdrudIE3LbLRwo=
+
+Name: res/drawable/sys_data_connected_3g_transparent.png
+SHA1-Digest: 7l5F0U8np7TqWzlUI6NamI8pZPE=
+
+Name: res/drawable/sys_signal_4.png
+SHA1-Digest: 4zZe8r93PR1BCfpG5MSAF2fC2zU=
+
+Name: res/drawable/home_htc_sense.png
+SHA1-Digest: sonrAFWv2+9rcSFtEHnmBiWDJAE=
+
+Name: classes.dex
+SHA1-Digest: NJyqzYPZlxgZ0vqyIUolPRQubXY=
+
+Name: res/drawable/home_android_2_2.png
+SHA1-Digest: gAPlojrU0pBw85IZ6ObmrOR8ggQ=
+
+Name: res/drawable/image_htc_widget.png
+SHA1-Digest: izp1QiMkfXK5gjF3WKJoWsO4SUs=
+
+Name: res/drawable/home_android_2_1.png
+SHA1-Digest: JG5LnABNhNb2M/rLG+jyqbIVDvA=
+
+Name: res/drawable/icon.png
+SHA1-Digest: T4vbOmHQ2TM7hvbLgd2JpZoXhUw=
+
+Name: res/drawable/sys_signal_4_transparent.png
+SHA1-Digest: kqL383VfCzJttmYxut4J01d9dt8=
+
+Name: res/drawable-hdpi/home_android_1x.png
+SHA1-Digest: CPKC+sDjj0wja2afdY7eQKQlfdI=
+
+Name: res/drawable-hdpi/notification_android_2_3.jpg
+SHA1-Digest: uoGZjcyb3XAJ0O8Khk99017NBEM=
+
+Name: res/drawable-hdpi/home_android_2_2.png
+SHA1-Digest: TOqQDtzfznRcbSgu0E5C6tN7Re0=
+
+Name: res/drawable/sys_data_connected_3g.png
+SHA1-Digest: wurspaWOnJAfzoe6sWoB0Q/SaAE=
+
+Name: res/layout/about.xml
+SHA1-Digest: 1CpJWqj/wExOGFpPUR02P1MhdsA=
+
+Name: res/drawable-hdpi/notification_htc_sense.jpg
+SHA1-Digest: YT5ptoaBxvZwOZYRlw9slNFlrZk=
+

@@ -28,7 +28,7 @@ def vt_scan(app_id):
     api_key = '8e964db7706daa35e71df310ce68944393a8c254a9c9e7a6a1583ee479a4142a'
     params = {'apikey': api_key}
     #app_id = apk_path.split("/")[-1]
-    apk_path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\%s.apk" % app_id
+    apk_path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s.apk" % app_id
 
     files = {'file': ('%s' % app_id, open(apk_path, 'rb'))}
     try:
@@ -52,13 +52,13 @@ def vt_scan(app_id):
         verbose_msg = "NA"
         sha256 = "NA"
         md5 = "NA"
-    list = permalink,sha1,resource,response_code,scan_id,verbose_msg,sha256,md5
+    list = [permalink,sha1,resource,response_code,scan_id,verbose_msg,sha256,md5]
     return list
 
 def get_permissions(app_id):
     '''Path to AndroidManifest File'''
     #base_path = '/Users/ikr001/VPNdroid/googleplay-api/adblockingApps/xmls/%s-xml.txt'% app_id
-    base_path = './%s/AndroidManifest.xml'% app_id
+    base_path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\AndroidManifest.xml"
 
     soup = BeautifulSoup(open(base_path, "rb").read(), "lxml")
 

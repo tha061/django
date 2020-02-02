@@ -10,6 +10,10 @@ from .download_apk import *
 from .trackinglibraries import *
 import json
 import mimetypes
+import shutil
+from .apk import *
+from .apk_decompiler import *
+from os import chdir, system
 
 
 jsonClass = APKAnalysis()
@@ -40,7 +44,7 @@ def detail(request):
 
 
 def download_file(request):
-    # fill these variables with real values
+
     fl_path = r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder\json.txt'
     filename = 'json.txt'
     fl = open(fl_path, 'r')
@@ -51,20 +55,46 @@ def download_file(request):
     return response
 
 def results(request):
+    #apkClass = APK(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\com.daystrom.fbattery.apk")
     if request.method == 'POST':
         form = forms.CreateLink(request.POST, request.FILES)
         if form.is_valid():
+
             instance = form.save(commit=False)
             apkCode = instance.link_text
             instance.author = request.user
             download_apk(instance.link_text)
-            print(apkCode +'.apk')
-            print(file_size(apkCode +'.apk'))
-            APKfilesize = file_size(apkCode +'.apk')
+            apkPATHold = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite", apkCode+".apk")
+            apkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".apk")
+            zipPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".zip")
+            apkFolder = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads"
+            apkFolderCD = r"Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownload"
+            manifestPath  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\com.appsci.sleep\AndroidManifest.xml"
+            try:
+                os.remove(apkPATH)
+            except:
+                print("nothing to remove")
+            shutil.move(apkPATHold, apkFolder)
+            #shutil.copy(apkPATH, zipPATH)
+            #getManifest(zipPATH)
+            print("NNNNNNNNNNNNNNNNNOOOOOOOOOOOOOOOOO")
+            os.chdir(apkFolder)
+
+            os.system("cd "+apkFolderCD)
+            os.system("apktool d com.appsci.sleep.apk ./com.appsci.sleep.apk")
+            os.system("a")
+
+            print(permissionsFromXML(manifestPath))
+
+
+            print(file_size(apkPATH))
+            APKfilesize = file_size(apkPATH)
+
             instance.fileSize = APKfilesize
             instance.firstChar = returnZ(instance.link_text)
+            print("here")
             k  = vt_scan(apkCode)
-            print(k)
+            print("or maybe here")
             instance.VT_permallink = k[0]
             instance.VT_sha1 = k[1]
             instance.VT_resource = k[2]
@@ -90,7 +120,7 @@ def results(request):
             jsonFile = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder\json.txt", "w")
             json.dump(serialJSON, jsonFile, indent = 2)
 
-            #instance.fileSize = file_size(r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\'+instance.link_text)
+
             instance.save()
             print("FORM IS VALID")
             return redirect('uploads:results')
