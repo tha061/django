@@ -1,12 +1,25 @@
 {
-  "name": "com.daystrom.fbattery",
-  "fileSize": "169.7 KB",
-  "VTmd5": "f821e4c24197db3df5023417412fc2ee",
+  "name": "menloseweight.loseweightappformen.weightlossformen",
+  "fileSize": "8.8 MB",
+  "VTmd5": "e703108c42327ef866a1bc55d065140f",
   "VTmsg": "Scan request successfully queued, come back later for the report",
-  "VTpermalink": "https://www.virustotal.com/file/f001d6bf977dd54f0e9983f5e3a4559c631aa9ffa0369be901d9561fe42b91b2/analysis/1580634373/",
-  "VTresource": "f001d6bf977dd54f0e9983f5e3a4559c631aa9ffa0369be901d9561fe42b91b2",
+  "VTpermalink": "https://www.virustotal.com/file/9b72e9040fce07b920cbcecbe7ea12c9c21838836bf643b75530a1afd17097d8/analysis/1580984981/",
+  "VTresource": "9b72e9040fce07b920cbcecbe7ea12c9c21838836bf643b75530a1afd17097d8",
   "VTresponsecode": 1,
-  "VTscanID": "f001d6bf977dd54f0e9983f5e3a4559c631aa9ffa0369be901d9561fe42b91b2-1580634373",
-  "VTsha1": "9ca82c6215ab13ecf74ef3f2a0ced484391018ec",
-  "VTsha256": "f001d6bf977dd54f0e9983f5e3a4559c631aa9ffa0369be901d9561fe42b91b2"
+  "VTscanID": "9b72e9040fce07b920cbcecbe7ea12c9c21838836bf643b75530a1afd17097d8-1580984981",
+  "VTsha1": "e9ae80c38d08eee4fb24cb060c56837028ec132d",
+  "VTsha256": "9b72e9040fce07b920cbcecbe7ea12c9c21838836bf643b75530a1afd17097d8",
+  "permissions": [
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.INTERNET",
+    "android.permission.WAKE_LOCK",
+    "com.android.vending.BILLING",
+    "android.permission.VIBRATE",
+    "android.permission.USE_CREDENTIALS",
+    "android.permission.ACCESS_NETWORK_STATE",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+    "com.google.android.c2dm.permission.RECEIVE",
+    "menloseweight.loseweightappformen.weightlossformen.permission.C2D_MESSAGE"
+  ]
 }

@@ -7,12 +7,15 @@ def returnZ(str):
     return str[0]
 
 def permissionsFromXML(manifestPATH):
+    permissionList = []
     root = ET.parse(manifestPATH).getroot()
     permissions = root.findall("uses-permission")
 
     for perm in permissions:
         for att in perm.attrib:
-            print("{}\t:\t{}\n".format(att, perm.attrib[att]))
+            permissionList.append(perm.attrib[att])
+            #print("{}\t:\t{}\n".format(att, perm.attrib[att]))
+    return permissionList
 
 def download_apk(package, version_code, output_path):
     """
@@ -50,7 +53,7 @@ def getManifest(path):
 
 
 class APKAnalysis():
-    def __init__(self, name="", fileSize="", VTmd5="", VTmsg="", VTpermalink="", VTresource="", VTresponsecode="", VTscanID="", VTsha1="", VTsha256=""):
+    def __init__(self, name="", fileSize="", VTmd5="", VTmsg="", VTpermalink="", VTresource="", VTresponsecode="", VTscanID="", VTsha1="", VTsha256="", permissions = ""):
         self.name = name
         self.fileSize = fileSize
         self.VTmd5 = VTmd5
@@ -61,3 +64,4 @@ class APKAnalysis():
         self.VTscanID = VTscanID
         self.VTsha1 = VTsha1
         self.VTsha256 = VTsha256
+        self.permissions = permissions

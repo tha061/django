@@ -14,6 +14,7 @@ import shutil
 from .apk import *
 from .apk_decompiler import *
 from os import chdir, system
+from django.contrib.auth.decorators import login_required
 
 
 jsonClass = APKAnalysis()
@@ -54,6 +55,7 @@ def download_file(request):
     response['Content-Disposition'] = "attachment; filename=%s" % filename
     return response
 
+
 def results(request):
     #apkClass = APK(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\com.daystrom.fbattery.apk")
     if request.method == 'POST':
@@ -69,23 +71,29 @@ def results(request):
             zipPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".zip")
             apkFolder = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads"
             apkFolderCD = r"Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownload"
-            manifestPath  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\com.appsci.sleep\AndroidManifest.xml"
+            manifestPath  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\AndroidManifest.xml"%apkCode
             try:
                 os.remove(apkPATH)
             except:
                 print("nothing to remove")
-            shutil.move(apkPATHold, apkFolder)
+
+            print("apkPathold: "+apkPATHold)
+            print("apk FOLDER: "+apkFolder)
+            shutil.move(apkPATHold, apkFolder) #this needs to be fixed, fifx it so the APK is downloaded to the correct folder straight away
             #shutil.copy(apkPATH, zipPATH)
             #getManifest(zipPATH)
             print("NNNNNNNNNNNNNNNNNOOOOOOOOOOOOOOOOO")
             os.chdir(apkFolder)
 
             os.system("cd "+apkFolderCD)
-            os.system("apktool d com.appsci.sleep.apk ./com.appsci.sleep.apk")
+            os.system("apktool d "+apkCode+".apk ./"+apkCode+".apk")
             os.system("a")
 
-            print(permissionsFromXML(manifestPath))
 
+            thesePermissions = permissionsFromXML(manifestPath)
+
+            print("these permissions")
+            print(thesePermissions)
 
             print(file_size(apkPATH))
             APKfilesize = file_size(apkPATH)
@@ -94,7 +102,9 @@ def results(request):
             instance.firstChar = returnZ(instance.link_text)
             print("here")
             k  = vt_scan(apkCode)
-            print("or maybe here")
+            print("VT Scan is here")
+            print(k)
+
             instance.VT_permallink = k[0]
             instance.VT_sha1 = k[1]
             instance.VT_resource = k[2]
@@ -103,6 +113,7 @@ def results(request):
             instance.VT_msg  = k[5]
             instance.VT_sha256 = k[6]
             instance.VT_md5 = k[7]
+            instance.permissions = thesePermissions
             jsonClass.name = apkCode
             jsonClass.fileSize = APKfilesize
             jsonClass.VTpermalink = k[0]
@@ -113,6 +124,8 @@ def results(request):
             jsonClass.VTmsg  = k[5]
             jsonClass.VTsha256 = k[6]
             jsonClass.VTmd5 = k[7]
+            jsonClass.permissions = thesePermissions
+
 
             serialJSON = jsonClass.__dict__
             print(serialJSON)
@@ -131,6 +144,7 @@ def results(request):
 def vote(request, link_id):
     return HttpResponse("You're voting on link %s." % link_id)
 
+@login_required(login_url="/account/login")
 def uploadHere(request):
     form = forms.CreateLink()
     return render(request, 'uploads/uploads.html', {'form':form})
