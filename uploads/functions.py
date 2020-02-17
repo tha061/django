@@ -1,5 +1,12 @@
+import os
+from os import chdir, system
 from zipfile import ZipFile
 import xml.etree.ElementTree as ET
+from bs4 import BeautifulSoup
+import pandas as pd
+import requests
+import shutil
+#test
 
 
 
@@ -51,9 +58,64 @@ def getManifest(path):
            # Extract a single file from zip
                 #zipObj.extract(fileName, 'temp_csv')
 
+def metaFromWebsite(appID):
+    URL = "https://play.google.com/store/apps/details?id="+appID+"&hl=en_AU"
+    page = requests.get(URL)
+    #print("PAGE")
+    #print(page.text)
+    soup = BeautifulSoup(page.content, 'html.parser')
+    #soup.prettify()
+    #File_URL = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\webText\web.txt"
+    #File_object = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\webText\web.txt","wb")
+    #print(soup)
+    #test = soup.find('div',attrs={"class":"hAyfc"})
+    #print(test)
+    result = [e.get_text(separator=" ").strip() for e in soup.find_all("div",{"class":"hAyfc"})]
+    rating = soup.find("div",{"class":"BHMmbe"}).get_text(separator=" ").strip()
+    description = soup.find("div",{"class":"DWPxHb"}).get_text(separator=" ").strip()
+
+    Meta = []
+
+    Meta.append(result)
+    Meta.append(rating)
+    Meta.append(description)
+
+    return Meta
+    #print(result)
+    #print(rating)
+    #print(description)
+    #print("SPACES")
+
+
+    #File_object.write(str(soup.html.encode('utf8')))
+
+    with open(File_URL, 'w', encoding='utf-8') as f_out:
+        f_out.write(soup.prettify())
+    #File_object.write(page.text.encode('utf-8'))
+    #test = soup.xpath("//div[@itemprop='numDownloads']/text()").extract_first().strip()
+    #print("SOUP")
+    #print(soup)
+    #results = soup.find(id='htlgb')
+    print("REEEESSSSSSSSSULLLLTTSS")
+    #print(results)
+
+def makeCertificateFile(appID):
+    apkFolder = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads",appID)
+    CertFolder = os.path.join(apkFolder,   r"original\META-INF")
+    CertFile = r"original\META-INF\%sCertFile.txt" %(appID)
+    apkCertFile = os.path.join(apkFolder, CertFile)
+    certificateFolder = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\certificate"
+    os.chdir(CertFolder)
+    systemString = "openssl pkcs7 -inform DER -in CERT.RSA -out "+appID+"CertFile.txt  -print_certs -text"
+    os.system(systemString)
+    shutil.copy(apkCertFile, certificateFolder)
+    #os.chdir(apkFolder)
+
+
 
 class APKAnalysis():
-    def __init__(self, name="", fileSize="", VTmd5="", VTmsg="", VTpermalink="", VTresource="", VTresponsecode="", VTscanID="", VTsha1="", VTsha256="", permissions = ""):
+    def __init__(self, name="", fileSize="", VTmd5="", VTmsg="", VTpermalink="", VTresource="", VTresponsecode="", VTscanID="",
+    VTsha1="", VTsha256="", permissions = "", metaData ="", rating="", description=""):
         self.name = name
         self.fileSize = fileSize
         self.VTmd5 = VTmd5
@@ -65,3 +127,6 @@ class APKAnalysis():
         self.VTsha1 = VTsha1
         self.VTsha256 = VTsha256
         self.permissions = permissions
+        self.metaData = metaData
+        self.rating = rating
+        self.description = description

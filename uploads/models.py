@@ -17,6 +17,7 @@ class Link(models.Model):
     VT_sha256 = models.CharField(max_length=100, blank=True, null=True)
     VT_md5 = models.CharField(max_length=100, blank=True, null=True)
     jsonFile = models.FileField(blank = True, null = True)
+    #rating = models.CharField(max_length=10, blank=True, null=True)
 
     def __str__(self):
         return self.link_text

@@ -11,10 +11,16 @@ from .trackinglibraries import *
 import json
 import mimetypes
 import shutil
+import subprocess
 from .apk import *
 from .apk_decompiler import *
 from os import chdir, system
 from django.contrib.auth.decorators import login_required
+import sys
+from io import BytesIO
+from .certificate_Functions import *
+from OpenSSL import SSL
+#from apkutils import
 
 
 jsonClass = APKAnalysis()
@@ -79,7 +85,8 @@ def results(request):
 
             print("apkPathold: "+apkPATHold)
             print("apk FOLDER: "+apkFolder)
-            shutil.move(apkPATHold, apkFolder) #this needs to be fixed, fifx it so the APK is downloaded to the correct folder straight away
+
+            #shutil.move(apkPATHold, apkFolder) #this needs to be fixed, fifx it so the APK is downloaded to the correct folder straight away
             #shutil.copy(apkPATH, zipPATH)
             #getManifest(zipPATH)
             print("NNNNNNNNNNNNNNNNNOOOOOOOOOOOOOOOOO")
@@ -87,10 +94,19 @@ def results(request):
 
             os.system("cd "+apkFolderCD)
             os.system("apktool d "+apkCode+".apk ./"+apkCode+".apk")
+
+            '''    orig_stdout, sys.stdout = sys.stdout, BytesIO()
+
+            output = sys.stdout.getvalue()
+
+            print("OUTPUT BELOW")
+            print(output)
             os.system("a")
-
-
+            output = sys.stdout.getvalue()
+            print("OUTPUT: "+output)
+            '''
             thesePermissions = permissionsFromXML(manifestPath)
+            metaInformation = metaFromWebsite(apkCode)
 
             print("these permissions")
             print(thesePermissions)
@@ -114,6 +130,10 @@ def results(request):
             instance.VT_sha256 = k[6]
             instance.VT_md5 = k[7]
             instance.permissions = thesePermissions
+            instance.metaData = metaInformation[0]
+            instance.rating = metaInformation[1]
+            instance.description = metaInformation[2]
+
             jsonClass.name = apkCode
             jsonClass.fileSize = APKfilesize
             jsonClass.VTpermalink = k[0]
@@ -125,6 +145,9 @@ def results(request):
             jsonClass.VTsha256 = k[6]
             jsonClass.VTmd5 = k[7]
             jsonClass.permissions = thesePermissions
+            jsonClass.metaData = metaInformation[0]
+            jsonClass.rating = metaInformation[1]
+            jsonClass.description = metaInformation[2]
 
 
             serialJSON = jsonClass.__dict__
@@ -132,10 +155,9 @@ def results(request):
 
             jsonFile = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder\json.txt", "w")
             json.dump(serialJSON, jsonFile, indent = 2)
-
-
             instance.save()
             print("FORM IS VALID")
+
             return redirect('uploads:results')
     else:
         form = forms.CreateLink()
@@ -146,5 +168,7 @@ def vote(request, link_id):
 
 @login_required(login_url="/account/login")
 def uploadHere(request):
+    #metaFromWebsite()
     form = forms.CreateLink()
+    makeCertificateFile("menloseweight.loseweightappformen.weightlossformen")
     return render(request, 'uploads/uploads.html', {'form':form})
