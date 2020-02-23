@@ -50,12 +50,29 @@ def detail(request):
     return render(request, 'uploads/detail.html', {'link': link})
 
 
-def download_file(request):
+def download_JSONfile(request):
+    val = request.POST.get('appCode', False);
+    appID = val+"JSONFile.txt"
 
-    fl_path = r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder\json.txt'
+    fl_path = os.path.join(r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder', appID)
     filename = 'json.txt'
     fl = open(fl_path, 'r')
     print(fl)
+    print("ARE WE HERE")
+    mime_type, _ = mimetypes.guess_type(fl_path)
+    response = HttpResponse(fl, content_type=mime_type)
+    response['Content-Disposition'] = "attachment; filename=%s" % filename
+    return response
+
+def download_Certfile(request):
+
+    val = request.POST.get('appCode', False);
+    appID = val+"CertFile.txt"
+    fl_path = os.path.join(r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\certificate', appID)
+    filename = appID
+
+    fl = open(fl_path, 'r')
+    #print(fl)
     mime_type, _ = mimetypes.guess_type(fl_path)
     response = HttpResponse(fl, content_type=mime_type)
     response['Content-Disposition'] = "attachment; filename=%s" % filename
@@ -71,7 +88,10 @@ def results(request):
             instance = form.save(commit=False)
             apkCode = instance.link_text
             instance.author = request.user
+
             download_apk(instance.link_text)
+
+
             apkPATHold = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite", apkCode+".apk")
             apkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".apk")
             zipPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".zip")
@@ -86,7 +106,7 @@ def results(request):
             print("apkPathold: "+apkPATHold)
             print("apk FOLDER: "+apkFolder)
 
-            #shutil.move(apkPATHold, apkFolder) #this needs to be fixed, fifx it so the APK is downloaded to the correct folder straight away
+            shutil.move(apkPATHold, apkFolder) #this needs to be fixed, fifx it so the APK is downloaded to the correct folder straight away
             #shutil.copy(apkPATH, zipPATH)
             #getManifest(zipPATH)
             print("NNNNNNNNNNNNNNNNNOOOOOOOOOOOOOOOOO")
@@ -95,16 +115,7 @@ def results(request):
             os.system("cd "+apkFolderCD)
             os.system("apktool d "+apkCode+".apk ./"+apkCode+".apk")
 
-            '''    orig_stdout, sys.stdout = sys.stdout, BytesIO()
 
-            output = sys.stdout.getvalue()
-
-            print("OUTPUT BELOW")
-            print(output)
-            os.system("a")
-            output = sys.stdout.getvalue()
-            print("OUTPUT: "+output)
-            '''
             thesePermissions = permissionsFromXML(manifestPath)
             metaInformation = metaFromWebsite(apkCode)
 
@@ -153,12 +164,18 @@ def results(request):
             serialJSON = jsonClass.__dict__
             print(serialJSON)
 
-            jsonFile = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder\json.txt", "w")
+            jsonPath = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder", apkCode+"JSONFile.txt")
+            jsonFile = open(jsonPath, "w")
             json.dump(serialJSON, jsonFile, indent = 2)
             instance.save()
             print("FORM IS VALID")
+            makeCertificateFile(apkCode)
 
-            return redirect('uploads:results')
+
+
+            dictionary = {'appID':apkCode}
+            #return redirect('uploads:results')
+            return render(request,'uploads/detail.html', dictionary)
     else:
         form = forms.CreateLink()
     return render(request, 'uploads/detail.html', {'form':form} )
@@ -170,5 +187,5 @@ def vote(request, link_id):
 def uploadHere(request):
     #metaFromWebsite()
     form = forms.CreateLink()
-    makeCertificateFile("menloseweight.loseweightappformen.weightlossformen")
+
     return render(request, 'uploads/uploads.html', {'form':form})

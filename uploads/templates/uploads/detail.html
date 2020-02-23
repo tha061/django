@@ -1,8 +1,19 @@
-<h1>Your json file is available for download here</h1>
+<h1>Your {{appID}} file is available for download here</h1>
+
 <body>
-<form class = "site-form" action="{% url 'uploads:download_file' %}" method = "post">
+<form class = "site-form" action="{% url 'uploads:download_JSONfile' %}" method = "post">
   {% csrf_token %}
-  
+  <input type = "hidden" name="appCode" value={{appID}}>
+
+  <input type = "submit" value = "Download">
+</form>
+</body>
+<h1>Your Certificate file can be downloaded here </h1>
+<body>
+<form class = "site-form" action="{% url 'uploads:download_Certfile' %}" method = "post">
+  {% csrf_token %}
+  <input type = "hidden" name="appCode" value={{appID}}>
+
   <input type = "submit" value = "Download">
 </form>
 </body>
