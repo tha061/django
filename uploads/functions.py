@@ -6,14 +6,16 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 import shutil
-#test
+
+
+
 
 
 
 def returnZ(str):
     return str[0]
 
-def permissionsFromXML(manifestPATH):
+def usesPermissionsFromXML(manifestPATH):
     permissionList = []
     root = ET.parse(manifestPATH).getroot()
     permissions = root.findall("uses-permission")
@@ -22,6 +24,49 @@ def permissionsFromXML(manifestPATH):
         for att in perm.attrib:
             permissionList.append(perm.attrib[att])
             #print("{}\t:\t{}\n".format(att, perm.attrib[att]))
+    return permissionList
+
+def permissionsFromXML(manifestPATH):
+    permissionList = []
+    root = ET.parse(manifestPATH).getroot()
+    permissions = root.findall("permission")
+
+    for perm in permissions:
+        print("new perm: ")
+        concat = ""
+        for att in perm.attrib:
+
+            #position = att.rfind("}")
+            splitAtt = att.split("}")
+            cleanAtt = splitAtt[1]
+
+            concat = concat + "   "+ cleanAtt + ": " +perm.attrib[att]
+            #print("{}\t:\t{}\n".format(att, perm.attrib[att]))
+        print("final concat")
+        print(concat)
+        permissionList.append(concat)
+    return permissionList
+
+def servicesFromXML(manifestPATH):
+    print("In services from XML function")
+    permissionList = []
+    root = ET.parse(manifestPATH).getroot()
+    permissions = root.findall("service")
+
+    for perm in permissions:
+        print("new perm: ")
+        concat = ""
+        for att in perm.attrib:
+
+            #position = att.rfind("}")
+            splitAtt = att.split("}")
+            cleanAtt = splitAtt[1]
+
+            concat = concat + "   "+ cleanAtt + ": " +perm.attrib[att]
+            #print("{}\t:\t{}\n".format(att, perm.attrib[att]))
+        print("final concat")
+        print(concat)
+        permissionList.append(concat)
     return permissionList
 
 def download_apk(package, version_code, output_path):
@@ -115,7 +160,7 @@ def makeCertificateFile(appID):
 
 class APKAnalysis():
     def __init__(self, name="", fileSize="", VTmd5="", VTmsg="", VTpermalink="", VTresource="", VTresponsecode="", VTscanID="",
-    VTsha1="", VTsha256="", permissions = "", metaData ="", rating="", description=""):
+    VTsha1="", VTsha256="",usesPermissions = "", permissions = "", metaData ="", rating="", description="", service=""):
         self.name = name
         self.fileSize = fileSize
         self.VTmd5 = VTmd5
@@ -126,7 +171,9 @@ class APKAnalysis():
         self.VTscanID = VTscanID
         self.VTsha1 = VTsha1
         self.VTsha256 = VTsha256
+        self.usesPermissions = usesPermissions
         self.permissions = permissions
+        self.service = service
         self.metaData = metaData
         self.rating = rating
         self.description = description

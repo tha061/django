@@ -20,6 +20,8 @@ import sys
 from io import BytesIO
 from .certificate_Functions import *
 from OpenSSL import SSL
+#from com.android.monkeyrunner import MonkeyRunner, MonkeyDevice
+
 #from apkutils import
 
 
@@ -40,6 +42,12 @@ print(jsonClass.__dict__)
 #download_apk('menloseweight.loseweightappformen.weightlossformen', '1.0.8', r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\APKdump')
 #print(app)
 # Create your views here.
+
+def emulator(request):
+    #device = MonkeyRunner.waitForConnection()
+    #print(device)
+    return render(request, 'uploads/emulator.html')
+
 def index(request):
     latest_link_list = Link.objects.order_by('-pub_date')[:5]
     context = {'latest_link_list': latest_link_list}
@@ -89,7 +97,7 @@ def results(request):
             apkCode = instance.link_text
             instance.author = request.user
 
-            download_apk(instance.link_text)
+
 
 
             apkPATHold = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite", apkCode+".apk")
@@ -98,15 +106,21 @@ def results(request):
             apkFolder = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads"
             apkFolderCD = r"Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownload"
             manifestPath  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\AndroidManifest.xml"%apkCode
+
+           #    print(permissionsFromXML(manifestPath))
+            serviceList = servicesFromXML(manifestPath)
             try:
                 os.remove(apkPATH)
             except:
                 print("nothing to remove")
 
+            os.chdir(apkFolder)
+            download_apk(instance.link_text)
+
             print("apkPathold: "+apkPATHold)
             print("apk FOLDER: "+apkFolder)
 
-            shutil.move(apkPATHold, apkFolder) #this needs to be fixed, fifx it so the APK is downloaded to the correct folder straight away
+            #shutil.move(apkPATHold, apkFolder) #this needs to be fixed, fifx it so the APK is downloaded to the correct folder straight away
             #shutil.copy(apkPATH, zipPATH)
             #getManifest(zipPATH)
             print("NNNNNNNNNNNNNNNNNOOOOOOOOOOOOOOOOO")
@@ -116,11 +130,12 @@ def results(request):
             os.system("apktool d "+apkCode+".apk ./"+apkCode+".apk")
 
 
+            theseUsesPermissions = usesPermissionsFromXML(manifestPath)
             thesePermissions = permissionsFromXML(manifestPath)
             metaInformation = metaFromWebsite(apkCode)
+            serviceList = servicesFromXML(manifestPath)
 
-            print("these permissions")
-            print(thesePermissions)
+
 
             print(file_size(apkPATH))
             APKfilesize = file_size(apkPATH)
@@ -140,7 +155,8 @@ def results(request):
             instance.VT_msg  = k[5]
             instance.VT_sha256 = k[6]
             instance.VT_md5 = k[7]
-            instance.permissions = thesePermissions
+            #jsonClass.permissions = thesePermissions
+            #jsonClass.usesPermissions = theseUsesPermissions
             instance.metaData = metaInformation[0]
             instance.rating = metaInformation[1]
             instance.description = metaInformation[2]
@@ -156,6 +172,8 @@ def results(request):
             jsonClass.VTsha256 = k[6]
             jsonClass.VTmd5 = k[7]
             jsonClass.permissions = thesePermissions
+            jsonClass.usesPermissions = theseUsesPermissions
+            jsonClass.service = serviceList
             jsonClass.metaData = metaInformation[0]
             jsonClass.rating = metaInformation[1]
             jsonClass.description = metaInformation[2]
@@ -170,7 +188,6 @@ def results(request):
             instance.save()
             print("FORM IS VALID")
             makeCertificateFile(apkCode)
-
 
 
             dictionary = {'appID':apkCode}
