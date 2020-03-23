@@ -8,12 +8,89 @@ import requests
 import shutil
 
 
-
-
-
-
 def returnZ(str):
     return str[0]
+
+def getLibrariesDirectories(app_id):
+
+    path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\smali"%app_id
+    apps_libraries = {}
+
+    libraries = []
+
+    #print(os.walk(path))
+    for path,subdir,files in os.walk(path):
+       #print(path)
+      # print(files)
+       for name in subdir:
+           #print(os.path.join(path,name)) # will print path of directories
+           libraries.append(name)
+       #break        "include the break if you only want the first layer"
+       #for name in files:
+        #   print(os.path.join(path,name)) # will print path of files
+    #print("library")
+    #print(libraries)
+    return libraries
+
+def getLibrariesSmali(app_id):
+
+    path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\smali"%app_id
+    apps_libraries = {}
+
+    libraries = []
+
+    #print(os.walk(path))
+    for path,subdir,files in os.walk(path):
+       #print(path)
+       #print(files)
+
+       for name in files:
+           #print(os.path.join(path,name)) # will print path of files
+           libraries.append(name)
+    #print("library")
+    #print(libraries)
+    return libraries
+
+
+def getLibraries2(app_id):
+    smali_path  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s"%app_id
+    #print("SMALLLIII")
+    #print(smaliPath)
+    base_path = r"\smali"
+    #print("directory")
+    os.chdir(smali_path)
+    #print(os.getcwd())
+    apps_libraries = {}
+
+    libraries = []
+    try:
+        print(os.walk(base_path))
+        for item in os.walk(base_path).next()[1]:
+            if len(os.walk(base_path+"/%s"%item).next()[1]) == 0:
+                libraries.append(item)
+            for x in os.walk(base_path+"/%s"%item).next()[1]:
+                libraries.append(item+"/"+x)
+    except:
+        pass
+
+    apps_libraries.update({app_id:libraries})
+    #print("apps libraries")
+    #print(apps_libraries)
+    return app_id, apps_libraries
+
+
+def usesLibraryFromXML(manifestPATH):
+    permissionList = []
+    root = ET.parse(manifestPATH).getroot()
+    permissions = root.findall("uses-library")
+    #print("permissions: ")
+    #print(permissions)
+    for perm in permissions:
+
+        for att in perm.attrib:
+            permissionList.append(perm.attrib[att])
+            #print("{}\t:\t{}\n".format(att, perm.attrib[att]))
+    return permissionList
 
 def usesPermissionsFromXML(manifestPATH):
     permissionList = []
@@ -48,26 +125,43 @@ def permissionsFromXML(manifestPATH):
     return permissionList
 
 def servicesFromXML(manifestPATH):
-    print("In services from XML function")
-    permissionList = []
-    root = ET.parse(manifestPATH).getroot()
-    permissions = root.findall("service")
 
-    for perm in permissions:
-        print("new perm: ")
-        concat = ""
-        for att in perm.attrib:
+    base_path = manifestPATH
 
-            #position = att.rfind("}")
-            splitAtt = att.split("}")
-            cleanAtt = splitAtt[1]
+    soup = BeautifulSoup(open(base_path, "rb").read(), "lxml")
 
-            concat = concat + "   "+ cleanAtt + ": " +perm.attrib[att]
-            #print("{}\t:\t{}\n".format(att, perm.attrib[att]))
-        print("final concat")
-        print(concat)
-        permissionList.append(concat)
-    return permissionList
+    apps_all_features = {}
+    feature_list = []
+
+
+    apps_all_permissions = {}
+    perm_list = []
+    for x in soup.findAll('service'):
+        print(x)
+        try:
+            name = x.attrs['android:name']
+        except:
+            pass
+
+        try:
+            permission = x.attrs['android:permission']
+        except:
+            pass
+
+        nameAndPerm =  "name: "+ name+ "  permission: "+permission
+        try:
+            perm_list.append(nameAndPerm)
+        except:
+            pass
+        name = ""
+        permission =""
+        nameAndPerm =""
+
+
+    app_id = "Service and Permissions"
+    apps_all_permissions.update({app_id:perm_list})
+
+    return apps_all_permissions
 
 def download_apk(package, version_code, output_path):
     """
@@ -92,7 +186,7 @@ def getManifest(path):
     with ZipFile(path, 'r') as zipObj:
    # Get a list of all archived file names from the zip
         listOfFileNames = zipObj.namelist()
-        print(listOfFileNames)
+        #print(listOfFileNames)
         print("REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
 
         zipObj.extract("AndroidManifest.xml", r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads")
@@ -141,7 +235,7 @@ def metaFromWebsite(appID):
     #print("SOUP")
     #print(soup)
     #results = soup.find(id='htlgb')
-    print("REEEESSSSSSSSSULLLLTTSS")
+    #print("REEEESSSSSSSSSULLLLTTSS")
     #print(results)
 
 def makeCertificateFile(appID):

@@ -6,6 +6,7 @@ from .functions import *
 from .searching_mobile_apps_ids0 import *
 from .playStore import *
 from .download_apk import *
+from .adbFunctions import *
 #from googleplay_api.googleplay import GooglePlayAPI
 from .trackinglibraries import *
 import json
@@ -20,6 +21,7 @@ import sys
 from io import BytesIO
 from .certificate_Functions import *
 from OpenSSL import SSL
+import time
 #from com.android.monkeyrunner import MonkeyRunner, MonkeyDevice
 
 #from apkutils import
@@ -44,9 +46,28 @@ print(jsonClass.__dict__)
 # Create your views here.
 
 def emulator(request):
+    openEmulator()
+
+    a  = os.popen("adb devices").readlines()
+    device = ""
+    time.sleep(5)
+    try:
+        device = a[1]
+    except:
+        device = "No device attached"
+
+    print("Monkey")
+    monkeyCMD()
+
+
+    print("install app")
+    installApp()
+
+
     #device = MonkeyRunner.waitForConnection()
     #print(device)
-    return render(request, 'uploads/emulator.html')
+
+    return render(request, 'uploads/emulator.html', {'appID': device} )
 
 def index(request):
     latest_link_list = Link.objects.order_by('-pub_date')[:5]
@@ -65,7 +86,7 @@ def download_JSONfile(request):
     fl_path = os.path.join(r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder', appID)
     filename = 'json.txt'
     fl = open(fl_path, 'r')
-    print(fl)
+    #print(fl)
     print("ARE WE HERE")
     mime_type, _ = mimetypes.guess_type(fl_path)
     response = HttpResponse(fl, content_type=mime_type)
@@ -97,9 +118,6 @@ def results(request):
             apkCode = instance.link_text
             instance.author = request.user
 
-
-
-
             apkPATHold = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite", apkCode+".apk")
             apkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".apk")
             zipPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".zip")
@@ -108,7 +126,7 @@ def results(request):
             manifestPath  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\AndroidManifest.xml"%apkCode
 
            #    print(permissionsFromXML(manifestPath))
-            serviceList = servicesFromXML(manifestPath)
+
             try:
                 os.remove(apkPATH)
             except:
@@ -128,6 +146,8 @@ def results(request):
 
             os.system("cd "+apkFolderCD)
             os.system("apktool d "+apkCode+".apk ./"+apkCode+".apk")
+            time.sleep(10)
+            print("Sleep done")
 
 
             theseUsesPermissions = usesPermissionsFromXML(manifestPath)
@@ -146,6 +166,9 @@ def results(request):
             k  = vt_scan(apkCode)
             print("VT Scan is here")
             print(k)
+
+            smaliDirectory = getLibrariesDirectories(apkCode)
+            smaliFiles = getLibrariesSmali(apkCode)
 
             instance.VT_permallink = k[0]
             instance.VT_sha1 = k[1]
@@ -177,10 +200,12 @@ def results(request):
             jsonClass.metaData = metaInformation[0]
             jsonClass.rating = metaInformation[1]
             jsonClass.description = metaInformation[2]
+            jsonClass.smali_Directories = smaliDirectory
+            jsonClass.smali_Files = smaliFiles
 
 
             serialJSON = jsonClass.__dict__
-            print(serialJSON)
+            #print(serialJSON)
 
             jsonPath = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder", apkCode+"JSONFile.txt")
             jsonFile = open(jsonPath, "w")
@@ -204,5 +229,8 @@ def vote(request, link_id):
 def uploadHere(request):
     #metaFromWebsite()
     form = forms.CreateLink()
+    apkCode = "menloseweight.loseweightappformen.weightlossformen"
 
+    #manifestPath  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\AndroidManifest.xml"%apkCode
+    #print(usesLibraryFromXML(manifestPath))
     return render(request, 'uploads/uploads.html', {'form':form})

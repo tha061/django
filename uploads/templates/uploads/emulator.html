@@ -1,11 +1,6 @@
-<h2>What is the code for your APK?</h2>
+<h2>Emulator Information</h2>
 
 <body>
-<form class = "site-form" action="{% url 'uploads:results' %}" method = "post">
-  {% csrf_token %}
-  {{form}}
-  <input type = "submit" value = "Analyse">
-</form>
+<h1>Device: {{appID}}</h1>
 <text> Analysis will take a few minutes, please be patient... </text>
 </body>
-</form>
