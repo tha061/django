@@ -46,8 +46,21 @@ print(jsonClass.__dict__)
 # Create your views here.
 
 def emulator(request):
-    openEmulator()
+    monkeyCMD()
 
+
+
+    device = "reee"
+
+
+    #device = MonkeyRunner.waitForConnection()
+    #print(device)
+
+
+    return render(request, 'uploads/emulator.html', {'appID': device} )
+
+
+    '''
     a  = os.popen("adb devices").readlines()
     device = ""
     time.sleep(5)
@@ -56,20 +69,31 @@ def emulator(request):
     except:
         device = "No device attached"
 
-    print("Monkey")
-    monkeyCMD()
 
+        os.system("from com.android.monkeyrunner import MonkeyRunner, MonkeyDevice")
+        os.system("device = MonkeyRunner.waitForConnection()")
 
-    print("install app")
-    installApp()
+        print("Opening Emulator")
+        openEmulator()
+        print("emulator Opened")
 
+        a  = os.popen("adb devices").readlines()
+        device = ""
+        time.sleep(5)
+        try:
+            device = a[1]
+        except:
+            device = "No device attached"
 
-    #device = MonkeyRunner.waitForConnection()
-    #print(device)
+        print("install app")
+        installApp("com.daystrom.fbattery")
 
-    return render(request, 'uploads/emulator.html', {'appID': device} )
+        print("Monkey")
+        monkeyCMD()
+    '''
 
 def index(request):
+
     latest_link_list = Link.objects.order_by('-pub_date')[:5]
     context = {'latest_link_list': latest_link_list}
     return render(request, 'uploads/index.html', context)
@@ -146,8 +170,8 @@ def results(request):
 
             os.system("cd "+apkFolderCD)
             os.system("apktool d "+apkCode+".apk ./"+apkCode+".apk")
-            time.sleep(10)
-            print("Sleep done")
+            #time.sleep(10)
+            #print("Sleep done")
 
 
             theseUsesPermissions = usesPermissionsFromXML(manifestPath)
@@ -201,7 +225,7 @@ def results(request):
             jsonClass.rating = metaInformation[1]
             jsonClass.description = metaInformation[2]
             jsonClass.smali_Directories = smaliDirectory
-            jsonClass.smali_Files = smaliFiles
+
 
 
             serialJSON = jsonClass.__dict__
@@ -228,6 +252,7 @@ def vote(request, link_id):
 @login_required(login_url="/account/login")
 def uploadHere(request):
     #metaFromWebsite()
+    #getPermissionLevels()
     form = forms.CreateLink()
     apkCode = "menloseweight.loseweightappformen.weightlossformen"
 

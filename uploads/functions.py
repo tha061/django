@@ -8,6 +8,10 @@ import requests
 import shutil
 
 
+
+
+
+
 def returnZ(str):
     return str[0]
 
@@ -93,7 +97,9 @@ def usesLibraryFromXML(manifestPATH):
     return permissionList
 
 def usesPermissionsFromXML(manifestPATH):
+
     permissionList = []
+    permissionListLevel = []
     root = ET.parse(manifestPATH).getroot()
     permissions = root.findall("uses-permission")
 
@@ -101,7 +107,22 @@ def usesPermissionsFromXML(manifestPATH):
         for att in perm.attrib:
             permissionList.append(perm.attrib[att])
             #print("{}\t:\t{}\n".format(att, perm.attrib[att]))
-    return permissionList
+
+    diction = getPermissionLevels()
+    for perm in permissionList:
+        finalPerm = perm.rfind(".")
+        print(perm)
+        print(finalPerm)
+        print(perm[1+finalPerm:])
+        actualPermission = perm[1+finalPerm:]
+        print(diction)
+
+        if actualPermission in diction:
+            new = perm+" Protection Level: "+diction[actualPermission]
+        else:
+            new = perm+" Protection Level: Not A Permission"
+        permissionListLevel.append(new)
+    return permissionListLevel
 
 def permissionsFromXML(manifestPATH):
     permissionList = []
@@ -136,8 +157,10 @@ def servicesFromXML(manifestPATH):
 
     apps_all_permissions = {}
     perm_list = []
+
     for x in soup.findAll('service'):
         print(x)
+        permission = ""
         try:
             name = x.attrs['android:name']
         except:
@@ -197,12 +220,70 @@ def getManifest(path):
            # Extract a single file from zip
                 #zipObj.extract(fileName, 'temp_csv')
 
+
+
+def getPermissionLevels():
+    print("LEVELS")
+    URL = "https://developer.android.com/reference/android/Manifest.permission"
+    page = requests.get(URL)
+    soup = BeautifulSoup(page.content, 'html.parser')
+
+
+    #print("PAGE")
+    #print(page.text)
+    soup = BeautifulSoup(page.content, 'html.parser')
+    result = soup.find_all("div",{"data-version-added":True})
+    #print(result)
+    print(len(result))
+    #print(result[0])
+    print(result[1])
+    permissionName = []
+    ApiLevel = []
+    permissionLevel = []
+    #test = result[1].find("a",{"href": "/guide/topics/manifest/uses-sdk-element#ApiLevels"}).get_text(separator=" ").strip()
+
+
+    for x in range(len(result)):
+        permissionName.append(result[x].find("h3",{"class": "api-name"}).get_text(separator=" ").strip()) #gets permission name
+
+        test = result[x].find("p").get_text(separator=" ").strip()    #if statement gets protectional level
+        if(test.find("Protection level: ") != -1):
+            position = test.find("Protection level: ")+18
+            gap = test.find(" ",position+1)
+
+            word = test[position:gap]
+            word.replace(r"\n", "") #html file contains \n, removes \n
+
+
+            if(gap == -1):  #if statement fixes issue about not including last char of string
+                permissionLevel.append(word+test[gap])
+            else:
+
+                permissionLevel.append(word)
+
+
+
+
+        else:
+            permissionLevel.append("N/A")
+
+        #ApiLevel.append(result[x].find("a",{"href": "/guide/topics/manifest/uses-sdk-element#ApiLevels"}).get_text(separator=" ").strip())
+        #print(ApiLevel)
+    #print(len(permissionLevel))
+    #print(permissionLevel)
+    dictionary = dict(zip(permissionName, permissionLevel))  #returns a dictionary too look up permissions and it will tell you their level
+    return dictionary
+
+
+
 def metaFromWebsite(appID):
     URL = "https://play.google.com/store/apps/details?id="+appID+"&hl=en_AU"
     page = requests.get(URL)
     #print("PAGE")
     #print(page.text)
     soup = BeautifulSoup(page.content, 'html.parser')
+
+
     #soup.prettify()
     #File_URL = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\webText\web.txt"
     #File_object = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\webText\web.txt","wb")

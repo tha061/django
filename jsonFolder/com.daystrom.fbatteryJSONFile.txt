@@ -1,0 +1,55 @@
+{
+  "name": "com.daystrom.fbattery",
+  "fileSize": "169.7 KB",
+  "VTmd5": "f821e4c24197db3df5023417412fc2ee",
+  "VTmsg": "Scan request successfully queued, come back later for the report",
+  "VTpermalink": "https://www.virustotal.com/file/f001d6bf977dd54f0e9983f5e3a4559c631aa9ffa0369be901d9561fe42b91b2/analysis/1585006870/",
+  "VTresource": "f001d6bf977dd54f0e9983f5e3a4559c631aa9ffa0369be901d9561fe42b91b2",
+  "VTresponsecode": 1,
+  "VTscanID": "f001d6bf977dd54f0e9983f5e3a4559c631aa9ffa0369be901d9561fe42b91b2-1585006870",
+  "VTsha1": "9ca82c6215ab13ecf74ef3f2a0ced484391018ec",
+  "VTsha256": "f001d6bf977dd54f0e9983f5e3a4559c631aa9ffa0369be901d9561fe42b91b2",
+  "usesPermissions": [],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": [
+    "Updated 12 December 2010",
+    "Size 170k",
+    "Installs 100,000+",
+    "Current Version 1.04",
+    "Requires Android 1.6 and up",
+    "Content Rating Everyone Learn More",
+    "Permission View details",
+    "Report Flag as inappropriate",
+    "Offered By Daystrom",
+    "Developer Visit website rdaystrom@gmail.com Privacy Policy"
+  ],
+  "rating": "3.4",
+  "description": "Fake Battery simulate the low level battery screen. Useful to avoid to give your phone to someone else ;) It's just a set of combined images, if you don't like it please avoid irritating comments and don't install the app! Features and setting: press *MENU* button and visit developer web site.",
+  "smali_Directories": [
+    "com",
+    "daystrom",
+    "fbattery"
+  ],
+  "smali_Files": [
+    "AboutActivity$1.smali",
+    "AboutActivity.smali",
+    "EditPreferences.smali",
+    "FakeBattery$1.smali",
+    "FakeBattery$2.smali",
+    "FakeBattery.smali",
+    "FastBitmapDrawable.smali",
+    "R$array.smali",
+    "R$attr.smali",
+    "R$color.smali",
+    "R$drawable.smali",
+    "R$id.smali",
+    "R$layout.smali",
+    "R$string.smali",
+    "R$xml.smali",
+    "R.smali",
+    "ScreenShot.smali"
+  ]
+}

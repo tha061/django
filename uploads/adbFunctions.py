@@ -4,7 +4,7 @@ from os import chdir, system
 
 
 def openEmulator():
-    AVD = "Pixel-3-API-29"
+    AVD = "Pixel_3_API"
     os.system("emulator -avd "+AVD)
 
 def installApp(appID):
@@ -15,5 +15,6 @@ def installApp(appID):
 def monkeyCMD():
     binPath = r"C:\Users\jake_\AppData\Local\Android\Sdk\tools\bin"
     os.chdir(binPath)
-    os.system("monkeyrunner.bat")
+    os.chdir(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\uploads")
+    os.system("monkeyrunner monkeyscript.py")
     #os.system()
