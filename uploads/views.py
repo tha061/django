@@ -3,7 +3,7 @@ from django.http import HttpResponse
 from .models import Link
 from . import forms
 from .functions import *
-from .searching_mobile_apps_ids0 import *
+#from .searching_mobile_apps_ids0 import *
 from .playStore import *
 from .download_apk import *
 from .adbFunctions import *
@@ -28,35 +28,14 @@ import time
 
 
 jsonClass = APKAnalysis()
-jsonClass.VTsha1 = "Test"
-print(jsonClass.name)
-print(jsonClass.VTsha256)
-print(jsonClass.VTsha1)
-print(jsonClass.__dict__)
 
 
-#print(file_size(r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\menloseweight.loseweightappformen.weightlossformen.apk'))
-#k = vt_scan('walking.weightloss.walk.tracker')
 
 
-#get_app_metainfo('menloseweight.loseweightappformen.weightlossformen.apk')
-
-#download_apk('menloseweight.loseweightappformen.weightlossformen', '1.0.8', r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\APKdump')
-#print(app)
-# Create your views here.
 
 def emulator(request):
     monkeyCMD()
-
-
-
     device = "reee"
-
-
-    #device = MonkeyRunner.waitForConnection()
-    #print(device)
-
-
     return render(request, 'uploads/emulator.html', {'appID': device} )
 
 
@@ -110,8 +89,8 @@ def download_JSONfile(request):
     fl_path = os.path.join(r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder', appID)
     filename = 'json.txt'
     fl = open(fl_path, 'r')
-    #print(fl)
-    print("ARE WE HERE")
+
+
     mime_type, _ = mimetypes.guess_type(fl_path)
     response = HttpResponse(fl, content_type=mime_type)
     response['Content-Disposition'] = "attachment; filename=%s" % filename
@@ -148,8 +127,8 @@ def results(request):
             apkFolder = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads"
             apkFolderCD = r"Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownload"
             manifestPath  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\AndroidManifest.xml"%apkCode
+            certificatePath = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\original\META-INF\CERT.RSA"%apkCode
 
-           #    print(permissionsFromXML(manifestPath))
 
             try:
                 os.remove(apkPATH)
@@ -159,41 +138,36 @@ def results(request):
             os.chdir(apkFolder)
             download_apk(instance.link_text)
 
-            print("apkPathold: "+apkPATHold)
-            print("apk FOLDER: "+apkFolder)
-
-            #shutil.move(apkPATHold, apkFolder) #this needs to be fixed, fifx it so the APK is downloaded to the correct folder straight away
-            #shutil.copy(apkPATH, zipPATH)
-            #getManifest(zipPATH)
-            print("NNNNNNNNNNNNNNNNNOOOOOOOOOOOOOOOOO")
-            os.chdir(apkFolder)
-
-            os.system("cd "+apkFolderCD)
-            os.system("apktool d "+apkCode+".apk ./"+apkCode+".apk")
-            #time.sleep(10)
-            #print("Sleep done")
 
 
-            theseUsesPermissions = usesPermissionsFromXML(manifestPath)
-            thesePermissions = permissionsFromXML(manifestPath)
-            metaInformation = metaFromWebsite(apkCode)
-            serviceList = servicesFromXML(manifestPath)
+            decompileAPK(apkCode, apkFolder, apkFolderCD)  #decompiles APK using apktool
+
+            if(os.path.exists(manifestPath)):
+                theseUsesPermissions = usesPermissionsFromXML(manifestPath) #collects permissions
+                thesePermissions = permissionsFromXML(manifestPath) #collections permissions
+                serviceList = servicesFromXML(manifestPath) #collects service permissions
+            else:
+                theseUsesPermissions = "Can't decompile properly"
+                thesePermissions ="Can't decompile properly"
+                serviceList = "Can't decompile properly"
+
+            try:
+                metaInformation = metaFromWebsite(apkCode) #collects meta-Info
+            except:
+                print("Can't connect to android website")
+                metaInformation = "Can't connect to android website"
 
 
 
-            print(file_size(apkPATH))
-            APKfilesize = file_size(apkPATH)
 
-            instance.fileSize = APKfilesize
-            instance.firstChar = returnZ(instance.link_text)
-            print("here")
+            print("Doing VT Scan - It will be a minute!")
             k  = vt_scan(apkCode)
-            print("VT Scan is here")
-            print(k)
 
             smaliDirectory = getLibrariesDirectories(apkCode)
             smaliFiles = getLibrariesSmali(apkCode)
-
+            APKfilesize = file_size(apkPATH)
+            instance.fileSize = APKfilesize
+            instance.firstChar = returnZ(instance.link_text)
             instance.VT_permallink = k[0]
             instance.VT_sha1 = k[1]
             instance.VT_resource = k[2]
@@ -202,8 +176,6 @@ def results(request):
             instance.VT_msg  = k[5]
             instance.VT_sha256 = k[6]
             instance.VT_md5 = k[7]
-            #jsonClass.permissions = thesePermissions
-            #jsonClass.usesPermissions = theseUsesPermissions
             instance.metaData = metaInformation[0]
             instance.rating = metaInformation[1]
             instance.description = metaInformation[2]
@@ -224,23 +196,25 @@ def results(request):
             jsonClass.metaData = metaInformation[0]
             jsonClass.rating = metaInformation[1]
             jsonClass.description = metaInformation[2]
+            jsonClass.links = metaInformation[3]
             jsonClass.smali_Directories = smaliDirectory
-
-
-
             serialJSON = jsonClass.__dict__
-            #print(serialJSON)
+
 
             jsonPath = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder", apkCode+"JSONFile.txt")
             jsonFile = open(jsonPath, "w")
             json.dump(serialJSON, jsonFile, indent = 2)
             instance.save()
             print("FORM IS VALID")
-            makeCertificateFile(apkCode)
 
+
+            if(os.path.exists(manifestPath)):
+                makeCertificateFile(apkCode)
+            else:
+                print("NO CERT FILE")
 
             dictionary = {'appID':apkCode}
-            #return redirect('uploads:results')
+
             return render(request,'uploads/detail.html', dictionary)
     else:
         form = forms.CreateLink()
@@ -251,11 +225,7 @@ def vote(request, link_id):
 
 @login_required(login_url="/account/login")
 def uploadHere(request):
-    #metaFromWebsite()
-    #getPermissionLevels()
     form = forms.CreateLink()
-    apkCode = "menloseweight.loseweightappformen.weightlossformen"
+    k = metaFromWebsite("com.daystrom.fbattery")
 
-    #manifestPath  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\AndroidManifest.xml"%apkCode
-    #print(usesLibraryFromXML(manifestPath))
     return render(request, 'uploads/uploads.html', {'form':form})
