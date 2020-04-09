@@ -1,5 +1,8 @@
-<h2>What is the code for your APK?</h2>
-
+{% extends "uploads/base.html" %}
+{% block content %}
+<!DOCTYPE html>
+<html>
+<h2>What is the android handle for your APK?</h2>
 <body>
 <form class = "site-form" action="{% url 'uploads:results' %}" method = "post">
   {% csrf_token %}
@@ -8,4 +11,4 @@
 </form>
 <text> Analysis will take a few minutes, please be patient... </text>
 </body>
-</form>
+{% endblock content %}

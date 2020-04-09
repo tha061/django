@@ -1,3 +1,5 @@
+{% extends "uploads/base.html" %}
+{% block content %}
 {% if latest_link_list %}
     <ul>
     {% for link in latest_link_list %}
@@ -7,3 +9,4 @@
 {% else %}
     <p>No links are available.</p>
 {% endif %}
+{% endblock content %}

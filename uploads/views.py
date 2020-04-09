@@ -226,6 +226,6 @@ def vote(request, link_id):
 @login_required(login_url="/account/login")
 def uploadHere(request):
     form = forms.CreateLink()
-    k = metaFromWebsite("com.daystrom.fbattery")
+    
 
     return render(request, 'uploads/uploads.html', {'form':form})

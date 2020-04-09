@@ -295,8 +295,8 @@ def mergeLists(listA, listB):
                 editedString = editedString.replace(",","")
                 editedString = editedString.replace("+","")
 
-            if(a == "Installs" and int(editedString) < 10000):
-                editedString = editedString + " Warning: Low amount of users"
+            if(a == "Installs" and int(editedString) < 1000001):
+                editedString = editedString + ", Warning: Low amount of users"
             #print("edited: "+editedString)
             result[a] = editedString
             listB.remove(b)
@@ -363,7 +363,7 @@ def metaFromWebsite(appID):
     result = [e.get_text(separator=" ").strip() for e in soup.find_all("div",{"class":"hAyfc"})]
     rating = soup.find("div",{"class":"BHMmbe"}).get_text(separator=" ").strip()
     if(float(rating) < 3.0):
-        rating = rating + " Warning: Low rated application"
+        rating = rating + ", Warning: Low rated application"
     description = soup.find("div",{"class":"DWPxHb"}).get_text(separator=" ").strip()
 
     Meta = []
