@@ -29,10 +29,6 @@ import time
 
 jsonClass = APKAnalysis()
 
-
-
-
-
 def emulator(request):
     monkeyCMD()
     device = "reee"
@@ -135,12 +131,16 @@ def results(request):
             except:
                 print("nothing to remove")
 
+
+
+
             os.chdir(apkFolder)
             download_apk(instance.link_text)
 
-
-
+            print("Doing VT Scan - It will be a minute!")
+            k  = vt_scan(apkCode)
             decompileAPK(apkCode, apkFolder, apkFolderCD)  #decompiles APK using apktool
+            #apkToZip(apkFolder, apkCode) #This does not work as the manifestfile is not decompiled when converted to ZIP
 
             if(os.path.exists(manifestPath)):
                 theseUsesPermissions = usesPermissionsFromXML(manifestPath) #collects permissions
@@ -160,8 +160,7 @@ def results(request):
 
 
 
-            print("Doing VT Scan - It will be a minute!")
-            k  = vt_scan(apkCode)
+
 
             smaliDirectory = getLibrariesDirectories(apkCode)
             smaliFiles = getLibrariesSmali(apkCode)
@@ -206,15 +205,11 @@ def results(request):
             json.dump(serialJSON, jsonFile, indent = 2)
             instance.save()
             print("FORM IS VALID")
-
-
             if(os.path.exists(manifestPath)):
                 makeCertificateFile(apkCode)
             else:
                 print("NO CERT FILE")
-
             dictionary = {'appID':apkCode}
-
             return render(request,'uploads/detail.html', dictionary)
     else:
         form = forms.CreateLink()
@@ -226,6 +221,6 @@ def vote(request, link_id):
 @login_required(login_url="/account/login")
 def uploadHere(request):
     form = forms.CreateLink()
-    
+
 
     return render(request, 'uploads/uploads.html', {'form':form})

@@ -14,7 +14,7 @@ urlpatterns = [
 
     path('<int:link_id>/vote/', views.vote, name='vote'),
 
-    
+
     path('test/', views.download_JSONfile, name = 'download_JSONfile'),
     path('certDownload/', views.download_Certfile, name = 'download_Certfile'),
 

@@ -20,6 +20,17 @@ def decompileAPK(code, folder, folderCD):
     os.system("cd "+folderCD)
     os.system("apktool d "+code+".apk ./"+code+".apk")
 
+def apkToZip(folder, code):
+    os.chdir(folder)
+    codeAPK = code + ".apk"
+    codeZIP = code + ".zip"
+
+    os.rename(codeAPK, codeZIP)
+
+    with ZipFile(codeZIP, 'r') as zipObj:
+   # Extract all the contents of zip file in current directory
+        zipObj.extractall(code)
+
 def getLibrariesDirectories(app_id):
 
     path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\smali"%app_id

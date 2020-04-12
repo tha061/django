@@ -32,9 +32,15 @@ def view_login(request):
     return render(request, 'account/login.html', { 'form': form })
 
 def view_logout(request):
-    if(request.method == 'POST'):
-        logout(request)
-        return redirect('account:view_login')
+    print("ONE")
+    username = request.user.username
+    if(username == ""):
+        username = "no account"
+    print("TWO")
+    logout(request)
+    print("THREE")
+
+    return render(request, 'account/logout.html', {'accountName': username } )
 
 @login_required(login_url="/account/login")
 def view_home(request):
