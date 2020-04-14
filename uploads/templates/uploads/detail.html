@@ -2,6 +2,7 @@
 {% block content %}
 
 <h1>Your {{appID}} file is available for download here</h1>
+<h2> YOU ARE IN LINK_ID {{linkID}} </h2>
 
 <body>
 <form class = "site-form" action="{% url 'uploads:download_JSONfile' %}" method = "post">

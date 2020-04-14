@@ -107,7 +107,8 @@ def download_Certfile(request):
     return response
 
 
-def results(request):
+def results(request, handle="Didn't work"):
+
     #apkClass = APK(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\com.daystrom.fbattery.apk")
     if request.method == 'POST':
         form = forms.CreateLink(request.POST, request.FILES)
@@ -209,7 +210,8 @@ def results(request):
                 makeCertificateFile(apkCode)
             else:
                 print("NO CERT FILE")
-            dictionary = {'appID':apkCode}
+
+            dictionary = {'appID':apkCode, 'linkID':handle}
             return render(request,'uploads/detail.html', dictionary)
     else:
         form = forms.CreateLink()
