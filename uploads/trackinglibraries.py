@@ -1,4 +1,4 @@
-import os, sys, codecs, fnmatch, time, binascii, requests, json, sqlite3
+import os, sys, codecs, fnmatch, time, binascii, requests, json, sqlite3, hashlib
 from bs4 import BeautifulSoup
 from subprocess import call
 from androguard import *
@@ -22,10 +22,10 @@ def file_size(file_path):
         file_info = os.stat(file_path)
         return convert_bytes(file_info.st_size)
 
-def vt_scan(app_id):
+def vt_scan_OLD(app_id):
     url = 'https://www.virustotal.com/vtapi/v2/file/scan'
 
-    api_key = '8e964db7706daa35e71df310ce68944393a8c254a9c9e7a6a1583ee479a4142a'
+    api_key = '1162652624083e2616b2200d64c68d4ae92722b952c88418d46e46c14383ccae'
     params = {'apikey': api_key}
     #app_id = apk_path.split("/")[-1]
     apk_path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s.apk" % app_id
@@ -34,7 +34,7 @@ def vt_scan(app_id):
     try:
         response = requests.post(url, files=files, params=params)
         js = response.json()
-
+        print(js)
         permalink = js['permalink']
         sha1 = js['sha1']
         resource = js['resource']
@@ -53,6 +53,59 @@ def vt_scan(app_id):
         sha256 = "NA"
         md5 = "NA"
     list = [permalink,sha1,resource,response_code,scan_id,verbose_msg,sha256,md5]
+    return list
+
+
+def getSha(app_id):
+    filename = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s.apk" % app_id
+    with open(filename,"rb") as f:
+        bytes = f.read() # read entire file as bytes
+        readable_hash = hashlib.sha256(bytes).hexdigest();
+    return readable_hash
+
+def vt_scan(app_id):
+    #this will search on virustotal by the Sha256 of the .apk file, I will need to figure out a way so that if the sha256
+    #doesnt work because nobody has uploaded that .apk to VT before, then it uploads the file to VT
+    url = 'https://www.virustotal.com/vtapi/v2/file/report'
+
+
+    sha = str(getSha(app_id))
+
+    params = {'apikey': '1162652624083e2616b2200d64c68d4ae92722b952c88418d46e46c14383ccae', 'resource':sha }
+
+
+    response = requests.get(url, params=params)
+    js = response.json()
+
+
+    jsonPath = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\VirusTotal", app_id+"VirusTotal.txt")
+    jsonFile = open(jsonPath, "w")
+    json.dump(response.json(), jsonFile, indent = 2)
+
+    try:
+        permalink = js['permalink']
+        sha1 = js['sha1']
+        resource = js['resource']
+        response_code = js['response_code']
+        scan_id = js['scan_id']
+        verbose_msg = js['verbose_msg']
+        sha256 = js['sha256']
+        md5 = js['md5']
+        total = js['total']
+        positives = js['positives']
+    except:
+        permalink = "NA"
+        sha1 = "NA"
+        resource = "NA"
+        response_code = "NA"
+        scan_id = "NA"
+        verbose_msg = "NA"
+        sha256 = "NA"
+        md5 = "NA"
+        total = "NA"
+        positives = "NA"
+
+    list = [permalink,sha1,resource,response_code,scan_id,verbose_msg,sha256,md5,total, positives]
     return list
 
 def get_permissions(app_id):

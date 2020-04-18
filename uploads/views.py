@@ -22,6 +22,7 @@ from io import BytesIO
 from .certificate_Functions import *
 from OpenSSL import SSL
 import time
+import re
 #from com.android.monkeyrunner import MonkeyRunner, MonkeyDevice
 
 #from apkutils import
@@ -77,6 +78,19 @@ def detail(request):
     link = get_object_or_404(Link, pk=link_id)
     return render(request, 'uploads/detail.html', {'link': link})
 
+def download_VirusTotal(request):
+    val = request.POST.get('appCode', False);
+    appID = val+"VirusTotal.txt"
+
+    fl_path = os.path.join(r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\VirusTotal', appID)
+    filename = appID
+    fl = open(fl_path, 'r')
+
+
+    mime_type, _ = mimetypes.guess_type(fl_path)
+    response = HttpResponse(fl, content_type=mime_type)
+    response['Content-Disposition'] = "attachment; filename=%s" % filename
+    return response
 
 def download_JSONfile(request):
     val = request.POST.get('appCode', False);
@@ -163,7 +177,7 @@ def results(request, handle="Didn't work"):
 
 
 
-            smaliDirectory = getLibrariesDirectories(apkCode)
+            smaliDirectory = returnSmaliKey(returnSmaliTuplDict(), getLibrariesDirectories(apkCode))
             smaliFiles = getLibrariesSmali(apkCode)
             APKfilesize = file_size(apkPATH)
             instance.fileSize = APKfilesize
@@ -190,6 +204,8 @@ def results(request, handle="Didn't work"):
             jsonClass.VTmsg  = k[5]
             jsonClass.VTsha256 = k[6]
             jsonClass.VTmd5 = k[7]
+            jsonClass.VTtotal = k[8]
+            jsonClass.VTpositives = k[9]
             jsonClass.permissions = thesePermissions
             jsonClass.usesPermissions = theseUsesPermissions
             jsonClass.service = serviceList
@@ -223,6 +239,16 @@ def vote(request, link_id):
 @login_required(login_url="/account/login")
 def uploadHere(request):
     form = forms.CreateLink()
+    makeCertificateFile('au.com.hydro.rottnest')
+    #PemCertificate('menloseweight.loseweightappformen.weightlossformen')
+    #VerifyCertificate('menloseweight.loseweightappformen.weightlossformen')
+    #getSmaliFolders('com.chess')
+    #print(returnSmaliKey(returnSmaliTuplDict(), getLibrariesDirectories('com.chess')))
+    #URL = "https://www.virustotal.com/gui/file/fb7c7fbc4c314efabb1d11676668dcfb7478b4536b5966d3eba15ecbb70cdeea/detection"
+    #virusTotalVerdict(URL)
+    #print(VTVerdict("menloseweight.loseweightappformen.weightlossformen"))
+    #print(getSha("com.yogavpn"))
+    #print(vt_scan("com.yogavpn"))
 
 
     return render(request, 'uploads/uploads.html', {'form':form})
