@@ -7,6 +7,7 @@ import pandas as pd
 import requests
 import shutil
 
+
 def returnZ(str):
     return str[0]
 
@@ -53,13 +54,13 @@ def SmaliToDict():
     d = {}
     with open(smaliTextPath) as f:
         for line in f:
-            #print(line.split("\t"))
+
             lineSplit = line.split("\t")
             lineSplit[2] = lineSplit[2][:-1]
             tuple = (lineSplit[1], lineSplit[2])
             d[lineSplit[0]] = tuple
 
-    print (str(d))
+
 
 def returnSmaliTuplDict():
     d = {'Library': ('AdlibraryPath', 'Category'), 'Admob': ('com/admob', 'Targeted ads'), 'Facebook': ('com/facebook', 'Social networking service'), 'Flurry'
@@ -243,6 +244,20 @@ def usesLibraryFromXML(manifestPATH):
 
     return permissionList
 
+def ReceiversFromXML(manifestPATH):
+    permissionList = []
+    permissionListLevel = []
+    root = ET.parse(manifestPATH).getroot()
+    application = root.findall("permission")
+
+
+    for x in application:
+
+        x.find('provider')
+
+
+    return permissionList
+
 def usesPermissionsFromXML(manifestPATH):
 
     permissionList = []
@@ -391,7 +406,7 @@ def getPermissionLevels():
 
 
     dictionary = dict(zip(permissionName, permissionLevel))  #returns a dictionary too look up permissions and it will tell you their level
-    #print(dictionary)
+
     return dictionary
 
 def getPermissionsDictionary():
@@ -441,7 +456,7 @@ def mergeLists(listA, listB):
     for a in listA:
         for b in listB:
 
-            #print("b: "+b)
+
             editedString = b.replace(a+" ", "")
             if(a == "Installs"):
                 editedString = editedString.replace(",","")
@@ -449,7 +464,7 @@ def mergeLists(listA, listB):
 
             if(a == "Installs" and int(editedString) < 1000001):
                 editedString = editedString + ", Warning: Low amount of users"
-            #print("edited: "+editedString)
+
             result[a] = editedString
             listB.remove(b)
             break
@@ -461,7 +476,7 @@ def getDeveloperLinks(soup):
     string = ""
     for test in soup.find_all("div",{"class":"hAyfc"}):
         stringTest = str(test)
-        print(stringTest)
+
 
         DeveloperWebsite = ""
         DeveloperEmail = ""
@@ -526,42 +541,44 @@ def metaFromWebsite(appID):
     #with open(File_URL, 'w', encoding='utf-8') as f_out: COMMENTED OUT 31 MARCH 2020
     #    f_out.write(soup.prettify())
 
+def getRSAFile(directory):
+    for root, dirs, files in os.walk(directory):
+        for file in files:
+            if file.endswith('.RSA'):
+                return str(file)
+
+
 
 def makeCertificateFile(appID):
     apkFolder = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads",appID)
     CertFolder = os.path.join(apkFolder,   r"original\META-INF")
+    RSAFileName = getRSAFile(CertFolder)
     os.chdir(CertFolder)
-    os.system("openssl verify CERT.RSA")
+    os.system("openssl verify CERT.RSA") #this doesnt do anything, this checks a .pem file
 
     CertFile = r"original\META-INF\%sCertFile.txt" %(appID)
     apkCertFile = os.path.join(apkFolder, CertFile)
     certificateFolder = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\certificate"
 
-    print("BEFORE TRY")
-    try:
-        systemString = "openssl pkcs7 -inform DER -in CERT.RSA -out "+appID+"CertFile.txt  -print_certs -text"
-        os.system(systemString)
 
-        print("TRY")
-        shutil.copy(apkCertFile, certificateFolder)
+    systemString = "openssl pkcs7 -inform DER -in "+RSAFileName+" -out "+appID+"CertFile.txt  -print_certs -text"
+    os.system(systemString)
 
-    except:
-        systemStringGoogle = "openssl pkcs7 -inform DER -in GOOGPLAY.RSA -out "+appID+"CertFile.txt  -print_certs -text"
-        os.system(systemStringGoogle)
-        shutil.copy(apkCertFile, certificateFolder)
-        print("EXCEPT")
-    print("AFTER TRY")
+
+    shutil.copy(apkCertFile, certificateFolder)
+
 
 
     os.remove(apkCertFile)
     #os.chdir(apkFolder)
 
-def virusTotalVerdict(URL):
-    page = requests.get(URL)
-    soup = BeautifulSoup(page.content, 'html.parser')
+def RSAtoPEM(appID):
+    apkFolder = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads",appID)
+    CertFolder = os.path.join(apkFolder,   r"original\META-INF")
+    os.chdir(CertFolder)
+    systemString = "openssl pkcs7 -inform DER -in CERT.RSA -out "+appID+"CertFile.pem  -print_certs -text"
+    os.system(systemString)
 
-    with open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\webText\web.txt", "w") as file:
-        file.write(str(soup.prettify()))
 
 
 
@@ -584,10 +601,15 @@ def PemCertificate(appID):
     except:
         pass
 
-
+def VerifyCert(appID):
+    apkFolder = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads",appID)
+    CertFolder = os.path.join(apkFolder,   r"original\META-INF")
+    os.chdir(CertFolder)
+    os.system("openssl verify CERT.RSA")
 
 
 def VerifyCertificate(appID):
+    #Not working
     apkFolder = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads",appID)
     CertFolder = os.path.join(apkFolder,   r"original\META-INF")
     os.chdir(CertFolder)
@@ -596,7 +618,7 @@ def VerifyCertificate(appID):
 
     os.chdir(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\Cert Pem Files")
     os.system("openssl verify "+appID+"cert.pem")
-    print("here")
+
 
 class APKAnalysis():
     def __init__(self, name="", fileSize="", VTmd5="", VTmsg="", VTpermalink="", VTresource="", VTresponsecode="", VTscanID="",

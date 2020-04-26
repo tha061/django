@@ -110,6 +110,7 @@ def download_Certfile(request):
 
     val = request.POST.get('appCode', False);
     appID = val+"CertFile.txt"
+
     fl_path = os.path.join(r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\certificate', appID)
     filename = appID
 
@@ -151,86 +152,86 @@ def results(request, handle="Didn't work"):
 
             os.chdir(apkFolder)
             download_apk(instance.link_text)
+            if checkApkDownloaded(instance.link_text):
+                print("Doing VT Scan - It will be a minute!")
+                k  = vt_scan(apkCode)
+                decompileAPK(apkCode, apkFolder, apkFolderCD)  #decompiles APK using apktool
+                #apkToZip(apkFolder, apkCode) #This does not work as the manifestfile is not decompiled when converted to ZIP
 
-            print("Doing VT Scan - It will be a minute!")
-            k  = vt_scan(apkCode)
-            decompileAPK(apkCode, apkFolder, apkFolderCD)  #decompiles APK using apktool
-            #apkToZip(apkFolder, apkCode) #This does not work as the manifestfile is not decompiled when converted to ZIP
+                if(os.path.exists(manifestPath)):
+                    theseUsesPermissions = usesPermissionsFromXML(manifestPath) #collects permissions
+                    thesePermissions = permissionsFromXML(manifestPath) #collections permissions
+                    serviceList = servicesFromXML(manifestPath) #collects service permissions
+                else:
+                    theseUsesPermissions = "Can't decompile properly"
+                    thesePermissions ="Can't decompile properly"
+                    serviceList = "Can't decompile properly"
 
-            if(os.path.exists(manifestPath)):
-                theseUsesPermissions = usesPermissionsFromXML(manifestPath) #collects permissions
-                thesePermissions = permissionsFromXML(manifestPath) #collections permissions
-                serviceList = servicesFromXML(manifestPath) #collects service permissions
-            else:
-                theseUsesPermissions = "Can't decompile properly"
-                thesePermissions ="Can't decompile properly"
-                serviceList = "Can't decompile properly"
-
-            try:
-                metaInformation = metaFromWebsite(apkCode) #collects meta-Info
-            except:
-                print("Can't connect to android website")
-                metaInformation = "Can't connect to android website"
-
-
+                try:
+                    metaInformation = metaFromWebsite(apkCode) #collects meta-Info
+                except:
+                    print("Can't connect to android website")
+                    metaInformation = "Can't connect to android website"
 
 
 
 
-            smaliDirectory = returnSmaliKey(returnSmaliTuplDict(), getLibrariesDirectories(apkCode))
-            smaliFiles = getLibrariesSmali(apkCode)
-            APKfilesize = file_size(apkPATH)
-            instance.fileSize = APKfilesize
-            instance.firstChar = returnZ(instance.link_text)
-            instance.VT_permallink = k[0]
-            instance.VT_sha1 = k[1]
-            instance.VT_resource = k[2]
-            instance.VT_response = k[3]
-            instance.VT_scanId  = k[4]
-            instance.VT_msg  = k[5]
-            instance.VT_sha256 = k[6]
-            instance.VT_md5 = k[7]
-            instance.metaData = metaInformation[0]
-            instance.rating = metaInformation[1]
-            instance.description = metaInformation[2]
-
-            jsonClass.name = apkCode
-            jsonClass.fileSize = APKfilesize
-            jsonClass.VTpermalink = k[0]
-            jsonClass.VTsha1 = k[1]
-            jsonClass.VTresource = k[2]
-            jsonClass.VTresponsecode = k[3]
-            jsonClass.VTscanID  = k[4]
-            jsonClass.VTmsg  = k[5]
-            jsonClass.VTsha256 = k[6]
-            jsonClass.VTmd5 = k[7]
-            jsonClass.VTtotal = k[8]
-            jsonClass.VTpositives = k[9]
-            jsonClass.permissions = thesePermissions
-            jsonClass.usesPermissions = theseUsesPermissions
-            jsonClass.service = serviceList
-            jsonClass.metaData = metaInformation[0]
-            jsonClass.rating = metaInformation[1]
-            jsonClass.description = metaInformation[2]
-            jsonClass.links = metaInformation[3]
-            jsonClass.smali_Directories = smaliDirectory
-            serialJSON = jsonClass.__dict__
 
 
-            jsonPath = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder", apkCode+"JSONFile.txt")
-            jsonFile = open(jsonPath, "w")
-            json.dump(serialJSON, jsonFile, indent = 2)
-            instance.save()
-            print("FORM IS VALID")
-            if(os.path.exists(manifestPath)):
-                makeCertificateFile(apkCode)
-            else:
-                print("NO CERT FILE")
+                smaliDirectory = returnSmaliKey(returnSmaliTuplDict(), getLibrariesDirectories(apkCode))
+                smaliFiles = getLibrariesSmali(apkCode)
+                APKfilesize = file_size(apkPATH)
+                instance.fileSize = APKfilesize
+                instance.firstChar = returnZ(instance.link_text)
+                instance.VT_permallink = k[0]
+                instance.VT_sha1 = k[1]
+                instance.VT_resource = k[2]
+                instance.VT_response = k[3]
+                instance.VT_scanId  = k[4]
+                instance.VT_msg  = k[5]
+                instance.VT_sha256 = k[6]
+                instance.VT_md5 = k[7]
+                instance.metaData = metaInformation[0]
+                instance.rating = metaInformation[1]
+                instance.description = metaInformation[2]
 
-            dictionary = {'appID':apkCode, 'linkID':handle}
-            return render(request,'uploads/detail.html', dictionary)
+                jsonClass.name = apkCode
+                jsonClass.fileSize = APKfilesize
+                jsonClass.VTpermalink = k[0]
+                jsonClass.VTsha1 = k[1]
+                jsonClass.VTresource = k[2]
+                jsonClass.VTresponsecode = k[3]
+                jsonClass.VTscanID  = k[4]
+                jsonClass.VTmsg  = k[5]
+                jsonClass.VTsha256 = k[6]
+                jsonClass.VTmd5 = k[7]
+                jsonClass.VTtotal = k[8]
+                jsonClass.VTpositives = k[9]
+                jsonClass.permissions = thesePermissions
+                jsonClass.usesPermissions = theseUsesPermissions
+                jsonClass.service = serviceList
+                jsonClass.metaData = metaInformation[0]
+                jsonClass.rating = metaInformation[1]
+                jsonClass.description = metaInformation[2]
+                jsonClass.links = metaInformation[3]
+                jsonClass.smali_Directories = smaliDirectory
+                serialJSON = jsonClass.__dict__
+
+
+                jsonPath = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder", apkCode+"JSONFile.txt")
+                jsonFile = open(jsonPath, "w")
+                json.dump(serialJSON, jsonFile, indent = 2)
+                instance.save()
+                print("FORM IS VALID")
+                if(os.path.exists(manifestPath)):
+                    makeCertificateFile(apkCode)
+                else:
+                    print("NO CERT FILE")
+
+                dictionary = {'appID':apkCode, 'linkID':handle}
+                return render(request,'uploads/detail.html', dictionary)
     else:
-        form = forms.CreateLink()
+            form = forms.CreateLink()
     return render(request, 'uploads/detail.html', {'form':form} )
 
 def vote(request, link_id):
@@ -239,7 +240,7 @@ def vote(request, link_id):
 @login_required(login_url="/account/login")
 def uploadHere(request):
     form = forms.CreateLink()
-    makeCertificateFile('au.com.hydro.rottnest')
+    #makeCertificateFile('au.com.hydro.rottnest')
     #PemCertificate('menloseweight.loseweightappformen.weightlossformen')
     #VerifyCertificate('menloseweight.loseweightappformen.weightlossformen')
     #getSmaliFolders('com.chess')
@@ -249,6 +250,15 @@ def uploadHere(request):
     #print(VTVerdict("menloseweight.loseweightappformen.weightlossformen"))
     #print(getSha("com.yogavpn"))
     #print(vt_scan("com.yogavpn"))
+    #print(RSAtoPEM("com.daystrom.fbattery"))
+    #manifestPath1  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\menloseweight.loseweightappformen.weightlossformen\AndroidManifest.xml"
+    #print(ReceiversFromXML(manifestPath1))
+    #manifestPath2  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\com.lesmillsondemand\AndroidManifest.xml"
+    #print(ReceiversFromXML(manifestPath2))
+    #print(getSha('apkpure'))
+    #extractAPK('com.softpauer.f1timingapp2014.basic')
+    makeCertificateFile('com.disney.disneyplus')
+
 
 
     return render(request, 'uploads/uploads.html', {'form':form})

@@ -1,0 +1,76 @@
+{
+  "name": "com.chess",
+  "fileSize": "36.2 MB",
+  "VTmd5": "f34924cd3651f10b71e26713ece19fff",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/file/abb508173cfb2598f4c3cf33ec91819695086dcf9195fed3b06a08b1f0b9e9a2/analysis/1587197594/",
+  "VTresource": "abb508173cfb2598f4c3cf33ec91819695086dcf9195fed3b06a08b1f0b9e9a2",
+  "VTresponsecode": 1,
+  "VTscanID": "abb508173cfb2598f4c3cf33ec91819695086dcf9195fed3b06a08b1f0b9e9a2-1587197594",
+  "VTsha1": "9109568236ca3195796c5d1ba245e54deb9508c6",
+  "VTsha256": "abb508173cfb2598f4c3cf33ec91819695086dcf9195fed3b06a08b1f0b9e9a2",
+  "VTtotal": 62,
+  "VTpositives": 1,
+  "usesPermissions": [
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.chess.internal.live.LiveChessService  permission: ",
+      "name: com.chess.computeranalysis.quick.QuickAnalysisService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.chess.internal.notifications.FcmListenerService  permission: ",
+      "name: com.chess.internal.notifications.FirebaseInstanceIdListenerService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: androidx.work.impl.background.systemalarm.SystemAlarmService  permission: ",
+      "name: androidx.work.impl.background.systemjob.SystemJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "24 April 2020",
+    "Size": "Varies with device",
+    "Installs": "10000000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact, Digital purchases",
+    "In-app Products": "$1.00 \u00e2\u20ac\u201c $99.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Chess.com",
+    "Developer": "Visit website support@chess.com Privacy Policy PO Box 60400\nPalo Alto, CA 94306"
+  },
+  "rating": "4.3",
+  "description": "Play chess online with millions of players around the world! Enjoy free unlimited games and improve your chess rating with 50,000+ tactics puzzles, interactive lessons and videos, and a powerful computer opponent. Unlock your inner chess master today! PLAY CHESS ONLINE - Challenge your friends and chat with opponents - Play real-time blitz or daily correspondence chess TACTICS PUZZLES - Solve more than 50,000 puzzles  - Adjusts to your skill level to help you improve LESSONS - Thousands of videos and interactive lessons from top Grandmasters - Interactive tutorials with helpful tips and highlights COMPUTER - Adjust the computer's strength  - Analyze your game to learn what went wrong \u00e2\u20ac\u00a6 AND MORE - Daily articles by top authors and coaches like IM Jeremy Silman - Opening explorer helps you learn and play the right openings - Make friends & send messages - 20+ gorgeous themes for boards, pieces, and backgrounds - Detailed performance stats and ratings - Active community forum ABOUT CHESS.COM Chess.com is built by chess players and enthusiasts who really love chess! Team: http://www.chess.com/about Facebook: http://www.facebook.com/chess Twitter: http://twitter.com/chesscom YouTube: http://www.youtube.com/wwwchesscom TwitchTV: http://www.twitch.com/chess",
+  "links": {
+    "Developer Website": "https://www.chess.com/",
+    "Developer Email": "support@chess.com",
+    "Privacy Policy": "https://www.chess.com/privacy"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Opencv",
+    "Squareup"
+  ]
+}

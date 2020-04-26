@@ -58,6 +58,7 @@ def vt_scan_OLD(app_id):
 
 def getSha(app_id):
     filename = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s.apk" % app_id
+    print('here')
     with open(filename,"rb") as f:
         bytes = f.read() # read entire file as bytes
         readable_hash = hashlib.sha256(bytes).hexdigest();
