@@ -1,18 +1,19 @@
 from django.urls import path
-
 from . import views
+
+
 
 app_name = 'uploads'
 urlpatterns = [
 
     path('', views.uploadHere, name='uploadHere'),
 
-    path('detail/', views.detail, name='detail'),
+    path('download/', views.download, name='download'),
 
-    #path('results/', views.results, name='results'),
+
+
+    path('results/<str:appID>', views.results, name='results'),
     path('results/', views.results, name='results'),
-    path('results/<str:handle>', views.results, name='results'),
-
     path('<int:link_id>/vote/', views.vote, name='vote'),
 
     path('test/', views.download_JSONfile, name = 'download_JSONfile'),

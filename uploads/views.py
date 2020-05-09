@@ -2,12 +2,11 @@ from django.shortcuts import get_object_or_404, render, redirect
 from django.http import HttpResponse
 from .models import Link
 from . import forms
+from django.core.files import File
 from .functions import *
-#from .searching_mobile_apps_ids0 import *
 from .playStore import *
 from .download_apk import *
 from .adbFunctions import *
-#from googleplay_api.googleplay import GooglePlayAPI
 from .trackinglibraries import *
 import json
 import mimetypes
@@ -23,19 +22,23 @@ from .certificate_Functions import *
 from OpenSSL import SSL
 import time
 import re
-#from com.android.monkeyrunner import MonkeyRunner, MonkeyDevice
+from django.core.files.base import ContentFile
 
-#from apkutils import
-
-
+#This is just a class that contains variables that store information regarding the static and meta-info analysis of an APK
+#See the "function.py" file for the class definition
 jsonClass = APKAnalysis()
 
+#This is a placeholder View for the running of the emulator
 def emulator(request):
-    monkeyCMD()
-    device = "reee"
+
+    device = "This is a placeholder - Emulator is currently not functioning"
+
+    #Returns the mysite\uploads\templates\uploads\emulator.html file and parses 'device' as an argument
     return render(request, 'uploads/emulator.html', {'appID': device} )
 
 
+    #The following is just testing 'adb' and MonkeyRunner.
+    #This can be ignored for now.
     '''
     a  = os.popen("adb devices").readlines()
     device = ""
@@ -68,145 +71,219 @@ def emulator(request):
         monkeyCMD()
     '''
 
-def index(request):
-
-    latest_link_list = Link.objects.order_by('-pub_date')[:5]
-    context = {'latest_link_list': latest_link_list}
-    return render(request, 'uploads/index.html', context)
-
+#This simply displays the "download" page
 def detail(request):
     link = get_object_or_404(Link, pk=link_id)
-    return render(request, 'uploads/detail.html', {'link': link})
+    return render(request, 'uploads/download.html', {'link': link})
 
+#This function will download the VirusTotal JSON results to the users computer
+#It is used in mysite\uploads\templates\uploads\download.html on the "VirusTotal" download button
 def download_VirusTotal(request):
-    val = request.POST.get('appCode', False);
-    appID = val+"VirusTotal.txt"
+    #Gets the title of the app that was just analysed from the request
 
-    fl_path = os.path.join(r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\VirusTotal', appID)
-    filename = appID
+    val = request.POST.get('appCode', False);
+
+    instanceID = request.POST.get('instanceID', False);
+    test = request.POST
+
+    obj = Link.objects.get(id=int(instanceID))
+    VTFilePath = obj.VTFile.path
+    print(VTFilePath)
+
+
+    #Because VirusTotal results are stored in the format appID + "VirusTotal" as a txt file, appIDVT is the name of the corresponding VirusTotal results file
+    appIDVT = val+"VirusTotal.txt"
+
+    #This is the path to the VirusTotal results file
+    fl_path = obj.VTFile.path
+
+    #opened file
     fl = open(fl_path, 'r')
 
-
+    #determines the MIME type of the file
     mime_type, _ = mimetypes.guess_type(fl_path)
+    print("MIME:")
+    print(mime_type)
+
+    #Returns the file
     response = HttpResponse(fl, content_type=mime_type)
-    response['Content-Disposition'] = "attachment; filename=%s" % filename
+    response['Content-Disposition'] = "attachment; filename=%s" % appIDVT
     return response
 
+#This function will download the Static and Meta-info JSON results to the users computer
+#It is used in mysite\uploads\templates\uploads\download.html on the "Static and Meta-Info" download button
 def download_JSONfile(request):
+
     val = request.POST.get('appCode', False);
+    Sha256 = request.POST.get('Sha256', False);
+    #appID is the total file name
     appID = val+"JSONFile.txt"
 
-    fl_path = os.path.join(r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder', appID)
+    instanceID = request.POST.get('instanceID', False);
+    obj = Link.objects.get(id=int(instanceID))
+    jsonFilePath = obj.jsonFile.path
+
+    #fl_path is the path to the file
+    fl_path = jsonFilePath
     filename = 'json.txt'
     fl = open(fl_path, 'r')
 
-
+    #Returns the correct file and mime_type of the file upon clicking the "download" button
     mime_type, _ = mimetypes.guess_type(fl_path)
     response = HttpResponse(fl, content_type=mime_type)
     response['Content-Disposition'] = "attachment; filename=%s" % filename
     return response
 
+#This function will download the Certificate info results to the users computer
+#It is used in mysite\uploads\templates\uploads\download.html on the "Static and Meta-Info" download button
 def download_Certfile(request):
 
     val = request.POST.get('appCode', False);
+    #appID is the file name of the just analyzed APK
     appID = val+"CertFile.txt"
 
-    fl_path = os.path.join(r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\certificate', appID)
+    instanceID = request.POST.get('instanceID', False);
+    obj = Link.objects.get(id=int(instanceID))
+    certFilePath = obj.certFile.path
+
+    #path of the certificate file for the relevant APK
+    fl_path = certFilePath
     filename = appID
 
     fl = open(fl_path, 'r')
-    #print(fl)
+
+    #Returns the correct file and mime_type of the file upon clicking the "download" button
     mime_type, _ = mimetypes.guess_type(fl_path)
     response = HttpResponse(fl, content_type=mime_type)
     response['Content-Disposition'] = "attachment; filename=%s" % filename
     return response
 
+#Upon submitting an APK for analysis, the "results" function is called.
+#This function will conduct all the static, meta-info and run the emulator.
+#Currently, it just conducts the static and meta-info collection,
+#however, in the future it will use an emulator to conduct dynamic analysis
+def results(request, appID="Wrong"):
+    print("CHECKING DYNAMIC")
 
-def results(request, handle="Didn't work"):
 
-    #apkClass = APK(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\com.daystrom.fbattery.apk")
+    #If the request is a POST, then it will begin the analysis,
+    #What it "really" checks is whether the user just went to the url "http://127.0.0.1:8000/uploads/results" i.e. a GET request
+    #Or is the user being redirected to "http://127.0.0.1:8000/uploads/results" after submitting an APK for analysis i.e. a POST request
     if request.method == 'POST':
+
+        #My Django "Model" is called "Link", a "Model" is a definitive database
+        #'forms' refers to the forms.py file, and CreateLink is a class that initializes a new Link model object
+        #Essentially form ends up just being the text that is parsed through the App Garadyi 'uploads' webpage i.e. what APK is to be analyzed
+
         form = forms.CreateLink(request.POST, request.FILES)
+
+
+        #is_valid() checks if all the variable within 'form' have been declared correctly
+        #essentiall, this checks if form's variable 'link_text' contains text
         if form.is_valid():
 
+            #creates an instance of the form
             instance = form.save(commit=False)
+            print("instance")
+            print(instance)
+
+
+            #This is the text the user parses through the 'uploads' page
             apkCode = instance.link_text
+
+            #This is the users name that is logged in that submitted the analysis request
             instance.author = request.user
 
-            apkPATHold = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite", apkCode+".apk")
+            #These are paths to important places within my folderstructure.
             apkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".apk")
             zipPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".zip")
             apkFolder = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads"
             apkFolderCD = r"Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownload"
             manifestPath  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\AndroidManifest.xml"%apkCode
-            certificatePath = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\original\META-INF\CERT.RSA"%apkCode
 
 
+            #If there is an existing .apk file with the same name as the currently analysed APK, then , it will be removed
             try:
                 os.remove(apkPATH)
             except:
                 print("nothing to remove")
 
 
-
-
+            #Download's the APK to the APK Folder
             os.chdir(apkFolder)
             download_apk(instance.link_text)
-            if checkApkDownloaded(instance.link_text):
-                print("Doing VT Scan - It will be a minute!")
-                k  = vt_scan(apkCode)
-                decompileAPK(apkCode, apkFolder, apkFolderCD)  #decompiles APK using apktool
-                #apkToZip(apkFolder, apkCode) #This does not work as the manifestfile is not decompiled when converted to ZIP
 
+            #If the APK has been succesfully downloaded, continue with analysis
+            if checkApkDownloaded(instance.link_text):
+                #Run VirusTotal Scan, returns results in a list called 'VirusTotalResults'
+                print("Doing VT Scan - It will be a minute!")
+                VirusTotalResults  = vt_scan(apkCode)
+
+                #decompiles APK using apktool, the output is just a folder
+                decompileAPK(apkCode, apkFolder, apkFolderCD)
+
+                #If a manifest file can be found in the resulting folder, collect permissions and services from the file
+                #Inserts the results in to a list, which will then be displayed in the JSON file
                 if(os.path.exists(manifestPath)):
                     theseUsesPermissions = usesPermissionsFromXML(manifestPath) #collects permissions
                     thesePermissions = permissionsFromXML(manifestPath) #collections permissions
                     serviceList = servicesFromXML(manifestPath) #collects service permissions
                 else:
+                    #If the file can't be found, the JSON file will display the below text
                     theseUsesPermissions = "Can't decompile properly"
                     thesePermissions ="Can't decompile properly"
                     serviceList = "Can't decompile properly"
 
                 try:
-                    metaInformation = metaFromWebsite(apkCode) #collects meta-Info
+                    #Will try and connect to the Google Play website to scrape the meta-info database
+                    #Saves the information in the form of a list
+                    metaInformation = metaFromWebsite(apkCode)
                 except:
                     print("Can't connect to android website")
                     metaInformation = "Can't connect to android website"
 
 
 
-
-
-
                 smaliDirectory = returnSmaliKey(returnSmaliTuplDict(), getLibrariesDirectories(apkCode))
+
                 smaliFiles = getLibrariesSmali(apkCode)
+                print("Directory: ")
+                print(smaliDirectory)
+                print("Files: ")
+                print(smaliFiles)
+
+                #Will find the file_size of the APK
                 APKfilesize = file_size(apkPATH)
+
+                instance.link_text = apkCode
                 instance.fileSize = APKfilesize
                 instance.firstChar = returnZ(instance.link_text)
-                instance.VT_permallink = k[0]
-                instance.VT_sha1 = k[1]
-                instance.VT_resource = k[2]
-                instance.VT_response = k[3]
-                instance.VT_scanId  = k[4]
-                instance.VT_msg  = k[5]
-                instance.VT_sha256 = k[6]
-                instance.VT_md5 = k[7]
+                instance.VT_permallink = VirusTotalResults[0]
+                instance.VT_sha1 = VirusTotalResults[1]
+                instance.VT_resource = VirusTotalResults[2]
+                instance.VT_response = VirusTotalResults[3]
+                instance.VT_scanId  = VirusTotalResults[4]
+                instance.VT_msg  = VirusTotalResults[5]
+                instance.VT_sha256 = VirusTotalResults[6]
+                instance.VT_md5 = VirusTotalResults[7]
                 instance.metaData = metaInformation[0]
                 instance.rating = metaInformation[1]
                 instance.description = metaInformation[2]
 
+
+
                 jsonClass.name = apkCode
                 jsonClass.fileSize = APKfilesize
-                jsonClass.VTpermalink = k[0]
-                jsonClass.VTsha1 = k[1]
-                jsonClass.VTresource = k[2]
-                jsonClass.VTresponsecode = k[3]
-                jsonClass.VTscanID  = k[4]
-                jsonClass.VTmsg  = k[5]
-                jsonClass.VTsha256 = k[6]
-                jsonClass.VTmd5 = k[7]
-                jsonClass.VTtotal = k[8]
-                jsonClass.VTpositives = k[9]
+                jsonClass.VTpermalink = VirusTotalResults[0]
+                jsonClass.VTsha1 = VirusTotalResults[1]
+                jsonClass.VTresource = VirusTotalResults[2]
+                jsonClass.VTresponsecode = VirusTotalResults[3]
+                jsonClass.VTscanID  = VirusTotalResults[4]
+                jsonClass.VTmsg  = VirusTotalResults[5]
+                jsonClass.VTsha256 = VirusTotalResults[6]
+                jsonClass.VTmd5 = VirusTotalResults[7]
+                jsonClass.VTtotal = VirusTotalResults[8]
+                jsonClass.VTpositives = VirusTotalResults[9]
                 jsonClass.permissions = thesePermissions
                 jsonClass.usesPermissions = theseUsesPermissions
                 jsonClass.service = serviceList
@@ -215,24 +292,53 @@ def results(request, handle="Didn't work"):
                 jsonClass.description = metaInformation[2]
                 jsonClass.links = metaInformation[3]
                 jsonClass.smali_Directories = smaliDirectory
+
                 serialJSON = jsonClass.__dict__
 
 
                 jsonPath = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder", apkCode+"JSONFile.txt")
+                VirusTotalPath = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\VirusTotal", apkCode+"VirusTotal.txt")
+                CertPath = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\certificate", apkCode+"CertFile.txt")
+
                 jsonFile = open(jsonPath, "w")
                 json.dump(serialJSON, jsonFile, indent = 2)
-                instance.save()
+                jsonFile.close()
+
+
+
+
                 print("FORM IS VALID")
                 if(os.path.exists(manifestPath)):
                     makeCertificateFile(apkCode)
                 else:
                     print("NO CERT FILE")
 
-                dictionary = {'appID':apkCode, 'linkID':handle}
-                return render(request,'uploads/detail.html', dictionary)
+
+
+                SaveFiletoDatabase(jsonPath, "Static", instance, apkCode)
+                SaveFiletoDatabase(VirusTotalPath, "VT", instance, apkCode)
+                SaveFiletoDatabase(CertPath, "CertFile", instance, apkCode)
+
+                print(instance.jsonFile)
+                print(instance.VTFile)
+                print(instance.certFile)
+
+                print("CHECKING ID")
+                print(instance.link_text)
+                print(instance.id)
+
+                VT_sha256 = instance.VT_sha256
+                dictionary = {'apkCode':apkCode, 'linkID':"Not working", "Sha256": VT_sha256, "instanceID": instance.id}
+                return render(request,'uploads/download.html', dictionary)
     else:
             form = forms.CreateLink()
-    return render(request, 'uploads/detail.html', {'form':form} )
+            print(form)
+            print("APKCODE: ")
+            print(appID)
+            obj = Link.objects.get(id=int(appID))
+            obj_text = obj.link_text
+
+    return render(request, 'uploads/download.html', {'form':form, 'appID':appID, 'apkCode': obj_text, 'instanceID':int(appID)} )
 
 def vote(request, link_id):
     return HttpResponse("You're voting on link %s." % link_id)
@@ -240,25 +346,15 @@ def vote(request, link_id):
 @login_required(login_url="/account/login")
 def uploadHere(request):
     form = forms.CreateLink()
-    #makeCertificateFile('au.com.hydro.rottnest')
-    #PemCertificate('menloseweight.loseweightappformen.weightlossformen')
-    #VerifyCertificate('menloseweight.loseweightappformen.weightlossformen')
-    #getSmaliFolders('com.chess')
-    #print(returnSmaliKey(returnSmaliTuplDict(), getLibrariesDirectories('com.chess')))
-    #URL = "https://www.virustotal.com/gui/file/fb7c7fbc4c314efabb1d11676668dcfb7478b4536b5966d3eba15ecbb70cdeea/detection"
-    #virusTotalVerdict(URL)
-    #print(VTVerdict("menloseweight.loseweightappformen.weightlossformen"))
-    #print(getSha("com.yogavpn"))
-    #print(vt_scan("com.yogavpn"))
-    #print(RSAtoPEM("com.daystrom.fbattery"))
-    #manifestPath1  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\menloseweight.loseweightappformen.weightlossformen\AndroidManifest.xml"
-    #print(ReceiversFromXML(manifestPath1))
-    #manifestPath2  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\com.lesmillsondemand\AndroidManifest.xml"
-    #print(ReceiversFromXML(manifestPath2))
-    #print(getSha('apkpure'))
-    #extractAPK('com.softpauer.f1timingapp2014.basic')
-    makeCertificateFile('com.disney.disneyplus')
+    instance = form.save(commit=False)
+    print("HEEREEE")
+    print(instance.link_text)
+    test = "com"
+    print("REQUEST")
+    print(request)
 
+    #jsonPath = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\jsonFolder\com.chessJSONFile.txt"
+    ##jsonFile = open(jsonPath, "w")
+    #instance.jsonFile = File(jsonFile)
 
-
-    return render(request, 'uploads/uploads.html', {'form':form})
+    return render(request, 'uploads/uploads.html', {'form':form, 'test':test})

@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 import shutil
-
+from django.core.files.base import ContentFile
 
 def returnZ(str):
     return str[0]
@@ -270,6 +270,7 @@ def usesPermissionsFromXML(manifestPATH):
             permissionList.append(perm.attrib[att])
 
 
+    permissionList.append("android.permission.BIND_CARRIER_SERVICES");
     diction = getPermissionsDictionary()
     for perm in permissionList:
         finalPerm = perm.rfind(".")
@@ -410,7 +411,7 @@ def getPermissionLevels():
     return dictionary
 
 def getPermissionsDictionary():
-    dictionary = {'ACCEPT_HANDOVER': 'dangerous', 'ACCESS_BACKGROUND_LOCATION': 'dangerous\n', 'ACCESS_CALL_AUDIO': 'signature|appop', 'ACCESS_CHECKIN_PROPERTIES': 'N/A',
+    dictionary = {'ACCEPT_HANDOVER': 'dangerous', 'ACCESS_BACKGROUND_LOCATION': 'dangerous', 'ACCESS_CALL_AUDIO': 'signature|appop', 'ACCESS_CHECKIN_PROPERTIES': 'N/A',
      'ACCESS_COARSE_LOCATION': 'dangerous', 'ACCESS_FINE_LOCATION': 'dangerous', 'ACCESS_LOCATION_EXTRA_COMMANDS': 'normal', 'ACCESS_MEDIA_LOCATION': 'dangerous',
      'ACCESS_NETWORK_STATE': 'normal', 'ACCESS_NOTIFICATION_POLICY': 'normal', 'ACCESS_WIFI_STATE': 'normal', 'ACCOUNT_MANAGER': 'N/A', 'ACTIVITY_RECOGNITION': 'dangerous',
      'ADD_VOICEMAIL': 'dangerous', 'ANSWER_PHONE_CALLS': 'dangerous', 'BATTERY_STATS': 'signature|privileged|development', 'BIND_ACCESSIBILITY_SERVICE': 'signature',
@@ -435,18 +436,18 @@ def getPermissionsDictionary():
      'MANAGE_OWN_CALLS': 'normal', 'MASTER_CLEAR': 'N/A', 'MEDIA_CONTENT_CONTROL': 'N/A', 'MODIFY_AUDIO_SETTINGS': 'normal', 'MODIFY_PHONE_STATE': 'N/A',
      'MOUNT_FORMAT_FILESYSTEMS': 'N/A', 'MOUNT_UNMOUNT_FILESYSTEMS': 'N/A', 'NFC': 'normal', 'NFC_PREFERRED_PAYMENT_INFO': 'normal', 'NFC_TRANSACTION_EVENT': 'normal',
      'PACKAGE_USAGE_STATS': 'signature|privileged|development|appop|retailDemo', 'PERSISTENT_ACTIVITY': 'N/A', 'PROCESS_OUTGOING_CALLS': 'dangerous',
-     'QUERY_ALL_PACKAGES': 'N/A', 'READ_CALENDAR': 'dangerous', 'READ_CALL_LOG': 'dangerous\n', 'READ_CONTACTS': 'dangerous', 'READ_EXTERNAL_STORAGE': 'dangerous',
+     'QUERY_ALL_PACKAGES': 'N/A', 'READ_CALENDAR': 'dangerous', 'READ_CALL_LOG': 'dangerous', 'READ_CONTACTS': 'dangerous', 'READ_EXTERNAL_STORAGE': 'dangerous',
      'READ_INPUT_STATE': 'N/A', 'READ_LOGS': 'N/A', 'READ_PHONE_NUMBERS': 'dangerous', 'READ_PHONE_STATE': 'dangerous', 'READ_PRECISE_PHONE_STATE': 'N/A',
-     'READ_SMS': 'dangerous\n', 'READ_SYNC_SETTINGS': 'normal', 'READ_SYNC_STATS': 'normal', 'READ_VOICEMAIL': 'signature|privileged', 'REBOOT': 'N/A',
-     'RECEIVE_BOOT_COMPLETED': 'normal', 'RECEIVE_MMS': 'dangerous\n', 'RECEIVE_SMS': 'dangerous\n', 'RECEIVE_WAP_PUSH': 'dangerous\n', 'RECORD_AUDIO': 'dangerous',
+     'READ_SMS': 'dangerous', 'READ_SYNC_SETTINGS': 'normal', 'READ_SYNC_STATS': 'normal', 'READ_VOICEMAIL': 'signature|privileged', 'REBOOT': 'N/A',
+     'RECEIVE_BOOT_COMPLETED': 'normal', 'RECEIVE_MMS': 'dangerous', 'RECEIVE_SMS': 'dangerous', 'RECEIVE_WAP_PUSH': 'dangerous', 'RECORD_AUDIO': 'dangerous',
      'REORDER_TASKS': 'normal', 'REQUEST_COMPANION_RUN_IN_BACKGROUND': 'normal', 'REQUEST_COMPANION_USE_DATA_IN_BACKGROUND': 'normal', 'REQUEST_DELETE_PACKAGES': 'normal',
      'REQUEST_IGNORE_BATTERY_OPTIMIZATIONS': 'normal', 'REQUEST_INSTALL_PACKAGES': 'signature', 'REQUEST_PASSWORD_COMPLEXITY': 'normal', 'RESTART_PACKAGES': 'N/A',
-     'SEND_RESPOND_VIA_MESSAGE': 'N/A', 'SEND_SMS': 'dangerous\n', 'SET_ALARM': 'normal', 'SET_ALWAYS_FINISH': 'N/A', 'SET_ANIMATION_SCALE': 'N/A', 'SET_DEBUG_APP': 'N/A',
+     'SEND_RESPOND_VIA_MESSAGE': 'N/A', 'SEND_SMS': 'dangerous', 'SET_ALARM': 'normal', 'SET_ALWAYS_FINISH': 'N/A', 'SET_ANIMATION_SCALE': 'N/A', 'SET_DEBUG_APP': 'N/A',
      'SET_PREFERRED_APPLICATIONS': 'N/A', 'SET_PROCESS_LIMIT': 'N/A', 'SET_TIME': 'N/A', 'SET_TIME_ZONE': 'N/A', 'SET_WALLPAPER': 'normal', 'SET_WALLPAPER_HINTS': 'normal',
      'SIGNAL_PERSISTENT_PROCESSES': 'N/A', 'SMS_FINANCIAL_TRANSACTIONS': 'signature|appop', 'START_VIEW_PERMISSION_USAGE': 'signature|installer', 'STATUS_BAR': 'N/A',
      'SYSTEM_ALERT_WINDOW': 'signature|preinstalled|appop|pre23|development', 'TRANSMIT_IR': 'normal', 'UNINSTALL_SHORTCUT': 'N/A', 'UPDATE_DEVICE_STATS': 'N/A',
      'USE_BIOMETRIC': 'normal', 'USE_FINGERPRINT': 'normal', 'USE_FULL_SCREEN_INTENT': 'normal', 'USE_SIP':'dangerous', 'VIBRATE': 'normal', 'WAKE_LOCK': 'normal',
-     'WRITE_APN_SETTINGS': 'N/A', 'WRITE_CALENDAR': 'dangerous', 'WRITE_CALL_LOG': 'dangerous\n', 'WRITE_CONTACTS': 'dangerous',
+     'WRITE_APN_SETTINGS': 'N/A', 'WRITE_CALENDAR': 'dangerous', 'WRITE_CALL_LOG': 'dangerous', 'WRITE_CONTACTS': 'dangerous',
      'WRITE_EXTERNAL_STORAGE': 'dangerous', 'WRITE_GSERVICES': 'N/A', 'WRITE_SECURE_SETTINGS': 'N/A', 'WRITE_SETTINGS': 'signature|preinstalled|appop|pre23',
      'WRITE_SYNC_SETTINGS': 'normal', 'WRITE_VOICEMAIL': 'signature|privileged'}
     return dictionary
@@ -618,6 +619,25 @@ def VerifyCertificate(appID):
 
     os.chdir(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\Cert Pem Files")
     os.system("openssl verify "+appID+"cert.pem")
+
+def SaveFiletoDatabase(filePath, typeOfFile, modelInstance, apkCode):
+    #typeOfFile can be "Cert", "VT", "Static"
+    f = open(filePath,'r')
+
+    if f:
+        file_content = ContentFile(f.read())
+        print(f.read())
+        print(file_content)
+        if typeOfFile == "Static":
+            modelInstance.jsonFile.save(apkCode+ " Static and Meta.txt",file_content)
+        if typeOfFile == "VT":
+            modelInstance.VTFile.save(apkCode+ " VirusTotal.txt",file_content)
+        if typeOfFile == "CertFile":
+            modelInstance.certFile.save(apkCode+ " Certificate.txt",file_content)
+        modelInstance.save()
+    f.close()
+    modelInstance.save()
+
 
 
 class APKAnalysis():

@@ -1,0 +1,36 @@
+{% extends "uploads/base.html" %}
+{% block content %}
+
+<h1>Your {{apkCode}} static and meta-info data is available for download here</h1>
+<h2> YOU ARE IN LINK_ID {{instanceID}} ? </h2>
+
+<body>
+<form class = "site-form" action="{% url 'uploads:download_JSONfile' %}" method = "post">
+  {% csrf_token %}
+  <input type = "hidden" name="appCode" value={{apkCode}}>
+  <input type = "hidden" name="instanceID" value={{instanceID}}>
+
+  <input type = "submit" value = "Download">
+</form>
+</body>
+<h1>Your Certificate file can be downloaded here </h1>
+<body>
+<form class = "site-form" action="{% url 'uploads:download_Certfile' %}" method = "post">
+  {% csrf_token %}
+  <input type = "hidden" name="appCode" value={{apkCode}}>
+  <input type = "hidden" name="instanceID" value={{instanceID}}>
+
+  <input type = "submit" value = "Download">
+</form>
+</body>
+<h1>Your VirusTotal file can be downloaded here </h1>
+<body>
+<form class = "site-form" action="{% url 'uploads:download_VirusTotal' %}" method = "post">
+  {% csrf_token %}
+  <input type = "hidden" name="appCode" value={{apkCode}}>
+  <input type = "hidden" name="instanceID" value={{instanceID}}>
+
+  <input type = "submit" value = "Download">
+</form>
+</body>
+{% endblock content %}

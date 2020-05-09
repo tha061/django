@@ -3,6 +3,32 @@
 
 <!------ Include the above in your HEAD tag ---------->
 {% block content %}
-{{dataframe}}
 
-{% endblock content %}
+<table class="table">
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">Handle</th>
+      <th scope="col">Sha-256</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+
+    {% for instance in object_list %}
+    <tr>
+          <!-- <p>{{ instance.link_text}} - <a href='uploads:results'>{{ instance.title }}</a></p> -->
+
+            <td><a href= "{% url 'uploads:results' instance.id %}" method = post>{{ instance.id}}</td>
+            <td>{{ instance.link_text}}</td>
+            <td>{{ instance.VT_sha256}}</td>
+
+
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+
+
+{% endblock %}

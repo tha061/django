@@ -47,36 +47,43 @@ def download(link,app_id):
         }).text
         soup = BeautifulSoup(res, "html.parser").find('a', {'id': 'download_link'})
 
-        print(checkIfXAPK(str(soup)))
 
-        #soupString = str(soup).lower()
-        #print(soupString)
-        #xapkPos = soupString.find("/b/xapk")
-        #print("xapk Position: "+str(xapkPos))
-        #downloadPosition = soup.find("download_link")
-        
         if soup['href']:
             r = requests.get(soup['href'], stream=True, headers={
                 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.5 (KHTML, like Gecko) '
                               'Version/9.1.2 Safari/601.7.5 '
             })
 
+            print("JUst before checking")
             if checkIfXAPK(str(soup)):
+                print("Just after checking")
                 with open(link.split('/')[-1] + '.xapk', 'wb') as file:
+                    print("opens xapk File")
                     for chunk in r.iter_content(chunk_size=1024):
+                        print("CHUNK")
                         if chunk:
                             file.write(chunk)
+                            print("WRITE")
 
 
+                print("Before Extracting to ZIP")
                 changeXAPKtoZIP(app_id)
+                print("EXTRACTED TO ZIP")
                 extractAPK(app_id)
+                print("EXTRACTED CORRECT APK")
                 #extract .apk file
                 #delete other stuff
             else:
+                print("It is an APK")
                 with open(link.split('/')[-1] + '.apk', 'wb') as file:
+                    print("Do we get in the loop")
                     for chunk in r.iter_content(chunk_size=1024):
+                        print("Do we get in chunk loop the loop")
                         if chunk:
+                            print("do we get in the if statement")
                             file.write(chunk)
+                            print(chunk)
+                            print("do we be writing done")
 
 
 def changeXAPKtoZIP(app_id):
