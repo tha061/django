@@ -3,14 +3,28 @@
 
 <!------ Include the above in your HEAD tag ---------->
 {% block content %}
+<p>{{test}}</p>
 
+<br>
+
+			<form method="get">
+
+				{{filter.form}}
+
+		    <button class="btn btn-primary" type="submit">Search</button>
+		  </form>
+
+<br>
 <table class="table">
   <thead class="thead-light">
     <tr>
       <th scope="col">ID</th>
       <th scope="col">Handle</th>
       <th scope="col">Sha-256</th>
-      
+			<th scope="col">3rd Party Sharing</th>
+			<th scope="col">Policy Link</th>
+
+
     </tr>
   </thead>
   <tbody>
@@ -22,13 +36,21 @@
             <td><a href= "{% url 'uploads:results' instance.id %}" method = post>{{ instance.id}}</td>
             <td>{{ instance.link_text}}</td>
             <td>{{ instance.VT_sha256}}</td>
+						<td>
+							<p>
+							{% for item in instance.smaliList %}
+							 {{item}},
+							{% endfor %}
+							</p>
+						</td>
+						<td>{{instance.privacyText}}</td>
+
 
 
     </tr>
     {% endfor %}
   </tbody>
 </table>
-
 
 
 {% endblock %}

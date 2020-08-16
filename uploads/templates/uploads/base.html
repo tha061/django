@@ -9,58 +9,343 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/static/css/stylesheet.css" />
 
-    <link rel="stylesheet" type="text/css" href="{% static 'uploads/homeCSS.css' %}">
+
+    <style>
+
+    body {
+      background: #fafafa;
+      color: #111111;
+      margin-top: 5rem;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: #444444;
+    }
+    h1 {text-align: center;}
+
+    ul {
+      margin: 0;
+    }
+
+    .bg-steel {
+      background-color:#3c6a6d;
+    }
+
+    .site-header .navbar-nav .nav-link {
+      color: #ffffff;
+    }
+
+    .site-header .navbar-nav .nav-link:hover {
+      color: #ffffff;
+    }
+
+    .site-header .navbar-nav .nav-link.active {
+      font-weight: 500;
+    }
+
+    .content-section {
+      background: #ffffff;
+      padding: 10px 20px;
+      border: 1px solid #dddddd;
+      border-radius: 3px;
+      margin-bottom: 20px;
+    }
+
+    .article-title {
+      color: #444444;
+    }
+
+    a.article-title:hover {
+      color: #428bca;
+      text-decoration: none;
+    }
+
+    .article-content {
+      white-space: pre-line;
+    }
+
+    .article-img {
+      height: 65px;
+      width: 65px;
+      margin-right: 16px;
+    }
+
+    .article-metadata {
+      padding-bottom: 1px;
+      margin-bottom: 4px;
+      border-bottom: 1px solid #e3e3e3
+    }
+
+    .article-metadata a:hover {
+      color: #333;
+      text-decoration: none;
+    }
+
+    .article-svg {
+      width: 25px;
+      height: 25px;
+      vertical-align: middle;
+    }
+
+    .account-img {
+      height: 125px;
+      width: 125px;
+      margin-right: 20px;
+      margin-bottom: 16px;
+    }
+
+    .account-heading {
+      font-size: 2.5rem;
+    }
+
+    /* Teams CSS */
 
 
+    .pricing .card {
+      border: none;
+      border-radius: 1rem;
+      transition: all 0.2s;
+      box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+    }
+
+    .pricing hr {
+      margin: 1.5rem 0;
+    }
+
+    .pricing .card-title {
+      margin: 0.5rem 0;
+      font-size: 0.9rem;
+      letter-spacing: .1rem;
+      font-weight: bold;
+    }
+
+    .pricing .card-price {
+      font-size: 3rem;
+      margin: 0;
+    }
+
+    .pricing .card-price .period {
+      font-size: 0.8rem;
+    }
+
+    .pricing ul li {
+      margin-bottom: 1rem;
+    }
+
+    .pricing .text-muted {
+      opacity: 0.7;
+    }
+
+    .pricing .btn {
+      font-size: 80%;
+      border-radius: 5rem;
+      letter-spacing: .1rem;
+      font-weight: bold;
+      padding: 1rem;
+      opacity: 0.7;
+      transition: all 0.2s;
+    }
+
+/* Hover Effects on Card */
+
+@media (min-width: 992px) {
+  .pricing .card:hover {
+    margin-top: -.25rem;
+    margin-bottom: .25rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+  }
+  .pricing .card:hover .btn {
+    opacity: 1;
+  }
+}
+
+
+
+.site-footer
+{
+  background-color:#3c6a6d;
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
+  color:#bff3dd;
+}
+.site-footer hr
+{
+  border-top-color:#bbb;
+  opacity:0.5
+}
+.site-footer hr.small
+{
+  margin:20px 0
+}
+.site-footer h6
+{
+  color:#fff;
+  font-size:16px;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px
+}
+.site-footer a
+{
+  color:#737373;
+}
+.site-footer a:hover
+{
+  color:#3366cc;
+  text-decoration:none;
+}
+.footer-links
+{
+  padding-left:0;
+  list-style:none
+}
+.footer-links li
+{
+  display:block
+}
+.footer-links a
+{
+  color:#bff3dd
+}
+.footer-links a:active,.footer-links a:focus,.footer-links a:hover
+{
+  color:#ffffff;
+  text-decoration:none;
+}
+.footer-links.inline li
+{
+  display:inline-block
+}
+.site-footer .social-icons
+{
+  text-align:right
+}
+.site-footer .social-icons a
+{
+  width:40px;
+  height:40px;
+  line-height:40px;
+  margin-left:6px;
+  margin-right:0;
+  border-radius:100%;
+  background-color:#33353d
+}
+.copyright-text
+{
+  margin:0
+}
+@media (max-width:991px)
+{
+  .site-footer [class^=col-]
+  {
+    margin-bottom:30px
+  }
+}
+@media (max-width:767px)
+{
+  .site-footer
+  {
+    padding-bottom:0
+  }
+  .site-footer .copyright-text,.site-footer .social-icons
+  {
+    text-align:center
+  }
+}
+
+
+
+    </style>
 </head>
 <body>
-    <header class="site-header">
-      <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
-        <div class="container">
-          <a class="navbar-brand mr-4" href="{% url 'Home' %}">App Garadyi</a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle" aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarToggle">
-            <div class="navbar-nav mr-auto">
-              <a class="nav-item nav-link" href="{% url 'uploads:uploadHere' %}">Upload</a>
-              <a class="nav-item nav-link" href="{% url 'database:databaseHome' %}">Database</a>
+  <header class="site-header">
+     <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
+       <div class="container">
+         <a class="navbar-brand mr-4" href="{% url 'Home' %}">App Garadyi</a>
+         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle" aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
+         <span class="navbar-toggler-icon"></span>
+         </button>
+         <div class="collapse navbar-collapse" id="navbarToggle">
+           <div class="navbar-nav mr-auto">
+             <a class="nav-item nav-link" href="{% url 'uploads:uploadHere' %}">Upload</a>
+             <a class="nav-item nav-link" href="{% url 'database:databaseHome' %}">Database</a>
 
-            </div>
-            <!-- Navbar Right Side -->
-            <div class="navbar-nav">
-              <a class="nav-item nav-link" href="{% url 'account:view_login' %}">Login</a>
-              <a class="nav-item nav-link" href="{% url 'account:view_logout' %}">Logout</a>
-              <a class="nav-item nav-link" href="{% url 'account:view_signup' %}">Register</a>
-              <a class="nav-item nav-link" href="{% url 'about' %}">About</a>
-            </div>
-          </div>
-        </div>
-      </nav>
-    </header>
+           </div>
+           <!-- Navbar Right Side -->
+           <div class="navbar-nav">
+             <a class="nav-item nav-link" href="{% url 'account:view_login' %}">Login</a>
+             <a class="nav-item nav-link" href="{% url 'account:view_logout' %}">Logout</a>
+             <a class="nav-item nav-link" href="{% url 'account:view_signup' %}">Register</a>
+             <a class="nav-item nav-link" href="{% url 'about' %}">About</a>
+           </div>
+         </div>
+       </div>
+     </nav>
+   </header>
+
     <main role="main" class="container">
       <div class="row">
-        <div class="col-md-8">
+        <div class="col-xl-12 align-self-center">
+          <div class="card card-body">
+
           {% block content %}{% endblock %}
-        </div>
-        <!--<div class="col-md-4">
-          <div class="content-section">
-            <h3>Our Sidebar</h3>
-            <p class='text-muted'>You can put any information here you'd like.
-              <ul class="list-group">
-                <li class="list-group-item list-group-item-light">Latest Posts</li>
-                <li class="list-group-item list-group-item-light">Announcements</li>
-                <li class="list-group-item list-group-item-light">Calendars</li>
-                <li class="list-group-item list-group-item-light">etc</li>
-              </ul>
-            </p>
           </div>
         </div>
-      </div> -->
+      </div>
     </main>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+
 </body>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<footer class="site-footer">
+     <div class="container">
+       <div class="row">
+         <div class="col-sm-12 col-md-6">
+           <h6>About</h6>
+           <p class="text-justify">This website performs privacy analysis on Google Play applications </p>
+
+         </div>
+
+         <div class="col-xs-6 col-md-3">
+           <h6>Quick Links</h6>
+           <ul class="footer-links">
+             <li><a href="">How To Use</a></li>
+             <li><a href="">Signup</a></li>
+             <li><a href="">Organisations</a></li>
+           </ul>
+         </div>
+
+         <div class="col-xs-6 col-md-3">
+           <h6>Other</h6>
+           <ul class="footer-links">
+             <li><a href="">Privacy Policy</a></li>
+             <li><a href="">Contact</a></li>
+             <li><a href="">Why</a></li>
+           </ul>
+         </div>
+       </div>
+       <hr>
+     </div>
+     <div class="container">
+       <div class="row">
+         <div class="col-md-8 col-sm-6 col-xs-12">
+           <p class="copyright-text">Copyright &copy; 2020 All Rights Reserved by Jake</p>
+         </div>
+
+       </div>
+     </div>
+</footer>
+
+
 </html>

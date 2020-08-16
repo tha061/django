@@ -60,10 +60,10 @@ def download(link,app_id):
                 with open(link.split('/')[-1] + '.xapk', 'wb') as file:
                     print("opens xapk File")
                     for chunk in r.iter_content(chunk_size=1024):
-                        print("CHUNK")
+                        #print("CHUNK")
                         if chunk:
                             file.write(chunk)
-                            print("WRITE")
+                            #print("WRITE")
 
 
                 print("Before Extracting to ZIP")
@@ -82,7 +82,7 @@ def download(link,app_id):
                         if chunk:
                             print("do we get in the if statement")
                             file.write(chunk)
-                            print(chunk)
+                            #print(chunk)
                             print("do we be writing done")
 
 

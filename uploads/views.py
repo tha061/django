@@ -23,6 +23,8 @@ from OpenSSL import SSL
 import time
 import re
 from django.core.files.base import ContentFile
+from .filters import *
+import html2text
 
 #This is just a class that contains variables that store information regarding the static and meta-info analysis of an APK
 #See the "function.py" file for the class definition
@@ -158,6 +160,33 @@ def download_Certfile(request):
     response['Content-Disposition'] = "attachment; filename=%s" % filename
     return response
 
+def download_PrivacyPolicyText(request):
+
+    val = request.POST.get('appCode', False);
+    #appID is the file name of the just analyzed APK
+    print("val:")
+    print(val)
+    appID = val+".txt"
+    print("appID: "+appID)
+
+    instanceID = request.POST.get('instanceID', False);
+    obj = Link.objects.get(id=int(instanceID))
+    certFilePath = obj.certFile.path
+
+    #path of the certificate file for the relevant APK
+
+    filename = appID
+    policyPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\PrivacyPolicyText", val+".txt")
+    fl = open(policyPATH, 'r')
+
+    #Returns the correct file and mime_type of the file upon clicking the "download" button
+    mime_type, _ = mimetypes.guess_type(policyPATH)
+    response = HttpResponse(fl, content_type=mime_type)
+    response['Content-Disposition'] = "attachment; filename=%s" % filename
+    return response
+
+
+
 #Upon submitting an APK for analysis, the "results" function is called.
 #This function will conduct all the static, meta-info and run the emulator.
 #Currently, it just conducts the static and meta-info collection,
@@ -198,6 +227,7 @@ def results(request, appID="Wrong"):
             apkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".apk")
             zipPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".zip")
             apkFolder = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads"
+            policyPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\PrivacyPolicyText", apkCode+".txt")
             apkFolderCD = r"Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownload"
             manifestPath  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\AndroidManifest.xml"%apkCode
 
@@ -269,6 +299,10 @@ def results(request, appID="Wrong"):
                 instance.metaData = metaInformation[0]
                 instance.rating = metaInformation[1]
                 instance.description = metaInformation[2]
+                instance.privacyText = metaInformation[3].get("Privacy Policy")
+                instance.smaliList = smaliDirectory
+
+
 
 
 
@@ -292,6 +326,8 @@ def results(request, appID="Wrong"):
                 jsonClass.description = metaInformation[2]
                 jsonClass.links = metaInformation[3]
                 jsonClass.smali_Directories = smaliDirectory
+                jsonClass.privacyText = metaInformation[3].get("Privacy Policy")
+
 
                 serialJSON = jsonClass.__dict__
 
@@ -329,16 +365,42 @@ def results(request, appID="Wrong"):
 
                 VT_sha256 = instance.VT_sha256
                 dictionary = {'apkCode':apkCode, 'linkID':"Not working", "Sha256": VT_sha256, "instanceID": instance.id}
+                print(instance.privacyText)
+
+
+                privacyPolicyText = getTextFromHTML(instance.privacyText)
+                #print("Privacy policy text............")
+                #print(privacyPolicyText)
+                privacyFile = open(policyPATH, "w")
+
+                try:
+                    print("in try block")
+                    privacyFile.write(privacyPolicyText)
+                    print("try block worked")
+                except Exception as e:
+                    print("exception: ")
+                    print(e)
+
+
+                    print("Couldn't get the url for privacy policy")
+                privacyFile.close()
+
                 return render(request,'uploads/download.html', dictionary)
+            print("do we get stuck here????")
     else:
+            print("in else")
             form = forms.CreateLink()
             print(form)
             print("APKCODE: ")
             print(appID)
             obj = Link.objects.get(id=int(appID))
             obj_text = obj.link_text
+            print("obj text: "+obj_text)
+            return render(request, 'uploads/download.html', {'form':form, 'appID':appID, 'apkCode': obj_text, 'instanceID':int(appID)} )
+    return redirect('uploads:ERROR')
 
-    return render(request, 'uploads/download.html', {'form':form, 'appID':appID, 'apkCode': obj_text, 'instanceID':int(appID)} )
+def ERROR(request):
+    return render(request, 'uploads/error.html')
 
 def vote(request, link_id):
     return HttpResponse("You're voting on link %s." % link_id)

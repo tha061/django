@@ -1,7 +1,8 @@
 from django.db import models
 from django.contrib.auth.models import User
 from django.contrib.postgres.fields import ArrayField
-
+from django_mysql.models import ListCharField
+from django.db.models import CharField
 
 
 
@@ -21,6 +22,15 @@ class Link(models.Model):
     jsonFile = models.FileField(blank = True, null = True, upload_to='Static')
     certFile = models.FileField(blank = True, null = True, upload_to='Certificate')
     VTFile = models.FileField(blank = True, null = True, upload_to='VirusTotal')
+    privacylink = models.CharField(max_length=200, blank=True, null=True)
+    privacyText = models.CharField(max_length=10000, blank=True, null=True)
+    smaliList = ListCharField(
+        base_field=CharField(max_length=50),
+        size=30,
+        max_length=(50 * 50),  # 6 * 10 character nominals, plus commas
+        blank = True,
+        null = True
+    )
 
 
     #rating = models.CharField(max_length=10, blank=True, null=True)

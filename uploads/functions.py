@@ -7,6 +7,12 @@ import pandas as pd
 import requests
 import shutil
 from django.core.files.base import ContentFile
+import urllib.request
+import bs4 as bs4
+from bs4.element import Comment
+import html2text
+from urllib.request import Request, urlopen
+
 
 def returnZ(str):
     return str[0]
@@ -27,6 +33,39 @@ def apkToZip(folder, code):
    # Extract all the contents of zip file in current directory
         zipObj.extractall(code)
 
+def getTextFromHTML(link):
+    req = Request(link, headers={'User-Agent': 'Mozilla/5.0'})
+    html = urllib.request.urlopen(req).read()
+    return text_from_html(html)
+
+def text_from_html(body):
+    soup = BeautifulSoup(body, 'html.parser')
+    texts = soup.findAll(text=True)
+    visible_texts = filter(tag_visible, texts)
+    return u" ".join(t.strip() for t in visible_texts)
+
+
+
+def tag_visible(element):
+    if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
+        return False
+    if isinstance(element, Comment):
+        return False
+    return True
+
+
+
+    '''
+    webpage=str(urllib.request.urlopen(link).read())
+    soup = bs4.BeautifulSoup(webpage, 'html.parser')
+    text = soup.get_text()
+    print("TEXT")
+    print(text)
+    print("End TEXT")
+
+    html = open(link).read()
+    print(html2text.html2text(html))
+    '''
 def getLibrariesDirectories(app_id):
 
     paths = getSmaliFolders(app_id)
@@ -639,10 +678,17 @@ def SaveFiletoDatabase(filePath, typeOfFile, modelInstance, apkCode):
     modelInstance.save()
 
 
+def checkListEmpty(checkList):
+    if len(checkList) == 0:
+        return True
+    else:
+        return False
+
 
 class APKAnalysis():
     def __init__(self, name="", fileSize="", VTmd5="", VTmsg="", VTpermalink="", VTresource="", VTresponsecode="", VTscanID="",
-    VTsha1="", VTsha256="", VTtotal="", VTpositives="",usesPermissions = "", permissions = "", metaData ="", rating="", description="", service=""):
+    VTsha1="", VTsha256="", VTtotal="", VTpositives="",usesPermissions = "", permissions = "", metaData ="", rating="", description="", service="", privacyText="",
+    boolDangerousPerm = False, boolSmali = False, boolPP3rdPartyPP = False):
         self.name = name
         self.fileSize = fileSize
         self.VTmd5 = VTmd5
@@ -661,3 +707,7 @@ class APKAnalysis():
         self.metaData = metaData
         self.rating = rating
         self.description = description
+        self.privacyText = privacyText
+        self.boolDangerousPerm = boolDangerousPerm
+        self.boolSmali = boolSmali
+        self.boolPP3rdPartyPP = boolPP3rdPartyPP
