@@ -42,5 +42,13 @@
 
   <input type = "submit" value = "Download">
 </form>
+<h1>URLS Requested can be downloaded here</h1>
+<form class = "site-form" action="{% url 'uploads:download_URLRequests' %}" method = "post">
+  {% csrf_token %}
+  <input type = "hidden" name="appCode" value={{apkCode}}>
+  <input type = "hidden" name="instanceID" value={{instanceID}}>
+
+  <input type = "submit" value = "Download">
+</form>
 </body>
 {% endblock content %}

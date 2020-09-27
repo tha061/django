@@ -3,8 +3,8 @@ import os
 from os import chdir, system
 
 
-def openEmulator():
-    AVD = "Pixel_3_API"
+def openEmulator(name):
+    AVD = name
     os.system("emulator -avd "+AVD)
 
 def installApp(appID):
@@ -12,9 +12,21 @@ def installApp(appID):
     os.chdir(apkPath)
     os.system("adb install "+ appID +".apk")
 
-def monkeyCMD():
+def monkeyCMD(apkHandle):
     binPath = r"C:\Users\jake_\AppData\Local\Android\Sdk\tools\bin"
     os.chdir(binPath)
-    os.chdir(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\uploads")
-    os.system("monkeyrunner monkeyscript.py")
+    cmd = "monkeyrunner script.py "+apkHandle
+    print("Executing monkeyCMD")
+    print(cmd)
+    os.system(cmd)
+    print("Finished Monkeyrunner")
+    mitmdumpDecompile(apkHandle)
     #os.system()
+
+def mitmdumpDecompile(apkHandle):
+    binPath = r"C:\Users\jake_\AppData\Local\Android\Sdk\tools\bin"
+    os.chdir(binPath)
+    cmd = "py mitmdump_parser.py "+apkHandle
+    print("Decompiling MITM Results")
+    print(cmd)
+    os.system(cmd)

@@ -9,5 +9,7 @@ urlpatterns = [
     path('', views.databaseHome, name='databaseHome'),
     path('health-list', views.collectHealthList, name='collectHealthList'),
     path('corpus-csv', views.corpusCSV, name='corpusCSV'),
+    path('split-csv', views.splitCSV, name='splitCSV'),
+    path('makeURLArray', views.makeURLArray, name='makeURLArray'),
 
 ]

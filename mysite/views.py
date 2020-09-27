@@ -5,8 +5,8 @@ from uploads.functions import *
 
 def Home(request):
 
-    #print("REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
-    print(getTextFromHTML('https://www.rosevilleplumbing.com.au/'))
+    print("We are on the home page")
+    #print(getTextFromHTML('https://www.rosevilleplumbing.com.au/'))
 
     return render(request, 'mysite/home.html')
 

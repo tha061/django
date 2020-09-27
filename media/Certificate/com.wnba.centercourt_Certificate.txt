@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1277196977 (0x4c207ab1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CN, ST=Shanghai, L=Shanghai, O=Neulion Inc, OU=Neulion Inc, CN=Xiaodong Wang
+        Validity
+            Not Before: Jun 22 08:56:17 2010 GMT
+            Not After : Jun 16 08:56:17 2035 GMT
+        Subject: C=CN, ST=Shanghai, L=Shanghai, O=Neulion Inc, OU=Neulion Inc, CN=Xiaodong Wang
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a8:d8:f7:e1:35:e9:39:b1:e8:a8:5f:97:68:6b:
+                    b3:ad:02:24:26:d0:fe:80:60:df:a7:fe:c6:9c:7b:
+                    13:6f:74:db:cc:9e:88:e4:ea:24:fa:42:7a:c1:fd:
+                    ed:d9:dd:44:e4:56:e0:9b:c8:81:85:5f:76:c1:3d:
+                    5e:2d:2f:78:09:65:21:4d:c5:17:5c:80:0d:0c:26:
+                    95:cb:89:b3:f6:a9:61:be:f9:4c:79:fc:a0:fb:cb:
+                    45:0a:a4:f2:ee:f8:ab:65:16:8c:22:02:26:64:e3:
+                    a1:5c:b8:22:ed:e4:58:c1:66:d2:d0:2c:19:92:6e:
+                    75:68:bd:de:9f:1c:8f:48:3d
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         96:5d:06:48:42:61:cd:4e:de:7c:61:b5:d3:c1:9e:af:fc:27:
+         ed:ae:cc:6d:e4:03:66:89:bd:2a:b6:51:b9:1e:c3:3e:cd:0b:
+         80:85:59:c1:8b:81:1d:72:e7:d2:80:98:d9:f0:5b:f8:f4:72:
+         f5:f7:18:ee:8f:80:14:61:ce:70:a8:6f:4d:9a:bb:9c:30:f4:
+         32:76:64:e3:ae:1b:3b:9d:54:e8:db:e3:af:79:d4:43:ce:4c:
+         cb:3e:33:bc:9b:30:78:6a:61:d7:ea:7a:67:7b:4f:23:33:fb:
+         de:aa:45:5d:83:79:26:30:e2:15:dc:6a:20:b9:a6:14:96:ad:
+         db:cd
+-----BEGIN CERTIFICATE-----
+MIICZTCCAc6gAwIBAgIETCB6sTANBgkqhkiG9w0BAQUFADB3MQswCQYDVQQGEwJD
+TjERMA8GA1UECBMIU2hhbmdoYWkxETAPBgNVBAcTCFNoYW5naGFpMRQwEgYDVQQK
+EwtOZXVsaW9uIEluYzEUMBIGA1UECxMLTmV1bGlvbiBJbmMxFjAUBgNVBAMTDVhp
+YW9kb25nIFdhbmcwHhcNMTAwNjIyMDg1NjE3WhcNMzUwNjE2MDg1NjE3WjB3MQsw
+CQYDVQQGEwJDTjERMA8GA1UECBMIU2hhbmdoYWkxETAPBgNVBAcTCFNoYW5naGFp
+MRQwEgYDVQQKEwtOZXVsaW9uIEluYzEUMBIGA1UECxMLTmV1bGlvbiBJbmMxFjAU
+BgNVBAMTDVhpYW9kb25nIFdhbmcwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGB
+AKjY9+E16Tmx6Khfl2hrs60CJCbQ/oBg36f+xpx7E29028yeiOTqJPpCesH97dnd
+RORW4JvIgYVfdsE9Xi0veAllIU3FF1yADQwmlcuJs/apYb75THn8oPvLRQqk8u74
+q2UWjCICJmTjoVy4Iu3kWMFm0tAsGZJudWi93p8cj0g9AgMBAAEwDQYJKoZIhvcN
+AQEFBQADgYEAll0GSEJhzU7efGG108Ger/wn7a7MbeQDZom9KrZRuR7DPs0LgIVZ
+wYuBHXLn0oCY2fBb+PRy9fcY7o+AFGHOcKhvTZq7nDD0MnZk464bO51U6Nvjr3nU
+Q85Myz4zvJsweGph1+p6Z3tPIzP73qpFXYN5JjDiFdxqILmmFJat280=
+-----END CERTIFICATE-----
+

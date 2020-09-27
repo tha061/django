@@ -1,0 +1,45 @@
+{
+  "name": "com.nabin.lrrh",
+  "fileSize": null,
+  "VTmd5": "ea961274ac861c1609d6a84e1d5f1dda",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/1bbe54bed316d04e13e7efc12b11e24657cb08eaca84d63cfe296ac261422ba0/detection/f-1bbe54bed316d04e13e7efc12b11e24657cb08eaca84d63cfe296ac261422ba0-1596012212",
+  "VTresource": "1bbe54bed316d04e13e7efc12b11e24657cb08eaca84d63cfe296ac261422ba0",
+  "VTresponsecode": 1,
+  "VTscanID": "1bbe54bed316d04e13e7efc12b11e24657cb08eaca84d63cfe296ac261422ba0-1596012212",
+  "VTsha1": "129b22782132108c5b94a929116020d0343cd478",
+  "VTsha256": "1bbe54bed316d04e13e7efc12b11e24657cb08eaca84d63cfe296ac261422ba0",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "usesPermissions": [
+    "android.permission.BIND_CARRIER_SERVICES Protection Level: signature|privileged"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "19 June 2020",
+    "Size": "3.4k",
+    "Installs": "10000, Warning: Low amount of users",
+    "Current Version": "4",
+    "Requires Android": "1.5 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Nabin Bhandari",
+    "Developer": "bnabin51@gmail.com Nirmalpokhari - 21, Pokhara Lekhnath, Nepal"
+  },
+  "rating": "4.2",
+  "description": "This app may be useful for those users who wants to strictly set the network mode to LTE (4G) only, or WCDMA (3G) only, or GSM (2G) only. This smallest app (APK Size: 3.38 KB) displays some hidden information about your android device. One can achieve the same functionality by dialing the secret code *#*#4636#*#* on the phone's dialer.",
+  "privacyText": "",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "links": {
+    "Developer Website": "",
+    "Developer Email": "bnabin51@gmail.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": []
+}

@@ -9,7 +9,7 @@ import play_scraper
 import re
 import os
 import csv
-from uploads.functions import getTextFromHTML
+from uploads.functions import getTextFromHTML, makeTrackingHeadersArray,detectTrackersInHeaders
 
 @login_required(login_url="/account/login")
 def databaseHome(request):
@@ -27,7 +27,7 @@ def databaseHome(request):
         "filter":filter,
         "test":test
     }
-    
+
     return render(request, 'database/database.html', context)
 
 def corpusCSV(request):
@@ -173,7 +173,7 @@ def checkPrice(id):
 
 def getSet():
     existingIDs = set()
-    file = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\thesisList.txt", "r")
+    file = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\ThesisStuff\thesisList.txt", "r")
     readLines = file.readlines()
     for line in readLines:
         string = line.split(",")[0]
@@ -218,3 +218,30 @@ def check3rdParty(text):
         if xAndPerformed in text:
             print("DETECTED 3rd Party")
             return True
+
+def splitCSV(request):
+    path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\corpus\texts2.csv"
+    pos = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\corpus\Train\Positive"
+    neg = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\corpus\Train\Negative"
+    corpusCSV = open(path,"r")
+    counter = 0;
+    for line in corpusCSV.readlines():
+        counter = counter+1
+        if(line[0:line.find(",")] == "positive"):
+            newFile = open(os.path.join(pos,str(counter)+".txt"), "w")
+            newFile.write(line[line.find(",")+1:find_2nd(line,",")])
+        else:
+            newFile = open(os.path.join(neg,str(counter)+".txt"), "w")
+            newFile.write(line[line.find(",")+1:find_2nd(line,",")])
+        newFile.close()
+        print(line[0:line.find(",")])
+
+    return render(request, 'database/database.html')
+
+def makeURLArray(request):
+    path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\mitmdumps results\1pm_11_Sep_v4_Copy\requested_urls.txt"
+    detectTrackersInHeaders(makeTrackingHeadersArray(), path)
+    return render(request, 'database/database.html')
+
+def find_2nd(string, substring):
+   return string.find(substring, string.find(substring) + 1)

@@ -34,7 +34,12 @@ def apkToZip(folder, code):
         zipObj.extractall(code)
 
 def getTextFromHTML(link):
-    req = Request(link, headers={'User-Agent': 'Mozilla/5.0'})
+    if link == '':
+        print("non existent link")
+        return "No Privacy Policy"
+    print("link: "+link)
+    req = Request(link, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.5 (KHTML, like Gecko) '
+                  'Version/9.1.2 Safari/601.7.5 '})
     html = urllib.request.urlopen(req).read()
     return text_from_html(html)
 
@@ -387,6 +392,7 @@ def download_apk(package, version_code, output_path):
     :param version_code: which version of the app you want to download
     :param output_path: where to save the apk file
     """
+    print("in download_apk()...........................................................")
     try:
         # warning: we must emulate an ATOMIC write to avoid unfinished files.
         # To do so, we use the os.rename() function that should always be atomic under
@@ -398,6 +404,7 @@ def download_apk(package, version_code, output_path):
             f.write(data)
         os.rename(output_path + ".temp", output_path)
     except DownloadError as e:
+        print(e)
         logging.error(str(e))
 
 def getManifest(path):
@@ -661,21 +668,23 @@ def VerifyCertificate(appID):
 
 def SaveFiletoDatabase(filePath, typeOfFile, modelInstance, apkCode):
     #typeOfFile can be "Cert", "VT", "Static"
-    f = open(filePath,'r')
-
-    if f:
-        file_content = ContentFile(f.read())
-        print(f.read())
-        print(file_content)
-        if typeOfFile == "Static":
-            modelInstance.jsonFile.save(apkCode+ " Static and Meta.txt",file_content)
-        if typeOfFile == "VT":
-            modelInstance.VTFile.save(apkCode+ " VirusTotal.txt",file_content)
-        if typeOfFile == "CertFile":
-            modelInstance.certFile.save(apkCode+ " Certificate.txt",file_content)
+    try:
+        f = open(filePath,'r')
+        if f:
+            file_content = ContentFile(f.read())
+            print(f.read())
+            print(file_content)
+            if typeOfFile == "Static":
+                modelInstance.jsonFile.save(apkCode+ " Static and Meta.txt",file_content)
+            if typeOfFile == "VT":
+                modelInstance.VTFile.save(apkCode+ " VirusTotal.txt",file_content)
+            if typeOfFile == "CertFile":
+                modelInstance.certFile.save(apkCode+ " Certificate.txt",file_content)
+            modelInstance.save()
+        f.close()
         modelInstance.save()
-    f.close()
-    modelInstance.save()
+    except:
+        print("Could not save file for some reason????")
 
 
 def checkListEmpty(checkList):
@@ -683,6 +692,62 @@ def checkListEmpty(checkList):
         return True
     else:
         return False
+
+def makeTrackingHeadersArray():
+    list = []
+    filePath = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\urlHeaderTextFiles\GeneralTrackingSystems.txt"
+    with open(filePath) as f:
+        for line in f:
+            #print(line)
+            if(line[0] == '!'):
+                print("do nothing")
+            else:
+                list.append(line.rstrip("\n"))
+    f.close()
+    return list
+
+
+def convertTextToList(filePath):
+    list = []
+    with open(filePath) as f:
+        for line in f:
+            list.append(line.rstrip("\n"))
+    f.close()
+    return list
+
+def detectTrackersInHeaders(trackersList, requestedListPath, apkCode):
+    requestedList = convertTextToList(requestedListPath)
+
+    trackerHeaderList = []
+    requestedTrackersList = []
+
+    for req in requestedList:
+        for tracker in trackersList:
+            if tracker in req:
+                trackerHeaderList.append(req)
+                requestedTrackersList.append(tracker)
+                print()
+        if(len(requestedTrackersList)>0):
+            print("req: "+req)
+            print("list: "+str(requestedTrackersList))
+            writeURLSToFile(req, requestedTrackersList, apkCode)
+            requestedTrackersList = []
+
+    print("HeaderList")
+    print(trackerHeaderList)
+    print("RequestedTrackerList")
+    print(requestedTrackersList)
+    return trackerHeaderList, requestedTrackersList
+
+def writeURLSToFile(trackerHeaderList, requestedTrackersList, apkCode):
+    path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\requested_urls_sharing\%s.txt"%apkCode
+    with open(path,  'a') as f:
+        for tracker in requestedTrackersList:
+            #json.dump(x, outfile)
+
+            f.write(trackerHeaderList+", "+tracker+"\n")
+    f.close()
+
 
 
 class APKAnalysis():

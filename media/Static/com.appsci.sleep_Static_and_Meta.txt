@@ -1,0 +1,83 @@
+{
+  "name": "com.appsci.sleep",
+  "fileSize": "83.5 MB",
+  "VTmd5": "61b7110eafbdb67f64bfd68f21d6647e",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/af97ad92c7c8ac0f7af16404f4ae2851bd2502e4ebb09bf48c3f7f3db156c859/detection/f-af97ad92c7c8ac0f7af16404f4ae2851bd2502e4ebb09bf48c3f7f3db156c859-1599821146",
+  "VTresource": "af97ad92c7c8ac0f7af16404f4ae2851bd2502e4ebb09bf48c3f7f3db156c859",
+  "VTresponsecode": 1,
+  "VTscanID": "af97ad92c7c8ac0f7af16404f4ae2851bd2502e4ebb09bf48c3f7f3db156c859-1599821146",
+  "VTsha1": "29c48d19d296d9e6c6d223181f1797e84393c24b",
+  "VTsha256": "af97ad92c7c8ac0f7af16404f4ae2851bd2502e4ebb09bf48c3f7f3db156c859",
+  "VTtotal": 59,
+  "VTpositives": 0,
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.appsci.sleep.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "com.android.alarm.permission.SET_ALARM Protection Level: normal",
+    "android.permission.RECORD_AUDIO Protection Level: dangerous",
+    "android.permission.USE_FULL_SCREEN_INTENT Protection Level: normal",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "android.permission.BIND_CARRIER_SERVICES Protection Level: signature|privileged"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.appsflyer.FirebaseMessagingServiceListener  permission: ",
+      "name: com.appsci.sleep.presentation.fcm.NotificationService  permission: ",
+      "name: com.appsci.sleep.presentation.sections.morning.alarm.service.AlarmService  permission: ",
+      "name: com.appsci.sleep.presentation.sections.booster.service.BoosterService  permission: ",
+      "name: io.intercom.android.sdk.fcm.IntercomFcmMessengerService  permission: ",
+      "name: androidx.work.impl.background.systemalarm.SystemAlarmService  permission: ",
+      "name: androidx.work.impl.background.systemjob.SystemJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "23 September 2020",
+    "Size": "84M",
+    "Installs": "1000000, Warning: Low amount of users",
+    "Current Version": "3.7.2",
+    "Requires Android": "6.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$0.99 \u2013 $89.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Boosters",
+    "Developer": "Visit website support@sleep-booster.com Privacy Policy GM Appdev ltd, Florinis 7, Greg Tower, 2nd floor, 1065, Nicosia, Cyprus"
+  },
+  "rating": "3.3",
+  "description": "Sleep Booster  is a perfect sleep solution for those who would like to fall asleep easily and wake up energized with the help of special breathing technique, meditation sessions, calming sounds  and refreshing alarm melodies.  Sleep Booster  is based on the only extremely effective \ud83d\ude80drug-free \ud83d\ude45\u200d\u2640\ufe0f option for overcoming sleeping problems. Unlike sleeping pills, it helps to eliminate the underlying causes of sleeping problems and develop better sleep habits\u2728.  \u2b50\ufe0f  HOW SLEEP BOOSTER WORKS \u2b50\ufe0f  Falling asleep: Deep calm breathing leads to the predominance of the processes of inhibition in the central nervous system. It allows to regulate pressure and heartbeat, focus attention on breathing, thereby distracting from unwanted thoughts. Deep and controlled breathing is evolutionarily associated with a feeling of rest and relaxation. In addition, soothing sounds provide an opportunity to relax and get a positive emotion, effectively reducing the likelihood of excitation before sleep.  \u2b50\ufe0f  Sleep retention: Breathing technique results in more reliable replacement of wakefulness rhythms (alpha and beta waves) with low-amplitude sleep waves (theta and delta waves), thus making sleep much more durable. Meditation sessions promote deep relaxation, bring the body to a deep and lasting sleep. Bedtime meditation qualitatively improves the most fragile REM phase, which allows you to complete a full sleep cycle and feel yourself full of energy in the morning. \u2b50\ufe0f  Awakening: After a good deep sleep your body is restored and is ready to function in full. Pleasant alarm melodies allow you to wake up gently, gradually and with no stress. It is very important to live the first minutes of your day with positive emotions and thoughts.   \u2b50\ufe0f  WHY DO YOU NEED SLEEP BOOSTER? Ask yourself the following questions:  \u2753 Do you face difficulty getting to sleep or staying asleep? \u2753 Do you feel tired in the morning right after you wake up?  \u2753 Do you have difficulty concentrating during the day? \u2753 Are you struggling to stay organized?  \u2753 Do you feel so tired that all you can think about is sleep? If you answered yes to any of these questions, then you can definitely benefit from using  Sleep Booster  app for sleep and well-being improvement. Download  Sleep Booster  and enjoy your perfect sleeping experience. \u2b50\ufe0f  WHY SLEEP BOOSTER? \ud83c\udf1d We help you fall asleep easily.  \ud83c\udf1a We care about your sleep during the night.  \ud83c\udf1eWe wake you up smoothly with no stress.  FEATURING \u26a1\ufe0f10+ sleep boosting sounds that let you fall asleep easily without waking up at night  \u26a1\ufe0f30+ relaxing meditations for a better night\u2019s sleep \u26a1\ufe0f10+ specially designed refreshing alarm melodies that wake you up gently \u26a1\ufe0fspecial breathing technique to unwind your mind before sleep  \u26a1\ufe0fsleep quality assessment used for all-inclusive individual sleeping solutions \u26a1\ufe0fadjusting sleeping schedule Download  Sleep Booster  and start treating yourself with pleasant nights \ud83c\udf1a and energetic mornings \ud83d\udcaa\ud83d\udd25  You can contact our client support: support@sleep-booster.com Terms & Conditions: https://sleep-booster.com/info/terms.html Privacy Policy: https://sleep-booster.com/info/privacy-policy.html",
+  "privacyText": "https://sleep-booster.com/info/privacy-policy.html",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "links": {
+    "Developer Website": "https://www.sleepsci.tips/",
+    "Developer Email": "support@sleep-booster.com",
+    "Privacy Policy": "https://sleep-booster.com/info/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Appsflyer",
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Github",
+    "Google Ads"
+  ]
+}
