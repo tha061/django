@@ -41,7 +41,7 @@ def getTextFromHTML(link):
     req = Request(link, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.5 (KHTML, like Gecko) '
                   'Version/9.1.2 Safari/601.7.5 '})
     html = urllib.request.urlopen(req).read()
-    return text_from_html(html)
+    return text_from_html(html).replace("\n", " ").replace("\t", " ").replace("     ", " ").replace(",", " ").replace("\"", "")
 
 def text_from_html(body):
     soup = BeautifulSoup(body, 'html.parser')
@@ -612,11 +612,12 @@ def makeCertificateFile(appID):
     os.system(systemString)
 
 
-    shutil.copy(apkCertFile, certificateFolder)
+    try:
+        shutil.copy(apkCertFile, certificateFolder)
+        os.remove(apkCertFile)
+    except:
+        print("No certificate file")
 
-
-
-    os.remove(apkCertFile)
     #os.chdir(apkFolder)
 
 def RSAtoPEM(appID):

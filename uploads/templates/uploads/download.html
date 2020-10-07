@@ -50,5 +50,14 @@
 
   <input type = "submit" value = "Download">
 </form>
+
+<h1>Tracking URLS Requested can be downloaded here</h1>
+<form class = "site-form" action="{% url 'uploads:download_SuspiciousURLRequests' %}" method = "post">
+  {% csrf_token %}
+  <input type = "hidden" name="appCode" value={{apkCode}}>
+  <input type = "hidden" name="instanceID" value={{instanceID}}>
+
+  <input type = "submit" value = "Download">
+</form>
 </body>
 {% endblock content %}

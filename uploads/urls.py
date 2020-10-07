@@ -19,6 +19,7 @@ urlpatterns = [
     path('VirusTotalDownload/', views.download_VirusTotal, name = 'download_VirusTotal'),
     path('PrivacyPolicyTextDownload/', views.download_PrivacyPolicyText, name = 'download_PrivacyPolicyText'),
     path('URLRequestsDownload/', views.download_URLRequests, name = 'download_URLRequests'),
+    path('SuspiciousURLRequestsDownload/', views.download_SuspiciousURLRequests, name = 'download_SuspiciousURLRequests'),
     path('emulator/', views.emulator, name='emulator'),
     path('avd', views.avd, name='avd'),
     path('avd_results', views.avd_results, name='avd_results'),

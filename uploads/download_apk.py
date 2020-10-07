@@ -91,7 +91,10 @@ def changeXAPKtoZIP(app_id):
     apkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", app_id+".apk")
     zipPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", app_id+".zip")
 
-    os.rename(xapkPATH, zipPATH)
+    try:
+        os.rename(xapkPATH, zipPATH)
+    except:
+        print("zip file aready exists - in changeXAPKtoZip")
 
 def extractAPK(app_id):
         xapkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", app_id+".xapk")

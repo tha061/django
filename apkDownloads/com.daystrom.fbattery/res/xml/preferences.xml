@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:entries="@array/notification_images" android:title="@string/preference_notification_title" android:key="@string/preference_notification_key" android:summary="@string/preference_notification_summary" android:dialogTitle="@string/preference_notification_dialogTitle" android:entryValues="@array/notification_codes" />
+    <ListPreference android:entries="@array/battery_images" android:title="@string/preference_battery_title" android:key="@string/preference_battery_key" android:summary="@string/preference_battery_summary" android:dialogTitle="@string/preference_battery_dialogTitle" android:entryValues="@array/battery_codes" />
+    <ListPreference android:entries="@array/home_images" android:title="@string/preference_home_title" android:key="@string/preference_home_key" android:summary="@string/preference_home_summary" android:dialogTitle="@string/preference_home_dialogTitle" android:entryValues="@array/home_codes" />
+</PreferenceScreen>

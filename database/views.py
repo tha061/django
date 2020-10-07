@@ -10,6 +10,7 @@ import re
 import os
 import csv
 from uploads.functions import getTextFromHTML, makeTrackingHeadersArray,detectTrackersInHeaders
+from  uploads.machineLearningFunctions import *
 
 @login_required(login_url="/account/login")
 def databaseHome(request):
@@ -44,14 +45,11 @@ def corpusCSV(request):
 
         if "TEST" in lines[2]:
             TrainingBoolean = False
-
-
-
         allText = ""
 
         for line in lines:
             allText = allText + line
-        ThirdPartyBoolean = check3rdParty(allText)
+        ThirdPartyBoolean = check3rdParty(allText, i)
 
         segment_text_positions = [m.start() for m in re.finditer('segment_text: ', allText)]
         sentence_text_positions = [m.start() for m in re.finditer('sentence_text: ', allText)]
@@ -74,6 +72,7 @@ def corpusCSV(request):
         entire_text_single = entire_text_single.replace("\t", " ")
         entire_text_single = entire_text_single.replace("     ", " ")
         entire_text_single = entire_text_single.replace(",", " ")
+        entire_text_single = entire_text_single.replace("\"", "")
 
 
 
@@ -82,7 +81,7 @@ def corpusCSV(request):
         if(ThirdPartyBoolean == True):
             SharingInfo = "positive"
 
-        corpusCSV = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\corpus\what.txt","a")
+        corpusCSV = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\corpus\6Oct.txt","a")
         #corpusCSV.write(SharingInfo+", "+str(TrainingBoolean)+"\n")
         corpusCSV.write(SharingInfo+", "+entire_text_single+", "+str(TrainingBoolean)+"\n")
         #corpusCSV.write(entire_text_single+"\n")
@@ -104,8 +103,6 @@ def collectHealthList(request):
     recursiveHealthList('com.dgse.grukoza_body_composition_tracker', list(getSet()), markedList+"\n")
 
         #print(x.get("app_id"))
-
-
     return render(request, 'database/health-list.html')
 
 def recursiveHealthList(startID, list, markedList):
@@ -182,7 +179,7 @@ def getSet():
 
     return existingIDs
 
-def check3rdParty(text):
+def check3rdParty(text, i):
     ThirdParyList = [
     'Contact_3rdParty',
     'Contact_City_3rdParty',
@@ -216,11 +213,12 @@ def check3rdParty(text):
     for x in ThirdParyList:
         xAndPerformed = x + "\n    modality: PERFORMED"
         if xAndPerformed in text:
-            print("DETECTED 3rd Party")
+            print("DETECTED 3rd Party in: "+str(i)+"   Because of: "+xAndPerformed)
             return True
 
 def splitCSV(request):
-    path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\corpus\texts2.csv"
+    #this reads the csv and puts it in the files
+    path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\corpus\6Oct.csv"
     pos = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\corpus\Train\Positive"
     neg = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\corpus\Train\Negative"
     corpusCSV = open(path,"r")
@@ -245,3 +243,13 @@ def makeURLArray(request):
 
 def find_2nd(string, substring):
    return string.find(substring, string.find(substring) + 1)
+
+def makePPString(request):
+    path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\PrivacyPolicyText\com.spartan.butt.free.txt"
+    with open(path, 'r') as file:
+        data = file.read().replace('\n', '')
+    print(data)
+
+def testFunction(request):
+    PPShares3rdParty("We do not share your personal phone number with third parties. These third parties include google analytics and advertisers.")
+    return render(request, 'database/health-list.html')

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/FrameLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/LinearLayoutMain" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TableLayout android:id="@id/TableLayoutStatusBar" android:background="#fff7f3f7" android:layout_width="fill_parent" android:layout_height="wrap_content"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <TableRow android:gravity="right" android:id="@id/TableRow01" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:id="@id/ImageView3g" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/sys_data_connected_3g" />
+                <ImageView android:id="@id/ImageViewSignal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/sys_signal_4" />
+                <ImageView android:id="@id/ImageViewBattery" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/sys_battery_empty" />
+                <DigitalClock android:textSize="16.0dip" android:textStyle="bold" android:textColor="#ff000000" android:layout_gravity="center_vertical" android:id="@id/DigitalClock" android:paddingLeft="5.0px" android:paddingRight="5.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <LinearLayout android:id="@id/LinearLayoutHome" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ImageView android:layout_gravity="bottom" android:id="@id/ImageViewHome" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center" android:id="@id/LinearLayoutImage" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:id="@id/ImageViewClickable" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</FrameLayout>

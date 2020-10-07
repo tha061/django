@@ -1,1 +1,0 @@
-https://impression-east.liftoff.io/mopub/beacon?ad_group_id=109390&channel_id=6&creative_id=103632&auction_id=55866401-352c-4c11-bfac-9c5a6435cde8_009bcab200f9e112&origin=haggler-mopub930, /beacon?

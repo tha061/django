@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="TableLayout01" />
+    <item type="id" name="TableRow01" />
+    <item type="id" name="ImageView01" />
+    <item type="id" name="TextView01" />
+    <item type="id" name="TableRow02" />
+    <item type="id" name="Author_label" />
+    <item type="id" name="App_Author" />
+    <item type="id" name="TableRow03" />
+    <item type="id" name="Version_label" />
+    <item type="id" name="App_Version" />
+    <item type="id" name="LinearLayout01" />
+    <item type="id" name="AboutOK" />
+    <item type="id" name="FrameLayout01" />
+    <item type="id" name="LinearLayoutMain" />
+    <item type="id" name="TableLayoutStatusBar" />
+    <item type="id" name="ImageView3g" />
+    <item type="id" name="ImageViewSignal" />
+    <item type="id" name="ImageViewBattery" />
+    <item type="id" name="DigitalClock" />
+    <item type="id" name="LinearLayoutHome" />
+    <item type="id" name="ImageViewHome" />
+    <item type="id" name="LinearLayoutImage" />
+    <item type="id" name="ImageViewClickable" />
+</resources>

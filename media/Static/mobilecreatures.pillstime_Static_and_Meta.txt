@@ -1,0 +1,70 @@
+{
+  "name": "mobilecreatures.pillstime",
+  "fileSize": "6.9 MB",
+  "VTmd5": "0dff6afbe29b496b7a6724ab8634abe2",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/4e4e2074e98f6940acc7877e7ed926206ede1fd00fffc294f879da30b9eacfbf/detection/f-4e4e2074e98f6940acc7877e7ed926206ede1fd00fffc294f879da30b9eacfbf-1598977624",
+  "VTresource": "4e4e2074e98f6940acc7877e7ed926206ede1fd00fffc294f879da30b9eacfbf",
+  "VTresponsecode": 1,
+  "VTscanID": "4e4e2074e98f6940acc7877e7ed926206ede1fd00fffc294f879da30b9eacfbf-1598977624",
+  "VTsha1": "f89038e12b8041da498c86f111e3558d4cf814e7",
+  "VTsha256": "4e4e2074e98f6940acc7877e7ed926206ede1fd00fffc294f879da30b9eacfbf",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "android.permission.BIND_CARRIER_SERVICES Protection Level: signature|privileged"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: mobilecreatures.pillstime._logic.BroadcastReceiver.NotificationJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "1 August 2020",
+    "Size": "20M",
+    "Installs": "100000, Warning: Low amount of users",
+    "Current Version": "2.0.2",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$1.49 \u2013 $6.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Mobile Creatures",
+    "Developer": "Visit website mobilecreatures@gmail.com Privacy Policy Russian Federation, Saint Petersburg, 5-ya Sovietskaya st. 19"
+  },
+  "rating": "4.5",
+  "description": "Do you always take medicines on time? And if you forget about taking vitamins? Our reminder will help you remember about your health, even when you have not enough time! Each person need to support his own health. To do this you need to eat right, to drink clean water and take vitamins. Sometimes health is weakened and we can get sick. Every disease is uncomfortable. And the modern pace of life sometimes just does not allow us to relax and rest up at home. Sometimes we don't even have time to go to the pharmacy! How not to forget, what medicine we need to take and when? How to remember, which pills to buy? We present you an application that will help you take medication on schedule! PillsTime is a versatile assistant and pill reminder for taking the pills and will notice you, when you need to take meds according to your therapy plan. Our application will take care of the schedule monitoring of medication and vitamins for the whole family, so you can relax and enjoy your favorite things. Every pill will not be forgotten \u2013 a smart alarm clock is built into Pills Time and you will not miss receiving important medications. We consider the binding of medications to food intake, so we will surely remind you about eating, if you want. In just a few clicks you can add or change a medication, set reminders and monitor the progress of your treatment. Our advantages: - create your course, for example, vitamins; - ask a medication schedule; - intuitive and clear interface; - you make your own, personalized first aid kit with photo; - with us it is easy to monitor the progress of pills; - the unique format of the reminder - alarm clock - save you from missing important medication; - we take into account the meals and provide recommendations for acceptance by making funny faces kits; You missing something? Contact us and we will get back to you! Got any ideas? We are ready to grow and welcome legitimate criticism! Take care of your health \u2013 and Pills Time will help you with this!",
+  "privacyText": "https://sites.google.com/view/pillstime",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "links": {
+    "Developer Website": "https://vk.com/mobilecreatures",
+    "Developer Email": "mobilecreatures@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/pillstime"
+  },
+  "smali_Directories": [
+    "Appsflyer",
+    "Bumptech",
+    "Github",
+    "Google Ads"
+  ]
+}

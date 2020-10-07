@@ -9,6 +9,7 @@ from .download_apk import *
 from .adbFunctions import *
 from .adb_Functions import *
 from .trackinglibraries import *
+from .machineLearningFunctions import *
 import json
 import mimetypes
 import shutil
@@ -20,7 +21,7 @@ from django.contrib.auth.decorators import login_required
 import sys
 from io import BytesIO
 from .certificate_Functions import *
-from OpenSSL import SSL
+#from OpenSSL import SSL
 import time
 import re
 from django.core.files.base import ContentFile
@@ -203,6 +204,22 @@ def download_URLRequests(request):
     response['Content-Disposition'] = "attachment; filename=%s" % filename
     return response
 
+def download_SuspiciousURLRequests(request):
+    val = request.POST.get('appCode', False);
+    #appID is the file name of the just analyzed APK
+    print("val:")
+    print(val)
+    apkCode = val
+    filename = apkCode +"suspicious_requested_urls.txt"
+
+    requestedURLSPath = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\requested_urls_sharing\%s.txt"%apkCode
+    fl = open(requestedURLSPath, 'r')
+
+    #Returns the correct file and mime_type of the file upon clicking the "download" button
+    mime_type, _ = mimetypes.guess_type(requestedURLSPath)
+    response = HttpResponse(fl, content_type=mime_type)
+    response['Content-Disposition'] = "attachment; filename=%s" % filename
+    return response
 
 
 #Upon submitting an APK for analysis, the "results" function is called.
@@ -338,6 +355,12 @@ def staticANDprivacyAnalysis(apkCode, instance):
 
 
     privacyPolicyText = getTextFromHTML(instance.privacyText)
+    if(PPShares3rdParty(privacyPolicyText)):
+        print("Privacy Policy Claims to Share your information with 3rd party")
+    else:
+        print("Privacy Policy does not claim to share your info")
+        
+    print("got privacy policy")
     #print("Privacy policy text............")
     #print(privacyPolicyText)
     privacyFile = open(policyPATH, "w")
@@ -415,11 +438,10 @@ def results(request, appID="Wrong"):
                 dictionary = staticANDprivacyAnalysis(apkCode, instance)
                 #dictionary = {'apkCode':"this APK", 'linkID':"Not working", "Sha256": "someSHA", "instanceID": 999}
                 ####### DYNAMIC ANALYSIS ###########
+                #monkeyCMD(apkCode)
+                #mitmdumpDecompile(apkCode)
+                #detectTrackersInHeaders(makeTrackingHeadersArray(),requestedURLSPath, apkCode)
 
-                monkeyCMD(apkCode)
-                mitmdumpDecompile(apkCode)
-
-                detectTrackersInHeaders(makeTrackingHeadersArray(),requestedURLSPath, apkCode)
                 return render(request,'uploads/download.html', dictionary)
             print("do we get stuck here????")
     else:

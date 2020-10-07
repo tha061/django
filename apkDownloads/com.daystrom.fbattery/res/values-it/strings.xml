@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fake Battery</string>
+    <string name="app_author">Daystrom</string>
+    <string name="app_version">1.04</string>
+    <string name="app_first_run">Configurazione primo avvio...</string>
+    <string name="about_author">Autore:</string>
+    <string name="about_version">Versione:</string>
+    <string name="menu_exit">Chiudi</string>
+    <string name="menu_screenshot">Cattura schermo</string>
+    <string name="menu_settings">Configura</string>
+    <string name="menu_about">Info</string>
+    <string name="preference_notification_key">list_notification_preference_key</string>
+    <string name="preference_notification_title">Seleziona barra notifiche</string>
+    <string name="preference_notification_summary">Clicca qui per selezionare la barra notifiche</string>
+    <string name="preference_notification_dialogTitle">Seleziona barra notifiche</string>
+    <string name="preference_battery_key">list_battery_preference_key</string>
+    <string name="preference_battery_title">Seleziona tipo batteria</string>
+    <string name="preference_battery_summary">Clicca qui per selezionare il tipo di batteria</string>
+    <string name="preference_battery_dialogTitle">Seleziona tipo batteria</string>
+    <string name="preference_home_key">list_home_preference_key</string>
+    <string name="preference_home_title">Seleziona tipo home</string>
+    <string name="preference_home_summary">Clicca qui per selezionare il tipo di home</string>
+    <string name="preference_home_dialogTitle">Seleziona tipo home</string>
+</resources>

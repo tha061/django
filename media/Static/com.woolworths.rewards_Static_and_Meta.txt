@@ -1,0 +1,70 @@
+{
+  "name": "com.woolworths.rewards",
+  "fileSize": "17.6 MB",
+  "VTmd5": "0f8b5c1b327c710333ae1e176f19b57a",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/f5bbd2ff5e8ddc0d1e656e92644a32b662ae9413d97f969d742b8ebc891f7ec8/detection/f-f5bbd2ff5e8ddc0d1e656e92644a32b662ae9413d97f969d742b8ebc891f7ec8-1599313135",
+  "VTresource": "f5bbd2ff5e8ddc0d1e656e92644a32b662ae9413d97f969d742b8ebc891f7ec8",
+  "VTresponsecode": 1,
+  "VTscanID": "f5bbd2ff5e8ddc0d1e656e92644a32b662ae9413d97f969d742b8ebc891f7ec8-1599313135",
+  "VTsha1": "fccab8c1e2ad8ab028d6383d873b3b48ecf8c30e",
+  "VTsha256": "f5bbd2ff5e8ddc0d1e656e92644a32b662ae9413d97f969d742b8ebc891f7ec8",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "usesPermissions": [
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "android.permission.BIND_CARRIER_SERVICES Protection Level: signature|privileged"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.swrve.sdk.SwrveFirebaseMessagingService  permission: ",
+      "name: au.com.woolworths.geolocation.geofence.GeofenceTransitionsJobIntentService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.swrve.sdk.SwrveWakefulService  permission: ",
+      "name: com.swrve.sdk.SwrveEventSenderJobIntentService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.swrve.sdk.SwrvePushServiceDefaultJobIntentService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "30 September 2020",
+    "Size": "18M",
+    "Installs": "100000, Warning: Low amount of users",
+    "Current Version": "2.4.0",
+    "Requires Android": "6.0 and up",
+    "Content Rating": "Mature 17+ Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Woolworths Group",
+    "Developer": "Visit website rewardsapp@woolworths.com.au Privacy Policy 1 Woolworths Way\nBella Vista NSW 2153"
+  },
+  "rating": "4.2",
+  "description": "Get the best of Rewards, in your pocket. View your boosters on the go, discover contactless Woolworths eReceipts and collect points with a scan of your smartphone at Woolworths supermarkets, BWS, BIG W and participating Caltex & Caltex Woolworths. KEEP YOUR FINGER ON YOUR BOOSTERS Boost your Everyday Rewards as often as you like. Check the app for ways to boost your points, catch exclusive extras, and find more of your favourites. With everything in one easy-to-access place, you\u2019ll always be on the pulse.     GET YOUR FAVOURITES IN YOUR PALM View your favourites, curated just for you. Plus, see what products are on sale across your stores.     WATCH YOUR POINTS GROW With the Rewards app, you can track your points from anywhere. Choose money off your next shop or convert to Qantas Points every time you hit 2000 points.   SHOP & SCAN THE SIMPLE WAY With quick access to your in-app Rewards card, you\u2019ll never miss a point. Use your digital card at Woolworths supermarkets, BWS, BIG W and participating Caltex & Caltex Woolworths to collect a minimum of 1 point per $1 spent!   ACCESS WOOLWORTHS E-RECEIPTS Change how you checkout with Woolworths eReceipts. Convenient and contactless, they allow you to view your transactions in the app for up to 90 days after you shop. Easy.",
+  "privacyText": "https://www.woolworthsrewards.com.au/privacy.html",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "links": {
+    "Developer Website": "https://www.everydayrewards.com.au/",
+    "Developer Email": "rewardsapp@woolworths.com.au",
+    "Privacy Policy": "https://www.woolworthsrewards.com.au/privacy.html"
+  },
+  "smali_Directories": [
+    "Adobe",
+    "Bumptech",
+    "Swrve"
+  ]
+}

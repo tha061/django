@@ -1,0 +1,57 @@
+{
+  "name": "com.aidareminder.pillreminder",
+  "fileSize": "5.6 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "usesPermissions": [
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_CONTACTS Protection Level: dangerous",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.aidareminder.pillreminder.PRIVATE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.BIND_CARRIER_SERVICES Protection Level: signature|privileged"
+  ],
+  "permissions": [
+    "   name: com.aidareminder.pillreminder.PRIVATE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+    ]
+  },
+  "metaData": {
+    "Updated": "10 March 2020",
+    "Size": "4.9M",
+    "Installs": "10000, Warning: Low amount of users",
+    "Current Version": "1.5",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$2.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Sergio Licea",
+    "Developer": "Visit website pillandroid@aidaorganizer.com Privacy Policy San Fernando 254\nBlvd Morelos\nTecate, BC 21478"
+  },
+  "rating": "4.3",
+  "description": "Pill Reminder - With this app you won't forget to take your medications at the right time. It's easy to use and reliable. It allows you to create any type of recurring reminders (every X hours, specific times, daily, weekly, days of the week, every X days, etc). It has everything you need: \u2022 Mark Medications as Taken or Missed \u2022 Snooze or Reschedule Medications \u2022 Refill Reminders \u2022 Suspend and Resume Medications \u2022 Add PRN (as needed) Medications \u2022 Reminders for Medical Appointments \u2022 Send Reports to your Doctor \u2022 Multiple User Support By remembering to take all of your medications at the right time, you are taking control of your own health. RECURRING REMINDERS \u2022 Repeat every X hours (e.g. From 8 AM to 8 PM, every 4 hours) \u2022 Repeat at specific times (e.g. 9:15 AM, 1:30 PM, 8:50 PM) \u2022 Repeat every half hour (e.g. From 10 AM to 2 PM, every 30 minutes) \u2022 Repeat on selected days of the week (e.g. Every week only on Mondays and Fridays) \u2022 Repeat every X days or weeks (e.g. Every 3 days, Every 2 weeks) \u2022 Repeat daily for 21 days and then take 7 days off (Birth Control) MAIN FEATURES \u2022 User friendly interface \u2022 Get reminders for all your medications \u2022 If you took your medication early or late, you can reschedule the next doses in that day \u2022 Get alerts to refill your prescriptions before they run out \u2022 Suspend and resume medications \u2022 Can be used with any medication, supplement, vitamin, pill or birth control that follows a regular schedule \u2022 Mark a medication as \"Taken\" directly from the lock screen or notification banner \u2022 Ability to add PRN (as needed) medications \u2022 Keep track of the medications you have to take throughout the day \u2022 Auto-Snooze: Automatically repeat the alarm up to 6 times at regular intervals (e.g. 1 min, 10 mins, 30 mins) until you take action \u2022 Add notes for reference \u2022 Mark medications as Taken or Missed to avoid double doses \u2022 Email your medication list or administration history to your doctor \u2022 Add reminders for medical appointments \u2022 Add photos to each medication for easy identification \u2022 Multiple user support. Add medications for yourself, family members, or others you care for \u2022 Ability to search the FDA Drug Database for your medications (Available in the US only) \u2022 Backup and restore all data on the same device or multiple devices GENERAL \u2022 TalkBack accessibility support \u2022 Notifications are local, you don't require internet \u2022 App doesn't need to be open to receive notifications \u2022 Universal App, full native support for Phones and Tablets FREE VERSION \u2022 In the free version you can only add 3 medications \u2022 Full version with unlimited medications is available as an In-App Purchase \u2022 One-Time payment. No monthly or annual fees",
+  "privacyText": "https://www.aidaorganizer.com/android/privacypolicy.html",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "links": {
+    "Developer Website": "https://www.aidaorganizer.com/android/pillreminder.html",
+    "Developer Email": "pillandroid@aidaorganizer.com",
+    "Privacy Policy": "https://www.aidaorganizer.com/android/privacypolicy.html"
+  },
+  "smali_Directories": []
+}

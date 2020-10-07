@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1428069556 (0x551e9cb4)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=71000, ST=Vraca, L=Sarajevo, O=Ast Inc, OU=Ast Inc, CN=Arslan Hajdarevic
+        Validity
+            Not Before: Apr  3 13:59:16 2015 GMT
+            Not After : Aug  6 13:59:16 3004 GMT
+        Subject: C=71000, ST=Vraca, L=Sarajevo, O=Ast Inc, OU=Ast Inc, CN=Arslan Hajdarevic
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:94:69:77:c8:f3:2d:76:47:fd:fd:66:a3:13:a0:
+                    6e:6e:f3:aa:3a:96:3b:f0:1c:a8:ca:45:c0:e3:e4:
+                    02:7b:5f:40:fb:7b:b2:d8:23:e0:26:23:aa:d0:01:
+                    b6:11:9e:3c:e6:84:18:d8:f5:03:00:10:03:7d:09:
+                    25:a8:7e:6a:67:34:d0:51:36:34:4b:4a:29:86:87:
+                    d8:cf:cd:8e:3e:48:72:7b:71:ff:8c:7c:40:4a:61:
+                    45:e2:5f:49:6b:5b:75:ad:9f:65:91:88:de:c3:01:
+                    2b:b9:8e:c2:b6:33:58:16:54:ee:d5:88:6d:2c:73:
+                    0e:48:3e:0a:b9:fe:75:ea:11
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         29:a4:52:7a:36:81:71:40:5b:ca:77:be:9b:6b:d1:9a:f1:b2:
+         de:6f:5b:7b:d4:1d:b5:7f:fd:cb:0a:7b:46:fd:1c:84:3e:de:
+         55:81:e5:62:70:e0:be:ce:80:50:d5:a0:65:e2:ae:65:8f:ff:
+         a2:39:65:c8:d5:89:61:ca:ba:05:05:3e:47:14:7b:e0:e0:10:
+         90:2d:68:9b:6a:e8:92:0b:5b:97:ad:e9:b0:91:1a:32:e7:a8:
+         97:a2:5c:ca:0e:08:a8:d5:55:d9:4b:fc:40:d2:be:c1:27:8f:
+         1e:fa:7c:0a:7a:ad:5b:c1:56:3d:ba:1e:4b:fd:09:91:9e:a3:
+         f2:5e
+-----BEGIN CERTIFICATE-----
+MIICXzCCAcigAwIBAgIEVR6ctDANBgkqhkiG9w0BAQUFADBzMQ4wDAYDVQQGEwU3
+MTAwMDEOMAwGA1UECBMFVnJhY2ExETAPBgNVBAcTCFNhcmFqZXZvMRAwDgYDVQQK
+EwdBc3QgSW5jMRAwDgYDVQQLEwdBc3QgSW5jMRowGAYDVQQDExFBcnNsYW4gSGFq
+ZGFyZXZpYzAgFw0xNTA0MDMxMzU5MTZaGA8zMDA0MDgwNjEzNTkxNlowczEOMAwG
+A1UEBhMFNzEwMDAxDjAMBgNVBAgTBVZyYWNhMREwDwYDVQQHEwhTYXJhamV2bzEQ
+MA4GA1UEChMHQXN0IEluYzEQMA4GA1UECxMHQXN0IEluYzEaMBgGA1UEAxMRQXJz
+bGFuIEhhamRhcmV2aWMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJRpd8jz
+LXZH/f1moxOgbm7zqjqWO/AcqMpFwOPkAntfQPt7stgj4CYjqtABthGePOaEGNj1
+AwAQA30JJah+amc00FE2NEtKKYaH2M/Njj5Icntx/4x8QEphReJfSWtbda2fZZGI
+3sMBK7mOwrYzWBZU7tWIbSxzDkg+Crn+deoRAgMBAAEwDQYJKoZIhvcNAQEFBQAD
+gYEAKaRSejaBcUBbyne+m2vRmvGy3m9be9QdtX/9ywp7Rv0chD7eVYHlYnDgvs6A
+UNWgZeKuZY//ojllyNWJYcq6BQU+RxR74OAQkC1om2rokgtbl63psJEaMueol6Jc
+yg4IqNVV2Uv8QNK+wSePHvp8CnqtW8FWPboeS/0JkZ6j8l4=
+-----END CERTIFICATE-----
+

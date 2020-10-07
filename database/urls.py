@@ -11,5 +11,7 @@ urlpatterns = [
     path('corpus-csv', views.corpusCSV, name='corpusCSV'),
     path('split-csv', views.splitCSV, name='splitCSV'),
     path('makeURLArray', views.makeURLArray, name='makeURLArray'),
+    path('makePPString', views.makePPString, name='makePPString'),
+    path('testFunction', views.testFunction, name='testFunction'),
 
 ]

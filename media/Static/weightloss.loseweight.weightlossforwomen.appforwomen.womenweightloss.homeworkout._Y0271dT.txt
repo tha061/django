@@ -1,0 +1,54 @@
+{
+  "name": "weightloss.loseweight.weightlossforwomen.appforwomen.womenweightloss.homeworkout.diet_21days",
+  "fileSize": "15.3 MB",
+  "VTmd5": "c2ced01afe1ec90d5b7891d6c3d972f4",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/f1fdd01609ecb7bc8a3af7b19f893f0b05b36993de1e27d2fe52756ed2d14bc5/detection/f-f1fdd01609ecb7bc8a3af7b19f893f0b05b36993de1e27d2fe52756ed2d14bc5-1601480750",
+  "VTresource": "f1fdd01609ecb7bc8a3af7b19f893f0b05b36993de1e27d2fe52756ed2d14bc5",
+  "VTresponsecode": 1,
+  "VTscanID": "f1fdd01609ecb7bc8a3af7b19f893f0b05b36993de1e27d2fe52756ed2d14bc5-1601480750",
+  "VTsha1": "6d7b0d8fbd10b387d1d880e31c419076da840ed1",
+  "VTsha256": "f1fdd01609ecb7bc8a3af7b19f893f0b05b36993de1e27d2fe52756ed2d14bc5",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.BIND_CARRIER_SERVICES Protection Level: signature|privileged"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "31 August 2020",
+    "Size": "16M",
+    "Installs": "10000, Warning: Low amount of users",
+    "Current Version": "1.3",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$5.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "LifeChangerApps",
+    "Developer": "lifeapps21@gmail.com Privacy Policy z21,12sector,noida,In"
+  },
+  "rating": "4.6",
+  "description": "Lose Weight app for Women - Weight Loss in 21 days app - is a Home Workout Trainer & fitness coach, an easy-to-use free app for you to keep fit and healthy.  For Both Diet and Workout Lose Weight provides  - daily workout routines and diet plans to loose your weight fast . In just a few minutes a day, you can burn fat and keep fitness at home without having to go to the gym. No equipment or coach needed, all exercises can be performed with just your body weight. \u00f0\u0178\u2018\u2030What you can enjoy with  - Weight Loss 21 Days, Trainer & Fitness Coach? \u00e2\u0153\u201c Loose upto 20kg or more. \u00e2\u0153\u201c Save money and time \u00e2\u0153\u201c 10 - 20 minutes Home Workout. \u00e2\u0153\u201c Diet plans for fast Weight Loss. \u00e2\u0153\u201c Get stronger, leaner, healthier with your Home workouts and diet planner.  \u00e2\u0153\u201c Lose weight,  burn your fat and get leaner with  \u00e2\u20ac\u201c Lose Weight in 21 days, Trainer & Fitness Coach. \u00e2\u0153\u201c Stay healthy with different given plans and daily exercise. \u00e2\u0153\u201c Follow given diet plans and weight loss workouts, witness the changes in your body and share your achievements with the world! \u00e2\u0153\u201c Become a better you by using this simple but powerful training app. \u00f0\u0178\u201d\u00a5Top Features \u00e2\u02dc\u2026 Offer research and science-based workout routines \u00e2\u02dc\u2026 Records your weight loss progress \u00e2\u02dc\u2026 Reminds you to workout every day \u00e2\u02dc\u2026 Detailed exercise video guides \u00e2\u02dc\u2026 Increases exercise intensity step by step \u00e2\u02dc\u2026 Provides each diet with recipe \u00e2\u02dc\u2026 Helps to lose weight very Fast \u00e2\u02dc\u2026 Weight loss plans for effective results \u00e2\u02dc\u2026 Tips to stay Fit and Healthy Stick with our Diet plans and Home workouts, and you will notice a change in your body in just a few days. \u00f0\u0178\u2018\u2030More Features \u00e2\u2013\u00a0 Offering tips and guides on proper diet; \u00e2\u2013\u00a0 Offering vegetarian and Standard Diet plans; \u00e2\u2013\u00a0 Offering you workouts to get rid of excessive fat; \u00e2\u2013\u00a0 Ability to pause the workout, and skip to the next or the previous exercise; \u00e2\u2013\u00a0 Offering you sprint interval workouts; \u00e2\u2013\u00a0 Demonstrating every step in our instructive videos; \u00e2\u2013\u00a0 Providing tips on proper exercise execution. \u00f0\u0178\u2018\u2030This fast Weight Loss app lets you have the expertise of fitness and diet specialists on a single click without ever having to hit the gym. Best Weight Loss Apps Looking for lose weight app? Want to lose weight fast? No satisfied weight loss apps? No worry, here is the best lose weight app you can find to help you lose weight fast. Try it out now to lose weight fast, this lose weight app is not only good at workout but also is a good diet plan weight loss apps. Workout at Home Take a few minutes a day to keep fit and lose weight with our workout at home. No equipment needed, just use your bodyweight to exercise at home. Fitness App Multiple full body workouts are available to help you loose fat. Follow all weight loss tips,meals and  expert workouts, lean body is within your reach! Weight Loss Apps Free for Women Hard to lose weight? This weight loss apps free for women is designed by expert, you can lose weight safe and fast with our weight loss apps free for women. Fat Burning Workouts & Hiit Workouts The best fat burning workouts & hiit workouts for better body shape. Burn calories with fat burning workouts, and combine with hiit workouts to get the best results.     You can contact us for any queries   JOIN and CHANGE your life in 21 DAYS !",
+  "privacyText": "https://docs.google.com/document/d/e/2PACX-1vQf0Z9suFqbUKlDJ5B96gSKDx-YfulN28zD_Cfxw0Xn3OtSWUW5daCsUNG7_OyzsijZCY4m7Jnnq_az/pub",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "links": {
+    "Developer Website": "https://docs.google.com/document/d/e/2PACX-1vQf0Z9suFqbUKlDJ5B96gSKDx-YfulN28zD_Cfxw0Xn3OtSWUW5daCsUNG7_OyzsijZCY4m7Jnnq_az/pub",
+    "Developer Email": "lifeapps21@gmail.com",
+    "Privacy Policy": "https://docs.google.com/document/d/e/2PACX-1vQf0Z9suFqbUKlDJ5B96gSKDx-YfulN28zD_Cfxw0Xn3OtSWUW5daCsUNG7_OyzsijZCY4m7Jnnq_az/pub"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ]
+}
