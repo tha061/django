@@ -1,0 +1,47 @@
+{
+  "name": "com.daystrom.fbattery",
+  "fileSize": "169.7 KB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "usesPermissions": [
+    "android.permission.BIND_CARRIER_SERVICES Protection Level: signature|privileged"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "12 December 2010",
+    "Size": "170k",
+    "Installs": "100000, Warning: Low amount of users",
+    "Current Version": "1.04",
+    "Requires Android": "1.6 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Daystrom",
+    "Developer": "Visit website rdaystrom@gmail.com Privacy Policy"
+  },
+  "rating": "3.0",
+  "description": "Fake Battery simulate the low level battery screen. Useful to avoid to give your phone to someone else ;) It's just a set of combined images, if you don't like it please avoid irritating comments and don't install the app! Features and setting: press *MENU* button and visit developer web site.",
+  "privacyText": "http://daystrom.altervista.org/fakebattery_privacy_policy.html",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "links": {
+    "Developer Website": "http://daystrom.altervista.org/",
+    "Developer Email": "rdaystrom@gmail.com",
+    "Privacy Policy": "http://daystrom.altervista.org/fakebattery_privacy_policy.html"
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": false
+}

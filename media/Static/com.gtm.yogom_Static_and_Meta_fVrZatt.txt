@@ -1,0 +1,66 @@
+{
+  "name": "com.gtm.yogom",
+  "fileSize": "45.6 MB",
+  "VTmd5": "2738677e5bcd3619df579b44fab4a290",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/be7f9822d59920cb3cfb565abe602aad5ed337d276b8814aac166f5fa9605c78/detection/f-be7f9822d59920cb3cfb565abe602aad5ed337d276b8814aac166f5fa9605c78-1573649197",
+  "VTresource": "be7f9822d59920cb3cfb565abe602aad5ed337d276b8814aac166f5fa9605c78",
+  "VTresponsecode": 1,
+  "VTscanID": "be7f9822d59920cb3cfb565abe602aad5ed337d276b8814aac166f5fa9605c78-1573649197",
+  "VTsha1": "f8099d8d5fcf2f7f62c3d2d54fcf22e57039319a",
+  "VTsha256": "be7f9822d59920cb3cfb565abe602aad5ed337d276b8814aac166f5fa9605c78",
+  "VTtotal": 54,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.GET_TASKS Protection Level: N/A",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.androidnative.features.notifications.LocalNotificationService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+    ]
+  },
+  "metaData": {
+    "Updated": "9 February 2017",
+    "Size": "46M",
+    "Installs": "50000, Warning: Low amount of users",
+    "Current Version": "1.7.0.1",
+    "Requires Android": "2.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Ultimate Party Apps",
+    "Developer": "leo@greentomatomedia.com Privacy Policy 305 moo 1, The Resort 101, T. Chang Puak, Muang Chiang Mai 50300"
+  },
+  "rating": "4.2",
+  "description": "\u2022\u2022\u2022More than 2 hours of yoga with music, stopwatch function, pictures and descriptions of 77 postures organized in 2 programs.\u2022\u2022\u2022 \u2022HOW DOES THE APP WORK ? Thanks to its simple design navigation is very easy: you just need to launch the program of your choice and you will see a series of positions, illustrated with a picture and a description. We have even developed a stopwatch function to guide you and show you how long you should hold the positions. You can even break if you want to stay longer on a position, go back or move forward if a position seems too difficult, for example.  Note also the small boutton Auto-Play on the top left of the screen: check it if you want the positions keep coming. We tell you which muscles each posture solicits. Please read the description of each position before doing it. Hold the position as long as you feel comfortable, if it takes too much on certain muscles stop. It is better to stay longer in a position without forcing. This is the principle of yoga : softly but deeply. \u2022BEGINNERS PROGRAM : A beginner program combines restorative soft yoga postures and yin yoga for a period of 60 minutes. This program has been designed by our expert yogis. It will bring you deep relaxation, power and  a great well-being feeling.  Perfect to practice in the evening, before to go to bed or when you are stressed. It can be good to practice this program even for expert yogis because it restores the bodies in depth and provides a complementary practice to more powerfull or cardio yoga. \u2022PRO PROGRAM : An intermediate level program designed for those of you who already practice yoga for some time ; Bodybuilding in depth, advanced postures. You want to progress ? This is the program for you. If you are unable to perform the positions, try the following or find a similar variation of the position to feel more comfortable . \u2022\u2022\u2022MUSIC\u2022\u2022\u2022 The famous Manu Om is an expert yogi and composer of songs for yoga. We hope you enjoy his music specially created for the practice of yoga, meditation and devotional love to experience.",
+  "privacyText": "http://www.greenseeddigital.com/privacy-policy/",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "links": {
+    "Developer Website": "http://www.greenseeddigital.com/privacy-policy/",
+    "Developer Email": "leo@greentomatomedia.com",
+    "Privacy Policy": "http://www.greenseeddigital.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Chartboost",
+    "Unity3d"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

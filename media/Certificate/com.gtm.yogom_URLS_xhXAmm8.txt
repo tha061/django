@@ -1,0 +1,7 @@
+http://play.googleapis.com/generate_204
+http://www.datasante.fr/appsplash/getinfo2.php?id=24&platform=1
+http://connectivitycheck.gstatic.com/generate_204
+https://config.uca.cloud.unity3d.com/5bdaa787-d0fe-44e6-9b09-ffd8ae16c6c1.json
+http://www.google.com/gen_204
+https://api.uca.cloud.unity3d.com/v1/events
+http://www.datasante.fr/appsplash/firstopen.php?idp=WNqSRS0pDgeamlJm6vcu2XlYijg35OB8lx4C05E8ffSfcQTCsz&idapp=24&platform=1

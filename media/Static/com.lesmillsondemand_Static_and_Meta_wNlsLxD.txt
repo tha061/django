@@ -1,0 +1,91 @@
+{
+  "name": "com.lesmillsondemand",
+  "fileSize": "17.4 MB",
+  "VTmd5": "db60130eec50644fe73f6d92f04644e8",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/4285eb404b4b7c9058a532908092fb8ec353f478988298e9892a60b86432dd4e/detection/f-4285eb404b4b7c9058a532908092fb8ec353f478988298e9892a60b86432dd4e-1600305060",
+  "VTresource": "4285eb404b4b7c9058a532908092fb8ec353f478988298e9892a60b86432dd4e",
+  "VTresponsecode": 1,
+  "VTscanID": "4285eb404b4b7c9058a532908092fb8ec353f478988298e9892a60b86432dd4e-1600305060",
+  "VTsha1": "0e5cebcb731bae35c79eafec1f81fff01bc1914c",
+  "VTsha256": "4285eb404b4b7c9058a532908092fb8ec353f478988298e9892a60b86432dd4e",
+  "VTtotal": 59,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "22 Protection Level: Developer Defined Permission",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.RECORD_AUDIO Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous"
+  ],
+  "permissions": [
+    "   name: com.lesmillsondemand.SYSTEM_ALERT_WINDOW   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: tv.vhx.firebase.VHXFirebaseMessagingService  permission: ",
+      "name: tv.vhx.video.playback.VHXPlayerService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.cast.framework.media.MediaNotificationService  permission: ",
+      "name: com.google.android.gms.cast.framework.ReconnectionService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: ",
+      "name: com.kaltura.dtg.DownloadService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "14 July 2020",
+    "Size": "17M",
+    "Installs": "100000, Warning: Low amount of users",
+    "Current Version": "5.802.1",
+    "Requires Android": "4.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Les Mills",
+    "Developer": "Visit website support@lesmillsondemand.com Privacy Policy 22 Centre Street\nAuckland\n1010"
+  },
+  "rating": "4.7",
+  "description": "LES MILLS\u2122 ON DEMAND: Stream Cardio, Strength, HIIT, Core, Flexibility Classes  Online workouts from LES MILLS, the world leaders in group fitness. Get unlimited access to 12 different fitness programs and hundreds of high-energy, effective workouts with LES MILLS On Demand. Everything from cardio, strength, high intensity interval training (HIIT), core toning to flexibility, whatever your age, fitness level or goal. Choose from a variety of classes, 30 \u2013 55 minute workouts to fit your schedule. Great for working out on the go. Stream to your favorite device at home, at work, when you\u2019re travelling or at the gym or club facility. Build strength, burn calories, increase flexibility or just shake off your stress \u2013 on your time, anywhere! SELECTED FEATURES: 1. Move with the best. Our inspiring, motivating team of expert instructors around the world will lead, push and challenge you in every work out. Their expert advice will help you improve your technique and get your fit, healthy and strong. 2. Experience the latest in fitness research With over 35 years\u2019 experience in the industry, we will set you up for success. All workouts are safe, effective, and scientifically proven.  3. Go harder and push higher with unbeatable fitness music. Chart-topping tunes that make each workout the most motivating and inspiring experience. 4. More than workouts LES MILLS On Demand makes you part of a worldwide online community. Connect with other fitness fans all over the globe for support, tips and motivation. 5. Weekly Updates New releases added weekly to bring variety to your weekly fitness and training routine. You\u2019ll never get bored doing the same old thing. Get access to: - LES MILLS BODYPUMP\u2122 - LES MILLS BODYCOMBAT\u2122 - LES MILLS BODYFLOW\u00ae (US) - LES MILLS BODYBALANCE\u2122 (UK/EU/NZ) - LES MILLS BODYATTACK\u2122 - LES MILLS BODYSTEP\u2122 - LES MILLS GRIT\u2122 Cardio  - LES MILLS GRIT\u2122 Strength  - LES MILLS GRIT\u2122 Plyo - LES MILLS RPM\u2122 - LES MILLS SH\u2019BAM\u2122 - LES MILLS CXWORX\u2122 - and more\u2026",
+  "privacyText": "https://www.lesmills.com/privacy-policy/on-demand/",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": true,
+  "links": {
+    "Developer Website": "http://www.lesmillsondemand.com",
+    "Developer Email": "support@lesmillsondemand.com",
+    "Privacy Policy": "https://www.lesmills.com/privacy-policy/on-demand/"
+  },
+  "smali_Directories": [
+    "Appboy",
+    "Appsflyer",
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Jakewharton",
+    "Google Ads",
+    "Google Analytics",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

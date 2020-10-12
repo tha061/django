@@ -1,0 +1,5 @@
+{
+  "response_code": 0,
+  "resource": "C:\\Users\\jake_\\OneDrive\\Desktop\\Macquarie University\\Personal Projects\\Cybersecurity\\Django\\three\\mysite\\apkDownloads\\com.daystrom.fbattery.apk",
+  "verbose_msg": "Invalid resource, check what you are submitting"
+}

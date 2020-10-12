@@ -7,12 +7,16 @@ app_name = 'uploads'
 urlpatterns = [
 
     path('', views.uploadHere, name='uploadHere'),
+    path('list/', views.upload_list, name='upload_list'),
+    path('getFile/', views.getFile, name='getFile'),
 
     path('download/', views.download, name='download'),
 
     path('results/<str:appID>', views.results, name='results'),
     path('results/', views.results, name='results'),
     path('<int:link_id>/vote/', views.vote, name='vote'),
+
+    path('uploadsManyAPK', views.uploadsManyAPK, name='uploadsManyAPK'),
 
     path('test/', views.download_JSONfile, name = 'download_JSONfile'),
     path('certDownload/', views.download_Certfile, name = 'download_Certfile'),

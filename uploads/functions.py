@@ -12,6 +12,11 @@ import bs4 as bs4
 from bs4.element import Comment
 import html2text
 from urllib.request import Request, urlopen
+from .download_apk import download_apk, checkApkDownloaded
+from .trackinglibraries import *
+from . import forms
+from .machineLearningFunctions import PPShares3rdParty
+from .models import Link
 
 
 def returnZ(str):
@@ -34,14 +39,21 @@ def apkToZip(folder, code):
         zipObj.extractall(code)
 
 def getTextFromHTML(link):
+    PPNoAccess = False
     if link == '':
         print("non existent link")
         return "No Privacy Policy"
     print("link: "+link)
     req = Request(link, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.5 (KHTML, like Gecko) '
                   'Version/9.1.2 Safari/601.7.5 '})
-    html = urllib.request.urlopen(req).read()
-    return text_from_html(html).replace("\n", " ").replace("\t", " ").replace("     ", " ").replace(",", " ").replace("\"", "")
+    try:
+        html = urllib.request.urlopen(req).read()
+        return text_from_html(html).replace("\n", " ").replace("\t", " ").replace("     ", " ").replace(",", " ").replace("\"", ""), PPNoAccess
+    except Exception as e:
+        html = str(e)
+        PPNoAccess = True
+        return html, PPNoAccess
+
 
 def text_from_html(body):
     soup = BeautifulSoup(body, 'html.parser')
@@ -212,6 +224,13 @@ def returnSmaliKey(dict, folderList):
 
     possibleLibrary = []
     alreadyChecked = []
+    libraryCategory = []
+
+    TargetedAds = False
+    MobileAnalytics = False
+    Analytics = False
+    AnyTrackingLibrary = False
+
     for item in folderList:
 
         for name, tuple in dict.items():
@@ -221,9 +240,23 @@ def returnSmaliKey(dict, folderList):
 
                 possibleLibrary.append(name)
                 alreadyChecked.append(tuple[0][:-1])
+                libraryCategory.append(tuple[1])
+                print(tuple[1])
+                break
+                if(tuple[1] == "Targeted ads"):
+                    TargetedAds = True
+                    AnyTrackingLibrary = True
+                if(tuple[1] == "Mobile analytics"):
+                    MobileAnalytics = True
+                    AnyTrackingLibrary = True
+                if(tuple[1] == "Analytics"):
+                    Analytics = True
+                    AnyTrackingLibrary = True
 
+    dictionary = {'library':possibleLibrary, 'libraryCategory':libraryCategory, 'TargetedAds':TargetedAds ,
+    'MobileAnalytics':MobileAnalytics , 'Analytics':Analytics, 'AnyTrackingLibrary':AnyTrackingLibrary}
 
-    return possibleLibrary
+    return dictionary
 
 
 def getSmaliFolders(app_id):
@@ -314,7 +347,7 @@ def usesPermissionsFromXML(manifestPATH):
             permissionList.append(perm.attrib[att])
 
 
-    permissionList.append("android.permission.BIND_CARRIER_SERVICES");
+    #permissionList.append("android.permission.BIND_CARRIER_SERVICES");
     diction = getPermissionsDictionary()
     for perm in permissionList:
         finalPerm = perm.rfind(".")
@@ -325,6 +358,39 @@ def usesPermissionsFromXML(manifestPATH):
             new = perm+" Protection Level: Developer Defined Permission"
         permissionListLevel.append(new)
     return permissionListLevel
+
+def usesPermissionsForCSV(manifestPATH):
+
+    dangerous = False
+    signature = False
+    normal = False
+    developerDefined = False
+    permissionListString = ""
+
+    root = ET.parse(manifestPATH).getroot()
+    permissions = root.findall("uses-permission")
+
+    diction = getPermissionsDictionary()
+    for perm in permissions:
+        for att in perm.attrib:
+
+            finalPerm = perm.attrib[att].rfind(".")
+            actualPermission = perm.attrib[att][1+finalPerm:]
+            if actualPermission in diction:
+                level = str(diction[str(actualPermission)])
+                if level == "dangerous":
+                    dangerous = True
+                if "signature" in level:
+                    signature = True
+                if level == "normal":
+                    normal = True
+                permissionListString = permissionListString + str(actualPermission)+";\t"
+            else:
+                permissionListString = permissionListString + str(actualPermission)+";\t"
+                developerDefined = True
+
+    dictionary = {'permissionListString':permissionListString, 'dangerous':dangerous, 'signature': signature, 'normal':normal, 'developerDefined':developerDefined}
+    return dictionary
 
 def permissionsFromXML(manifestPATH):
     permissionList = []
@@ -385,7 +451,7 @@ def servicesFromXML(manifestPATH):
     apps_all_permissions.update({app_id:perm_list})
 
     return apps_all_permissions
-
+'''
 def download_apk(package, version_code, output_path):
     """
     :param package: app's package, e.g. com.android.chrome
@@ -406,6 +472,7 @@ def download_apk(package, version_code, output_path):
     except DownloadError as e:
         print(e)
         logging.error(str(e))
+'''
 
 def getManifest(path):
     with ZipFile(path, 'r') as zipObj:
@@ -669,23 +736,43 @@ def VerifyCertificate(appID):
 
 def SaveFiletoDatabase(filePath, typeOfFile, modelInstance, apkCode):
     #typeOfFile can be "Cert", "VT", "Static"
-    try:
-        f = open(filePath,'r')
-        if f:
-            file_content = ContentFile(f.read())
-            print(f.read())
-            print(file_content)
-            if typeOfFile == "Static":
-                modelInstance.jsonFile.save(apkCode+ " Static and Meta.txt",file_content)
-            if typeOfFile == "VT":
-                modelInstance.VTFile.save(apkCode+ " VirusTotal.txt",file_content)
-            if typeOfFile == "CertFile":
-                modelInstance.certFile.save(apkCode+ " Certificate.txt",file_content)
-            modelInstance.save()
-        f.close()
+    #try:
+    f = open(filePath,'r')
+    if f:
+        file_content = ContentFile(f.read())
+        print(f.read())
+        print(file_content)
+        if typeOfFile == "Static":
+            print("Do we get in to Static")
+            print("model Instance: "+str(modelInstance))
+            print("File content: "+str(file_content))
+            modelInstance.jsonFile.save(apkCode+ " Static and Meta.txt",file_content)
+        if typeOfFile == "VT":
+            print("Do we get in to VT")
+            print("model Instance: "+str(modelInstance))
+            print("File content: "+str(file_content))
+            modelInstance.VTFile.save(apkCode+ " VirusTotal.txt",file_content)
+        if typeOfFile == "CertFile":
+            print("Do we get in to CertFile")
+            print("model Instance: "+str(modelInstance))
+            print("File content: "+str(file_content))
+            modelInstance.certFile.save(apkCode+ " Certificate.txt",file_content)
+        if typeOfFile == "URLS":
+            print("Do we get in to URLS")
+            print("model Instance: "+str(modelInstance))
+            print("File content: "+str(file_content))
+            modelInstance.certFile.save(apkCode+ " URLS.txt",file_content)
+        if typeOfFile == "TrackingURLS":
+            print("Do we get in to TrackingURLS")
+            print("model Instance: "+str(modelInstance))
+            print("File content: "+str(file_content))
+            modelInstance.certFile.save(apkCode+ " TrackingURLS.txt",file_content)
         modelInstance.save()
-    except:
-        print("Could not save file for some reason????")
+    f.close()
+    modelInstance.save()
+    #except Exception as e:
+    #    print(e)
+#        print("Could not save file for some reason????")
 
 
 def checkListEmpty(checkList):
@@ -707,17 +794,39 @@ def makeTrackingHeadersArray():
     f.close()
     return list
 
+def makeAPKListArray(filePath):
+    list = []
+
+    with open(filePath) as f:
+        for line in f:
+            #print(line)
+            if(line[0] == '!'):
+                print("do nothing")
+            else:
+                list.append(line.rstrip("\n"))
+    f.close()
+    return list
+
+
 
 def convertTextToList(filePath):
     list = []
-    with open(filePath) as f:
-        for line in f:
-            list.append(line.rstrip("\n"))
-    f.close()
+    if(os.path.exists(filePath)):
+        with open(filePath) as f:
+            for line in f:
+                list.append(line.rstrip("\n"))
+        f.close()
+    else:
+        print("Path does not exist")
     return list
 
 def detectTrackersInHeaders(trackersList, requestedListPath, apkCode):
     requestedList = convertTextToList(requestedListPath)
+    networkTraffic = False
+    networkTrafficTracker = False
+    if len(requestedList) > 0:
+        networkTraffic = True
+
 
     trackerHeaderList = []
     requestedTrackersList = []
@@ -725,36 +834,88 @@ def detectTrackersInHeaders(trackersList, requestedListPath, apkCode):
     for req in requestedList:
         for tracker in trackersList:
             if tracker in req:
+                print("LOOOOOK HEEEREERE ------------------------------")
+                print("requested url: "+str(req))
+                print("tracker url: "+str(tracker))
                 trackerHeaderList.append(req)
                 requestedTrackersList.append(tracker)
-                print()
-        if(len(requestedTrackersList)>0):
-            print("req: "+req)
-            print("list: "+str(requestedTrackersList))
-            writeURLSToFile(req, requestedTrackersList, apkCode)
-            requestedTrackersList = []
+                networkTrafficTracker = True
+
+        # might need to tab the if statement
+    if(len(requestedTrackersList)>0):
+#        networkTrafficTracker = True
+#        print("req: "+req)
+#        print("list: "+str(requestedTrackersList))
+       writeURLSToFile(trackerHeaderList, requestedTrackersList, apkCode)
+        #requestedTrackersList = []
 
     print("HeaderList")
     print(trackerHeaderList)
     print("RequestedTrackerList")
     print(requestedTrackersList)
-    return trackerHeaderList, requestedTrackersList
+    return trackerHeaderList, requestedTrackersList, networkTraffic, networkTrafficTracker
 
 def writeURLSToFile(trackerHeaderList, requestedTrackersList, apkCode):
+    print("Tracher Header List: ")
+    print(trackerHeaderList)
+    print("-------")
+    print("requestedTrackersList")
+    print(requestedTrackersList)
     path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\requested_urls_sharing\%s.txt"%apkCode
     with open(path,  'a') as f:
+        count = 0
         for tracker in requestedTrackersList:
             #json.dump(x, outfile)
-
-            f.write(trackerHeaderList+", "+tracker+"\n")
+            print(str(count)+" "+trackerHeaderList[count]+ tracker+"\n")
+            f.write(trackerHeaderList[count]+", "+tracker+"\n")
+            count = count + 1
     f.close()
 
 
 
+
+def listToStringCSV(s):
+
+    # initialize an empty string
+    str1 = ""
+
+    # traverse in the string
+    for ele in s:
+        #print("type str1: "+str(type(str1))+" "+str1)
+        #print("type ele: "+str(type(ele))+" "+ele)
+        str1 =  str1 +str(ele)+", "
+    # return string
+    return str1
+
+def listToStringSemiColon(s):
+
+    # initialize an empty string
+    str1 = ""
+
+    # traverse in the string
+    for ele in s:
+        #print("type str1: "+str(type(str1))+" "+str1)
+        #print("type ele: "+str(type(ele))+" "+ele)
+        str1 =  str1 +str(ele)+";"
+    # return string
+    return str1
+
+def contradiction(ActualTracking, PolicyTracking):
+    print("Network Tracking: "+str(ActualTracking))
+    print("Policy Tracking: "+str(PolicyTracking))
+    if ActualTracking == True and PolicyTracking == False:
+        return True
+    else:
+        return False
+
+
 class APKAnalysis():
     def __init__(self, name="", fileSize="", VTmd5="", VTmsg="", VTpermalink="", VTresource="", VTresponsecode="", VTscanID="",
-    VTsha1="", VTsha256="", VTtotal="", VTpositives="",usesPermissions = "", permissions = "", metaData ="", rating="", description="", service="", privacyText="",
-    boolDangerousPerm = False, boolSmali = False, boolPP3rdPartyPP = False):
+    VTsha1="", VTsha256="", VTtotal="", VTpositives="",VTratio="",usesPermissions = "", permissions = "", metaData ="", rating="", description="", service="", privacyText="",
+    boolDangerousPerm = False, boolSmali = False, boolPP3rdPartyPP = False, PPClaims3rdPartySharing = False, boolPermissionsDangerous = False, boolPermissionsSignature = False,
+    boolPermissionsNormal = False, networkTraffic = False, networkTrafficTracking = False, networkTrafficContradiction=False, libraryContradiction=False, contradiction=False,
+    PPEmpty = False, PPNoContact = False):
+
         self.name = name
         self.fileSize = fileSize
         self.VTmd5 = VTmd5
@@ -767,6 +928,7 @@ class APKAnalysis():
         self.VTsha256 = VTsha256
         self.VTtotal = VTtotal
         self.VTpositives = VTpositives
+        self.VTratio = VTratio
         self.usesPermissions = usesPermissions
         self.permissions = permissions
         self.service = service
@@ -777,3 +939,14 @@ class APKAnalysis():
         self.boolDangerousPerm = boolDangerousPerm
         self.boolSmali = boolSmali
         self.boolPP3rdPartyPP = boolPP3rdPartyPP
+        self.PPClaims3rdPartySharing = PPClaims3rdPartySharing
+        self.PPNoContact = PPNoContact
+        self.PPEmpty = PPEmpty
+        self.boolPermissionsDangerous = boolPermissionsDangerous
+        self.boolPermissionsSignature = boolPermissionsSignature
+        self.boolPermissionsNormal = boolPermissionsNormal
+        self.networkTraffic = networkTraffic
+        self.networkTrafficTracking = networkTrafficTracking
+        self.networkTrafficContradiction = networkTrafficContradiction
+        self.libraryContradiction = libraryContradiction
+        self.contradiction = contradiction

@@ -1,0 +1,69 @@
+{
+  "name": "com.devsoldiers.calendar.vesta.period",
+  "fileSize": "12.5 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "android.permission.BIND_CARRIER_SERVICES Protection Level: signature|privileged"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.devsoldiers.calendar.notification.NotificationPillsService  permission: ",
+      "name: com.devsoldiers.calendar.notification.NotificationJobIntentService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "1 May 2020",
+    "Size": "12M",
+    "Installs": "100000, Warning: Low amount of users",
+    "Current Version": "1.3.7",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$1.99 \u2013 $59.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "level38",
+    "Developer": "Visit website cherednychenko.andrii@gmail.com Privacy Policy Spain, 08028\nBarcelona\nCarrer del Comandant Ben\u00edtez, 11\n1-2"
+  },
+  "rating": "4.6",
+  "description": "Natural Birth Control  is your personal smart and very simple natural contraception, natural family planning app and safe sex calendar. By actively learning from your symptoms and last periods every copy of this app is unique and fully personalized to your specialness. Natural Contraception App  includes the ability to keep an accurate account of important parameters like basal body temperature, ovulation or pregnancy test, safe sex calendar and helps women have an accurate account of different symptoms, control their body's biological patterns, and create useful habits that keep them healthy. Natural Family Planning  lets you compare last period\u2019s duration and has a predictive calendar to give you an idea of when your next menstruation or ovulation is about to start to help you plan your vacations and other special events around your period or taking ovulation days into account. If you want natural birth control app will notify you about your next menstrual cycle or when your fertile days are approaching within a few days before it. So you will have advance knowledge of better time for improved chance of pregnancy if you're trying to conceive or when to use extra protection in accordance with safe days calendar if you're not. In other words you can use this app as a  natural contraception  or to  natural family planning , as  basal body temperature tracker  with  basal body temperature chart  to calculate your ovulation days by yourself or as a  safe sex calendar  with using  calendar method for safe sex . Natural Birth Control  also can be password protected so you can keep it away from prying eyes who might have access to your phone. That\u2019s why you don't need to worry, because it is absolutely safe app with lock by password. Natural Contraception  is designed to be both functional and beautiful. App has a modern and elegant look, pretty period calendar theme and it is so easy to navigate it. For perception convenience you can change natural family planning app theme and personalize your it with many beautiful backgrounds. Free features: \u00b7  natural birth control \u00b7  natural contraception \u00b7  natural family planning \u00b7  safe sex calendar Surprise!  Just now as a gift along with the downloading this  natural family planning app  you are getting a free trial 14 days access to all of premium features including birth control pill reminder and beautiful authentic backgrounds. Just try to see how easy and useful it is. Our mission is to keep female health and let you track your period, fertility window, symptoms, and more related to your cycle wherever you are. Tracking your periods, menstruation, ovulation, fertility and safe sex days was never so easy and clear. Find out more about your body and cycle with  Natural contraception ! Please be aware of the need to consult your healthcare provider for any health concern.  Natural Birth Control  is not intended to be medical advice.",
+  "privacyText": "http://level38.co/privacypolicy.html",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "links": {
+    "Developer Website": "http://level38.co",
+    "Developer Email": "cherednychenko.andrii@gmail.com",
+    "Privacy Policy": "http://level38.co/privacypolicy.html"
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads",
+    "Opencv"
+  ]
+}

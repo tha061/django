@@ -75,15 +75,17 @@ def download(link,app_id):
                 #delete other stuff
             else:
                 print("It is an APK")
+                print("Extracting APK - Doing chunk stuff")
                 with open(link.split('/')[-1] + '.apk', 'wb') as file:
-                    print("Do we get in the loop")
+                    #print("Do we get in the loop")
                     for chunk in r.iter_content(chunk_size=1024):
-                        print("Do we get in chunk loop the loop")
+                        #print("Do we get in chunk loop the loop")
                         if chunk:
-                            print("do we get in the if statement")
+                            #print("do we get in the if statement")
                             file.write(chunk)
                             #print(chunk)
-                            print("do we be writing done")
+                            #print("do we be writing done")
+                print("Done downloading APK.....Yay!")
 
 
 def changeXAPKtoZIP(app_id):

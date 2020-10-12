@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1326273048 (0x4f0d5218)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=fr, ST=France, L=Lille, O=Decathlon SA, OU=Geonaute, CN=Geonaute
+        Validity
+            Not Before: Jan 11 09:10:48 2012 GMT
+            Not After : May 29 09:10:48 2039 GMT
+        Subject: C=fr, ST=France, L=Lille, O=Decathlon SA, OU=Geonaute, CN=Geonaute
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c2:94:8f:8c:0f:63:82:ad:28:c6:10:a1:a2:bc:
+                    4d:8e:f3:b8:f8:94:57:a1:1c:cb:04:6c:16:63:0b:
+                    18:75:f4:5e:ec:ba:a0:aa:a8:1f:c6:92:b9:1b:a5:
+                    e5:3a:d2:36:f8:fa:d0:60:34:ef:17:d9:66:8a:01:
+                    e8:85:2b:af:ed:d1:0e:e2:07:18:52:b3:61:2e:a2:
+                    b7:07:ad:67:c5:0f:2d:81:00:6c:e5:bf:d3:c7:fc:
+                    ce:43:69:c6:f1:3c:8a:38:2b:1a:f4:86:2c:31:09:
+                    a8:0b:29:a2:10:22:f2:d3:c4:94:13:44:51:f5:d8:
+                    36:bb:1c:e7:e6:2d:bd:ea:3a:e8:c3:fa:7c:45:eb:
+                    aa:21:f3:c7:48:99:f7:75:c9:e9:13:da:1d:57:08:
+                    e5:42:aa:e7:da:22:2f:63:62:5a:28:2b:a6:48:fd:
+                    00:bf:ed:fc:c9:f2:39:c2:c5:22:ed:df:63:dd:3b:
+                    e1:42:3c:3a:6d:5d:ec:53:d6:91:c9:43:2d:f2:a4:
+                    7d:5a:81:c0:e2:24:7d:4e:b0:e8:51:57:aa:f0:a2:
+                    a8:6c:6d:3d:9a:68:93:78:78:20:43:c1:02:79:bf:
+                    44:13:ba:9c:ea:4e:35:e6:c3:7a:23:d1:26:bf:c4:
+                    63:30:60:ad:43:4c:00:2b:5c:bf:46:86:3a:47:9d:
+                    59:c7
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         ac:23:cc:92:3e:83:f6:14:c3:00:a9:4a:81:e1:64:35:02:a4:
+         81:95:57:6e:39:bb:d3:93:56:b6:53:15:30:c7:dc:21:1f:d3:
+         41:a5:1f:fc:a8:9e:f6:07:b3:04:ef:97:e3:87:8c:5a:96:20:
+         0f:d8:49:3f:76:55:92:13:92:6d:24:a8:53:d7:18:7f:5b:39:
+         f6:9c:47:15:f8:2b:bf:a5:b1:54:f2:d5:6c:35:7e:4c:68:2e:
+         16:fa:80:87:82:3c:27:ce:08:a5:df:3f:ee:b8:60:29:35:45:
+         4e:be:4f:6b:da:e0:da:b9:33:8d:d1:a9:4c:7a:2b:64:e6:87:
+         52:c1:a8:9d:e7:2a:18:90:70:7f:d3:39:b3:23:12:45:c7:d6:
+         5d:65:a6:22:46:87:9f:83:e9:51:bf:9b:a5:c9:d0:95:19:75:
+         8a:b3:c9:ff:6e:95:4a:51:6c:95:ec:00:ab:b6:f5:f4:b3:93:
+         ff:8d:36:61:83:1f:87:fe:53:83:ac:99:ad:de:61:3f:96:36:
+         97:fa:5e:74:3b:5f:17:34:6e:2b:fe:c6:a5:5c:b2:d0:73:5b:
+         4d:51:dd:42:af:82:e7:37:f2:c4:a4:9a:b6:f5:a2:9f:bf:92:
+         21:99:30:8b:50:25:02:5d:6e:c1:a6:c5:58:59:71:29:dc:3f:
+         47:32:4b:b0
+-----BEGIN CERTIFICATE-----
+MIIDUjCCAjqgAwIBAgIETw1SGDANBgkqhkiG9w0BAQUFADBrMQswCQYDVQQGEwJm
+cjEPMA0GA1UECBMGRnJhbmNlMQ4wDAYDVQQHEwVMaWxsZTEVMBMGA1UEChMMRGVj
+YXRobG9uIFNBMREwDwYDVQQLEwhHZW9uYXV0ZTERMA8GA1UEAxMIR2VvbmF1dGUw
+HhcNMTIwMTExMDkxMDQ4WhcNMzkwNTI5MDkxMDQ4WjBrMQswCQYDVQQGEwJmcjEP
+MA0GA1UECBMGRnJhbmNlMQ4wDAYDVQQHEwVMaWxsZTEVMBMGA1UEChMMRGVjYXRo
+bG9uIFNBMREwDwYDVQQLEwhHZW9uYXV0ZTERMA8GA1UEAxMIR2VvbmF1dGUwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDClI+MD2OCrSjGEKGivE2O87j4
+lFehHMsEbBZjCxh19F7suqCqqB/GkrkbpeU60jb4+tBgNO8X2WaKAeiFK6/t0Q7i
+BxhSs2EuorcHrWfFDy2BAGzlv9PH/M5DacbxPIo4Kxr0hiwxCagLKaIQIvLTxJQT
+RFH12Da7HOfmLb3qOujD+nxF66oh88dImfd1yekT2h1XCOVCqufaIi9jYlooK6ZI
+/QC/7fzJ8jnCxSLt32PdO+FCPDptXexT1pHJQy3ypH1agcDiJH1OsOhRV6rwoqhs
+bT2aaJN4eCBDwQJ5v0QTupzqTjXmw3oj0Sa/xGMwYK1DTAArXL9GhjpHnVnHAgMB
+AAEwDQYJKoZIhvcNAQEFBQADggEBAKwjzJI+g/YUwwCpSoHhZDUCpIGVV245u9OT
+VrZTFTDH3CEf00GlH/yonvYHswTvl+OHjFqWIA/YST92VZITkm0kqFPXGH9bOfac
+RxX4K7+lsVTy1Ww1fkxoLhb6gIeCPCfOCKXfP+64YCk1RU6+T2va4Nq5M43RqUx6
+K2Tmh1LBqJ3nKhiQcH/TObMjEkXH1l1lpiJGh5+D6VG/m6XJ0JUZdYqzyf9ulUpR
+bJXsAKu29fSzk/+NNmGDH4f+U4Osma3eYT+WNpf6XnQ7Xxc0biv+xqVcstBzW01R
+3UKvguc38sSkmrb1op+/kiGZMItQJQJdbsGmxVhZcSncP0cyS7A=
+-----END CERTIFICATE-----
+

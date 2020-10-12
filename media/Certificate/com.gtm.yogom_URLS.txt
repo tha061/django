@@ -1,0 +1,4 @@
+https://config.uca.cloud.unity3d.com/5bdaa787-d0fe-44e6-9b09-ffd8ae16c6c1.json
+http://www.datasante.fr/appsplash/firstopen.php?idp=5LRVS0I9mirc3uqdYCSEMhszk6toU3gCnqnm81SuaA7tO1MHdX&idapp=24&platform=1
+https://api.uca.cloud.unity3d.com/v1/events
+http://www.datasante.fr/appsplash/getinfo2.php?id=24&platform=1

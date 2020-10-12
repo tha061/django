@@ -64,16 +64,42 @@ def getSha(app_id):
         readable_hash = hashlib.sha256(bytes).hexdigest();
     return readable_hash
 
+def vt_uploadfile(app_id):
+    #this will search on virustotal by the Sha256 of the .apk file, I will need to figure out a way so that if the sha256
+    #doesnt work because nobody has uploaded that .apk to VT before, then it uploads the file to VT
+    url = 'https://www.virustotal.com/vtapi/v2/file/scan'
+
+    params = {'apikey': '1162652624083e2616b2200d64c68d4ae92722b952c88418d46e46c14383ccae'}
+
+    #filename = os.path.join("C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", app_id+".apk")
+
+    filename = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s.apk" % app_id
+    files = {'file': ('%s' % app_id, open(filename, 'rb'))}
+
+    response = requests.post(url, files=files, params=params)
+
+    print(response)
+
+    jsonPath = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\VTHannes", app_id+".txt")
+    jsonFile = open(jsonPath, "w")
+    json.dump(response.json(), jsonFile)
+    print("done uploading file to virustotal")
+
+    return 1
 def vt_scan(app_id):
     #this will search on virustotal by the Sha256 of the .apk file, I will need to figure out a way so that if the sha256
     #doesnt work because nobody has uploaded that .apk to VT before, then it uploads the file to VT
+    unsuccessfulSha = False
     url = 'https://www.virustotal.com/vtapi/v2/file/report'
 
+    APKPath = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", app_id+".apk")
+    #params = {'apikey': '1162652624083e2616b2200d64c68d4ae92722b952c88418d46e46c14383ccae', 'resource':APKPath }
 
     sha = str(getSha(app_id))
+    print("App id: "+app_id)
+    print("Sha: "+sha)
 
     params = {'apikey': '1162652624083e2616b2200d64c68d4ae92722b952c88418d46e46c14383ccae', 'resource':sha }
-
 
     response = requests.get(url, params=params)
     js = response.json()
@@ -95,6 +121,17 @@ def vt_scan(app_id):
         total = js['total']
         positives = js['positives']
     except:
+        #If file hasnt been uploaded before, upload it and check again later
+        unsuccessfulSha = True
+        try:
+            print("Upload file")
+            vt_uploadfile(app_id)
+        except:
+            #If couldnt upload, don't worry about it
+            print("Error uploading")
+            unsuccessfulSha = False
+
+
         permalink = "NA"
         sha1 = "NA"
         resource = "NA"
@@ -106,8 +143,10 @@ def vt_scan(app_id):
         total = "NA"
         positives = "NA"
 
+
     list = [permalink,sha1,resource,response_code,scan_id,verbose_msg,sha256,md5,total, positives]
-    return list
+    dictionary ={'list':list, 'checkVTLater':unsuccessfulSha}
+    return dictionary
 
 def get_permissions(app_id):
     '''Path to AndroidManifest File'''

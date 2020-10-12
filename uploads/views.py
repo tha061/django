@@ -27,10 +27,11 @@ import re
 from django.core.files.base import ContentFile
 from .filters import *
 import html2text
+from .models import Document
 
 #This is just a class that contains variables that store information regarding the static and meta-info analysis of an APK
 #See the "function.py" file for the class definition
-jsonClass = APKAnalysis()
+
 
 #This is a placeholder View for the running of the emulator
 def emulator(request):
@@ -227,17 +228,20 @@ def download_SuspiciousURLRequests(request):
 #Currently, it just conducts the static and meta-info collection,
 #however, in the future it will use an emulator to conduct dynamic analysis
 
-def staticANDprivacyAnalysis(apkCode, instance):
+def staticANDprivacyAnalysis(apkCode, instance, jsonClass):
     apkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".apk")
     zipPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".zip")
     apkFolder = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads"
     policyPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\PrivacyPolicyText", apkCode+".txt")
     apkFolderCD = r"Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownload"
     manifestPath  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\AndroidManifest.xml"%apkCode
+    requestedURLSPath = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\mitmdumps results\%s\%s_requested_urls.txt"%(apkCode, apkCode)
 
     #Run VirusTotal Scan, returns results in a list called 'VirusTotalResults'
     print("Doing VT Scan - It will be a minute!")
-    VirusTotalResults  = vt_scan(apkCode)
+    VirusTotalResponse = vt_scan(apkCode)
+    VirusTotalResults  = VirusTotalResponse.get('list')
+    CheckVTLater  = VirusTotalResponse.get('checkVTLater')
 
     #decompiles APK using apktool, the output is just a folder
     decompileAPK(apkCode, apkFolder, apkFolderCD)
@@ -254,6 +258,7 @@ def staticANDprivacyAnalysis(apkCode, instance):
         thesePermissions ="Can't decompile properly"
         serviceList = "Can't decompile properly"
 
+
     try:
         #Will try and connect to the Google Play website to scrape the meta-info database
         #Saves the information in the form of a list
@@ -262,15 +267,16 @@ def staticANDprivacyAnalysis(apkCode, instance):
         print("Can't connect to android website")
         metaInformation = "Can't connect to android website"
 
+    try:
+        CSVPermissionsResults = usesPermissionsForCSV(manifestPath)
+    except:
+        CSVPermissionsResults = None
 
 
     smaliDirectory = returnSmaliKey(returnSmaliTuplDict(), getLibrariesDirectories(apkCode))
 
     smaliFiles = getLibrariesSmali(apkCode)
-    print("Directory: ")
-    print(smaliDirectory)
-    print("Files: ")
-    print(smaliFiles)
+
 
     #Will find the file_size of the APK
     APKfilesize = file_size(apkPATH)
@@ -278,6 +284,7 @@ def staticANDprivacyAnalysis(apkCode, instance):
     instance.link_text = apkCode
     instance.fileSize = APKfilesize
     instance.firstChar = returnZ(instance.link_text)
+
     instance.VT_permallink = VirusTotalResults[0]
     instance.VT_sha1 = VirusTotalResults[1]
     instance.VT_resource = VirusTotalResults[2]
@@ -290,7 +297,7 @@ def staticANDprivacyAnalysis(apkCode, instance):
     instance.rating = metaInformation[1]
     instance.description = metaInformation[2]
     instance.privacyText = metaInformation[3].get("Privacy Policy")
-    instance.smaliList = smaliDirectory
+    instance.smaliList = smaliDirectory.get('library')
 
     jsonClass.name = apkCode
     jsonClass.fileSize = APKfilesize
@@ -301,9 +308,14 @@ def staticANDprivacyAnalysis(apkCode, instance):
     jsonClass.VTscanID  = VirusTotalResults[4]
     jsonClass.VTmsg  = VirusTotalResults[5]
     jsonClass.VTsha256 = VirusTotalResults[6]
+    jsonClass.rating = metaInformation[1]
     jsonClass.VTmd5 = VirusTotalResults[7]
     jsonClass.VTtotal = VirusTotalResults[8]
     jsonClass.VTpositives = VirusTotalResults[9]
+    try:
+        jsonClass.VTratio = str(int(jsonClass.VTpositives)/int(jsonClass.VTtotal))
+    except:
+        jsonClass.VTratio = "error - need to upload file not just hash"
     jsonClass.permissions = thesePermissions
     jsonClass.usesPermissions = theseUsesPermissions
     jsonClass.service = serviceList
@@ -311,9 +323,98 @@ def staticANDprivacyAnalysis(apkCode, instance):
     jsonClass.rating = metaInformation[1]
     jsonClass.description = metaInformation[2]
     jsonClass.links = metaInformation[3]
-    jsonClass.smali_Directories = smaliDirectory
+    jsonClass.smali_Directories = smaliDirectory.get('library')
     jsonClass.privacyText = metaInformation[3].get("Privacy Policy")
 
+
+
+    privacyPolicyText = getTextFromHTML(instance.privacyText)[0]
+    jsonClass.PPNoAccess = getTextFromHTML(instance.privacyText)[1]
+    if(len(privacyPolicyText) == 0):
+        jsonClass.PPEmpty = True
+    else:
+        jsonClass.PPEmpty = False
+    if(PPShares3rdParty(privacyPolicyText)):
+
+        PPClaims3rdPartySharing = True
+    else:
+
+        PPClaims3rdPartySharing = False
+
+    print("PPClaims3rdPartySharing: "+str(PPClaims3rdPartySharing))
+    jsonClass.PolicySharesInfo3rdParty = PPClaims3rdPartySharing
+
+    print("got privacy policy")
+    #print("Privacy policy text............")
+    #print(privacyPolicyText)
+    privacyFile = open(policyPATH, "w")
+
+    try:
+        print("in try block")
+        privacyFile.write(privacyPolicyText)
+        print("try block worked")
+    except Exception as e:
+        print("exception: ")
+        print(e)
+
+
+        print("Couldn't get the url for privacy policy")
+    privacyFile.close()
+
+
+    resultsList = []
+    resultsList.append(apkCode)
+    resultsList.append(jsonClass.rating)
+    resultsList.append("Health and Fitness")
+    resultsList.append(jsonClass.fileSize)
+    resultsList.append(jsonClass.VTpermalink)
+    resultsList.append(jsonClass.VTtotal)
+    resultsList.append(jsonClass.VTpositives)
+    resultsList.append(jsonClass.VTratio)
+    resultsList.append(CSVPermissionsResults.get("permissionListString"))
+    resultsList.append(CSVPermissionsResults.get("dangerous"))
+    resultsList.append(CSVPermissionsResults.get("signature"))
+    resultsList.append(CSVPermissionsResults.get("normal"))
+    resultsList.append(CSVPermissionsResults.get("developerDefined"))
+    resultsList.append(listToStringSemiColon(smaliDirectory.get('library')))
+    resultsList.append(listToStringSemiColon(smaliDirectory.get('libraryCategory')))
+    resultsList.append(str((smaliDirectory.get('TargetedAds'))))
+    resultsList.append(str((smaliDirectory.get('Analytics'))))
+    resultsList.append(str((smaliDirectory.get('MobileAnalytics'))))
+    resultsList.append(str((smaliDirectory.get('AnyTrackingLibrary'))))
+    resultsList.append(jsonClass.privacyText)
+    resultsList.append(jsonClass.PolicySharesInfo3rdParty)
+    resultsList.append(jsonClass.PPNoContact)
+    resultsList.append(jsonClass.PPEmpty)
+
+    ####### DYNAMIC ANALYSIS ###########
+    monkeyCMD(apkCode, instance)
+    mitmdumpDecompile(apkCode, instance)
+    networkResults = detectTrackersInHeaders(makeTrackingHeadersArray(),requestedURLSPath, apkCode)
+    anyNetworkTraffic = networkResults[2]
+    trackingNetworkTraffic = networkResults[3]
+
+    jsonClass.networkTraffic = anyNetworkTraffic
+    jsonClass.networkTrafficTracking = trackingNetworkTraffic
+
+    print("Static Contradiction ----")
+    jsonClass.libraryContradiction = contradiction((smaliDirectory.get('AnyTrackingLibrary')), jsonClass.PolicySharesInfo3rdParty)
+
+    print("Network Contradiction ----")
+    jsonClass.networkTrafficContradiction = contradiction(jsonClass.networkTrafficTracking, jsonClass.PolicySharesInfo3rdParty)
+
+    resultsList.append(jsonClass.networkTraffic)
+    resultsList.append(jsonClass.networkTrafficTracking)
+    resultsList.append(jsonClass.libraryContradiction)
+    resultsList.append(jsonClass.networkTrafficContradiction)
+
+    if jsonClass.libraryContradiction or jsonClass.networkTrafficContradiction:
+        jsonClass.contradiction = True
+
+    else:
+        jsonClass.contradiction = False
+
+    resultsList.append(jsonClass.contradiction)
 
     serialJSON = jsonClass.__dict__
 
@@ -325,8 +426,6 @@ def staticANDprivacyAnalysis(apkCode, instance):
     jsonFile = open(jsonPath, "w")
     json.dump(serialJSON, jsonFile, indent = 2)
     jsonFile.close()
-
-
 
 
     print("FORM IS VALID")
@@ -350,32 +449,13 @@ def staticANDprivacyAnalysis(apkCode, instance):
     print(instance.id)
 
     VT_sha256 = instance.VT_sha256
-    dictionary = {'apkCode':apkCode, 'linkID':"Not working", "Sha256": VT_sha256, "instanceID": instance.id}
+
+
+    dictionary = {'apkCode':apkCode, 'linkID':"Not working", "Sha256": VT_sha256, "instanceID": instance.id, "results-CSV-List":resultsList}
     print(instance.privacyText)
 
 
-    privacyPolicyText = getTextFromHTML(instance.privacyText)
-    if(PPShares3rdParty(privacyPolicyText)):
-        print("Privacy Policy Claims to Share your information with 3rd party")
-    else:
-        print("Privacy Policy does not claim to share your info")
-        
-    print("got privacy policy")
-    #print("Privacy policy text............")
-    #print(privacyPolicyText)
-    privacyFile = open(policyPATH, "w")
 
-    try:
-        print("in try block")
-        privacyFile.write(privacyPolicyText)
-        print("try block worked")
-    except Exception as e:
-        print("exception: ")
-        print(e)
-
-
-        print("Couldn't get the url for privacy policy")
-    privacyFile.close()
     return dictionary
 
 
@@ -391,8 +471,14 @@ def results(request, appID="Wrong"):
         #My Django "Model" is called "Link", a "Model" is a definitive database
         #'forms' refers to the forms.py file, and CreateLink is a class that initializes a new Link model object
         #Essentially form ends up just being the text that is parsed through the App Garadyi 'uploads' webpage i.e. what APK is to be analyzed
-
+        print("request.POST and request.FILES")
+        print(request.POST)
+        print(request.FILES)
         form = forms.CreateLink(request.POST, request.FILES)
+        print("form: ")
+        print(form)
+        print("type of form: ")
+        print(str(type(form)))
 
 
         #is_valid() checks if all the variable within 'form' have been declared correctly
@@ -403,6 +489,8 @@ def results(request, appID="Wrong"):
             instance = form.save(commit=False)
             print("instance")
             print(instance)
+            print("type of instance: ")
+            print(str(type(instance)))
 
 
             #This is the text the user parses through the 'uploads' page
@@ -435,12 +523,14 @@ def results(request, appID="Wrong"):
             #If the APK has been succesfully downloaded, continue with analysis
             if checkApkDownloaded(instance.link_text):
                 print("Check if APK Downloaded")
-                dictionary = staticANDprivacyAnalysis(apkCode, instance)
+                jsonClass = APKAnalysis()
+                dictionary = staticANDprivacyAnalysis(apkCode, instance, jsonClass)
                 #dictionary = {'apkCode':"this APK", 'linkID':"Not working", "Sha256": "someSHA", "instanceID": 999}
                 ####### DYNAMIC ANALYSIS ###########
-                #monkeyCMD(apkCode)
-                #mitmdumpDecompile(apkCode)
+                #monkeyCMD(apkCode, instance)
+                #mitmdumpDecompile(apkCode, instance)
                 #detectTrackersInHeaders(makeTrackingHeadersArray(),requestedURLSPath, apkCode)
+
 
                 return render(request,'uploads/download.html', dictionary)
             print("do we get stuck here????")
@@ -492,3 +582,78 @@ def uploadHere(request):
     #instance.jsonFile = File(jsonFile)
 
     return render(request, 'uploads/uploads.html', {'form':form, 'test':test})
+
+def upload_list(request):
+
+    return render(request, 'uploads/list.html')
+
+def getFile(request):
+    print(f"Great! You're using Python 3.6+. If you fail here, use the right version.")
+    message = 'Upload as many files as you want!'
+    # Handle file upload
+    if request.method == 'POST':
+        form = forms.DocumentForm(request.POST, request.FILES)
+        if form.is_valid():
+            newdoc = Document(docfile=request.FILES['docfile'])
+            newdoc.save()
+
+            # Redirect to the document list after POST
+            return redirect('uploads:getFile')
+        else:
+            message = 'The form is not valid. Fix the following error:'
+    else:
+        form = DocumentForm()  # An empty, unbound form
+
+    # Load documents for the list page
+    documents = Document.objects.all()
+
+    # Render list page with the documents and the form
+    context = {'documents': documents, 'form': form, 'message': message}
+    return render(request, 'uploads/list.html', context)
+
+def uploadsManyAPK(request):
+    #this views reads a list and performs analysis on every apk in the list and prints info to a csv file
+    APKList = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\media\APK_List\ManyApks.txt"
+    apkFolder = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads"
+    resultsCSV = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\ThesisStuff\results.csv"
+    APKlist = makeAPKListArray(APKList)
+
+
+    for item in APKlist:
+        os.chdir(apkFolder)
+        download_apk(item)
+        print("Just finishing downloading APK....")
+        #If the APK has been succesfully downloaded, continue with analysis
+        if checkApkDownloaded(item):
+            jsonClass = APKAnalysis()
+            print("JSON Class 1")
+            print(jsonClass.VTsha256)
+
+
+            f = open(resultsCSV, "a")
+            form = forms.CreateLink()
+            instance = form.save(commit=False)
+            #mitmdumpDecompile(item, instance)
+            results = getResultsInList(item, instance, jsonClass).get('results-CSV-List')
+
+            CSVLineResults = listToStringCSV(results)
+
+            print("results: ")
+            print(results)
+            print("JSON Class 2")
+            print(jsonClass.VTsha256)
+            f.write("\n"+CSVLineResults)
+            f.close()
+
+    #print(list)
+
+    apk_id = APKlist[0]
+    print(apk_id)
+    return render(request, 'uploads/uploadsManyAPK.html')
+
+def getResultsInList(apkCode, instance, jsonClass):
+    return staticANDprivacyAnalysis(apkCode, instance, jsonClass)
+    ####### DYNAMIC ANALYSIS ###########
+    #monkeyCMD(apkCode, instance)
+    #mitmdumpDecompile(apkCode, instance)
+    #detectTrackersInHeaders(makeTrackingHeadersArray(),requestedURLSPath, apkCode)

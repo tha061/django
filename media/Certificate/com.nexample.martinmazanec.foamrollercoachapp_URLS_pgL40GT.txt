@@ -1,0 +1,8 @@
+https://firebaseremoteconfig.googleapis.com/v1/projects/615956322405/namespaces/firebase:fetch
+https://googleads.g.doubleclick.net/favicon.ico
+https://graph.facebook.com/v5.0/1626393187654058/activities
+https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html
+https://graph.facebook.com/v5.0/1626393187654058?fields=supports_implicit_sdk_logging%2Cgdpv4_nux_content%2Cgdpv4_nux_enabled%2Candroid_dialog_configs%2Candroid_sdk_error_categories%2Capp_events_session_timeout%2Capp_events_feature_bitmask%2Cauto_event_mapping_android%2Cseamless_login%2Csmart_login_bookmark_icon_url%2Csmart_login_menu_icon_url%2Crestrictive_data_filter_params%2Caam_rules%2Csuggested_events_setting&format=json&sdk=android
+https://graph.facebook.com/v5.0/1626393187654058/mobile_sdk_gk?fields=gatekeepers&format=json&sdk_version=5.11.0&sdk=android&platform=android
+https://settings.crashlytics.com/spi/v2/platforms/android/apps/com.nexample.martinmazanec.foamrollercoachapp/settings?instance=060d245ec3230e71080185b48a51601a3f533a12&build_version=56&display_version=1.6.2&source=1&icon_hash=b2491e0b1e0cd3f849733e27dc3f7d539390ccb5
+https://googleads.g.doubleclick.net/getconfig/pubsetting?app_name=com.nexample.martinmazanec.foamrollercoachapp&client=ca-app-pub-9018784780206543&admob_appcc=6377516112

@@ -1,0 +1,75 @@
+{
+  "name": "com.nexample.martinmazanec.foamrollercoachapp",
+  "fileSize": "18.3 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "10 March 2020",
+    "Size": "Varies with device",
+    "Installs": "100000, Warning: Low amount of users",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$3.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fitify Apps",
+    "Developer": "Visit website support@fitifyapps.com Privacy Policy Podhurecka 558 Klatovy 33901 Czech Republic"
+  },
+  "rating": "4.5",
+  "description": "Foam rolling will loosen muscles and accelerate recovery, but only if you do it properly. The app is compatible with all foam roller brands (TPTherapy grid,Blackroll,Hyperice\u2026) \u2022  Muscle tension relief. \u2022  Correcting muscle imbalances. \u2022  Increased range of motion. \u2022  Injury prevention. \u2022  Reduction of pain. \u2022  Get rid of trigger points. \u2022  Prevent from new trigger points. Foam Roller Massages is a complete guide with special fascia trainings for all your muscle groups. \u2022  Basic rolling \u2022  Leg rolling \u2022  Back rolling \u2022  Neck rolling \u2022  Full Body Strength \u2022  Core strength Fitify Apps Be stronger, leaner, healthier with Fitify \u2013 your very own personal trainer. Check out other Fitify apps with fitness tools (such as TRX, Kettlebell, Swiss Ball or Foam Roller).",
+  "privacyText": "https://gofitify.com/privacy-policy.html",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://fitifyapps.com/",
+    "Developer Email": "support@fitifyapps.com",
+    "Privacy Policy": "https://gofitify.com/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

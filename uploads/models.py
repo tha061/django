@@ -22,6 +22,8 @@ class Link(models.Model):
     jsonFile = models.FileField(blank = True, null = True, upload_to='Static')
     certFile = models.FileField(blank = True, null = True, upload_to='Certificate')
     VTFile = models.FileField(blank = True, null = True, upload_to='VirusTotal')
+    URLSFile = models.FileField(blank = True, null = True, upload_to='URLS')
+    TrackingURLSFile = models.FileField(blank = True, null = True, upload_to='Tracking_URLS')
     privacylink = models.CharField(max_length=200, blank=True, null=True)
     privacyText = models.CharField(max_length=10000, blank=True, null=True)
     smaliList = ListCharField(
@@ -32,9 +34,13 @@ class Link(models.Model):
         null = True
     )
 
+class Document(models.Model):
+    docfile = models.FileField(upload_to='APK_List')
 
     #rating = models.CharField(max_length=10, blank=True, null=True)
 
     def __str__(self):
         return self.link_text
+
+
 # Create your models here.

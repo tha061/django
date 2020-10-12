@@ -1,0 +1,15 @@
+{% extends "uploads/base.html" %}
+{% block content %}
+<!DOCTYPE html>
+<html>
+<h2>When you click analyse, it will analyse all the apk files listed in your text file</h2>
+<body>
+<form class = "site-form" action="{% url 'uploads:results' %}" method = "post">
+  {% csrf_token %}
+  {{form}}
+  <input type = "submit" value = "Analyse">
+</form>
+<h3> {{Analyse.type}} </h3>
+<text> Analysis will take a while, please be patient... </text>
+</body>
+{% endblock content %}
