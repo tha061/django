@@ -1,0 +1,79 @@
+{
+  "name": "com.fitifyapps.bwwarmup",
+  "fileSize": "23.0 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "9 April 2020",
+    "Size": "Varies with device",
+    "Installs": "100000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fitify Apps",
+    "Developer": "Visit website support@fitifyapps.com Privacy Policy Podhurecka 558 Klatovy 33901 Czech Republic"
+  },
+  "rating": "4.7",
+  "description": "\u2022 Warm-Up is performed before a performance or practice. it prepares the muscles for vigorous actions. According to ACSM, warm-up should be a five to ten minutes of low- to moderate-level activity. \u2022 Cooling down is an easy exercise, done after a more intense activity, to allow the body to gradually transition to a resting or near-resting state. Cooling down allows the heart rate to return to its resting rate. A study has shown that athletes who perform an appropriate cool-down are less likely to become injured. Features \u2022 over 65 bodyweight exercises \u2022 Warmup program \u2022 Cooldown program \u2022 no equipment needed \u2022 voice coach \u2022 clear HD video demonstrations \u2022 works offline Custom Workouts Build your own session with custom workouts. Choose exercises, duration, rest intervals and challenge yourself with your own training. With Fitify you have one custom workout for free. Fitify Apps Be stronger, leaner, healthier with Fitify \u2013 your very own personal trainer. Check out other Fitify apps with fitness tools (such as Abs & Core, TRX, Kettlebell, Swiss Ball, Foam Roller, Bosu or Resistance band).",
+  "privacyText": "https://fitifyapps.com/privacy-policy.html",
+  "numInstalls": 100000,
+  "developer": "Fitify Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://fitifyapps.com",
+    "Developer Email": "support@fitifyapps.com",
+    "Privacy Policy": "https://fitifyapps.com/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

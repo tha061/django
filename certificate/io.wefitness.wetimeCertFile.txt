@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1798889502 (0x6b38e01e)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=SG, L=Singapore, O=WeFitneww, CN=Donald Piret
+        Validity
+            Not Before: May 18 12:54:48 2016 GMT
+            Not After : May 12 12:54:48 2041 GMT
+        Subject: C=SG, L=Singapore, O=WeFitneww, CN=Donald Piret
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:92:33:e5:1a:82:71:8b:c5:10:d8:49:df:5f:f1:
+                    e2:87:61:8d:c1:3c:23:b2:a9:8d:b3:d0:63:bd:a4:
+                    1b:0b:8b:95:55:05:1a:a0:78:1e:02:f3:ce:f6:b2:
+                    9b:af:76:a4:ec:fe:67:d7:b0:2f:aa:c6:52:db:c7:
+                    64:e5:2f:33:04:9f:2d:29:7e:31:e5:3a:58:d0:ea:
+                    94:a5:98:a0:cc:bf:26:4e:af:8d:73:93:e2:0c:60:
+                    26:e8:04:96:58:21:be:47:a4:18:97:20:0f:73:17:
+                    28:15:f0:29:53:12:b4:b2:9d:f1:45:f2:68:b6:75:
+                    8a:a3:0f:0e:a1:37:0c:67:b3:3a:71:99:68:65:da:
+                    0f:8a:43:76:1c:cc:f0:3c:3f:6a:8e:ee:03:d0:ae:
+                    93:00:61:a8:cb:a5:f2:37:36:20:b0:5a:32:a6:50:
+                    11:68:aa:79:03:2f:ad:d2:94:f7:76:a4:92:29:41:
+                    37:1e:dd:41:9a:af:ba:67:7c:49:05:08:93:eb:ba:
+                    4c:8e:96:8b:51:ba:7b:a3:fc:8c:b4:81:14:cd:12:
+                    20:30:5f:b1:e3:67:2c:74:18:f4:f9:df:dd:36:83:
+                    f1:5b:f8:58:53:75:f9:ff:00:1e:15:cd:3f:85:2a:
+                    e7:a0:ba:ab:95:dc:29:93:59:df:78:1a:89:c2:85:
+                    fa:f9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                F1:10:50:BC:96:76:8E:A3:58:66:62:34:C0:29:2D:61:BB:A0:43:6B
+    Signature Algorithm: sha256WithRSAEncryption
+         53:c1:ae:8c:ae:cd:17:48:e8:f7:4f:51:39:1b:9a:15:18:af:
+         7c:b7:aa:90:ae:45:32:83:b5:f3:3d:82:b4:fc:7e:79:87:62:
+         67:c9:d1:f8:6a:e0:63:3e:7b:a2:88:04:1e:3c:fd:c3:5e:fa:
+         ff:d1:cc:e3:42:9c:84:cf:3a:e7:bb:ef:f2:64:34:3d:e7:95:
+         b8:03:9a:70:1c:df:ac:25:d3:f8:f2:b8:e0:e2:8b:85:59:82:
+         f6:2b:5f:8b:74:08:a4:d3:77:40:68:6d:ef:27:5e:ac:38:be:
+         49:d8:20:11:e7:7b:60:ec:5c:f9:c9:b5:1a:dc:64:e6:bf:9f:
+         a2:d0:ce:9c:de:ed:2e:f6:b8:0e:dc:79:86:ae:62:1b:37:5f:
+         11:aa:45:6b:15:ad:4b:94:c5:02:a7:99:7d:5e:e7:dd:77:de:
+         e0:31:76:42:25:62:9a:f2:de:b4:2d:6b:89:4c:e5:e6:89:4d:
+         6c:1c:ab:64:5e:b3:3f:5f:9e:7f:f0:d3:76:b4:9e:0c:1e:3c:
+         2c:d5:94:ce:70:cd:ff:e7:22:df:86:ed:34:a2:15:06:b8:e3:
+         4c:a6:d8:27:ea:6c:67:cc:52:ff:82:4a:a4:db:08:24:99:3e:
+         45:8c:55:af:e8:32:4c:0d:d8:02:3a:d0:e5:bd:c1:75:86:f9:
+         2a:e2:67:a5
+-----BEGIN CERTIFICATE-----
+MIIDNzCCAh+gAwIBAgIEazjgHjANBgkqhkiG9w0BAQsFADBMMQswCQYDVQQGEwJT
+RzESMBAGA1UEBxMJU2luZ2Fwb3JlMRIwEAYDVQQKEwlXZUZpdG5ld3cxFTATBgNV
+BAMTDERvbmFsZCBQaXJldDAeFw0xNjA1MTgxMjU0NDhaFw00MTA1MTIxMjU0NDha
+MEwxCzAJBgNVBAYTAlNHMRIwEAYDVQQHEwlTaW5nYXBvcmUxEjAQBgNVBAoTCVdl
+Rml0bmV3dzEVMBMGA1UEAxMMRG9uYWxkIFBpcmV0MIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAkjPlGoJxi8UQ2EnfX/Hih2GNwTwjsqmNs9BjvaQbC4uV
+VQUaoHgeAvPO9rKbr3ak7P5n17AvqsZS28dk5S8zBJ8tKX4x5TpY0OqUpZigzL8m
+Tq+Nc5PiDGAm6ASWWCG+R6QYlyAPcxcoFfApUxK0sp3xRfJotnWKow8OoTcMZ7M6
+cZloZdoPikN2HMzwPD9qju4D0K6TAGGoy6XyNzYgsFoyplARaKp5Ay+t0pT3dqSS
+KUE3Ht1Bmq+6Z3xJBQiT67pMjpaLUbp7o/yMtIEUzRIgMF+x42csdBj0+d/dNoPx
+W/hYU3X5/wAeFc0/hSrnoLqrldwpk1nfeBqJwoX6+QIDAQABoyEwHzAdBgNVHQ4E
+FgQU8RBQvJZ2jqNYZmI0wCktYbugQ2swDQYJKoZIhvcNAQELBQADggEBAFPBroyu
+zRdI6PdPUTkbmhUYr3y3qpCuRTKDtfM9grT8fnmHYmfJ0fhq4GM+e6KIBB48/cNe
++v/RzONCnITPOue77/JkND3nlbgDmnAc36wl0/jyuODii4VZgvYrX4t0CKTTd0Bo
+be8nXqw4vknYIBHne2DsXPnJtRrcZOa/n6LQzpze7S72uA7ceYauYhs3XxGqRWsV
+rUuUxQKnmX1e59133uAxdkIlYpry3rQta4lM5eaJTWwcq2Resz9fnn/w03a0ngwe
+PCzVlM5wzf/nIt+G7TSiFQa440ym2CfqbGfMUv+CSqTbCCSZPkWMVa/oMkwN2AI6
+0OW9wXWG+SriZ6U=
+-----END CERTIFICATE-----
+

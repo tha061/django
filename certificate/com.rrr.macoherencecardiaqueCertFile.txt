@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1823931839 (0x6cb6fdbf)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: L=Antibes
+        Validity
+            Not Before: Jul 26 18:37:50 2014 GMT
+            Not After : Jul 13 18:37:50 2064 GMT
+        Subject: L=Antibes
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:85:37:e2:6c:2d:3c:9f:e6:2c:2b:e4:57:89:28:
+                    76:e3:a7:0a:a6:c8:fe:64:ba:89:7e:3e:42:9d:3a:
+                    a6:da:cd:12:bd:db:1c:be:e2:a7:e6:7a:d1:1b:f6:
+                    7d:19:0d:8d:96:72:8c:77:92:0d:7e:1b:19:5d:6c:
+                    11:38:96:78:77:4e:89:ab:cc:50:a2:26:9d:c2:60:
+                    cb:cb:30:6d:90:22:45:6a:64:7d:8b:5f:d6:6b:42:
+                    15:28:60:c5:76:52:dc:a5:f2:73:4b:25:cf:cd:7f:
+                    8a:40:d5:34:58:3d:e2:b9:14:7e:1b:4c:22:df:53:
+                    ec:93:4d:d0:b4:03:90:f0:dc:c2:cc:63:db:fb:83:
+                    9a:19:4c:20:ba:b7:c2:f2:3c:a0:6a:28:3a:fc:40:
+                    d2:8f:3c:d3:ae:c4:1a:52:3a:db:df:8f:0f:6f:6d:
+                    bc:0f:7f:30:e6:7b:fe:ec:fa:2e:ca:53:4b:6d:ea:
+                    11:61:f3:53:0d:00:d7:b2:11:3e:88:91:9f:38:de:
+                    5e:ad:24:70:29:90:9e:00:28:c3:18:6b:f2:d2:4a:
+                    cc:92:0d:ec:c5:dd:3e:5a:0c:b1:48:28:9d:3c:97:
+                    34:7a:39:6a:41:ac:b2:08:8c:b3:b5:57:8f:92:cc:
+                    6e:f0:34:cc:2e:c0:d2:19:de:41:18:fb:4c:2a:ba:
+                    cb:77
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                0D:A2:89:29:BC:F9:25:C9:F2:B1:84:B5:77:1B:14:86:66:31:B7:F0
+    Signature Algorithm: sha256WithRSAEncryption
+         85:26:ce:40:fd:95:39:ed:78:ac:f6:76:db:ff:d1:5f:85:74:
+         91:b1:6e:52:92:12:1b:54:f6:06:48:40:c9:1f:ef:e9:71:1e:
+         8f:07:e3:66:40:c2:77:39:69:48:0e:f1:bf:4a:aa:de:82:91:
+         34:a0:69:6e:d3:66:11:02:72:0d:e2:8f:d2:a6:ff:4c:e0:5e:
+         c5:5a:3d:0c:b9:0e:2d:f6:0e:f2:ce:54:d2:5f:57:45:6e:f4:
+         43:71:24:bb:97:f8:ce:2b:ac:f3:f7:8f:cd:33:55:e2:1f:2c:
+         99:b3:cc:61:0f:76:8f:93:25:aa:6a:19:ce:ff:01:90:85:80:
+         be:60:e5:76:6f:01:9f:28:a8:8b:79:d5:8c:a6:89:33:3f:6b:
+         88:d3:5c:36:60:1e:1f:5c:5f:a0:28:3e:a5:1f:77:85:27:c7:
+         68:fd:01:1d:a1:8e:e9:38:ca:2e:9a:a4:77:46:ab:9c:d3:a0:
+         09:a8:e4:2d:4a:0a:b8:71:d4:ad:c1:c8:7d:94:4e:17:f2:0a:
+         c3:c2:b6:c5:ca:5e:6b:69:f7:aa:c4:d4:a4:64:21:0e:04:49:
+         c8:eb:9c:ad:19:cf:bc:94:7f:be:23:06:16:88:28:ea:14:b0:
+         71:b2:dd:0c:83:70:54:0c:14:1b:e4:91:e0:16:94:5a:95:9e:
+         77:a5:26:00
+-----BEGIN CERTIFICATE-----
+MIICxTCCAa2gAwIBAgIEbLb9vzANBgkqhkiG9w0BAQsFADASMRAwDgYDVQQHEwdB
+bnRpYmVzMCAXDTE0MDcyNjE4Mzc1MFoYDzIwNjQwNzEzMTgzNzUwWjASMRAwDgYD
+VQQHEwdBbnRpYmVzMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhTfi
+bC08n+YsK+RXiSh246cKpsj+ZLqJfj5CnTqm2s0SvdscvuKn5nrRG/Z9GQ2NlnKM
+d5INfhsZXWwROJZ4d06Jq8xQoiadwmDLyzBtkCJFamR9i1/Wa0IVKGDFdlLcpfJz
+SyXPzX+KQNU0WD3iuRR+G0wi31Psk03QtAOQ8NzCzGPb+4OaGUwgurfC8jygaig6
+/EDSjzzTrsQaUjrb348Pb228D38w5nv+7PouylNLbeoRYfNTDQDXshE+iJGfON5e
+rSRwKZCeACjDGGvy0krMkg3sxd0+WgyxSCidPJc0ejlqQayyCIyztVePksxu8DTM
+LsDSGd5BGPtMKrrLdwIDAQABoyEwHzAdBgNVHQ4EFgQUDaKJKbz5JcnysYS1dxsU
+hmYxt/AwDQYJKoZIhvcNAQELBQADggEBAIUmzkD9lTnteKz2dtv/0V+FdJGxblKS
+EhtU9gZIQMkf7+lxHo8H42ZAwnc5aUgO8b9Kqt6CkTSgaW7TZhECcg3ij9Km/0zg
+XsVaPQy5Di32DvLOVNJfV0Vu9ENxJLuX+M4rrPP3j80zVeIfLJmzzGEPdo+TJapq
+Gc7/AZCFgL5g5XZvAZ8oqIt51YymiTM/a4jTXDZgHh9cX6AoPqUfd4Unx2j9AR2h
+juk4yi6apHdGq5zToAmo5C1KCrhx1K3ByH2UThfyCsPCtsXKXmtp96rE1KRkIQ4E
+ScjrnK0Zz7yUf74jBhaIKOoUsHGy3QyDcFQMFBvkkeAWlFqVnnelJgA=
+-----END CERTIFICATE-----
+

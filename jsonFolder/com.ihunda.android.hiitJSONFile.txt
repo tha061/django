@@ -1,0 +1,83 @@
+{
+  "name": "com.ihunda.android.hiit",
+  "fileSize": "5.3 MB",
+  "VTmd5": "28b61ee0b64c63938ecee4a4d04d14ab",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/b3e65aa205a7ab1c29fe833c682e26b4f47869aa6685d05a15c3cc34e4b8d29b/detection/f-b3e65aa205a7ab1c29fe833c682e26b4f47869aa6685d05a15c3cc34e4b8d29b-1578122908",
+  "VTresource": "b3e65aa205a7ab1c29fe833c682e26b4f47869aa6685d05a15c3cc34e4b8d29b",
+  "VTresponsecode": 1,
+  "VTscanID": "b3e65aa205a7ab1c29fe833c682e26b4f47869aa6685d05a15c3cc34e4b8d29b-1578122908",
+  "VTsha1": "2f0c986ab7832912d0361b07e551e4bc75d0cb08",
+  "VTsha256": "b3e65aa205a7ab1c29fe833c682e26b4f47869aa6685d05a15c3cc34e4b8d29b",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "5 February 2020",
+    "Size": "Varies with device",
+    "Installs": "1000000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Giorgio Regni",
+    "Developer": "Visit website hiit@ihunda.com Privacy Policy 11 rue Tronchet\n75001 Paris\nFrance"
+  },
+  "rating": "4.3",
+  "description": "Our app is a simple and efficient timer that will be your best companion during each and every one of your INTERVAL TRAINING  workouts !  This Interval Training Timer will help you focus on your workout so you won't be distracted by a screen or a watch. Forget about the time, just follow the sounds. And when you\u2019re done, you can share your results with your friends on Facebook and Twitter ! And if you love this timer, you can get rid of the ads forever with our No More Ads in-app purchase. The funds collected will support our regular developments in the app. Main features : ** Set-up screen with a very easy UI ** In-app volume bar, so you can adjust separately the music volume and the app volume ** 3 sounds choice and a voice ** Load preset : you can load one of our existing preset (Fat Loss, Tabata) or one you saved previously  ** Save preset : you can save the workout you just set up and give it a name ** Link to our Facebook and Twitter accounts :  you can like the app, share your experience with other users, share your workouts, make suggestions for new features, \u2026 ** Vibrate mode ** 3 seconds warning click ** Forward / Backward button during the workout to go to the next/previous interval  ** Step Counter included in the training screen Coming very soon : a calendar to save all your workouts !!!!!  * WHAT\u2019S HIIT ? * HIIT (High Intensity Interval Training) is a method well known to burn fat in a short & intense workout. And there are many different ways to it : sprinting, crossfit, running, bodyweight workouts, cycling, yoga, stretching, weightlifting, boxing ...  High-intensity interval training (HIIT) is an enhanced form of interval training, an exercise strategy alternating periods of short intense anaerobic exercise with less-intense recovery periods. HIIT is a form of cardiovascular exercise. Usual HIIT sessions may vary from 4\u201330 minutes. These short, intense workouts provide improved athletic capacity and condition, improved glucose metabolism, and improved fat burning. This definition comes from wikipedia (http://en.wikipedia.org/wiki/High-intensity_interval_training) where you can find a lot more informations. It explains some very popular program, like the TABATA. HIIT is also a common practice in Crossfit trainings. * HOW TO USE THE APP ? * You can use it during all trainings with intervals or other timed repetition  Basically, this is how it works : on the first screen you will set up your workout phases durations (preparation time, work, rest, rounds and cool down) and you will choose your sound. Then hit \u201cGo !\u201d, work and just follow the sound\u2026 or the voice ! You can listen to your own music, just make sure you can still hear the sound. At the end of the workout, a new feature allows you to share your workout with your friends on Facebook and Twitter @hiit_android  * PHONE PERMISSIONS * Now automatically pause and resume if a phone call arrives. This is why PHONE_STATE permissions are required. But the app never collects and stores phone numbers from users phones.",
+  "privacyText": "https://docs.google.com/document/d/1fj_0G7V1ImZEJ6x5H1CA3avxJfGxla0qmNaqHxFl_E8/edit?usp=sharing",
+  "numInstalls": 1000000,
+  "developer": "Giorgio Regni",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.facebook.com/pages/Hiit-interval-training-android-app/104610142924377",
+    "Developer Email": "hiit@ihunda.com",
+    "Privacy Policy": "https://docs.google.com/document/d/1fj_0G7V1ImZEJ6x5H1CA3avxJfGxla0qmNaqHxFl_E8/edit?usp=sharing"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Google Analytics",
+    "J256"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1943214560 (0x73d319e0)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Taras Melko
+        Validity
+            Not Before: Apr  3 19:37:21 2017 GMT
+            Not After : Mar 17 19:37:21 2087 GMT
+        Subject: CN=Taras Melko
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b9:ff:ce:0f:b2:51:d9:36:67:71:e0:24:0b:b7:
+                    7e:33:d9:de:56:a7:2f:e0:33:69:7b:76:a5:2c:0b:
+                    09:c6:8b:c7:ed:0c:ef:22:32:54:84:b7:92:40:f4:
+                    ea:1c:f5:b6:21:84:c3:a0:89:61:dc:17:44:c9:90:
+                    22:73:71:e5:6d:b8:b9:5a:5e:fe:ec:be:76:9c:5a:
+                    a5:94:6d:fa:bd:b9:f0:b3:db:58:10:69:92:5c:6c:
+                    17:dc:ae:8b:08:3e:66:94:69:dc:54:8e:a4:a2:2b:
+                    ee:9b:1c:07:80:06:92:0b:09:51:a0:c9:1f:ba:a2:
+                    24:90:af:d5:57:3a:ed:e7:10:12:95:8d:a5:96:eb:
+                    52:38:fe:f7:d0:35:87:8f:3f:45:8a:d1:d0:b3:9c:
+                    68:da:a9:59:2b:68:d6:4f:40:55:99:e4:62:6c:07:
+                    f7:0e:24:b2:a7:75:5f:00:0e:27:44:6e:99:24:14:
+                    2c:86:55:bc:91:2b:7a:d7:83:7b:e7:f5:34:b8:06:
+                    6a:0b:b4:25:56:59:03:a6:9d:58:d0:ff:5d:ba:99:
+                    33:e4:13:34:d7:5b:eb:e1:42:29:dd:93:4a:52:99:
+                    67:30:eb:7c:3d:37:b0:49:cc:1a:be:b8:06:b7:5e:
+                    4a:6f:94:0c:a0:86:72:94:06:c6:48:d7:1f:7c:91:
+                    d3:47
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                6E:D1:3E:80:24:4D:78:D5:ED:FA:0F:43:60:0D:25:E1:1C:0A:DC:AE
+    Signature Algorithm: sha256WithRSAEncryption
+         17:cc:b4:fe:54:95:2c:5c:72:f4:11:a0:54:00:0a:2a:2a:f1:
+         63:7c:92:27:e5:fc:29:d9:77:9c:d7:8b:a1:e9:50:1e:00:be:
+         ab:8d:02:7d:4a:05:d7:39:0b:dd:50:7d:a4:a2:88:60:32:1e:
+         8e:5d:bd:3b:aa:b1:92:22:6a:ad:2c:a0:52:05:90:51:d6:0a:
+         a9:2c:a1:1d:a5:b5:c6:68:2f:fd:c5:8a:3a:1c:a4:5d:fa:ff:
+         64:d4:f0:6b:f7:c9:05:46:6e:8c:0b:82:ca:ff:a8:a5:3f:48:
+         23:6c:82:19:cc:0b:6c:a4:af:65:95:36:55:47:cd:e2:82:3b:
+         55:97:6e:40:7f:d4:e3:84:d9:e7:a0:aa:d8:fc:3d:72:ca:41:
+         d1:80:7d:66:ce:84:ae:11:77:29:99:b8:50:ef:33:c1:18:31:
+         f2:6e:83:a0:bf:a4:ec:ac:08:f4:95:9a:03:c8:9d:0b:3e:fd:
+         c3:27:66:f5:92:09:07:98:80:e6:91:14:60:2e:f4:44:1e:4c:
+         34:82:be:5f:af:07:0a:8a:1d:58:15:e1:88:6e:13:98:5b:22:
+         40:7e:a0:69:f4:b5:db:e7:aa:07:74:55:e8:04:38:d4:3b:20:
+         9b:d2:17:40:9c:b2:db:b9:93:15:19:27:a4:14:78:ae:5b:73:
+         18:88:cd:7b
+-----BEGIN CERTIFICATE-----
+MIICzTCCAbWgAwIBAgIEc9MZ4DANBgkqhkiG9w0BAQsFADAWMRQwEgYDVQQDEwtU
+YXJhcyBNZWxrbzAgFw0xNzA0MDMxOTM3MjFaGA8yMDg3MDMxNzE5MzcyMVowFjEU
+MBIGA1UEAxMLVGFyYXMgTWVsa28wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQC5/84PslHZNmdx4CQLt34z2d5Wpy/gM2l7dqUsCwnGi8ftDO8iMlSEt5JA
+9Ooc9bYhhMOgiWHcF0TJkCJzceVtuLlaXv7svnacWqWUbfq9ufCz21gQaZJcbBfc
+rosIPmaUadxUjqSiK+6bHAeABpILCVGgyR+6oiSQr9VXOu3nEBKVjaWW61I4/vfQ
+NYePP0WK0dCznGjaqVkraNZPQFWZ5GJsB/cOJLKndV8ADidEbpkkFCyGVbyRK3rX
+g3vn9TS4BmoLtCVWWQOmnVjQ/126mTPkEzTXW+vhQindk0pSmWcw63w9N7BJzBq+
+uAa3XkpvlAyghnKUBsZI1x98kdNHAgMBAAGjITAfMB0GA1UdDgQWBBRu0T6AJE14
+1e36D0NgDSXhHArcrjANBgkqhkiG9w0BAQsFAAOCAQEAF8y0/lSVLFxy9BGgVAAK
+KirxY3ySJ+X8Kdl3nNeLoelQHgC+q40CfUoF1zkL3VB9pKKIYDIejl29O6qxkiJq
+rSygUgWQUdYKqSyhHaW1xmgv/cWKOhykXfr/ZNTwa/fJBUZujAuCyv+opT9II2yC
+GcwLbKSvZZU2VUfN4oI7VZduQH/U44TZ56Cq2Pw9cspB0YB9Zs6ErhF3KZm4UO8z
+wRgx8m6DoL+k7KwI9JWaA8idCz79wydm9ZIJB5iA5pEUYC70RB5MNIK+X68HCood
+WBXhiG4TmFsiQH6gafS12+eqB3RV6AQ41Dsgm9IXQJyy27mTFRknpBR4rltzGIjN
+ew==
+-----END CERTIFICATE-----
+

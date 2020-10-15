@@ -1,0 +1,74 @@
+{
+  "name": "com.veevapps.absworkout",
+  "fileSize": "7.0 MB",
+  "VTmd5": "f6fe6cac63bbbad3d70942f3be6c9022",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/3f39428a0e3907a7f9aee0c567c896dea0185633961b065708b79955291e461f/detection/f-3f39428a0e3907a7f9aee0c567c896dea0185633961b065708b79955291e461f-1602404578",
+  "VTresource": "3f39428a0e3907a7f9aee0c567c896dea0185633961b065708b79955291e461f",
+  "VTresponsecode": 1,
+  "VTscanID": "3f39428a0e3907a7f9aee0c567c896dea0185633961b065708b79955291e461f-1602404578",
+  "VTsha1": "f26e0b09281f491abb55e66eaf5bd27d5042b56e",
+  "VTsha256": "3f39428a0e3907a7f9aee0c567c896dea0185633961b065708b79955291e461f",
+  "VTtotal": 56,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "29 September 2020",
+    "Size": "7.1M",
+    "Installs": "1000000",
+    "Current Version": "1.20",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Veev Apps",
+    "Developer": "Visit website veevapps@gmail.com Privacy Policy \u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430, \u0433. \u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u044b"
+  },
+  "rating": "4.6",
+  "description": "We have prepared for you a 30-day workout plan, as well as a set of exercises that will create the perfect training for you. Following the plan of training, you will tone the Abs, and make your body even more beautiful. Daily we will increase the load, so do not forget about the rest. Exercises are prepared specifically for the house, they can be performed by anyone and anywhere. With these exercises you will noticeably improve the shape of your abdominals. You can easily keep track of your progress in the statistics section, and reminders will help you do not miss training and make you even more disciplined. Key features: - 30 day Abs workout plan - Create your own training of Abs from the set of exercises - Animated exercises demonstrations - Description of the exercises - Statistics on the completed trainings and exercises - Reminder about workout",
+  "privacyText": "https://veevapps.wordpress.com/abs-workout-privacy-policy/",
+  "numInstalls": 1000000,
+  "developer": "Veev Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://veevapps.ru",
+    "Developer Email": "veevapps@gmail.com",
+    "Privacy Policy": "https://veevapps.wordpress.com/abs-workout-privacy-policy/"
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,78 @@
+{
+  "name": "com.spacedema.ellipticalworkout",
+  "fileSize": "9.0 MB",
+  "VTmd5": "841cee76e86763477e9d000e5d1bb4b8",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/1590fead9e000a139b76f9b589c2178126cfd0a90806d44ee1a2408a41ddede9/detection/f-1590fead9e000a139b76f9b589c2178126cfd0a90806d44ee1a2408a41ddede9-1601556938",
+  "VTresource": "1590fead9e000a139b76f9b589c2178126cfd0a90806d44ee1a2408a41ddede9",
+  "VTresponsecode": 1,
+  "VTscanID": "1590fead9e000a139b76f9b589c2178126cfd0a90806d44ee1a2408a41ddede9-1601556938",
+  "VTsha1": "ec35d3a0be557cf73a9d8155d25613b08078012a",
+  "VTsha256": "1590fead9e000a139b76f9b589c2178126cfd0a90806d44ee1a2408a41ddede9",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.spacedema.ellipticalworkout.services.WorkoutNotificationService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.ads.AdService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "1 October 2020",
+    "Size": "9.0M",
+    "Installs": "100000",
+    "Current Version": "2.6.1",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$2.49 \u2013 $49.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "dots'n'lines",
+    "Developer": "dotsnlineslabs@gmail.com Privacy Policy Russia, Cheboksary, Leninskogo Komsomola st., 428031"
+  },
+  "rating": "3.9",
+  "description": "Elliptical Trainer is most popular cardio machine. \"Elliptical Workout\" will help you to exercise less and get more benefits! The basic idea of interval workout(HIIT) is simple: the alternation of high and low intensity. The purpose of Elliptical interval workout(HIIT) is to burn more calories, lose more fat and build more muscle in less time.\u00a0 What app can do:  - voice prompts (enable it in settings, Google Text-to-Speech needs to be installed)  - share workout data with Google Fit. Enable \"Share data with Google Fit\" in settings.  - calculate your heart rates zone. It's based on Karvonen heart rate reserve method. Just enter your age and resting heart rate in settings.  - calculate burned calories,  - has 6  workouts  - ability to create and customize custom workouts,  - customizing colors for each interval,  - sound and vibration prompts on interval changing  - list view and chart view history How to use:  - enter your gender, age, weight and resting heart rate to calculate burned calories and heart rates zone,  - select workout on workouts screen. Click on workout name in the upper left corner of the main screen to get to the workouts screen,   - get on an elliptical trainer,  - just follow the progress bar and the audio prompts To restore purchases click \"Restore purchases\" on \"Help the project\" screen If you have any issues or want to report bugs, please let me know and I'll do my best to fix them.",
+  "privacyText": "https://docs.google.com/document/d/1KgFDHu9EmCgvYMlSsolBcTZ-0rXpJmJTgiXs4laENfs/edit?usp=sharing",
+  "numInstalls": 100000,
+  "developer": "dots'n'lines",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://docs.google.com/document/d/1KgFDHu9EmCgvYMlSsolBcTZ-0rXpJmJTgiXs4laENfs/edit?usp=sharing",
+    "Developer Email": "dotsnlineslabs@gmail.com",
+    "Privacy Policy": "https://docs.google.com/document/d/1KgFDHu9EmCgvYMlSsolBcTZ-0rXpJmJTgiXs4laENfs/edit?usp=sharing"
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

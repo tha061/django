@@ -1,0 +1,72 @@
+{
+  "name": "com.paganway.chakrameditation",
+  "fileSize": "24.7 MB",
+  "VTmd5": "a5b2c3d7ee373bf44319f81b51d1587c",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/f5c99403f35e248295aecd647172883761d6f79d5d8874f9aea4acc6f07c333b/detection/f-f5c99403f35e248295aecd647172883761d6f79d5d8874f9aea4acc6f07c333b-1599175951",
+  "VTresource": "f5c99403f35e248295aecd647172883761d6f79d5d8874f9aea4acc6f07c333b",
+  "VTresponsecode": 1,
+  "VTscanID": "f5c99403f35e248295aecd647172883761d6f79d5d8874f9aea4acc6f07c333b-1599175951",
+  "VTsha1": "dc5bad2e26f22ad874add784a5031fa6f8109129",
+  "VTsha256": "f5c99403f35e248295aecd647172883761d6f79d5d8874f9aea4acc6f07c333b",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.paganway.chakrameditation.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.paganway.chakrameditation.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "1 June 2018",
+    "Size": "25M",
+    "Installs": "50000",
+    "Current Version": "1.0.1",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Pagan Way",
+    "Developer": "new.paganway@gmail.com Privacy Policy Via Prospero Favier, Palermo, 90100"
+  },
+  "rating": "4.4",
+  "description": "Clear your mind, relax and meditate and take a time for you to Chakra healing. This app was study to get a better experience and deeper meditation. Over 7 Chakra music tracks. Music can be played in background. Short description of each Chakra with body and hand positions. Correct chromotherapy for each Chakra. Plan yours meditation sessions it's very easy. Settings to customize your experiences.",
+  "privacyText": "http://kemonia.altervista.org/wicca/privacy-policy/index.html",
+  "numInstalls": 50000,
+  "developer": "Pagan Way",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://kemonia.altervista.org/wicca/privacy-policy/index.html",
+    "Developer Email": "new.paganway@gmail.com",
+    "Privacy Policy": "http://kemonia.altervista.org/wicca/privacy-policy/index.html"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

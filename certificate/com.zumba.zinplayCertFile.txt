@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1029539347 (0x3d5d8613)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=Florida, L=Hallandale Beach, O=Zumba Fitness LLC, OU=Media, CN=Zumba Fitness - ZIN App
+        Validity
+            Not Before: Nov 14 18:35:09 2016 GMT
+            Not After : Apr  1 18:35:09 2044 GMT
+        Subject: C=US, ST=Florida, L=Hallandale Beach, O=Zumba Fitness LLC, OU=Media, CN=Zumba Fitness - ZIN App
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c6:ee:61:83:27:1c:54:85:43:0c:95:a1:5e:f8:
+                    aa:e8:cb:98:4b:f5:be:23:0e:a0:2b:77:8c:a2:86:
+                    4c:0f:2a:68:a3:ac:60:fc:98:b4:84:ee:8e:24:58:
+                    8a:c6:52:4a:ad:8b:78:f9:1f:64:bd:52:da:4d:b5:
+                    5c:88:1f:20:9d:1e:8d:96:29:97:ea:be:df:92:32:
+                    5a:09:78:91:de:93:3f:2e:1b:af:d5:dd:38:90:a8:
+                    63:b5:af:69:f3:10:eb:d2:9b:fe:a0:1b:d3:c5:5b:
+                    7c:7c:5e:b5:c9:71:58:d5:81:80:34:14:54:fc:2b:
+                    32:0e:11:b2:30:75:11:65:ba:51:18:a5:5c:54:78:
+                    04:f9:31:98:81:1b:0a:bc:7d:a9:63:3f:9e:e0:d8:
+                    11:95:fe:de:74:1d:ac:4b:d9:b3:3c:6f:ec:a4:6c:
+                    27:72:b9:a9:ee:25:26:d4:71:39:44:a4:dd:ae:00:
+                    45:11:b6:95:bf:c0:f2:0e:6a:a4:85:52:7b:bc:cd:
+                    8c:6b:96:23:7b:e3:7d:80:f0:94:b3:cf:20:82:42:
+                    e0:4c:6f:a9:72:37:fd:1b:bd:78:45:73:dd:8b:ae:
+                    b2:0c:0f:5e:12:4f:ce:3d:05:32:6c:cd:73:ec:53:
+                    41:3c:60:b8:36:9b:0f:8c:7d:f2:8d:fe:2d:c7:3d:
+                    20:85
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                F8:6B:D5:94:EC:19:75:BF:8A:02:8E:40:8F:61:EC:60:90:BE:77:0F
+    Signature Algorithm: sha256WithRSAEncryption
+         25:c2:18:6b:39:aa:22:3e:a3:6b:a8:c9:17:73:71:f7:90:be:
+         65:ee:24:80:6d:05:38:03:36:57:00:e8:d1:5c:50:b8:d1:f4:
+         32:e7:c5:2c:5d:15:7f:db:57:aa:ba:ca:09:fe:62:fb:bc:fe:
+         9e:fc:c6:19:d0:cd:21:a4:2c:7f:5c:f0:0a:ed:3b:2e:18:e9:
+         4a:a2:9d:43:47:34:52:b6:12:6a:95:54:53:e5:e4:7f:40:af:
+         76:55:42:cf:9e:cf:9d:ef:0c:18:1d:1e:18:62:1e:79:44:ee:
+         36:60:4c:9e:27:d9:df:f7:58:90:09:b5:45:cf:b4:fb:9c:46:
+         35:ba:d7:6a:c8:4e:9a:28:3b:9c:c2:1a:c2:10:ea:1d:a1:f0:
+         47:7d:e9:b4:ff:b1:af:59:7c:46:40:80:a6:07:bc:77:f0:28:
+         23:1a:65:23:76:2d:9c:f5:f9:5f:1d:23:0c:9c:a8:73:48:81:
+         60:55:70:52:ea:e6:8b:7f:84:51:ee:a8:df:2b:bf:16:e6:26:
+         d7:a6:d2:49:3a:c7:ea:f1:75:5c:87:62:71:dd:f9:47:73:e8:
+         02:1d:59:2e:85:33:2c:e6:a5:eb:b3:0d:ac:ea:9b:17:95:fb:
+         16:8b:6c:3b:74:c7:b8:ff:29:51:96:a2:f0:c1:01:d9:81:92:
+         72:7e:88:16
+-----BEGIN CERTIFICATE-----
+MIIDsTCCApmgAwIBAgIEPV2GEzANBgkqhkiG9w0BAQsFADCBiDELMAkGA1UEBhMC
+VVMxEDAOBgNVBAgTB0Zsb3JpZGExGTAXBgNVBAcTEEhhbGxhbmRhbGUgQmVhY2gx
+GjAYBgNVBAoTEVp1bWJhIEZpdG5lc3MgTExDMQ4wDAYDVQQLEwVNZWRpYTEgMB4G
+A1UEAxMXWnVtYmEgRml0bmVzcyAtIFpJTiBBcHAwHhcNMTYxMTE0MTgzNTA5WhcN
+NDQwNDAxMTgzNTA5WjCBiDELMAkGA1UEBhMCVVMxEDAOBgNVBAgTB0Zsb3JpZGEx
+GTAXBgNVBAcTEEhhbGxhbmRhbGUgQmVhY2gxGjAYBgNVBAoTEVp1bWJhIEZpdG5l
+c3MgTExDMQ4wDAYDVQQLEwVNZWRpYTEgMB4GA1UEAxMXWnVtYmEgRml0bmVzcyAt
+IFpJTiBBcHAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDG7mGDJxxU
+hUMMlaFe+Kroy5hL9b4jDqArd4yihkwPKmijrGD8mLSE7o4kWIrGUkqti3j5H2S9
+UtpNtVyIHyCdHo2WKZfqvt+SMloJeJHekz8uG6/V3TiQqGO1r2nzEOvSm/6gG9PF
+W3x8XrXJcVjVgYA0FFT8KzIOEbIwdRFlulEYpVxUeAT5MZiBGwq8faljP57g2BGV
+/t50HaxL2bM8b+ykbCdyuanuJSbUcTlEpN2uAEURtpW/wPIOaqSFUnu8zYxrliN7
+432A8JSzzyCCQuBMb6lyN/0bvXhFc92LrrIMD14ST849BTJszXPsU0E8YLg2mw+M
+ffKN/i3HPSCFAgMBAAGjITAfMB0GA1UdDgQWBBT4a9WU7Bl1v4oCjkCPYexgkL53
+DzANBgkqhkiG9w0BAQsFAAOCAQEAJcIYazmqIj6ja6jJF3Nx95C+Ze4kgG0FOAM2
+VwDo0VxQuNH0MufFLF0Vf9tXqrrKCf5i+7z+nvzGGdDNIaQsf1zwCu07LhjpSqKd
+Q0c0UrYSapVUU+Xkf0CvdlVCz57Pne8MGB0eGGIeeUTuNmBMnifZ3/dYkAm1Rc+0
++5xGNbrXashOmig7nMIawhDqHaHwR33ptP+xr1l8RkCApge8d/AoIxplI3YtnPX5
+Xx0jDJyoc0iBYFVwUurmi3+EUe6o3yu/FuYm16bSSTrH6vF1XIdicd35R3PoAh1Z
+LoUzLOal67MNrOqbF5X7FotsO3THuP8pUZai8MEB2YGScn6IFg==
+-----END CERTIFICATE-----
+

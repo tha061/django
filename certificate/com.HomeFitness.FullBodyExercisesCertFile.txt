@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 784335158 (0x2ec00136)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=midoow elh
+        Validity
+            Not Before: Feb  2 19:26:51 2017 GMT
+            Not After : Jan  9 19:26:51 2117 GMT
+        Subject: CN=midoow elh
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:86:bf:a8:bb:e9:17:b6:1a:5e:a7:23:06:3e:85:
+                    45:cc:fa:9a:70:7c:86:c9:f4:15:58:11:b8:36:77:
+                    d2:0b:4a:ef:f4:9c:b0:1b:c3:79:14:da:65:03:76:
+                    26:6d:7d:cc:8c:6a:3a:90:d1:db:08:ae:33:85:c6:
+                    8e:de:62:d2:94:9f:9d:16:a1:1a:b6:fd:a4:d3:89:
+                    31:59:28:66:05:f5:1f:29:fe:e8:48:bc:81:44:ec:
+                    02:08:b3:30:ac:a4:1f:1b:3a:71:c9:97:33:d8:f0:
+                    6f:d5:b6:f3:1d:5d:79:c4:15:10:46:96:ae:7a:da:
+                    6f:48:16:0d:ef:9f:8b:a7:c0:92:6d:92:c0:ff:a5:
+                    15:70:b5:b9:31:40:43:a0:0d:3c:88:93:75:81:fb:
+                    6b:e0:1a:db:fe:7c:de:cd:5a:8e:8b:21:cf:91:9c:
+                    bc:4a:d1:8e:0c:35:d1:1a:5a:00:9f:fc:e5:a5:e8:
+                    1a:4f:a0:2e:be:1d:6b:88:20:c3:f8:0c:5f:8f:64:
+                    e8:a8:db:53:76:e9:10:fe:91:a9:bd:f7:4e:9a:4a:
+                    b1:de:b6:23:ec:29:17:fe:78:6e:07:af:e3:70:4b:
+                    d5:3d:0d:ab:b2:c2:b0:75:08:be:79:48:b6:4d:3c:
+                    c3:c9:93:81:34:75:15:3e:e1:bb:6b:45:f9:91:36:
+                    3c:f3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                D9:66:E6:16:93:F7:E9:D9:E8:1A:60:4D:83:AA:1C:4B:C0:F7:D7:DC
+    Signature Algorithm: sha256WithRSAEncryption
+         41:33:3e:5e:93:85:93:a3:c5:4f:cf:aa:c0:98:32:bb:83:c8:
+         66:34:31:8c:c6:5b:6d:be:3d:f9:16:f3:20:ea:17:97:f4:2a:
+         9a:94:39:c3:b0:9d:47:8b:69:4d:67:7c:1e:ca:5a:98:6b:29:
+         8e:1b:29:1b:f1:93:14:a2:c0:22:00:c0:db:15:90:3f:b6:66:
+         8f:9f:79:11:60:24:1d:1d:4d:5b:8d:30:d3:f8:78:a9:f6:8e:
+         c8:9d:da:2d:fd:9e:cb:24:98:7c:38:15:fe:43:f6:09:f5:c8:
+         b8:d0:ff:05:2c:0e:dd:3f:b5:2b:d0:4c:48:08:e8:47:74:21:
+         a8:62:f1:f4:17:fd:1e:4f:ae:ea:07:00:89:99:83:10:ad:57:
+         15:49:cc:4d:a1:b6:65:85:c5:2d:5a:eb:4f:e3:4d:4f:db:94:
+         bb:e3:da:94:06:6c:02:0e:af:32:c3:61:f1:89:e0:3d:dd:99:
+         48:2c:a2:ed:3b:51:bf:35:3e:29:9c:a2:9e:72:a0:2f:f1:f2:
+         70:8e:d1:13:9e:d0:71:9e:b2:5e:5a:ef:71:df:63:ae:5c:c2:
+         b7:a3:2e:41:2e:83:3d:1f:a2:2b:2c:64:0b:34:69:3a:d5:18:
+         c3:e6:73:03:05:56:4e:5f:c8:d5:9f:3d:20:76:0b:01:68:d4:
+         0b:07:30:6b
+-----BEGIN CERTIFICATE-----
+MIICyzCCAbOgAwIBAgIELsABNjANBgkqhkiG9w0BAQsFADAVMRMwEQYDVQQDEwpt
+aWRvb3cgZWxoMCAXDTE3MDIwMjE5MjY1MVoYDzIxMTcwMTA5MTkyNjUxWjAVMRMw
+EQYDVQQDEwptaWRvb3cgZWxoMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAhr+ou+kXthpepyMGPoVFzPqacHyGyfQVWBG4NnfSC0rv9JywG8N5FNplA3Ym
+bX3MjGo6kNHbCK4zhcaO3mLSlJ+dFqEatv2k04kxWShmBfUfKf7oSLyBROwCCLMw
+rKQfGzpxyZcz2PBv1bbzHV15xBUQRpauetpvSBYN75+Lp8CSbZLA/6UVcLW5MUBD
+oA08iJN1gftr4Brb/nzezVqOiyHPkZy8StGODDXRGloAn/zlpegaT6Auvh1riCDD
++Axfj2ToqNtTdukQ/pGpvfdOmkqx3rYj7CkX/nhuB6/jcEvVPQ2rssKwdQi+eUi2
+TTzDyZOBNHUVPuG7a0X5kTY88wIDAQABoyEwHzAdBgNVHQ4EFgQU2WbmFpP36dno
+GmBNg6ocS8D319wwDQYJKoZIhvcNAQELBQADggEBAEEzPl6ThZOjxU/PqsCYMruD
+yGY0MYzGW22+PfkW8yDqF5f0KpqUOcOwnUeLaU1nfB7KWphrKY4bKRvxkxSiwCIA
+wNsVkD+2Zo+feRFgJB0dTVuNMNP4eKn2jsid2i39nsskmHw4Ff5D9gn1yLjQ/wUs
+Dt0/tSvQTEgI6Ed0Iahi8fQX/R5PruoHAImZgxCtVxVJzE2htmWFxS1a60/jTU/b
+lLvj2pQGbAIOrzLDYfGJ4D3dmUgsou07Ub81Pimcop5yoC/x8nCO0ROe0HGesl5a
+73HfY65cwrejLkEugz0foissZAs0aTrVGMPmcwMFVk5fyNWfPSB2CwFo1AsHMGs=
+-----END CERTIFICATE-----
+

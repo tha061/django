@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1275543208 (0x4c073ea8)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=CA, L=Irvine, O=LA Fitness, OU=LA Fitness, CN=LA Fitness
+        Validity
+            Not Before: Jun  3 05:33:28 2010 GMT
+            Not After : Oct 19 05:33:28 2037 GMT
+        Subject: C=US, ST=CA, L=Irvine, O=LA Fitness, OU=LA Fitness, CN=LA Fitness
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:bb:33:44:91:a1:31:5a:d8:46:c8:6a:ca:71:4e:
+                    23:e2:6d:3c:64:c4:c0:75:4a:84:b2:fa:7a:15:5e:
+                    1c:4d:ad:63:3e:50:03:1a:a2:63:30:f2:62:2e:c5:
+                    67:df:06:f7:c8:ae:77:b4:b3:b1:6b:03:93:b3:8d:
+                    27:b4:5e:a7:b9:ce:0d:74:15:ea:97:08:0d:d1:67:
+                    e0:65:b6:fd:2a:7e:3f:63:2a:60:e2:a3:84:42:16:
+                    0a:99:c3:2c:f1:21:23:86:83:17:e1:41:65:e3:d9:
+                    ea:80:d2:6b:d3:9d:4b:43:7d:90:a0:1d:9c:fa:48:
+                    b5:d5:eb:76:20:95:41:5a:6d:70:ac:b3:aa:0e:3e:
+                    60:d1:35:96:ba:ea:21:f4:db:4d:8f:96:33:dd:07:
+                    05:22:70:14:23:02:09:83:d4:e6:6c:c1:22:07:67:
+                    99:67:95:62:3e:28:a3:da:ad:2d:99:c2:20:1b:51:
+                    5c:10:d5:ba:41:8b:c5:2d:fa:83:7e:30:db:9b:db:
+                    4d:8c:e7:e0:c3:40:b3:4a:f7:2b:0d:bd:b8:83:45:
+                    42:61:52:d9:89:07:57:65:ed:92:6b:12:59:9e:49:
+                    f2:22:58:fe:c8:30:98:83:11:4e:62:a8:0b:53:b3:
+                    3a:03:97:8b:70:3e:df:48:69:a2:a6:54:e1:d4:13:
+                    37:df
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         a9:3d:73:93:f6:79:68:13:c1:ba:5e:52:9a:58:94:56:ca:fa:
+         a7:32:cd:d8:42:88:a2:15:be:7e:39:12:8d:25:3e:e7:3e:ea:
+         ed:bf:6b:d4:ad:fd:51:f2:26:32:e8:16:c7:ab:5c:3e:9b:99:
+         7b:bb:17:68:b5:98:32:8d:d4:ab:e9:c3:89:71:61:39:e3:f5:
+         d3:f8:b5:de:04:a8:4e:a5:53:bd:8f:a4:22:e5:c7:c1:d8:2f:
+         76:85:ee:8f:9f:a2:60:9e:82:7d:e2:60:de:61:d1:97:2b:d9:
+         00:91:bc:5f:36:d0:45:e8:0c:b8:70:b4:9e:4f:68:f3:fb:ad:
+         9a:5e:93:15:fe:36:7b:ff:03:a1:13:87:9b:5d:74:38:41:a7:
+         cc:db:76:51:cc:1c:ff:c2:31:26:60:c9:c1:26:a9:02:75:f0:
+         c3:43:e9:e4:88:bb:08:c2:8c:56:1c:04:79:06:73:d0:39:36:
+         78:a0:89:be:37:4d:ad:d0:4b:09:e2:96:95:e7:da:e0:4a:4b:
+         02:6b:ce:d0:b9:da:1c:a1:82:9e:4b:48:55:06:99:91:23:da:
+         d4:c6:38:f6:07:ce:ef:bc:0c:a9:12:28:07:35:7a:9e:0b:6d:
+         d1:4a:41:dd:9a:d9:54:41:59:50:c7:67:eb:da:f0:26:f3:82:
+         89:5b:76:04
+-----BEGIN CERTIFICATE-----
+MIIDUDCCAjigAwIBAgIETAc+qDANBgkqhkiG9w0BAQUFADBqMQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCQ0ExDzANBgNVBAcTBklydmluZTETMBEGA1UEChMKTEEgRml0
+bmVzczETMBEGA1UECxMKTEEgRml0bmVzczETMBEGA1UEAxMKTEEgRml0bmVzczAe
+Fw0xMDA2MDMwNTMzMjhaFw0zNzEwMTkwNTMzMjhaMGoxCzAJBgNVBAYTAlVTMQsw
+CQYDVQQIEwJDQTEPMA0GA1UEBxMGSXJ2aW5lMRMwEQYDVQQKEwpMQSBGaXRuZXNz
+MRMwEQYDVQQLEwpMQSBGaXRuZXNzMRMwEQYDVQQDEwpMQSBGaXRuZXNzMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuzNEkaExWthGyGrKcU4j4m08ZMTA
+dUqEsvp6FV4cTa1jPlADGqJjMPJiLsVn3wb3yK53tLOxawOTs40ntF6nuc4NdBXq
+lwgN0WfgZbb9Kn4/Yypg4qOEQhYKmcMs8SEjhoMX4UFl49nqgNJr051LQ32QoB2c
++ki11et2IJVBWm1wrLOqDj5g0TWWuuoh9NtNj5Yz3QcFInAUIwIJg9TmbMEiB2eZ
+Z5ViPiij2q0tmcIgG1FcENW6QYvFLfqDfjDbm9tNjOfgw0CzSvcrDb24g0VCYVLZ
+iQdXZe2SaxJZnknyIlj+yDCYgxFOYqgLU7M6A5eLcD7fSGmiplTh1BM33wIDAQAB
+MA0GCSqGSIb3DQEBBQUAA4IBAQCpPXOT9nloE8G6XlKaWJRWyvqnMs3YQoiiFb5+
+ORKNJT7nPurtv2vUrf1R8iYy6BbHq1w+m5l7uxdotZgyjdSr6cOJcWE54/XT+LXe
+BKhOpVO9j6Qi5cfB2C92he6Pn6JgnoJ94mDeYdGXK9kAkbxfNtBF6Ay4cLSeT2jz
++62aXpMV/jZ7/wOhE4ebXXQ4QafM23ZRzBz/wjEmYMnBJqkCdfDDQ+nkiLsIwoxW
+HAR5BnPQOTZ4oIm+N02t0EsJ4paV59rgSksCa87QudocoYKeS0hVBpmRI9rUxjj2
+B87vvAypEigHNXqeC23RSkHdmtlUQVlQx2fr2vAm84KJW3YE
+-----END CERTIFICATE-----
+

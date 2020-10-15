@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1022115351 (0x3cec3e17)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CO, ST=Bogota, L=Bogota, O=LeoSites, OU=LeoSites, CN=Fabio Parra
+        Validity
+            Not Before: Mar 26 14:37:54 2015 GMT
+            Not After : Mar 16 14:37:54 2053 GMT
+        Subject: C=CO, ST=Bogota, L=Bogota, O=LeoSites, OU=LeoSites, CN=Fabio Parra
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:97:1a:39:04:da:29:aa:ff:06:eb:8d:5e:e4:f6:
+                    9c:d8:20:f3:e9:b9:64:9e:1b:80:d6:46:78:74:57:
+                    a5:b3:2a:49:4b:32:8a:be:4a:35:16:98:03:ec:3a:
+                    ed:59:c7:0b:56:ab:b9:0c:c2:cd:24:ba:c4:bd:e0:
+                    b1:30:c0:6b:ba:d0:72:2b:ce:38:ec:03:62:40:f3:
+                    82:ab:f8:46:c6:f1:40:8b:ba:dc:d2:fe:80:10:22:
+                    8f:1c:53:be:32:05:30:3c:9e:10:2d:92:98:ec:fe:
+                    ff:55:78:66:c1:eb:0e:2e:7b:e1:a9:68:64:1a:ab:
+                    28:86:25:3a:02:ff:47:5c:d4:3e:0f:56:0f:35:aa:
+                    da:76:cd:a7:f7:e7:5a:81:6a:84:b1:d2:c3:c0:63:
+                    a2:1c:be:9c:7f:76:90:3c:3e:ea:85:ba:23:22:77:
+                    f8:ca:13:d9:9c:39:ab:06:49:6f:25:d1:53:0e:56:
+                    8b:eb:8f:13:a5:05:bf:50:43:90:ef:80:5d:44:bc:
+                    63:bb:0b:ef:47:c9:e1:fd:06:df:d9:4f:6d:a5:08:
+                    de:c8:1a:21:be:42:d1:17:53:73:64:be:42:ef:fe:
+                    ac:3c:40:9a:38:2c:f9:3d:cf:8f:f6:59:6a:ce:7a:
+                    3e:5f:63:5a:23:e3:f1:f1:d5:fb:c5:fc:55:76:e8:
+                    b6:c1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                23:15:40:F1:19:46:3E:8E:97:07:3B:B4:20:DC:D4:72:12:95:AE:44
+    Signature Algorithm: sha256WithRSAEncryption
+         12:c8:fe:71:a5:86:c2:cc:d8:0a:e1:21:2e:09:b7:3f:9d:6a:
+         04:49:7e:2d:43:ba:f2:35:17:a3:d8:e3:77:0d:70:d1:b9:3f:
+         63:ba:41:11:75:9f:00:21:e8:8e:27:d1:ac:da:26:c2:6f:10:
+         ca:28:97:8d:e5:9f:ed:be:52:0b:53:9d:30:3b:b8:65:6b:00:
+         9b:80:e9:91:21:20:3b:d5:f4:34:95:53:8a:04:96:0c:2c:39:
+         0c:cf:99:71:ca:1e:f7:50:c7:65:9f:32:f0:b0:88:65:80:5b:
+         2a:2e:01:d7:63:17:67:fa:2c:a9:8c:27:e0:9a:19:c8:bd:93:
+         bb:94:8b:3f:20:fc:75:39:aa:72:70:51:87:06:a7:c0:97:c0:
+         53:66:3c:a6:5f:87:a5:5c:e8:c2:c8:ab:63:4c:05:ae:00:3e:
+         84:14:f9:01:12:43:1f:34:85:e4:6a:a0:d1:9a:f3:27:37:9d:
+         6b:3e:84:6a:a5:b3:8f:01:68:21:d2:d3:84:82:ca:e4:9e:6e:
+         42:06:ee:4d:b1:0d:54:cb:cd:84:5a:bd:ec:01:41:2c:49:e6:
+         b5:98:79:b8:f2:be:8c:6e:49:1a:4c:b5:66:47:81:dd:36:5c:
+         aa:b3:4b:99:7b:54:ee:1e:46:32:ba:3a:95:e4:7e:ed:d7:fa:
+         78:1d:9b:c5
+-----BEGIN CERTIFICATE-----
+MIIDdzCCAl+gAwIBAgIEPOw+FzANBgkqhkiG9w0BAQsFADBrMQswCQYDVQQGEwJD
+TzEPMA0GA1UECBMGQm9nb3RhMQ8wDQYDVQQHEwZCb2dvdGExETAPBgNVBAoTCExl
+b1NpdGVzMREwDwYDVQQLEwhMZW9TaXRlczEUMBIGA1UEAxMLRmFiaW8gUGFycmEw
+IBcNMTUwMzI2MTQzNzU0WhgPMjA1MzAzMTYxNDM3NTRaMGsxCzAJBgNVBAYTAkNP
+MQ8wDQYDVQQIEwZCb2dvdGExDzANBgNVBAcTBkJvZ290YTERMA8GA1UEChMITGVv
+U2l0ZXMxETAPBgNVBAsTCExlb1NpdGVzMRQwEgYDVQQDEwtGYWJpbyBQYXJyYTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJcaOQTaKar/BuuNXuT2nNgg
+8+m5ZJ4bgNZGeHRXpbMqSUsyir5KNRaYA+w67VnHC1aruQzCzSS6xL3gsTDAa7rQ
+civOOOwDYkDzgqv4RsbxQIu63NL+gBAijxxTvjIFMDyeEC2SmOz+/1V4ZsHrDi57
+4aloZBqrKIYlOgL/R1zUPg9WDzWq2nbNp/fnWoFqhLHSw8Bjohy+nH92kDw+6oW6
+IyJ3+MoT2Zw5qwZJbyXRUw5Wi+uPE6UFv1BDkO+AXUS8Y7sL70fJ4f0G39lPbaUI
+3sgaIb5C0RdTc2S+Qu/+rDxAmjgs+T3Pj/ZZas56Pl9jWiPj8fHV+8X8VXbotsEC
+AwEAAaMhMB8wHQYDVR0OBBYEFCMVQPEZRj6Olwc7tCDc1HISla5EMA0GCSqGSIb3
+DQEBCwUAA4IBAQASyP5xpYbCzNgK4SEuCbc/nWoESX4tQ7ryNRej2ON3DXDRuT9j
+ukERdZ8AIeiOJ9Gs2ibCbxDKKJeN5Z/tvlILU50wO7hlawCbgOmRISA71fQ0lVOK
+BJYMLDkMz5lxyh73UMdlnzLwsIhlgFsqLgHXYxdn+iypjCfgmhnIvZO7lIs/IPx1
+OapycFGHBqfAl8BTZjymX4elXOjCyKtjTAWuAD6EFPkBEkMfNIXkaqDRmvMnN51r
+PoRqpbOPAWgh0tOEgsrknm5CBu5NsQ1Uy82EWr3sAUEsSea1mHm48r6MbkkaTLVm
+R4HdNlyqs0uZe1TuHkYyujqV5H7t1/p4HZvF
+-----END CERTIFICATE-----
+

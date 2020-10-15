@@ -1,0 +1,46 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1465137407 (0x575438ff)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: L=Siegen, O=RAW Workout
+        Validity
+            Not Before: Jun  5 14:36:47 2016 GMT
+            Not After : May 24 14:36:47 2066 GMT
+        Subject: L=Siegen, O=RAW Workout
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:86:31:98:20:1b:53:1e:ce:db:16:8b:1c:7b:ca:
+                    de:51:8f:49:1e:fb:3e:95:f7:b5:79:66:f7:ce:5a:
+                    f2:9c:2d:b9:f6:dd:d7:f8:9e:9e:94:b6:54:e3:be:
+                    f0:a2:6e:8b:1b:9b:50:b2:1f:6d:2f:d6:05:a0:cc:
+                    bc:bb:9a:e4:dd:a8:17:12:c9:b3:49:9f:44:bc:cc:
+                    98:c4:45:84:45:f4:3e:4c:b5:f8:59:a4:61:b9:cb:
+                    1f:5d:a0:79:b3:56:e8:2e:ed:7d:bd:7e:ec:7c:d3:
+                    e1:b1:ee:91:0b:e3:9a:a5:d7:a4:dc:ae:7c:96:15:
+                    25:27:57:65:82:e9:f3:38:27
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         20:96:9f:e9:c7:40:6d:af:b4:e2:f2:39:f0:d1:01:b1:78:ea:
+         ee:3b:60:b2:c7:9d:2b:c3:f1:77:95:6d:bc:4e:d2:91:ba:f9:
+         47:5b:18:5a:73:c0:7f:01:57:87:b1:da:bf:e7:1f:e3:42:f1:
+         aa:4b:48:07:e2:21:c6:64:01:8e:9d:f8:bd:8a:6e:b5:5c:a8:
+         6f:f2:14:25:aa:79:9e:00:1b:3f:7c:a3:f8:79:f5:8f:3d:3d:
+         ce:f9:9f:52:ce:03:2b:dc:e1:5c:8f:f6:54:97:ca:54:f9:a0:
+         cd:a3:12:f1:b0:02:e0:ef:a2:df:e1:48:3e:f7:80:ac:c3:91:
+         a0:a4
+-----BEGIN CERTIFICATE-----
+MIIBxzCCATCgAwIBAgIEV1Q4/zANBgkqhkiG9w0BAQUFADAnMQ8wDQYDVQQHEwZT
+aWVnZW4xFDASBgNVBAoTC1JBVyBXb3Jrb3V0MCAXDTE2MDYwNTE0MzY0N1oYDzIw
+NjYwNTI0MTQzNjQ3WjAnMQ8wDQYDVQQHEwZTaWVnZW4xFDASBgNVBAoTC1JBVyBX
+b3Jrb3V0MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCGMZggG1MeztsWixx7
+yt5Rj0ke+z6V97V5ZvfOWvKcLbn23df4np6UtlTjvvCibosbm1CyH20v1gWgzLy7
+muTdqBcSybNJn0S8zJjERYRF9D5MtfhZpGG5yx9doHmzVugu7X29fux80+Gx7pEL
+45ql16TcrnyWFSUnV2WC6fM4JwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBACCWn+nH
+QG2vtOLyOfDRAbF46u47YLLHnSvD8XeVbbxO0pG6+UdbGFpzwH8BV4ex2r/nH+NC
+8apLSAfiIcZkAY6d+L2KbrVcqG/yFCWqeZ4AGz98o/h59Y89Pc75n1LOAyvc4VyP
+9lSXylT5oM2jEvGwAuDvot/hSD73gKzDkaCk
+-----END CERTIFICATE-----
+

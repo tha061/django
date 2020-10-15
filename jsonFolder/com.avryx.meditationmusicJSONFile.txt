@@ -1,0 +1,70 @@
+{
+  "name": "com.avryx.meditationmusic",
+  "fileSize": "45.6 MB",
+  "VTmd5": "d2f8ea65d038d4d3b5285d106b3da79c",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/2de9562e05967e1de70be89572c9f57d1f2a409399fdea1f969ae87d9a77a728/detection/f-2de9562e05967e1de70be89572c9f57d1f2a409399fdea1f969ae87d9a77a728-1573649134",
+  "VTresource": "2de9562e05967e1de70be89572c9f57d1f2a409399fdea1f969ae87d9a77a728",
+  "VTresponsecode": 1,
+  "VTscanID": "2de9562e05967e1de70be89572c9f57d1f2a409399fdea1f969ae87d9a77a728-1573649134",
+  "VTsha1": "fbf46cf789ce5bd4cd0acf3098f9581674e00dd0",
+  "VTsha256": "2de9562e05967e1de70be89572c9f57d1f2a409399fdea1f969ae87d9a77a728",
+  "VTtotal": 60,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.avryx.meditationmusic.services.MediaPlayerService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "17 November 2016",
+    "Size": "46M",
+    "Installs": "500000",
+    "Current Version": "5.52",
+    "Requires Android": "3.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Avryx Apps",
+    "Developer": "Visit website avryxapps@gmail.com Privacy Policy 279 West Lake Rd\nPalm Harbor, FL 34684"
+  },
+  "rating": "4.6",
+  "description": "Meditation music is a free meditation app to relax the body and mind. Enjoy listening to the beautiful meditation sounds that will aid you in finding inner peace, helping reduce stress and even to fall asleep. This meditation music app also comes with a meditation timer to allow for easy time management so you can solely focus on your guided journey into a deep meditation state of mind. The timer will continue to work in the background while the phone screen is off or pause itself when a call is being received. Finally included with these relaxing sounds are background pictures that capture a calm atmosphere for your meditation needs--ranging from waterfalls to zen gardens.  Mentionable features: - High quality meditation sound - Timer to fit your desired meditation duration - Beautiful nature backgrounds - SD Card installation capability - Won't distrupt incoming phone calls - Can be connected to external stereo system Feel free to contact for any questions or feedback. I hope this app benefits you in your day-to-day life.",
+  "privacyText": "http://avryx.com/privacy-policy/legal.html",
+  "numInstalls": 500000,
+  "developer": "Avryx Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://avryx.com",
+    "Developer Email": "avryxapps@gmail.com",
+    "Privacy Policy": "http://avryx.com/privacy-policy/legal.html"
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Tapjoy",
+    "TapJoy"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

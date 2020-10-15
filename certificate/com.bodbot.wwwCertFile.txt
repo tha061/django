@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 750852426 (0x2cc1194a)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: ST=CA, L=San Francisco, CN=Sergio Prado
+        Validity
+            Not Before: Jun  7 18:15:03 2012 GMT
+            Not After : May 26 18:15:03 2062 GMT
+        Subject: ST=CA, L=San Francisco, CN=Sergio Prado
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:95:e1:0f:37:06:a8:a5:37:0b:aa:77:4c:cd:2c:
+                    5a:5a:b1:60:c5:9b:20:15:06:35:42:41:a6:ae:03:
+                    d3:c4:e5:ba:37:1c:d9:d5:40:85:82:5a:44:3a:b2:
+                    61:c6:2a:a5:c3:dd:3f:1e:b6:8f:be:46:c2:d8:61:
+                    45:e1:fd:93:64:92:14:3e:b3:fb:de:e7:67:ea:35:
+                    03:ad:7e:cb:01:ee:db:2b:50:ef:22:1a:86:48:8b:
+                    ae:e4:54:1a:66:a2:a7:72:67:b3:89:1e:e5:e6:c3:
+                    03:ce:74:fa:b3:b3:36:a2:1f:ba:c6:aa:d8:e2:4a:
+                    ad:0d:e6:a2:b8:d9:df:ba:d0:44:48:78:fc:4c:c9:
+                    09:5e:ac:2b:05:49:27:75:28:7c:b2:b8:99:00:0e:
+                    5a:5d:d1:2d:c0:70:1b:bb:ec:9c:66:a2:db:17:36:
+                    c1:8a:65:d3:a2:fa:4a:10:de:55:76:ed:98:c6:73:
+                    8e:a4:27:df:13:8e:2d:83:cb:5a:66:4c:01:8b:93:
+                    25:28:2a:31:ec:74:68:26:3b:04:24:e4:d5:6e:70:
+                    85:d7:dc:55:46:24:e0:85:c1:d2:85:66:56:76:11:
+                    a3:97:9c:b6:e3:0b:1e:ba:00:ba:75:f2:f9:00:f4:
+                    b6:f6:30:ed:b9:79:cc:1f:54:a2:b2:88:3c:ad:80:
+                    13:bf
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                00:A9:ED:07:D1:35:02:2E:9D:82:0A:A1:54:BE:6D:01:31:62:8C:51
+    Signature Algorithm: sha256WithRSAEncryption
+         75:18:80:ce:29:2f:bb:42:cb:d0:74:d9:5b:f2:a2:64:76:c8:
+         4b:39:98:b8:db:77:c3:09:9a:cb:3f:d9:9c:88:7d:03:08:c5:
+         f7:31:e8:2c:df:66:e0:84:f0:3a:68:20:90:ed:d1:d6:87:a0:
+         37:9b:5c:6f:04:a4:49:92:f3:12:13:70:6f:3f:db:b2:15:3c:
+         02:6e:ac:52:d2:40:e0:f3:3f:e2:df:2f:f6:f4:de:ee:0f:8a:
+         00:50:b1:ac:aa:d1:ab:18:40:de:65:0a:de:86:d3:14:79:bb:
+         0b:12:68:27:0f:0f:1b:25:17:64:32:c8:f9:13:70:b0:ab:1e:
+         bd:d6:22:61:4d:08:7c:f6:02:f7:9f:eb:9e:bb:9b:89:ac:11:
+         5e:c5:e8:ce:9c:16:81:77:0c:1e:b8:9a:98:36:a6:47:1f:6a:
+         da:00:de:c8:35:39:ac:13:c8:39:24:c5:8c:6a:70:79:2a:be:
+         b9:a4:ac:bd:e6:d4:37:bf:f6:62:ab:c6:5f:90:7c:e4:9b:75:
+         fb:9e:2f:2b:0f:46:96:f1:61:b5:87:66:9b:96:b3:13:f6:1e:
+         42:c9:e2:78:ea:1e:5b:51:5b:1e:34:79:79:b3:89:17:0f:02:
+         66:5a:53:b9:20:cd:6c:b3:56:be:01:79:4b:9d:ae:17:33:92:
+         8a:05:4c:c8
+-----BEGIN CERTIFICATE-----
+MIIDGTCCAgGgAwIBAgIELMEZSjANBgkqhkiG9w0BAQsFADA8MQswCQYDVQQIEwJD
+QTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEVMBMGA1UEAxMMU2VyZ2lvIFByYWRv
+MCAXDTEyMDYwNzE4MTUwM1oYDzIwNjIwNTI2MTgxNTAzWjA8MQswCQYDVQQIEwJD
+QTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEVMBMGA1UEAxMMU2VyZ2lvIFByYWRv
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAleEPNwaopTcLqndMzSxa
+WrFgxZsgFQY1QkGmrgPTxOW6NxzZ1UCFglpEOrJhxiqlw90/HraPvkbC2GFF4f2T
+ZJIUPrP73udn6jUDrX7LAe7bK1DvIhqGSIuu5FQaZqKncmeziR7l5sMDznT6s7M2
+oh+6xqrY4kqtDeaiuNnfutBESHj8TMkJXqwrBUkndSh8sriZAA5aXdEtwHAbu+yc
+ZqLbFzbBimXTovpKEN5Vdu2YxnOOpCffE44tg8taZkwBi5MlKCox7HRoJjsEJOTV
+bnCF19xVRiTghcHShWZWdhGjl5y24wseugC6dfL5APS29jDtuXnMH1Sisog8rYAT
+vwIDAQABoyEwHzAdBgNVHQ4EFgQUAKntB9E1Ai6dggqhVL5tATFijFEwDQYJKoZI
+hvcNAQELBQADggEBAHUYgM4pL7tCy9B02VvyomR2yEs5mLjbd8MJmss/2ZyIfQMI
+xfcx6CzfZuCE8DpoIJDt0daHoDebXG8EpEmS8xITcG8/27IVPAJurFLSQODzP+Lf
+L/b03u4PigBQsayq0asYQN5lCt6G0xR5uwsSaCcPDxslF2QyyPkTcLCrHr3WImFN
+CHz2Avef6567m4msEV7F6M6cFoF3DB64mpg2pkcfatoA3sg1OawTyDkkxYxqcHkq
+vrmkrL3m1De/9mKrxl+QfOSbdfueLysPRpbxYbWHZpuWsxP2HkLJ4njqHltRWx40
+eXmziRcPAmZaU7kgzWyzVr4BeUudrhczkooFTMg=
+-----END CERTIFICATE-----
+

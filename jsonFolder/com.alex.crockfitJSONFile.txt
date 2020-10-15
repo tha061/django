@@ -1,0 +1,80 @@
+{
+  "name": "com.alex.crockfit",
+  "fileSize": "5.5 MB",
+  "VTmd5": "5564fd37f90b3c946332ab68f6292645",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/8da1ce07a08263d183d313b607bfda802b3f35a106923301ca7699b32e982ddc/detection/f-8da1ce07a08263d183d313b607bfda802b3f35a106923301ca7699b32e982ddc-1602310981",
+  "VTresource": "8da1ce07a08263d183d313b607bfda802b3f35a106923301ca7699b32e982ddc",
+  "VTresponsecode": 1,
+  "VTscanID": "8da1ce07a08263d183d313b607bfda802b3f35a106923301ca7699b32e982ddc-1602310981",
+  "VTsha1": "d29c9c0950cc55a675d636ee61caead15df0fd37",
+  "VTsha256": "8da1ce07a08263d183d313b607bfda802b3f35a106923301ca7699b32e982ddc",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.SYSTEM_ALERT_WINDOW Protection Level: signature|preinstalled|appop|pre23|development",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "24 September 2020",
+    "Size": "14M",
+    "Installs": "10000",
+    "Current Version": "1.10.0",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$0.99 \u2013 $94.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Alex Crockford",
+    "Developer": "Visit website alex@alexcrockford.com Privacy Policy Allen House\n1 Westmead Road\nSutton\nSM1 4LA\nUnited Kingdom"
+  },
+  "rating": "4.8",
+  "description": "Alex Crockford, the creator of #CrockFit is a personal trainer & fitness model from Surrey, UK. Alex\u2018s passion is to help people around the world become healthier, fitter & stronger. He believes fitness is for us all, no matter what our current fitness level or experience is! The workouts in the #CrockFit App are accessible & fun, but will also challenge you to become the best version of yourself!  The #CrockFit App functions as your complete training guide, providing workout programmes suitable for gym or home training, designed to increase your physical fitness, burn fat, gain muscle and transform your body. You are guided through your workout plan with a step-by-step journey, tutorial videos and the ability to track the weights you use during workouts.   Additional features include the ability to upload monthly progress photos and body weight measurements. The #CrockFit App will also provide access to the #CrockFitter\u2019s (the user) additional information such as the #CrockFit Food Plan and the training fundamentals from the original PDFs.  The FREE version includes a 1 week trial programme for home or gym training to experience what it\u2019s like to be a #CrockFitter!  You can learn more about the varied #CrockFit Plans (GymFit SheFit HomeFit etc.)",
+  "privacyText": "https://www.alexcrockford.com/privacy-policy/",
+  "numInstalls": 10000,
+  "developer": "Alex Crockford",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.alexcrockford.com",
+    "Developer Email": "alex@alexcrockford.com",
+    "Privacy Policy": "https://www.alexcrockford.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

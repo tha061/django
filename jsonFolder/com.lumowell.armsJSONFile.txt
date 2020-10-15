@@ -1,0 +1,80 @@
+{
+  "name": "com.lumowell.arms",
+  "fileSize": "47.9 MB",
+  "VTmd5": "399cab5ca684874ee61f20b6d7a8a465",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/4947c30ec5aaabff7b69f2974f94b51fdabceb976eddcc9f94a0d7f68b65b926/detection/f-4947c30ec5aaabff7b69f2974f94b51fdabceb976eddcc9f94a0d7f68b65b926-1573528021",
+  "VTresource": "4947c30ec5aaabff7b69f2974f94b51fdabceb976eddcc9f94a0d7f68b65b926",
+  "VTresponsecode": 1,
+  "VTscanID": "4947c30ec5aaabff7b69f2974f94b51fdabceb976eddcc9f94a0d7f68b65b926-1573528021",
+  "VTsha1": "b60d21d35756b56eecbb458f3bea84941c1adb8e",
+  "VTsha256": "4947c30ec5aaabff7b69f2974f94b51fdabceb976eddcc9f94a0d7f68b65b926",
+  "VTtotal": 54,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.lumowell.arms.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.lumowell.arms.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.lumowell.arms.GcmIntentService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "1 August 2017",
+    "Size": "48M",
+    "Installs": "100000",
+    "Current Version": "1.1.12",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$5.19 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Lumowell - Ego360",
+    "Developer": "Visit website service.ego360@gmail.com Privacy Policy Via Cimarosa, 65 - 80127 Napoli"
+  },
+  "rating": "4.7",
+  "description": "Best arm workouts to get toned arms fast. You can do the exercises at home. A personal trainer will show you the proper execution of the exercises to avoid mistakes. To get slim, toned arms you need to start a healthy diet. You can find a meal plan generator in the pro version of the app. Train your arms by challenging yourself with the Challenge Workout. In summary, the complete version of the app provides: - A 3-level program.  - Videos and descriptions of the exercises.  - Easy exercises for beginners.  - A healthy diet planner.  - The 30 Days Challenge Arms Workout.  - Cool-down stretching exercises.  - Motivational quotes and nutritional tips to maximize the results. By Ego360 for the LumoFit / LumoWell project. Follow us: - YouTube channel: http://goo.gl/jl3wc1 - Website: http://www.lumowell.com/ - Facebook: http://goo.gl/RytPDg - Google+: http://goo.gl/3Q8Tru",
+  "privacyText": "http://www.lumowell.com/privacy.php",
+  "numInstalls": 100000,
+  "developer": "Lumowell - Ego360",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.lumowell.com/",
+    "Developer Email": "service.ego360@gmail.com",
+    "Privacy Policy": "http://www.lumowell.com/privacy.php"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Google Analytics",
+    "YOC"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

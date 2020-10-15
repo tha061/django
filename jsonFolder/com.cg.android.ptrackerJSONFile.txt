@@ -1,0 +1,89 @@
+{
+  "name": "com.cg.android.ptracker",
+  "fileSize": "41.9 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.READ_CALENDAR Protection Level: dangerous",
+    "android.permission.WRITE_CALENDAR Protection Level: dangerous",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.cg.android.ptracker.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.cg.android.ptracker.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.cg.android.ptracker.managers.GoogleApiManager$FetchAddressIntentService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: ",
+      "name: androidx.work.impl.background.systemalarm.SystemAlarmService  permission: ",
+      "name: androidx.work.impl.background.systemjob.SystemJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "17 August 2020",
+    "Size": "42M",
+    "Installs": "100000",
+    "Current Version": "1.0.1.20200810.1",
+    "Requires Android": "6.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Sevenlogics INC",
+    "Developer": "Visit website support@sunflowr.com Privacy Policy 1300 Valley Vista Dr. Ste 203"
+  },
+  "rating": "4.3",
+  "description": "Period Tracker is a classy, pleasant, and discrete interface to track your periods, daily moods, health symptoms, notes, and even the weather, so you can see how they correlate to your cycle days. It's easy to see predicted periods and fertility days - essential for planning dates and vacations and avoiding unpleasant surprises! A menstrual cycle tracker with style - various beautiful themes, fonts, mood and symptom icons are available to match your personality or mood. ------------ Features ------------ \u2022 easy way to track period, moods, health symptoms, weight, temperature, weather, notes, medications and pregnancy \u2022 daily photo taking to remember each day by \u2022 lists of past and predicted period and fertility periods \u2022 beautiful themes and fonts to choose from \u2022 custom symptoms and moods \u2022 reminders for the upcoming period and fertile days \u2022 general reminders \u2022 pregnancy mode \u2022 graphs for fertility, temperature, weight, moods and symptoms against the period days \u2022 graphs for period duration and cycle length \u2022 flip through the screens to read entries as a health diary Track periods gracefully with Period Tracker app.",
+  "privacyText": "https://www.sunflowr.com/privacy/",
+  "numInstalls": 100000,
+  "developer": "Sevenlogics INC",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.sunflowr.com",
+    "Developer Email": "support@sunflowr.com",
+    "Privacy Policy": "https://www.sunflowr.com/privacy/"
+  },
+  "smali_Directories": [
+    "Fasterxml",
+    "Github",
+    "Google Ads",
+    "J256"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

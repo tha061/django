@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 658273169 (0x273c7391)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=Orangetheory, CN=Orangetheory
+        Validity
+            Not Before: Mar  8 15:52:57 2018 GMT
+            Not After : Mar  2 15:52:57 2043 GMT
+        Subject: C=US, O=Orangetheory, CN=Orangetheory
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9a:67:c9:73:d3:12:cf:70:92:19:96:d5:52:27:
+                    6d:5b:aa:a3:ba:e8:77:2f:7e:ee:83:a3:01:cd:a5:
+                    7a:69:b5:cc:48:8f:81:6d:89:c5:1a:fa:2b:22:e1:
+                    1a:f8:c9:a4:06:3a:b5:57:30:26:c8:90:b9:79:dc:
+                    ed:d5:fe:11:9d:9c:a1:f0:50:28:a7:bc:f1:cc:38:
+                    e0:59:7e:13:19:d5:30:cb:2c:c8:17:9d:d3:24:bb:
+                    ec:36:99:97:e7:2e:59:6c:c8:01:f8:84:aa:9a:52:
+                    e8:75:17:73:6f:a1:52:6e:66:c3:12:38:0a:b2:a5:
+                    d5:8e:a9:3e:e8:9a:2c:d7:f1:dd:82:d5:35:74:08:
+                    62:4d:42:87:12:61:a7:86:8e:d6:fd:8f:b1:2f:c8:
+                    82:b1:bf:1f:a6:b1:3d:23:d2:b6:fa:e7:70:fb:2c:
+                    c6:9e:1c:e1:b4:0c:e1:a1:f5:4c:2f:fd:78:dd:aa:
+                    d4:c1:7b:25:fa:9f:95:31:eb:73:5d:3a:9c:30:c8:
+                    0d:c5:a7:cd:f5:5f:80:96:9e:93:37:64:c9:07:96:
+                    e6:1d:00:d7:78:f5:0e:02:15:55:5c:d3:93:3c:b9:
+                    98:0c:a1:7e:62:43:87:f0:14:bf:e3:c3:79:58:6a:
+                    c4:c8:bd:f8:53:2c:89:98:9b:37:f2:58:f7:ab:05:
+                    4e:8f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                B2:23:F9:2A:9B:0C:E7:26:7A:61:43:98:2E:C4:12:90:26:27:99:C7
+    Signature Algorithm: sha256WithRSAEncryption
+         20:7c:a7:e5:ab:3c:7c:26:fd:5f:a4:63:89:95:91:aa:38:1c:
+         82:d2:ec:d4:1c:e6:77:95:e6:3a:66:51:2f:b1:4f:45:67:fb:
+         0f:c3:8a:58:e2:0f:3c:c8:42:48:3d:bd:6f:7c:87:c5:b9:c9:
+         1b:71:09:9d:bf:d7:2f:f2:c7:1e:33:bb:ce:37:06:92:68:e2:
+         6c:fd:65:15:66:bf:c9:3c:62:88:ed:9c:46:5b:b2:a4:2a:5b:
+         db:58:ee:0c:68:f4:9f:c1:d8:10:8a:85:9d:0f:85:a3:99:6d:
+         e4:2e:98:21:07:1c:89:bb:a0:42:b7:f7:75:38:f6:1e:4b:f6:
+         fb:c7:78:ed:5f:ed:c2:98:8b:30:ef:d3:e2:84:eb:e8:42:ac:
+         96:d1:19:64:35:69:f5:8a:b3:cc:a3:36:46:86:d2:5d:b6:86:
+         d7:fc:94:26:77:87:f7:95:9a:c7:11:3f:48:4b:2b:5d:50:9b:
+         3a:54:83:7d:ae:58:f7:81:5d:0e:fa:1a:19:0e:7b:08:38:fa:
+         5d:c9:e9:97:7a:4c:37:2c:0d:9d:b7:5c:0a:f5:56:45:5c:b8:
+         2b:8c:b8:f7:3b:fe:8a:3a:33:7b:5d:ed:a9:85:33:c1:df:4a:
+         23:b1:48:6f:b9:ff:04:70:af:c8:c7:87:eb:32:35:fe:b4:b9:
+         e8:93:4e:f7
+-----BEGIN CERTIFICATE-----
+MIIDFTCCAf2gAwIBAgIEJzxzkTANBgkqhkiG9w0BAQsFADA7MQswCQYDVQQGEwJV
+UzEVMBMGA1UEChMMT3JhbmdldGhlb3J5MRUwEwYDVQQDEwxPcmFuZ2V0aGVvcnkw
+HhcNMTgwMzA4MTU1MjU3WhcNNDMwMzAyMTU1MjU3WjA7MQswCQYDVQQGEwJVUzEV
+MBMGA1UEChMMT3JhbmdldGhlb3J5MRUwEwYDVQQDEwxPcmFuZ2V0aGVvcnkwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCaZ8lz0xLPcJIZltVSJ21bqqO6
+6Hcvfu6DowHNpXpptcxIj4FticUa+isi4Rr4yaQGOrVXMCbIkLl53O3V/hGdnKHw
+UCinvPHMOOBZfhMZ1TDLLMgXndMku+w2mZfnLllsyAH4hKqaUuh1F3NvoVJuZsMS
+OAqypdWOqT7omizX8d2C1TV0CGJNQocSYaeGjtb9j7EvyIKxvx+msT0j0rb653D7
+LMaeHOG0DOGh9Uwv/XjdqtTBeyX6n5Ux63NdOpwwyA3Fp831X4CWnpM3ZMkHluYd
+ANd49Q4CFVVc05M8uZgMoX5iQ4fwFL/jw3lYasTIvfhTLImYmzfyWPerBU6PAgMB
+AAGjITAfMB0GA1UdDgQWBBSyI/kqmwznJnphQ5guxBKQJieZxzANBgkqhkiG9w0B
+AQsFAAOCAQEAIHyn5as8fCb9X6RjiZWRqjgcgtLs1Bzmd5XmOmZRL7FPRWf7D8OK
+WOIPPMhCSD29b3yHxbnJG3EJnb/XL/LHHjO7zjcGkmjibP1lFWa/yTxiiO2cRluy
+pCpb21juDGj0n8HYEIqFnQ+Fo5lt5C6YIQccibugQrf3dTj2Hkv2+8d47V/twpiL
+MO/T4oTr6EKsltEZZDVp9YqzzKM2RobSXbaG1/yUJneH95WaxxE/SEsrXVCbOlSD
+fa5Y94FdDvoaGQ57CDj6Xcnpl3pMNywNnbdcCvVWRVy4K4y49zv+ijoze13tqYUz
+wd9KI7FIb7n/BHCvyMeH6zI1/rS56JNO9w==
+-----END CERTIFICATE-----
+

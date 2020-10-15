@@ -1,0 +1,73 @@
+{
+  "name": "com.insplisity.ultimateabandcoreworkouts",
+  "fileSize": "13.1 MB",
+  "VTmd5": "e07e0f3e139125abcc2e8f24b0fd4363",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/0ae937888deeafa79a53ccb1e727bc0f9d86138b50f0587de6a051b764b8e824/detection/f-0ae937888deeafa79a53ccb1e727bc0f9d86138b50f0587de6a051b764b8e824-1575885639",
+  "VTresource": "0ae937888deeafa79a53ccb1e727bc0f9d86138b50f0587de6a051b764b8e824",
+  "VTresponsecode": 1,
+  "VTscanID": "0ae937888deeafa79a53ccb1e727bc0f9d86138b50f0587de6a051b764b8e824-1575885639",
+  "VTsha1": "1a420873a8d8f11dc331158d05ce0b3d86416a21",
+  "VTsha256": "0ae937888deeafa79a53ccb1e727bc0f9d86138b50f0587de6a051b764b8e824",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.alarm.permission.SET_ALARM Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.fyber.cache.CacheVideoDownloadService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "18 October 2019",
+    "Size": "13M",
+    "Installs": "1000000",
+    "Current Version": "1.30",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Insplisity",
+    "Developer": "Visit website apps@insplisity.com Privacy Policy Insplisity\nKidriceva 35\n9220 Lendava\nSlovenia, EU"
+  },
+  "rating": "4.6",
+  "description": "Think you need a pricey gym membership or expensive equipment to get the toned physique that you want? Well, you don\u2019t. All you need to do is install our app and you can begin shaping your abs and strengthening your core muscles from the comfort of your own home. All the workouts are designed so that you can exercise at home with minimal space and (an optional) pair of dumbbells. Strong abs and core muscles are not just important for appearance. Benefits of having strong abdominal and core muscles include: \u2022 Significantly improved posture \u2013 you will sit, stand, and move with elegance. \u2022 Less stress on your lower back \u2013 get rid of back pain. \u2022 Fewer injuries from lifting and moving objects. The only thing that you really need to start seeing results are willpower and perseverance. The rest is in this app. Install it, commit to it, and start experiencing the best results of your life. Main features: \u2022 Short and enjoyable ab workouts combined with cardio exercises for fat burning. \u2022 Suitable for both men and women. \u2022 Simple to use with beautiful exercise illustrations. \u2022 No internet required \u2013 the app works off line as well. Currently included workout routines: \u2022 Ab Sculpting Workout \u2022 Intense Abs and Cardio Workout \u2022 Total Core Workout \u2022 Standing Abs Workout \u2022 Belly Fat Burner Workout \u2022 Abs of Steel \u2022 5 Minute Ab Workout \u2022 Athletic Six Pack Abs Workout We\u2019re always growing, so in addition to what\u2019s already included, you\u2019ll see more free updates to help you get the body that you want. This app is 100% free and will stay free forever. All your questions, comments and feedback are welcome at contact@insplisity.com. Thank you.",
+  "privacyText": "http://insplisity.com/privacy-policy/",
+  "numInstalls": 1000000,
+  "developer": "Insplisity",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.insplisity.com/",
+    "Developer Email": "apps@insplisity.com",
+    "Privacy Policy": "http://insplisity.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

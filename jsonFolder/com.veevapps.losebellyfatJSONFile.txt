@@ -1,0 +1,73 @@
+{
+  "name": "com.veevapps.losebellyfat",
+  "fileSize": "6.0 MB",
+  "VTmd5": "87204beec83e77492763992e2ac09a58",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/04a5f5d4dbd9737905af3f440d1ab2765c76a363cd71ae1ae4a12399d93b3b79/detection/f-04a5f5d4dbd9737905af3f440d1ab2765c76a363cd71ae1ae4a12399d93b3b79-1567965210",
+  "VTresource": "04a5f5d4dbd9737905af3f440d1ab2765c76a363cd71ae1ae4a12399d93b3b79",
+  "VTresponsecode": 1,
+  "VTscanID": "04a5f5d4dbd9737905af3f440d1ab2765c76a363cd71ae1ae4a12399d93b3b79-1567965210",
+  "VTsha1": "13e518a293153a82ac22319d4a6a5ba5bf7bec5f",
+  "VTsha256": "04a5f5d4dbd9737905af3f440d1ab2765c76a363cd71ae1ae4a12399d93b3b79",
+  "VTtotal": 60,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.veevapps.losebellyfat.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.veevapps.losebellyfat.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "22 September 2020",
+    "Size": "7.4M",
+    "Installs": "500000",
+    "Current Version": "1.4",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Veev Apps",
+    "Developer": "Visit website veevapps@gmail.com Privacy Policy \u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430, \u0433. \u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u044b"
+  },
+  "rating": "4.6",
+  "description": "Lose Belly Fat app is designed specifically for you to quickly and safely lose weight. Workout a few minutes a day at home or anywhere! You do not need any additional equipment. You can get a flat stomach in just a few weeks! We have prepared diet for you, weight loss and workout plans for 30 days. Following this plan, you can lose those extra pounds and make your body even more beautiful. The load will gradually increase, so do not forget about the rest. Exercise prepared specifically for the home and can be done by anyone anywhere. You can easily follow your weight loss progress and the number of calories burned. We have collected various types of exercises that will help you get rid of excess fat on the stomach.  Key Features:  - Various workouts for 30 days - Animated exercise demonstration - Diet plan for 30 days with a daily schedule and various products - Weight loss progress - Statistics on the calories burned - Gradually increases exercise intensity - 3 difficulty levels - No equipment needed",
+  "privacyText": "https://veevapps.wordpress.com/lose-belly-fat-privacy-policy/",
+  "numInstalls": 500000,
+  "developer": "Veev Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://veevapps.ru",
+    "Developer Email": "veevapps@gmail.com",
+    "Privacy Policy": "https://veevapps.wordpress.com/lose-belly-fat-privacy-policy/"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,80 @@
+{
+  "name": "com.fitifyapps.trx",
+  "fileSize": "23.7 MB",
+  "VTmd5": "8840c3b6b3882249a4bedd48c73e7214",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/a36fef3af9e54cf234b8308da498b488d889d9a531b23ff1e2dcce6f0e7072c9/detection/f-a36fef3af9e54cf234b8308da498b488d889d9a531b23ff1e2dcce6f0e7072c9-1588168545",
+  "VTresource": "a36fef3af9e54cf234b8308da498b488d889d9a531b23ff1e2dcce6f0e7072c9",
+  "VTresponsecode": 1,
+  "VTscanID": "a36fef3af9e54cf234b8308da498b488d889d9a531b23ff1e2dcce6f0e7072c9-1588168545",
+  "VTsha1": "ef46ef1bbc0a97e41e9791ba2b8fa5ceab29bc1a",
+  "VTsha256": "a36fef3af9e54cf234b8308da498b488d889d9a531b23ff1e2dcce6f0e7072c9",
+  "VTtotal": 59,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "7 April 2020",
+    "Size": "Varies with device",
+    "Installs": "100000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$2.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fitify Apps",
+    "Developer": "Visit website support@fitifyapps.com Privacy Policy Podhurecka 558 Klatovy 33901 Czech Republic"
+  },
+  "rating": "4.6",
+  "description": "Suspension System Workouts teaches you how to exercise with TRX trainer. Our professional trainer shows you the way to increase muscular strength and cardiorespiratory condition as well. Features: \u2022 over 100 exercises \u2022 5 unique workout programs \u2022 voice coach \u2022 clear HD video demonstrations \u2022 works offline \u2022 reminders to force you to workout \u2022 built by a professional trainer Custom Workouts: Create your own workouts from our exercise library. Adaptable difficulty: We adjust your training level up or down based on your feedback.",
+  "privacyText": "https://fitifyapps.com/privacy-policy.html",
+  "numInstalls": 100000,
+  "developer": "Fitify Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://fitifyapps.com/",
+    "Developer Email": "support@fitifyapps.com",
+    "Privacy Policy": "https://fitifyapps.com/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

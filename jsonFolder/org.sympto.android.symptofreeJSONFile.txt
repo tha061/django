@@ -1,0 +1,82 @@
+{
+  "name": "org.sympto.android.symptofree",
+  "fileSize": "27.3 MB",
+  "VTmd5": "d0fa648a90070db2e6496bd012b5f8f2",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/b31e393c02318e328d05994233d9345338e08a4048854e7fa7930067b1fdcbe7/detection/f-b31e393c02318e328d05994233d9345338e08a4048854e7fa7930067b1fdcbe7-1576045439",
+  "VTresource": "b31e393c02318e328d05994233d9345338e08a4048854e7fa7930067b1fdcbe7",
+  "VTresponsecode": 1,
+  "VTscanID": "b31e393c02318e328d05994233d9345338e08a4048854e7fa7930067b1fdcbe7-1576045439",
+  "VTsha1": "0cc9cb329d583261485ef79ec598bf88622a5fd1",
+  "VTsha256": "b31e393c02318e328d05994233d9345338e08a4048854e7fa7930067b1fdcbe7",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: org.sympto.android.symptofree.services.NotificationService  permission: ",
+      "name: org.sympto.android.symptofree.services.SchedulingService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "17 September 2019",
+    "Size": "Varies with device",
+    "Installs": "50000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$13.38 \u2013 $21.40 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Harri Wettstein",
+    "Developer": "Visit website info@symptotherm.ch Privacy Policy Rue du Bourg 12\n1323 Romainm\u00f4tier"
+  },
+  "rating": "4.0",
+  "description": "sympto Plus Celebrating 10 years: we were the first fertility charting program on the web and have fully integrated sensiplan!  sympto Plus is stand-alone, requiring an internet connection only for occasional synchronization of your data.  sympto Plus indicates your daily fertility status by correlating and interpreting your relevant biomarkers, temperature and cervical fluid, or cervix examination. It executes the symptothermal cross-check according to the synthesis of the most well established methods, R\u00f6tzer/NFP Sensiplan. Your data is linked to an online account (Premium Access) where you can purchase counseling options to become competent to chart on your own. Natural contraception is guaranteed when used correctly after six months of training with a certified sympto counselor. When you first create your account in the app, please also visit sympto.org and sign in with your login credentials created in the app to receive 15 days of free personal guidance by a natural family planning counselor, as well as 15 days of free Premium Access via the sympto web portal. You can decide later to subscribe to future months of additional counseling, or to buy Premium Access without counseling.  sympto Plus allows you to track your fertility with the most effective natural family planning method available.   No hidden costs. Introduction videos help you get started.  No predictive calculations: ovulations are fickle and cannot be forecast! This all natural method is easy, free and scientifically proven, (see app comparison studies on sympto.org) and can be used to achieve or avoid pregnancy. On sympto, the most well researched methods have been put into a new synthesis to facilitate online learning, increase effectiveness and enhance user-friendliness. *Special functions built in for: pregnancy, breast-feeding and perimenopause. **Pilot mode option guides you through your first cycle with instructional prompts every step of the way. This can be turned off when you are more advanced.  **Easy-to-use icon language with detailed explanations to render your observations into relevant categories. **Billings- or Temperature-only modes can be activated. **Qualified counselors in a number of languages **Our free Guide is translated into several languages. Note: when used correctly the symptothermal method has been proven 99.4 P.I. effective in accurately identifying your fertile window including for pregnancy avoidance as cycle goal. Incorrect or incomplete use may lower the effectiveness of this method.  Visit www.sympto.org for more information and to see all the offers, including The Complete SymptoThermal Guide free to download.",
+  "privacyText": "http://sympto.org/legal_en.html",
+  "numInstalls": 50000,
+  "developer": "Harri Wettstein",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://sympto.org",
+    "Developer Email": "info@symptotherm.ch",
+    "Privacy Policy": "http://sympto.org/legal_en.html"
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,74 @@
+{
+  "name": "apps24.body24",
+  "fileSize": "16.2 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.SET_ALARM Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "21 July 2020",
+    "Size": "16M",
+    "Installs": "50000",
+    "Current Version": "1.2.6",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Apps24 s.r.o.",
+    "Developer": "Visit website info@body24.org Privacy Policy"
+  },
+  "rating": "4.3",
+  "description": "Balanced advisor for everyday cooking It has never been easier to be healthy. Body24 offers a huge amount of healthy cooking inspiration! Recipes also for vegan, vegetarian, or any food allergy/intolerance. Body24 helps you to save your time and creates an individual plan based on your goal. Get the body of your dreams Our nutrition specialists developed an algorithm that generates an individual plan according to your personal data and preferences. All you have to do is follow your own unique diet and workout plan. Simple and easy like never before. Drinking watchdog Water is life - life is water. To make sure you drink efficient amount of water everyday we developed a drinking watchdog. Follow your everyday H2O goal and make your body fuel with life. Personalized Daily Recipes One of its best personalized feature includes granting you access to recommended daily cooking and other cooking inspirations catered just for you using the right algorithm based on personal data and preferences. So answer truthfully and carefully before you started using the application to ensure you\u2019ll get suitable fitness plans and of course, good recipes. Steps and Calories Counter Other feature I love the most includes counting the number of steps you made each day and how much calories burnt. If you find it necessary to have a regular weekly evaluation to your weight loss program, this app will support your wishes. They would tell you how many calories you\u2019ve lost in the week. They would tell you how much percentage of fat you need to get rid of your body according to your goal. It would not enforce you to see the result as soon as possible, but only to keep track of your progress. Remember \u2013 no stress. Weight loss should not be depressive and exhausting. It should not be all about numbers and only goals. It should be fun, healthy, sustainable, and also good for your metabolism. A journey you would love to look back one day or simply applying it in another couple of years when its needed again. Seeing only short term not only unsustainable but will also be harmful for your health and mental well-being. Dinner After 5PM? Why Not! Above all, if I were given a chance to tell you one thing I hate the most in weight loss programs is the restriction of having dinner after 5pm \u2013how hard it is not to? Rest assured because Body24 will not restrict you from enjoying your favorite dinner in a healthier way. It\u2019s a different meal time habit that will not stress you out. The only thing you need to do is let them know your preference on this. The app is still free with all the promising features but you know the drill \u2013 it\u2019s a new business, there will still be a lot of room for improvement that requires a bit of patience and a bit of participation. But if you think all the features mentioned above fits you well with your lifestyle, why not giving it a try? Personally it is essential for me to have fitness programs that offers a lot of flexibility that suits my lifestyle \u2013 the more flexibility they give, the more possibility it is to be sustainable.",
+  "privacyText": "https://body24.org/privacy-policy/",
+  "numInstalls": 50000,
+  "developer": "Apps24 s.r.o.",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://body24.org/",
+    "Developer Email": "info@body24.org",
+    "Privacy Policy": "https://body24.org/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

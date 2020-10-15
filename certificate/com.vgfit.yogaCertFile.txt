@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1465486802 (0x57598dd2)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=VGFIT
+        Validity
+            Not Before: Jun  9 15:40:02 2016 GMT
+            Not After : Jun  3 15:40:02 2041 GMT
+        Subject: O=VGFIT
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:8b:77:c9:f8:9c:b2:77:7a:8b:dd:ad:e5:18:ef:
+                    8f:4a:e8:fb:9c:d9:15:a3:71:03:24:35:34:ad:76:
+                    29:ac:21:d6:f8:2e:d2:a5:4c:23:de:b2:b1:f7:2a:
+                    5e:c8:39:22:9e:7b:85:8b:8f:99:23:02:0e:97:cb:
+                    d7:ac:08:86:d4:d1:53:02:46:95:fe:82:83:2b:57:
+                    95:14:bd:35:99:88:96:8d:4a:16:09:7f:49:7a:c8:
+                    04:4f:c3:d7:fc:24:f1:f0:d6:69:01:3d:d3:5f:e9:
+                    41:ec:cb:b2:67:0f:1b:7b:99:99:7c:56:e4:0e:85:
+                    7d:d5:24:75:3e:a0:d2:1c:85
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         04:7f:2d:0e:d1:5a:7d:9d:df:40:75:36:e1:3b:34:98:81:d8:
+         00:a1:87:8a:58:87:b7:85:80:e0:bd:4f:22:40:1c:25:72:f7:
+         65:91:2f:46:7f:14:c0:d5:c0:79:1d:2b:9d:7b:a6:4c:13:83:
+         18:1a:ad:86:96:67:fd:8d:13:30:83:fc:a0:06:33:6c:b5:92:
+         7d:d7:b4:0e:81:34:0a:e8:9f:a8:68:4f:ae:eb:3c:60:d7:42:
+         af:ff:d9:cb:ae:e7:fb:03:8e:89:ac:18:0e:1a:52:0c:62:db:
+         85:db:a4:8f:11:67:6f:55:fe:a0:5a:b7:0e:df:ed:1f:a9:cf:
+         b0:46
+-----BEGIN CERTIFICATE-----
+MIIBlzCCAQCgAwIBAgIEV1mN0jANBgkqhkiG9w0BAQUFADAQMQ4wDAYDVQQKEwVW
+R0ZJVDAeFw0xNjA2MDkxNTQwMDJaFw00MTA2MDMxNTQwMDJaMBAxDjAMBgNVBAoT
+BVZHRklUMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCLd8n4nLJ3eovdreUY
+749K6Puc2RWjcQMkNTStdimsIdb4LtKlTCPesrH3Kl7IOSKee4WLj5kjAg6Xy9es
+CIbU0VMCRpX+goMrV5UUvTWZiJaNShYJf0l6yARPw9f8JPHw1mkBPdNf6UHsy7Jn
+Dxt7mZl8VuQOhX3VJHU+oNIchQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAAR/LQ7R
+Wn2d30B1NuE7NJiB2AChh4pYh7eFgOC9TyJAHCVy92WRL0Z/FMDVwHkdK517pkwT
+gxgarYaWZ/2NEzCD/KAGM2y1kn3XtA6BNAron6hoT67rPGDXQq//2cuu5/sDjoms
+GA4aUgxi24XbpI8RZ29V/qBatw7f7R+pz7BG
+-----END CERTIFICATE-----
+

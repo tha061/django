@@ -1,0 +1,73 @@
+{
+  "name": "com.abdula.pranabreath",
+  "fileSize": "8.4 MB",
+  "VTmd5": "0729fe5f6c754fe787cc6fe6ba09b2c4",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/16d11a67fe4ddc0f4af19c039155f42e4aeb6dd983d3f8af45e92b2296973bf6/detection/f-16d11a67fe4ddc0f4af19c039155f42e4aeb6dd983d3f8af45e92b2296973bf6-1598437349",
+  "VTresource": "16d11a67fe4ddc0f4af19c039155f42e4aeb6dd983d3f8af45e92b2296973bf6",
+  "VTresponsecode": 1,
+  "VTscanID": "16d11a67fe4ddc0f4af19c039155f42e4aeb6dd983d3f8af45e92b2296973bf6-1598437349",
+  "VTsha1": "de0bbfc51974fb28d6d45df923a687356c20f163",
+  "VTsha256": "16d11a67fe4ddc0f4af19c039155f42e4aeb6dd983d3f8af45e92b2296973bf6",
+  "VTtotal": 60,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.abdula.pranabreath.presenter.services.WorkerService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.abdula.pranabreath.presenter.services.TrainingService  permission: ",
+      "name: com.google.android.play.core.assetpacks.AssetPackExtractionService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "20 July 2020",
+    "Size": "Varies with device",
+    "Installs": "1000000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$0.99 \u2013 $15.00 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Oleksandr Albul",
+    "Developer": "Visit website pranabreath@olekdia.groups.io Privacy Policy Tulyntsi,\nKyiv region,\nUkraine, 08822"
+  },
+  "rating": "4.7",
+  "description": "Dive into breathing techniques that are approved by ancient traditions, by modern science and by million+ of our users! Use the power of breathing and meditation to increase your mindfulness and live a better life. It doesn't matter whether you do Yoga, dieting, diving, or not, - you will see the positive impact anyway, for only 7-15 minutes a day! What does it do? * Improves brain activity: memory, attention, concentration * Relieves anxiety * Develops resistance to stress, develops physical endurance * Eliminates evening appetite attacks, thus helps to have a healthy weight * Decreases the frequency of cold, migraine and asthma attacks * Boosts immunity of respiratory system * Promotes healthy sleep * Improves vocal and breath hold time, thus is good for singer and diver * Trains the diaphragm thus fights acid reflux (GERD) symptoms Why Prana Breath? * Absolutely no advertisement * Fast, optimized, battery saving * Easy - just tap on \"play\", close your eyes and let the sound guide you * Option to turn the screen off during the training * 8 breathing patterns for different purposes * Possibility to create your own patterns * Rich statistics * Reminders for creating a convenient training schedule * Most patterns are derived from Pranayama, Sufi and Tibetan breathing practices * Unique to Google Play \"Anti-Appetite\" training, for fighting emotional over-eating * Exclusive \"Cigarette replace\", designed by Simone Righini, to help you quit smoking Additionally for Guru version: * Dynamic trainings for smooth improvement & for sophisticated patterns * Diverse breath methods and chants * Detailed progress chart and training log * Health tests * Enriched settings and more sounds * Regularly updated database of more than 50 training patterns, such as: 4-7-8 breathing, Kapalbhati, Anulom Vilom, Nadi Shodhana, Tummo / Inner fire, Udgeeth, etc. Scientific proofs: https://pranabreath.info/wiki/Research_articles Facebook: https://facebook.com/OlekdiaPranaBreath",
+  "privacyText": "https://pranabreath.info/wiki/index.php?title=Prana_Breath_Privacy_Policy_on_Google_Play",
+  "numInstalls": 1000000,
+  "developer": "Oleksandr Albul",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://pranabreath.info",
+    "Developer Email": "pranabreath@olekdia.groups.io",
+    "Privacy Policy": "https://pranabreath.info/wiki/index.php?title=Prana_Breath_Privacy_Policy_on_Google_Play"
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": false
+}

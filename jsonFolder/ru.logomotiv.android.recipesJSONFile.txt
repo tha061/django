@@ -1,0 +1,71 @@
+{
+  "name": "ru.logomotiv.android.recipes",
+  "fileSize": "51.3 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "5 August 2019",
+    "Size": "51M",
+    "Installs": "10000",
+    "Current Version": "2.3",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u2013 $1.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Logomotiv LLC",
+    "Developer": "Visit website support@logomotiv.ru Privacy Policy Leninsky pr. 153"
+  },
+  "rating": "3.0",
+  "description": "The free version of the popular DuRecipes app is now on Google Play! Over 250.000 installations of the app in the App Store! In the app \"DuRecipes\" you will find: - Full database of 500 recipes. - Bookmarks favorite recipes.  - Smart end-to-end search across the database.  - Ingredients and detailed cooking sequence. - Ability to share your favorite recipe via social networks For Dukan diet",
+  "privacyText": "http://logomotivapp.ru/privacy-policy.html",
+  "numInstalls": 10000,
+  "developer": "Logomotiv LLC",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.logomotivapp.ru",
+    "Developer Email": "support@logomotiv.ru",
+    "Privacy Policy": "http://logomotivapp.ru/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Appsflyer",
+    "Crashlytics",
+    "Google Ads",
+    "Nostra13"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

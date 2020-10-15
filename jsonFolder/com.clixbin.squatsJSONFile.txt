@@ -1,0 +1,83 @@
+{
+  "name": "com.clixbin.squats",
+  "fileSize": "17.7 MB",
+  "VTmd5": "a58590cb1bf38d2e55204fa91b477c08",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/e39c1efc1894de0e44cc774e856f6ab8fefe5be84b775c14216a5360c058e240/detection/f-e39c1efc1894de0e44cc774e856f6ab8fefe5be84b775c14216a5360c058e240-1585274464",
+  "VTresource": "e39c1efc1894de0e44cc774e856f6ab8fefe5be84b775c14216a5360c058e240",
+  "VTresponsecode": 1,
+  "VTscanID": "e39c1efc1894de0e44cc774e856f6ab8fefe5be84b775c14216a5360c058e240-1585274464",
+  "VTsha1": "d7cb1f14e3bd5cd544642cdbdaa9f134fee98aa8",
+  "VTsha256": "e39c1efc1894de0e44cc774e856f6ab8fefe5be84b775c14216a5360c058e240",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.clixbin.squats.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.clixbin.squats.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.clixbin.squats.network.SyncService  permission: ",
+      "name: com.clixbin.squats.broadcastreceivers.MyFirebaseMessagingService  permission: ",
+      "name: com.clixbin.squats.broadcastreceivers.MyFirebaseInstanceIDService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "27 June 2017",
+    "Size": "18M",
+    "Installs": "100000",
+    "Current Version": "2.0.8",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$2.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "ChronoFitness LLC",
+    "Developer": "Visit website support@chonofitness.com Privacy Policy Silver Spring, MD 20905"
+  },
+  "rating": "4.6",
+  "description": "***PLEASE, READ BEFORE INSTALLING*** This app is   FREE  , but you can choose to upgrade to the   PRO version  and unlock all content   ONLY IF YOU WANT TO . Please, do not install if you do not agree. Otherwise, thanks for the support and enjoy the app!  Get Fit and Increase your squat count and endurance.  Perform as many squat as you can while following a 3D trainer.  Several squat variations included.  During the workouts the  exercises are animated  so you can see a demonstration on how to perform the exercise.  You can track your progress and add notes, so that you can push yourself further during each new workout session. Features: \u2022  Take Challenges There are several challenges for you to choose from to help you achieve your fitness goals. The challenges have various length and goals. You tell the app what your current fitness level is and it customizes the challenge specifically for you! \u2022  Create multiple workouts You can create custom workouts and choose which one you would like to perform. \u2022  Add exercises to your workout You can customize each workout by selecting which exercises you would like to perform and how many reps you think you can perform at each exercise. This allows you to push yourself to your max while building muscle and endurance at the same time. \u2022  Add breaks between exercises You have the option of taking breaks between exercises by setting how long the break should be so that you recover before the next exercise. Taking breaks ensures that you have plenty of energy to perform the next exercise with good form. \u2022  Follow your 3D animated workout partner Each exercise feature a 3D model that in some sort works out with you by showing you how the exercise should be performed. \u2022  Voice announcements during workouts The apps give you the option to have voice announcement during the workout to let you know where they are in the workout. \u2022  Pause the workout You can pause the workout at any time and resume it whenever you\u2019re ready again. \u2022  Share your accomplishment with others At the end of the workout you can decide to share your accomplishment with friends and family on social media or other apps. \u2022  Add notes about any exercise You can decide to create some notes about how you performed a particular exercise and what you can do to improve your performance next time. \u2022  Option to login using Facebook You can decide to login to Facebook so you can share your accomplishment on Facebook. \u2022  Very beautiful user interfaces",
+  "privacyText": "http://chronofitness.com/privacy-policy.php",
+  "numInstalls": 100000,
+  "developer": "ChronoFitness LLC",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://chronofitness.com",
+    "Developer Email": "support@chonofitness.com",
+    "Privacy Policy": "http://chronofitness.com/privacy-policy.php"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Nostra13"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,76 @@
+{
+  "name": "ru.sold.fitness",
+  "fileSize": "4.0 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: androidx.room.MultiInstanceInvalidationService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "11 July 2019",
+    "Size": "4.0M",
+    "Installs": "100000",
+    "Current Version": "v 3.18.59",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$1.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "\u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u043e\u0445\u0443\u0434\u0435\u043d\u0438\u044f Opti-fit",
+    "Developer": "Visit website help@sol-digital.ru Privacy Policy 127247, Moscow, Beskudnikovskiy proezd, 4-2"
+  },
+  "rating": "4.5",
+  "description": "Health and body aesthetics \u2013 Measure your BMI - body mass index as a height and weight ratio. Calculate your perfect weight using wrist circumference, height and age. \u2013 Figure the ideal proportions and body girths for a certain height and bone thickness. Find the parameters of a perfect and beautiful body proportions. \u2013 Get the body far percentage using your girths or skin folds. Get goals for weight loss and fat burning. Fitness & wellness \u2013 Find your ideal ratio of calories and nutrients (protein, fats and carbs) for healthy eating, keto diet or zigzag diet, using the calories calculator. Estimate your calorie BMR and maintenance level and the amount of pure water you should drink. \u2013 Calculate the efficient heart rate zones for fat-burning workouts and endurance exercise, using the resting heart rate or LTHR. Learn about how fit you are! The unique combination of a few dozens of the latest fitness formulas and methods of calculations based on the results of scientific studies and recommendations from the World Health Organization (WHO). The results of each calculation are explained by our experts. The results can be saved and shared with friends. - BMI \u2013 Body Mass Index Estimate how your body weight generally affects your health and check deviations from the norm. Ideal weight and somatotype Find your perfect weight according to your bone type and skeleton design. Perfect female body Ideal measurements, proportions, elegance and sex appeal for certain height and body weight. Athletic body Perfect girths according to bodybuilding ideologists. Body fat percentage Calculate the amount of excessive fat and expected weight after the fat loss. Body fat with skinfold test Body fat mass and lean mass - 4 methods to measure fat percentage using skinfold calipers. Calorie calculator Calculate the daily amount of calories, carbs, protein and fat for weight loss, muscle building or boosting metabolism. Daily water intake Calculate your personal norm of daily water intake to stay hydrated. Target heart rate zones Personal heart rate training zones for improving endurance, explosive power or weight loss. - Measurements and girths : height, weight, age, gender, neck, chest, waist, hips, upper arm, biceps, forearm, wrist, thigh, shin, ankle. Skin folds : thigh, chest, abdomen, triceps, biceps, suprailiac, subscapular, midaxillary, calf.",
+  "privacyText": "https://opti-fit.su/privacy_policy.html",
+  "numInstalls": 100000,
+  "developer": "\u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u043e\u0445\u0443\u0434\u0435\u043d\u0438\u044f Opti-fit",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://opti-fit.su",
+    "Developer Email": "help@sol-digital.ru",
+    "Privacy Policy": "https://opti-fit.su/privacy_policy.html"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

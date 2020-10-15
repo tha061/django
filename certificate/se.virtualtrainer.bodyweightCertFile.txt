@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1357749549 (0x50ed9d2d)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=SE, L=Halmstad, O=Virtual Trainer AB, CN=Henrik Andersson
+        Validity
+            Not Before: Jan  9 16:39:09 2013 GMT
+            Not After : Jan  3 16:39:09 2039 GMT
+        Subject: C=SE, L=Halmstad, O=Virtual Trainer AB, CN=Henrik Andersson
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:9d:af:f9:e5:23:cd:2b:d7:cb:30:04:80:d5:68:
+                    90:0d:31:af:c1:5a:c6:33:92:37:78:d7:d6:7e:a6:
+                    f4:e7:fb:91:81:b2:42:a5:38:6f:24:8c:37:54:c6:
+                    77:de:ae:f4:7c:10:33:36:ea:1e:b1:4e:9b:17:8c:
+                    48:f8:24:c3:79:e3:81:9a:55:b0:8f:f7:ce:e9:31:
+                    29:f2:d0:95:b9:f0:2d:c1:d5:b8:90:9e:a7:4d:40:
+                    ac:60:cc:c3:6b:0b:c5:32:16:24:9c:5b:b1:13:93:
+                    cc:b6:bb:53:dc:89:81:3c:ba:9b:8e:d9:91:d0:37:
+                    85:67:fc:11:12:33:79:ad:77
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         1b:b4:ba:6c:9b:b5:0d:21:c1:14:7d:b0:df:15:1f:c9:87:2b:
+         86:33:16:6e:21:83:4f:96:2b:bc:14:a5:27:0d:61:90:38:2e:
+         8b:5f:ca:c2:82:38:20:ea:8d:0f:ca:3d:3f:0f:db:08:6f:ca:
+         ca:e1:af:4a:69:df:9b:e9:ca:bc:c0:14:33:47:5c:2b:ef:7c:
+         f6:dc:a6:71:f9:9c:85:d9:47:25:20:a4:32:2b:04:a3:fd:ce:
+         18:71:63:61:a7:a7:da:2e:0c:e2:5a:c0:fb:cf:c3:17:d9:08:
+         e0:aa:53:75:7a:a7:ca:fe:0e:35:96:26:40:2a:45:8e:0a:17:
+         12:d9
+-----BEGIN CERTIFICATE-----
+MIICJzCCAZCgAwIBAgIEUO2dLTANBgkqhkiG9w0BAQUFADBYMQswCQYDVQQGEwJT
+RTERMA8GA1UEBxMISGFsbXN0YWQxGzAZBgNVBAoTElZpcnR1YWwgVHJhaW5lciBB
+QjEZMBcGA1UEAxMQSGVucmlrIEFuZGVyc3NvbjAeFw0xMzAxMDkxNjM5MDlaFw0z
+OTAxMDMxNjM5MDlaMFgxCzAJBgNVBAYTAlNFMREwDwYDVQQHEwhIYWxtc3RhZDEb
+MBkGA1UEChMSVmlydHVhbCBUcmFpbmVyIEFCMRkwFwYDVQQDExBIZW5yaWsgQW5k
+ZXJzc29uMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCdr/nlI80r18swBIDV
+aJANMa/BWsYzkjd419Z+pvTn+5GBskKlOG8kjDdUxnfervR8EDM26h6xTpsXjEj4
+JMN544GaVbCP987pMSny0JW58C3B1biQnqdNQKxgzMNrC8UyFiScW7ETk8y2u1Pc
+iYE8upuO2ZHQN4Vn/BESM3mtdwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBABu0umyb
+tQ0hwRR9sN8VH8mHK4YzFm4hg0+WK7wUpScNYZA4LotfysKCOCDqjQ/KPT8P2whv
+ysrhr0pp35vpyrzAFDNHXCvvfPbcpnH5nIXZRyUgpDIrBKP9zhhxY2Gnp9ouDOJa
+wPvPwxfZCOCqU3V6p8r+DjWWJkAqRY4KFxLZ
+-----END CERTIFICATE-----
+

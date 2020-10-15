@@ -1,0 +1,65 @@
+{
+  "name": "com.hormonehoroscope.hhclassic",
+  "fileSize": "6.3 MB",
+  "VTmd5": "57a0b546766475b9c5496e1698178f0c",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/496a6afed3d6b0a590901050b994bcf5be926352341081a4cf4857eaa8766407/detection/f-496a6afed3d6b0a590901050b994bcf5be926352341081a4cf4857eaa8766407-1578161466",
+  "VTresource": "496a6afed3d6b0a590901050b994bcf5be926352341081a4cf4857eaa8766407",
+  "VTresponsecode": 1,
+  "VTscanID": "496a6afed3d6b0a590901050b994bcf5be926352341081a4cf4857eaa8766407-1578161466",
+  "VTsha1": "8b21a72090b02570c64048106bbf7ea9de977bf4",
+  "VTsha256": "496a6afed3d6b0a590901050b994bcf5be926352341081a4cf4857eaa8766407",
+  "VTtotal": 59,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "6 September 2017",
+    "Size": "6.3M",
+    "Installs": "10000",
+    "Current Version": "1.1",
+    "Requires Android": "3.0 and up",
+    "Content Rating": "Teen Sexual themes Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Hormonology LLC",
+    "Developer": "Visit website Gabrielle@MyHormonology.com Privacy Policy 2910 11th Ave N\nSaint Petersburg, FL 33713"
+  },
+  "rating": "4.2",
+  "description": "\u2022 Official  Hormonology \u00ae app that shows women what their mood, energy, love life, health and more will be every day based solely on where they are in their monthly cycle \u2022 The app  Nylon Magazine  calls  \"life-changing\"  and  The Telegraph  calls  \"overdue genius\" \u2022 100% private (no data is collected), no ads, no in-app purchases \u2022 Learn more about your hormones and download free eBooks at  MyHormonology.com \u2022 \u2022 \u2022 \u2022 \u2022  The Hormone Horoscope App \"Classic\" was the first app created for Hormonology, launching in 2013. After it was replaced by the Horoscope App \"Lite\" and \"Pro\" versions, some fans of this app's stylized design--with its pink Cycle Calendar and egg ovulation day--asked to have it brought back. Now it's the \"Classic\" app in the Hormonology suite of apps. \u2022 \u2022 \u2022 \u2022 \u2022  PREDICT YOUR DAY AND PLAN YOUR LIFE The  Hormone Horoscope App \"Classic\"  is an easy-to-use menstrual cycle tracker that gives you something no other app can: The daily  Hormone Horoscope --a forecast that tells you what your mood, energy, love life, spending habits, sleep quality, health and much more will be based on the levels of your hormones for each day. For example... On Day 7 of your monthly cycle, rising estrogen makes you more upbeat, energetic, confident, adventurous and creative--making this a great day to tackle a big task, take a trip or brainstorm. On Day 18, rising progesterone saps your pep and makes you quieter and more cautious--making you prefer low-key activities close to home. On Day 24, plunging estrogen can cause a bit of moodiness and irritability--but, you're also burning up to 30% more fat when you exercise. Read full sample Hormone Horoscopes from this app  here THE SCIENCE As three key hormones (estrogen, testosterone and progesterone) rise and fall during your cycle, research shows they impact your brain and body in a wide variety of ways. Because your hormones repeat the same up and down pattern every cycle, the effects your hormones have on you also repeat the same way cycle after cycle--making your moods, energy and more easy to predict! HOW TO USE THE APP Tap the Settings tab, then input a couple of details about your cycle. That's it! WHY OPT FOR THE \"PRO\" VERSION? If you like this app, you'll love the Hormone Horoscope \"Pro\", which gives you: \u2022 Longer, more detailed daily  Hormone Horoscopes  organized in easy-to-reference categories, such as Mood, Energy and Romance \u2022 In addition to tracking your current menstrual cycle, the  \"Pro\"  app plots out future cycles--so you can schedule appointments, dates, trips and other activities based on where you'll be in your cycle months, even years, from now \u2022 The  \"Pro\"  app keeps records of all cycles you've tracked since using the app--which is handy for tracking cycle-related issues or sharing with your healthcare provider \u2022 Create your own custom alerts Get the  Hormone Horoscope App \"Pro\"   here WHO CREATED THIS APP? This app was created by Gabrielle Lichterman, founder of  Hormonology , author of  28 Days: What Your Cycle Reveals about Your Love Life, Moods and Potential  and a longtime women's health journalist. Her mission to share hormone information so you can make every cycle better. WHO THIS APP IS FOR Women 18+ who have \u2022 Healthy menstrual cycles \u2022 Menstrual cycles lasting anywhere from 22 to 39 days (your cycle CAN fluctuate in length from month to month) \u2022 Natural hormones (no hormone birth control) This app is not intended for women who are pregnant, breastfeeding, menopausal, taking hormone medications or hormone birth control or have a health disorder that impacts hormones, such as PCOS. This app is not intended to help users avoid pregnancy or become pregnant.",
+  "privacyText": "https://www.myhormonology.com/privacy-statement",
+  "numInstalls": 10000,
+  "developer": "Hormonology LLC",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://MyHormonology.com",
+    "Developer Email": "Gabrielle@MyHormonology.com",
+    "Privacy Policy": "https://www.myhormonology.com/privacy-statement"
+  },
+  "smali_Directories": [
+    "Viewpagerindicator"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

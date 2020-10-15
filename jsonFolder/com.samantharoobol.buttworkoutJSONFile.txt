@@ -1,0 +1,69 @@
+{
+  "name": "com.samantharoobol.buttworkout",
+  "fileSize": "9.2 MB",
+  "VTmd5": "0e8231b726103c308d9957eb636121e4",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/0d309aed9e37911b59eff4a741094af2bb8d247bab72270d07f9f8014809f6b5/detection/f-0d309aed9e37911b59eff4a741094af2bb8d247bab72270d07f9f8014809f6b5-1578161717",
+  "VTresource": "0d309aed9e37911b59eff4a741094af2bb8d247bab72270d07f9f8014809f6b5",
+  "VTresponsecode": 1,
+  "VTscanID": "0d309aed9e37911b59eff4a741094af2bb8d247bab72270d07f9f8014809f6b5-1578161717",
+  "VTsha1": "2eba2e2c61b8823cf897a73bffb425ff2ad10c82",
+  "VTsha256": "0d309aed9e37911b59eff4a741094af2bb8d247bab72270d07f9f8014809f6b5",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.MODIFY_AUDIO_SETTINGS Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.VIBRATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "13 October 2020",
+    "Size": "12M",
+    "Installs": "10000",
+    "Current Version": "1.4",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.49 \u2013 $4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Stay Fit With Samantha",
+    "Developer": "Visit website samantharoobol@gmail.com Privacy Policy Laurierhof 23, Papendrecht"
+  },
+  "rating": "3.5",
+  "description": "Build a Booty Workout - Butt and Thigh Workout Programs for a round lifted butt & great legs If your goal is to increase the size of your butt or improve the shape of your butt then this is a workout program you will want to have. We have the best glute training techniques and exercises you can do, including complete workout programs. Incorporate these techniques in your lower-body training regimen and you'll be blown away by the results. A full set of glutes is in your future. The Workout Plan That Will Literally Lift Your Butt If you\u2019re looking for a booty workout that will actually help you build a bigger backside, then this app is perfect for you. We think that it\u2019s safe to say that most ladies would love to have a perky, firm and round booty. Some of us are born with genetically larger bottoms, while others aren\u2019t as lucky. Following this workout programs will get you some seriously stunning results. With it, you can lift, firm and build the booty of your dreams. This workout program helps boost the booty by targeting major muscle groups in the lower body like the hamstrings, quads and of course your glutes. The best part, the workout contains multifunctional, strength-building exercises and that translate into a full lower body that you can complete at-home in just 7 to 30 minutes! Get Your Butt In Gear Your glutes are designed to be the largest, most powerful muscle group in your entire body. And when all of your booty muscles are strong and metabolically active, you\u2019ll have more power for your workouts, increased support for your hips and spine, and improved strength for optimal body alignment. And beyond the health benefits, who doesn't love a nice booty? Glute Exercises For Men \u2013 The Best Glutes Workout For Dudes We\u2019ve got you covered with the best glute exercises for men, all packaged up in a few tight, perky glutes workout programs. Best Booty Building Exercises for Women Sculpt your glutes and lower body with these booty building exercises and workouts for women; a complete lower body workout program of 30 days. We created ten of the best glute training workouts and exercises (for beginners and intermediate) you can do at home.",
+  "privacyText": "http://fm.stefanroobol.com/privacy-policy/buttworkoutprogram",
+  "numInstalls": 10000,
+  "developer": "Stay Fit With Samantha",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://samantha.steveloper.nl",
+    "Developer Email": "samantharoobol@gmail.com",
+    "Privacy Policy": "http://fm.stefanroobol.com/privacy-policy/buttworkoutprogram"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

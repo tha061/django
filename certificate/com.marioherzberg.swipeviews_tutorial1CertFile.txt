@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1330454750 (0x4f4d20de)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Mario Herzberg
+        Validity
+            Not Before: Dec 20 17:43:19 2015 GMT
+            Not After : Nov 26 17:43:19 2115 GMT
+        Subject: CN=Mario Herzberg
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9e:b0:f0:02:6f:7f:f6:db:96:09:04:a2:ee:e9:
+                    8c:35:37:13:8f:22:1c:72:10:e7:80:cc:0b:38:2a:
+                    7d:73:9d:2f:c8:fd:4d:f1:77:cd:fd:c7:d7:78:a6:
+                    d8:74:e2:71:cc:e8:06:7d:ae:48:13:75:0a:05:68:
+                    63:02:96:0b:c0:99:8c:7f:01:6d:2c:ab:98:d7:69:
+                    a9:85:fe:fc:3c:85:02:88:c9:3e:5a:8a:cc:8b:e6:
+                    77:89:14:dc:15:16:f5:c8:8c:ac:1f:58:79:45:3a:
+                    4c:8e:d4:8e:09:11:44:0e:48:57:81:82:d5:b6:fd:
+                    bf:3f:1d:69:2d:95:ef:6d:e8:11:42:7f:44:8c:02:
+                    a3:fb:39:e2:fd:96:c4:c3:46:d4:5a:04:2b:5d:f0:
+                    c1:0e:45:88:98:ff:f1:f7:9e:86:96:a1:88:1f:c9:
+                    91:da:3b:1a:97:49:ad:2a:ec:e7:a7:28:f3:95:58:
+                    2c:96:73:50:ce:c0:2f:13:ae:44:56:9a:ab:bf:cf:
+                    66:01:f0:85:6a:2c:a9:ef:66:60:ea:c5:f8:56:e3:
+                    94:90:ed:dd:0e:85:42:c9:d1:0f:79:34:91:f7:f8:
+                    ba:c7:e0:f1:a5:ee:fd:ce:10:fb:fb:e4:71:e6:c0:
+                    e7:a8:5a:6d:5e:70:93:c5:46:a6:be:7f:df:88:68:
+                    84:8f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                03:31:05:0E:C5:DF:D5:8F:19:23:3B:37:CF:B0:16:E6:D2:C5:B5:60
+    Signature Algorithm: sha256WithRSAEncryption
+         19:5d:21:08:27:b9:cf:b9:a8:1e:c4:9a:5a:98:6b:95:48:57:
+         63:97:7a:b1:e1:59:e3:e3:b7:98:06:b8:65:37:de:c4:60:5f:
+         b7:75:91:ce:c0:23:03:18:51:8f:a3:7f:7b:18:02:2b:03:20:
+         bb:0c:ed:55:9e:bc:fb:b8:b3:c3:a9:97:01:14:31:7a:b2:44:
+         a2:ab:92:f8:18:37:b3:da:74:c1:38:3e:44:ca:61:83:9a:96:
+         cb:5d:d5:df:03:bc:e4:e1:c5:a1:81:52:35:56:89:a7:ac:12:
+         92:51:d9:65:9a:ef:84:c5:af:96:99:c4:06:fa:99:bd:a8:2e:
+         95:ed:6b:c2:31:f9:58:87:fe:30:f0:55:5c:b1:a2:21:3d:14:
+         b1:14:30:0d:23:68:e2:b9:19:b8:6b:c3:d9:09:07:ff:a8:41:
+         42:90:30:84:0f:9c:ba:04:39:d9:88:a1:a0:89:6f:7c:c5:9b:
+         19:1e:3a:5d:78:e4:b8:a2:99:9d:20:cf:98:38:63:56:79:3b:
+         de:df:64:15:9b:22:17:53:5e:e6:e6:82:58:30:c1:a4:7f:ff:
+         d7:7e:38:ce:c9:52:ad:91:9e:93:3d:0c:eb:a4:cf:da:c4:47:
+         47:8c:5e:50:69:a5:20:d4:d7:9f:7d:cb:c7:4d:a6:e2:33:d7:
+         6c:e2:76:48
+-----BEGIN CERTIFICATE-----
+MIIC0zCCAbugAwIBAgIET00g3jANBgkqhkiG9w0BAQsFADAZMRcwFQYDVQQDEw5N
+YXJpbyBIZXJ6YmVyZzAgFw0xNTEyMjAxNzQzMTlaGA8yMTE1MTEyNjE3NDMxOVow
+GTEXMBUGA1UEAxMOTWFyaW8gSGVyemJlcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCesPACb3/225YJBKLu6Yw1NxOPIhxyEOeAzAs4Kn1znS/I/U3x
+d839x9d4pth04nHM6AZ9rkgTdQoFaGMClgvAmYx/AW0sq5jXaamF/vw8hQKIyT5a
+isyL5neJFNwVFvXIjKwfWHlFOkyO1I4JEUQOSFeBgtW2/b8/HWktle9t6BFCf0SM
+AqP7OeL9lsTDRtRaBCtd8MEORYiY//H3noaWoYgfyZHaOxqXSa0q7OenKPOVWCyW
+c1DOwC8TrkRWmqu/z2YB8IVqLKnvZmDqxfhW45SQ7d0OhULJ0Q95NJH3+LrH4PGl
+7v3OEPv75HHmwOeoWm1ecJPFRqa+f9+IaISPAgMBAAGjITAfMB0GA1UdDgQWBBQD
+MQUOxd/VjxkjOzfPsBbm0sW1YDANBgkqhkiG9w0BAQsFAAOCAQEAGV0hCCe5z7mo
+HsSaWphrlUhXY5d6seFZ4+O3mAa4ZTfexGBft3WRzsAjAxhRj6N/exgCKwMguwzt
+VZ68+7izw6mXARQxerJEoquS+Bg3s9p0wTg+RMphg5qWy13V3wO85OHFoYFSNVaJ
+p6wSklHZZZrvhMWvlpnEBvqZvagule1rwjH5WIf+MPBVXLGiIT0UsRQwDSNo4rkZ
+uGvD2QkH/6hBQpAwhA+cugQ52YihoIlvfMWbGR46XXjkuKKZnSDPmDhjVnk73t9k
+FZsiF1Ne5uaCWDDBpH//1344zslSrZGekz0M66TP2sRHR4xeUGmlINTXn33Lx02m
+4jPXbOJ2SA==
+-----END CERTIFICATE-----
+

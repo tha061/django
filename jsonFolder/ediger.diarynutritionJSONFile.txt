@@ -1,0 +1,76 @@
+{
+  "name": "ediger.diarynutrition",
+  "fileSize": "7.5 MB",
+  "VTmd5": "1fb85ad91a6e0dfe0b538a2de69917af",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/c4cbccac67a0e437f67aa3b785b1b7a037b98ecd8a9f5fb6596b813c0ecd44b1/detection/f-c4cbccac67a0e437f67aa3b785b1b7a037b98ecd8a9f5fb6596b813c0ecd44b1-1578130081",
+  "VTresource": "c4cbccac67a0e437f67aa3b785b1b7a037b98ecd8a9f5fb6596b813c0ecd44b1",
+  "VTresponsecode": 1,
+  "VTscanID": "c4cbccac67a0e437f67aa3b785b1b7a037b98ecd8a9f5fb6596b813c0ecd44b1-1578130081",
+  "VTsha1": "ea18b292658252d08b15a89df393a78128bcd410",
+  "VTsha256": "c4cbccac67a0e437f67aa3b785b1b7a037b98ecd8a9f5fb6596b813c0ecd44b1",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "11 April 2019",
+    "Size": "7.5M",
+    "Installs": "100000",
+    "Current Version": "1.2.8",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$2.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Ediger",
+    "Developer": "Visit website ediger.apps@gmail.com Privacy Policy Russia, Tatarstan, Osinovo, 422527"
+  },
+  "rating": "4.4",
+  "description": "Diary of nutrition will help you keep a daily control over the amount of calories and macronutrients. - No registration - Working without internet - Database includes thousands of foods - Add your own foods - Mark your favorite foods for fast search - Individual nutrition program - Weight control - Detailed daily diary summary",
+  "privacyText": "https://edlger.github.io/",
+  "numInstalls": 100000,
+  "developer": "Ediger",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://edlger.github.io",
+    "Developer Email": "ediger.apps@gmail.com",
+    "Privacy Policy": "https://edlger.github.io/"
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 431991845 (0x19bfac25)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: O=Strong Fitness, CN=Cameron Chow
+        Validity
+            Not Before: Dec 14 20:18:44 2016 GMT
+            Not After : Dec  8 20:18:44 2041 GMT
+        Subject: O=Strong Fitness, CN=Cameron Chow
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:84:c8:74:82:74:fc:60:7f:b7:38:52:56:5e:06:
+                    59:71:c9:a2:76:7d:f0:60:a1:86:50:b8:a3:4c:ba:
+                    f2:4f:df:8c:c4:b6:53:58:58:62:64:21:7f:d6:b8:
+                    74:b2:cf:f9:3a:a9:8d:81:87:c7:82:f1:4e:59:c1:
+                    8e:97:e4:ab:49:aa:66:23:af:27:08:64:6e:66:34:
+                    21:33:e4:cd:53:5e:79:91:3e:b9:17:16:e8:bc:51:
+                    f1:e6:20:9f:bd:57:93:36:8d:69:a1:7f:65:6b:0c:
+                    5d:c3:c2:8b:e5:5e:55:e6:80:ab:2b:08:60:9a:4f:
+                    3d:37:6d:d0:70:2c:4f:2b:ad:53:82:74:e3:ab:b6:
+                    23:db:eb:d6:d7:43:bf:fd:f4:2f:e2:1d:96:62:d9:
+                    8a:60:ba:c2:fd:24:7c:66:4d:50:18:96:a5:52:d0:
+                    28:37:89:f8:16:53:f8:19:d0:d3:54:35:ff:2b:79:
+                    16:67:e7:77:0a:ad:95:10:34:c0:13:d5:a8:b0:e0:
+                    a3:4e:34:85:43:7b:89:08:71:21:88:89:63:3a:66:
+                    52:f4:d1:c8:62:43:99:85:c2:d3:7a:78:69:3a:cc:
+                    a6:94:0a:3f:06:a7:7f:7f:44:4d:a0:bb:0b:2a:d2:
+                    74:60:b4:4e:25:e7:18:ee:ea:ad:cb:86:bf:4b:50:
+                    9c:69
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                D8:5A:6A:A4:4D:A2:C8:FF:82:BB:D0:97:AD:02:C1:4C:13:09:C5:05
+    Signature Algorithm: sha256WithRSAEncryption
+         37:d4:23:03:92:f8:66:5f:42:ab:26:2b:14:ee:2a:40:47:47:
+         2d:29:85:94:dc:02:b1:38:6e:c3:aa:ef:52:43:aa:d7:36:1c:
+         ab:24:81:1c:42:53:37:1f:16:48:e6:32:17:da:3f:5b:74:ff:
+         db:65:90:c4:1e:4d:62:21:90:83:07:08:c9:5f:11:4f:b0:a1:
+         73:8c:c1:cc:99:d0:c9:b9:a1:03:46:6a:94:10:8c:08:57:7c:
+         b5:4f:ae:58:d4:c3:26:a4:b8:ef:9b:2b:ed:b3:50:7f:ff:23:
+         6c:f5:b3:8d:46:fa:14:be:48:99:24:8b:8c:6e:80:2e:d6:c8:
+         8f:28:be:39:ab:7d:25:1b:2f:16:39:8a:97:76:8d:a6:be:be:
+         33:b5:9e:44:72:39:1e:53:f7:1d:03:86:27:71:6b:ed:4f:cb:
+         35:1c:82:5d:ef:fc:aa:48:7b:5a:2f:19:e6:c9:3b:47:44:03:
+         b0:7a:17:c5:bf:49:ec:cf:8a:a9:fc:1a:d1:bb:e6:4c:de:dc:
+         b5:b1:5f:37:d7:e2:d4:dc:70:0f:d1:72:04:11:da:5a:b2:e9:
+         c1:47:ba:b8:5e:32:2f:31:ec:8e:c1:6b:41:73:ca:37:27:c0:
+         3d:e7:ac:89:f7:c5:a1:8c:23:cb:e8:28:9f:ca:3a:73:c0:c8:
+         24:8b:be:98
+-----BEGIN CERTIFICATE-----
+MIIC/zCCAeegAwIBAgIEGb+sJTANBgkqhkiG9w0BAQsFADAwMRcwFQYDVQQKEw5T
+dHJvbmcgRml0bmVzczEVMBMGA1UEAxMMQ2FtZXJvbiBDaG93MB4XDTE2MTIxNDIw
+MTg0NFoXDTQxMTIwODIwMTg0NFowMDEXMBUGA1UEChMOU3Ryb25nIEZpdG5lc3Mx
+FTATBgNVBAMTDENhbWVyb24gQ2hvdzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAITIdIJ0/GB/tzhSVl4GWXHJonZ98GChhlC4o0y68k/fjMS2U1hYYmQh
+f9a4dLLP+TqpjYGHx4LxTlnBjpfkq0mqZiOvJwhkbmY0ITPkzVNeeZE+uRcW6LxR
+8eYgn71XkzaNaaF/ZWsMXcPCi+VeVeaAqysIYJpPPTdt0HAsTyutU4J046u2I9vr
+1tdDv/30L+IdlmLZimC6wv0kfGZNUBiWpVLQKDeJ+BZT+BnQ01Q1/yt5Fmfndwqt
+lRA0wBPVqLDgo040hUN7iQhxIYiJYzpmUvTRyGJDmYXC03p4aTrMppQKPwanf39E
+TaC7CyrSdGC0TiXnGO7qrcuGv0tQnGkCAwEAAaMhMB8wHQYDVR0OBBYEFNhaaqRN
+osj/grvQl60CwUwTCcUFMA0GCSqGSIb3DQEBCwUAA4IBAQA31CMDkvhmX0KrJisU
+7ipAR0ctKYWU3AKxOG7Dqu9SQ6rXNhyrJIEcQlM3HxZI5jIX2j9bdP/bZZDEHk1i
+IZCDBwjJXxFPsKFzjMHMmdDJuaEDRmqUEIwIV3y1T65Y1MMmpLjvmyvts1B//yNs
+9bONRvoUvkiZJIuMboAu1siPKL45q30lGy8WOYqXdo2mvr4ztZ5EcjkeU/cdA4Yn
+cWvtT8s1HIJd7/yqSHtaLxnmyTtHRAOwehfFv0nsz4qp/BrRu+ZM3ty1sV831+LU
+3HAP0XIEEdpasunBR7q4XjIvMeyOwWtBc8o3J8A956yJ98WhjCPL6CifyjpzwMgk
+i76Y
+-----END CERTIFICATE-----
+

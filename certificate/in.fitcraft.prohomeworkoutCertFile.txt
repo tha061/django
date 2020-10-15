@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 562973935 (0x218e4cef)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=IN, ST=UP, L=Noida, O=Fitcraft Technologies, OU=Fitcraft Technologies, CN=Sushobhit Singh
+        Validity
+            Not Before: Nov 19 14:09:46 2018 GMT
+            Not After : Oct 26 14:09:46 2118 GMT
+        Subject: C=IN, ST=UP, L=Noida, O=Fitcraft Technologies, OU=Fitcraft Technologies, CN=Sushobhit Singh
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c2:02:b7:18:c3:68:01:6a:f7:b7:7c:af:86:27:
+                    38:6a:d5:43:f0:d8:f3:2f:fc:25:40:46:7a:42:6d:
+                    37:c4:e9:06:8a:db:6a:1d:4b:09:e0:24:1c:0f:f2:
+                    c4:3a:c5:90:40:7d:3d:07:0d:f9:c8:6f:5f:a1:43:
+                    52:d8:0c:d0:f1:1b:e2:b3:09:a4:0d:bc:15:38:b3:
+                    25:14:02:83:4c:65:0b:8f:a8:f5:32:3a:5c:11:59:
+                    c3:0c:79:58:75:8c:c4:f7:70:5d:eb:34:a1:bf:14:
+                    70:8d:fd:ce:31:17:a7:8c:e4:45:90:b7:91:e5:df:
+                    d0:a8:79:9d:13:b4:48:bf:6a:42:07:7c:ae:d4:48:
+                    e7:a8:5f:a8:8a:6e:fa:c3:40:58:82:1c:90:21:a8:
+                    88:83:ce:1b:bf:ac:9f:c1:bb:eb:32:d8:5d:5f:45:
+                    d3:e9:8a:66:e9:a6:b1:fd:8a:43:59:ed:ea:3f:c3:
+                    7d:15:e5:d0:41:81:ae:78:0c:85:d7:a9:19:ce:7d:
+                    cf:29:96:d7:62:92:8a:d5:ec:e9:0e:7a:ae:f2:67:
+                    d3:70:d1:53:03:d5:ef:d1:19:3f:4f:05:30:7f:ed:
+                    b5:f9:73:93:af:15:8c:ec:10:d3:f1:07:4c:c2:f3:
+                    93:f7:e1:77:92:0d:76:4b:0c:c5:29:f3:f1:78:2a:
+                    f7:09
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                3B:29:88:81:CF:52:F3:2B:EA:39:55:DE:26:E0:37:FD:EF:A6:2A:65
+    Signature Algorithm: sha256WithRSAEncryption
+         1f:5e:ab:5a:53:10:e9:2c:45:71:38:e8:f7:2d:6f:19:34:ca:
+         25:1f:79:6e:8a:a1:c0:19:b0:c4:65:cc:01:f6:a2:e1:16:cf:
+         02:f8:a0:a5:19:c7:fa:95:56:5c:0c:bd:aa:c4:44:a2:23:07:
+         97:0f:f5:dc:5a:50:d4:8d:30:ad:f6:f9:9c:82:3c:08:e1:a2:
+         48:ce:8a:d4:f5:3b:3a:16:32:52:95:64:d3:a7:9f:bb:6b:bb:
+         37:02:86:9f:db:d2:19:60:2e:ac:2a:7b:1b:0a:13:ff:ec:b8:
+         df:24:17:90:d0:60:1d:37:20:85:0d:dc:a4:e6:94:78:96:87:
+         54:e4:7b:50:6d:a1:d1:dd:fa:65:63:41:b4:da:59:66:a3:65:
+         24:93:d3:ea:ee:ce:d3:e8:f9:b9:99:f7:5f:f0:d0:cd:c9:61:
+         e2:a3:75:b3:fc:a2:bd:f4:06:b8:bd:09:90:af:c0:9c:35:fe:
+         ec:cc:ad:30:f4:58:c7:15:c2:43:5d:30:00:16:53:5b:2c:0c:
+         20:99:33:33:ad:7e:d3:84:d1:83:32:33:96:9b:31:40:68:b8:
+         28:1e:23:fa:b8:70:4c:80:eb:43:b7:92:bb:f3:e0:b2:d1:40:
+         ae:ff:15:08:f4:35:ab:fc:c6:98:d0:9c:64:fb:f0:f8:6c:58:
+         36:3a:b2:f4
+-----BEGIN CERTIFICATE-----
+MIIDqzCCApOgAwIBAgIEIY5M7zANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMC
+SU4xCzAJBgNVBAgTAlVQMQ4wDAYDVQQHEwVOb2lkYTEeMBwGA1UEChMVRml0Y3Jh
+ZnQgVGVjaG5vbG9naWVzMR4wHAYDVQQLExVGaXRjcmFmdCBUZWNobm9sb2dpZXMx
+GDAWBgNVBAMTD1N1c2hvYmhpdCBTaW5naDAgFw0xODExMTkxNDA5NDZaGA8yMTE4
+MTAyNjE0MDk0NlowgYQxCzAJBgNVBAYTAklOMQswCQYDVQQIEwJVUDEOMAwGA1UE
+BxMFTm9pZGExHjAcBgNVBAoTFUZpdGNyYWZ0IFRlY2hub2xvZ2llczEeMBwGA1UE
+CxMVRml0Y3JhZnQgVGVjaG5vbG9naWVzMRgwFgYDVQQDEw9TdXNob2JoaXQgU2lu
+Z2gwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDCArcYw2gBave3fK+G
+Jzhq1UPw2PMv/CVARnpCbTfE6QaK22odSwngJBwP8sQ6xZBAfT0HDfnIb1+hQ1LY
+DNDxG+KzCaQNvBU4syUUAoNMZQuPqPUyOlwRWcMMeVh1jMT3cF3rNKG/FHCN/c4x
+F6eM5EWQt5Hl39CoeZ0TtEi/akIHfK7USOeoX6iKbvrDQFiCHJAhqIiDzhu/rJ/B
+u+sy2F1fRdPpimbpprH9ikNZ7eo/w30V5dBBga54DIXXqRnOfc8pltdikorV7OkO
+eq7yZ9Nw0VMD1e/RGT9PBTB/7bX5c5OvFYzsENPxB0zC85P34XeSDXZLDMUp8/F4
+KvcJAgMBAAGjITAfMB0GA1UdDgQWBBQ7KYiBz1LzK+o5Vd4m4Df976YqZTANBgkq
+hkiG9w0BAQsFAAOCAQEAH16rWlMQ6SxFcTjo9y1vGTTKJR95boqhwBmwxGXMAfai
+4RbPAvigpRnH+pVWXAy9qsREoiMHlw/13FpQ1I0wrfb5nII8COGiSM6K1PU7OhYy
+UpVk06efu2u7NwKGn9vSGWAurCp7GwoT/+y43yQXkNBgHTcghQ3cpOaUeJaHVOR7
+UG2h0d36ZWNBtNpZZqNlJJPT6u7O0+j5uZn3X/DQzclh4qN1s/yivfQGuL0JkK/A
+nDX+7MytMPRYxxXCQ10wABZTWywMIJkzM61+04TRgzIzlpsxQGi4KB4j+rhwTIDr
+Q7eSu/PgstFArv8VCPQ1q/zGmNCcZPvw+GxYNjqy9A==
+-----END CERTIFICATE-----
+

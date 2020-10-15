@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1109631628 (0x4223a28c)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=UK, ST=London, L=London, O=Panorama Digital Design, OU=Panorama Digital Design, CN=Marco Sinacore
+        Validity
+            Not Before: Feb  1 17:37:16 2016 GMT
+            Not After : Jun 19 17:37:16 2043 GMT
+        Subject: C=UK, ST=London, L=London, O=Panorama Digital Design, OU=Panorama Digital Design, CN=Marco Sinacore
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:85:95:21:b3:e7:a0:b6:87:4d:d5:12:cd:69:f7:
+                    bf:64:ab:10:bf:39:31:0b:24:a7:81:bc:aa:02:c7:
+                    08:22:bc:41:a9:ce:89:c8:c6:45:c5:ec:36:a8:35:
+                    ab:94:68:52:3a:81:54:99:89:44:f8:7f:c1:91:2b:
+                    de:d3:b9:0f:8b:4a:75:09:77:b4:82:41:8d:7b:d5:
+                    db:0f:f9:ac:9e:9e:1e:e2:a0:54:f1:8d:bb:ca:0e:
+                    45:8a:a4:84:5c:3f:3f:fe:66:0f:27:3a:66:ac:1b:
+                    f6:97:76:16:d4:52:14:fa:7c:dc:b5:34:19:43:79:
+                    fe:89:95:79:51:22:a9:f7:3b:33:15:b4:98:47:69:
+                    66:af:47:a3:e2:b0:a6:ad:12:83:f1:d5:0d:93:fd:
+                    73:74:ea:17:c2:3e:3e:67:a0:b3:81:58:1d:a6:61:
+                    ef:40:74:d4:d2:d0:da:1d:a9:13:ef:ae:d2:4b:a7:
+                    96:ce:8e:c6:20:9f:9d:96:5b:a0:2d:97:7b:29:d6:
+                    2b:64:db:c5:e7:5f:c5:72:ab:90:0a:bc:65:18:44:
+                    ba:98:cd:40:aa:1f:fb:d3:51:59:df:b1:27:ad:9f:
+                    2b:a1:9f:68:b9:89:79:f2:44:b1:9e:e3:c5:a6:c0:
+                    db:f5:71:f6:7d:07:9b:70:0b:99:48:75:65:fd:85:
+                    16:2b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                08:5C:13:2A:7F:7A:F8:07:D1:58:C4:51:69:23:C2:0A:87:51:DF:75
+    Signature Algorithm: sha256WithRSAEncryption
+         14:e6:fe:96:ed:c3:b5:29:d1:b3:34:3d:75:a1:9f:a6:90:89:
+         56:30:b7:5f:76:7e:cc:b3:86:c3:b7:0b:b4:c0:ca:21:07:63:
+         30:5b:ab:8e:2f:4d:06:dd:c6:25:44:b1:53:f0:e5:67:b6:b7:
+         6d:3c:c3:af:26:88:f8:e6:8f:54:49:ad:b3:c2:4c:5a:87:b1:
+         7f:77:89:7c:b8:aa:e6:ed:30:a3:6c:e1:1f:a7:06:07:75:09:
+         19:8b:d3:2d:ac:c8:af:e7:2c:aa:3c:b4:f9:54:49:37:36:4b:
+         96:b5:2b:8f:06:46:ab:8f:63:de:1a:47:2b:2e:46:68:64:fa:
+         a0:ec:1d:96:2e:66:3f:07:0c:be:e0:ea:36:8f:8f:7d:8d:91:
+         88:74:99:f1:58:e7:f8:79:2b:39:c8:7a:76:84:30:e6:f1:f0:
+         84:10:c2:46:0b:6d:0f:88:4c:e1:0a:28:71:e4:01:0c:7b:c8:
+         15:07:2f:0c:b4:b8:ec:68:4f:74:b7:9e:85:43:d3:a5:a8:59:
+         b1:0d:e8:25:ae:3d:66:56:87:ac:15:70:af:56:a6:9a:b2:91:
+         8b:c6:f4:5a:24:5c:92:18:e7:c8:f8:5f:4f:01:dc:0d:08:4d:
+         dd:9a:67:df:83:6a:b5:c2:cc:97:64:55:03:13:84:40:b3:b1:
+         23:c0:96:5f
+-----BEGIN CERTIFICATE-----
+MIIDuTCCAqGgAwIBAgIEQiOijDANBgkqhkiG9w0BAQsFADCBjDELMAkGA1UEBhMC
+VUsxDzANBgNVBAgTBkxvbmRvbjEPMA0GA1UEBxMGTG9uZG9uMSAwHgYDVQQKExdQ
+YW5vcmFtYSBEaWdpdGFsIERlc2lnbjEgMB4GA1UECxMXUGFub3JhbWEgRGlnaXRh
+bCBEZXNpZ24xFzAVBgNVBAMTDk1hcmNvIFNpbmFjb3JlMB4XDTE2MDIwMTE3Mzcx
+NloXDTQzMDYxOTE3MzcxNlowgYwxCzAJBgNVBAYTAlVLMQ8wDQYDVQQIEwZMb25k
+b24xDzANBgNVBAcTBkxvbmRvbjEgMB4GA1UEChMXUGFub3JhbWEgRGlnaXRhbCBE
+ZXNpZ24xIDAeBgNVBAsTF1Bhbm9yYW1hIERpZ2l0YWwgRGVzaWduMRcwFQYDVQQD
+Ew5NYXJjbyBTaW5hY29yZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AIWVIbPnoLaHTdUSzWn3v2SrEL85MQskp4G8qgLHCCK8QanOicjGRcXsNqg1q5Ro
+UjqBVJmJRPh/wZEr3tO5D4tKdQl3tIJBjXvV2w/5rJ6eHuKgVPGNu8oORYqkhFw/
+P/5mDyc6Zqwb9pd2FtRSFPp83LU0GUN5/omVeVEiqfc7MxW0mEdpZq9Ho+Kwpq0S
+g/HVDZP9c3TqF8I+Pmegs4FYHaZh70B01NLQ2h2pE++u0kunls6OxiCfnZZboC2X
+eynWK2TbxedfxXKrkAq8ZRhEupjNQKof+9NRWd+xJ62fK6GfaLmJefJEsZ7jxabA
+2/Vx9n0Hm3ALmUh1Zf2FFisCAwEAAaMhMB8wHQYDVR0OBBYEFAhcEyp/evgH0VjE
+UWkjwgqHUd91MA0GCSqGSIb3DQEBCwUAA4IBAQAU5v6W7cO1KdGzND11oZ+mkIlW
+MLdfdn7Ms4bDtwu0wMohB2MwW6uOL00G3cYlRLFT8OVntrdtPMOvJoj45o9USa2z
+wkxah7F/d4l8uKrm7TCjbOEfpwYHdQkZi9MtrMiv5yyqPLT5VEk3NkuWtSuPBkar
+j2PeGkcrLkZoZPqg7B2WLmY/Bwy+4Oo2j499jZGIdJnxWOf4eSs5yHp2hDDm8fCE
+EMJGC20PiEzhCihx5AEMe8gVBy8MtLjsaE90t56FQ9OlqFmxDeglrj1mVoesFXCv
+VqaaspGLxvRaJFySGOfI+F9PAdwNCE3dmmffg2q1wsyXZFUDE4RAs7EjwJZf
+-----END CERTIFICATE-----
+

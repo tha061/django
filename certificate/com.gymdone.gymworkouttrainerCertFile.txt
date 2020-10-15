@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1162667969 (0x454ce7c1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: OU=GYMDONE, CN=Gor Aghavelyan
+        Validity
+            Not Before: Feb  5 12:17:05 2018 GMT
+            Not After : Jan 30 12:17:05 2043 GMT
+        Subject: OU=GYMDONE, CN=Gor Aghavelyan
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:91:79:f8:5e:0d:65:fc:65:7c:95:f8:f6:26:2e:
+                    b7:23:10:05:d0:13:ef:6e:ca:4d:b0:97:3d:37:6a:
+                    b3:79:1b:e2:fc:0c:bd:d8:ba:2a:54:fb:ce:05:75:
+                    ea:9d:8d:a1:e7:7d:e0:c9:95:60:9a:1e:99:b3:ed:
+                    12:72:49:ed:80:49:93:0c:48:53:0a:5f:ef:1d:2f:
+                    37:63:d7:8b:09:ac:78:5e:73:30:fa:de:59:9b:e4:
+                    b1:d1:20:32:a9:70:18:9d:2d:f3:8d:2b:7e:44:14:
+                    43:0e:43:b9:be:ec:f5:d8:c9:8c:58:8e:7b:c2:42:
+                    2a:2f:3e:f4:30:03:d3:df:8c:20:27:1a:a4:19:9f:
+                    db:25:6f:e9:c5:ea:9d:ad:b8:ea:5a:39:0c:83:e7:
+                    53:e0:50:d9:97:f9:17:48:60:22:0b:61:95:9a:40:
+                    55:dc:51:7b:ec:6f:3e:14:e5:86:a1:43:0e:4c:73:
+                    3a:62:24:77:c1:d8:48:82:c9:c7:bb:9d:35:69:88:
+                    10:fd:15:cc:a0:3d:88:42:b9:7f:fd:e2:1f:cc:44:
+                    36:64:f6:68:e8:47:8f:84:db:a1:68:cd:aa:5f:94:
+                    ff:15:d4:ad:c7:f2:f6:65:44:01:93:d6:02:ec:32:
+                    b4:31:74:8a:aa:cd:1d:81:16:de:0c:97:9e:82:3e:
+                    72:91
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                1E:00:80:75:D6:29:54:73:BF:C8:23:02:3C:93:C2:21:01:B1:CA:2F
+    Signature Algorithm: sha256WithRSAEncryption
+         7f:c6:bb:7c:01:ab:66:34:d9:9b:40:3d:92:30:3d:ed:1a:77:
+         cf:5e:69:59:97:35:22:51:42:a7:5b:02:0f:cb:89:59:50:7a:
+         37:ec:94:00:2c:d1:15:83:f3:67:fa:70:c0:39:a5:a4:db:e4:
+         67:4f:c1:5d:9e:b8:8b:61:d0:79:f0:9c:b5:f0:94:11:88:6c:
+         25:b6:f7:9d:77:8a:2b:da:be:cc:35:ab:ce:bd:f3:fb:c7:d6:
+         08:98:ef:a4:e3:6b:65:e9:76:b7:8e:b3:5a:0a:ed:03:09:5a:
+         8d:ba:82:85:d0:c9:84:e1:84:b2:53:b7:49:dc:8f:8f:49:97:
+         44:b5:13:fb:98:8f:74:7d:52:8e:03:fb:14:7b:f0:0e:db:0e:
+         d9:e6:59:83:d8:81:39:7a:4e:d2:70:1b:cb:aa:cf:81:8b:3e:
+         a5:8f:b5:46:ed:bb:a2:d9:03:55:47:1d:64:8b:0a:86:82:d7:
+         86:75:20:41:ef:7c:26:08:9b:9a:6e:0f:f6:5a:ff:de:46:cd:
+         9f:c6:07:13:34:83:ba:82:0e:89:14:e9:68:2a:80:52:07:f1:
+         39:01:d5:66:4b:3a:91:a0:2a:c2:05:3b:49:06:df:38:48:df:
+         39:fe:72:82:b9:3b:2b:0a:9c:f6:e8:fd:46:e7:31:3d:23:f3:
+         c5:06:63:12
+-----BEGIN CERTIFICATE-----
+MIIC9TCCAd2gAwIBAgIERUznwTANBgkqhkiG9w0BAQsFADArMRAwDgYDVQQLEwdH
+WU1ET05FMRcwFQYDVQQDEw5Hb3IgQWdoYXZlbHlhbjAeFw0xODAyMDUxMjE3MDVa
+Fw00MzAxMzAxMjE3MDVaMCsxEDAOBgNVBAsTB0dZTURPTkUxFzAVBgNVBAMTDkdv
+ciBBZ2hhdmVseWFuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkXn4
+Xg1l/GV8lfj2Ji63IxAF0BPvbspNsJc9N2qzeRvi/Ay92LoqVPvOBXXqnY2h533g
+yZVgmh6Zs+0SckntgEmTDEhTCl/vHS83Y9eLCax4XnMw+t5Zm+Sx0SAyqXAYnS3z
+jSt+RBRDDkO5vuz12MmMWI57wkIqLz70MAPT34wgJxqkGZ/bJW/pxeqdrbjqWjkM
+g+dT4FDZl/kXSGAiC2GVmkBV3FF77G8+FOWGoUMOTHM6YiR3wdhIgsnHu501aYgQ
+/RXMoD2IQrl//eIfzEQ2ZPZo6EePhNuhaM2qX5T/FdStx/L2ZUQBk9YC7DK0MXSK
+qs0dgRbeDJeegj5ykQIDAQABoyEwHzAdBgNVHQ4EFgQUHgCAddYpVHO/yCMCPJPC
+IQGxyi8wDQYJKoZIhvcNAQELBQADggEBAH/Gu3wBq2Y02ZtAPZIwPe0ad89eaVmX
+NSJRQqdbAg/LiVlQejfslAAs0RWD82f6cMA5paTb5GdPwV2euIth0HnwnLXwlBGI
+bCW29513iivavsw1q8698/vH1giY76Tja2XpdreOs1oK7QMJWo26goXQyYThhLJT
+t0ncj49Jl0S1E/uYj3R9Uo4D+xR78A7bDtnmWYPYgTl6TtJwG8uqz4GLPqWPtUbt
+u6LZA1VHHWSLCoaC14Z1IEHvfCYIm5puD/Za/95GzZ/GBxM0g7qCDokU6WgqgFIH
+8TkB1WZLOpGgKsIFO0kG3zhI3zn+coK5OysKnPbo/UbnMT0j88UGYxI=
+-----END CERTIFICATE-----
+

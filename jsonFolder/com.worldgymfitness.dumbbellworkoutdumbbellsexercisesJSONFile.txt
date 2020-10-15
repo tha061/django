@@ -1,0 +1,61 @@
+{
+  "name": "com.worldgymfitness.dumbbellworkoutdumbbellsexercises",
+  "fileSize": "57.4 MB",
+  "VTmd5": "a3d32ed0c425740d515cb4926107ed66",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/7c8c7320920edb1091afed47467e12e756d1a694ae11f81b58ba7eecfdb9d35f/detection/f-7c8c7320920edb1091afed47467e12e756d1a694ae11f81b58ba7eecfdb9d35f-1592821218",
+  "VTresource": "7c8c7320920edb1091afed47467e12e756d1a694ae11f81b58ba7eecfdb9d35f",
+  "VTresponsecode": 1,
+  "VTscanID": "7c8c7320920edb1091afed47467e12e756d1a694ae11f81b58ba7eecfdb9d35f-1592821218",
+  "VTsha1": "880f174a29bb47218ae222e0745652ff9b15f54c",
+  "VTsha256": "7c8c7320920edb1091afed47467e12e756d1a694ae11f81b58ba7eecfdb9d35f",
+  "VTtotal": 59,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": "NA",
+  "rating": "NA",
+  "description": "NA",
+  "privacyText": "Couldn't Connect to Google Play",
+  "numInstalls": "NA",
+  "developer": "NA",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": "NA",
+  "smali_Directories": [
+    "Bumptech",
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

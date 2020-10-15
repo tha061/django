@@ -1,0 +1,81 @@
+{
+  "name": "com.rootberz.workoutalerts",
+  "fileSize": "2.9 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "18 Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "18 Protection Level: Developer Defined Permission",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.rootberz.workoutalerts.MyFirebaseMessagingService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "5 September 2020",
+    "Size": "3.6M",
+    "Installs": "10000",
+    "Current Version": "2.58",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u2013 $99.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "rootBerz LLC",
+    "Developer": "Visit website rootBerzLLC@gmail.com Privacy Policy 3250 E Donald Dr.\nPhoenix, AZ 85050"
+  },
+  "rating": "4.5",
+  "description": "Keep your  muscles  warmed up all day while increasing your overall  fitness  and  energy  level! The Workout Alerts app is designed to help people stay fit and prevent  muscle  atrophy. Nothing like other  workout apps .  Workout alerts  app sends you  3D  animated alert notifications randomly throughout the day with very short effective  exercises . You could call them micro-workouts. Feel like you are losing your  strength ? Don't have enough time to  exercise ? Looking for that extra boost of  motivation ? Does increasing your  energy  level,  strength , and overall  health  sound appealing to you? Your fitness level does not matter, the Workout Alerts app is for everyone. All workout exercises can be done without a gym or using any free weights or machines. Track your weight loss progress, and monitor your Body Mass Index with a BMI Calculator. Track your daily progress in  Google Fit . Simply sync Workout Alerts and Google Fit in the settings menu. Google Fit also lets you view your step count during runs. View your workout alert app notifications on any  Android Wear  device. Share your daily workout progress on your favorite social network. Invite your family, friends, and co-workers to join you in the apps fun exercises. Workout Alert Schedule: \u2022 Customize your alert notification schedule on your Android device. \u2022 Choose what days of the week you want to receive  workout  alerts. \u2022 Specify a time frame to receive  workout  alerts. \u2022 Decide how often you want to receive  workout  alerts. \u2022 Fit the schedule to meet your needs. Workout Target areas: \u2022 Arm exercises \u2022 Leg exercises \u2022 Core exercises \u2022 Cardiovascular exercises \u2022 Full Body workouts Just some exercises: \u2022 Push-up exercise \u2022 Several Squat exercises \u2022 Single Leg Dead lift exercise \u2022 Lunge exercise \u2022 Burpee exercise \u2022 Jumping Jack exercise \u2022 Sit-up exercise \u2022 Multiple Plank exercises \u2022 Upward Dog Yoga \u2022 Mountain Climber exercise \u2022 Chair Dip exercise \u2022 Wall Sit exercise \u2022 and many more exercises... Each exercise includes muscle group benefits, how to instructions, and modified exercise options for beginners. The inspiration for the Workout Alerts app came from sitting at a desk 8 hours a day. Every 1 - 2 hours it was time to get up, stretch, and do a simple exercise. Weather it be focused on strength, aerobic, core, athleticism, or even flexibility didn't matter. The goal was to feel active, increase the heart rate, and feel stronger. And wait, what's best? The Workout Alerts app is  FREE  so if you find time, please rate us in the Google Play Store under Health & Fitness. Questions / Comments? Please feel free to email us directly at the email address located on the bottom of this page.",
+  "privacyText": "http://www.WorkoutAlerts.com/privacyPolicy",
+  "numInstalls": 10000,
+  "developer": "rootBerz LLC",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.WorkoutAlerts.com",
+    "Developer Email": "rootBerzLLC@gmail.com",
+    "Privacy Policy": "http://www.WorkoutAlerts.com/privacyPolicy"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

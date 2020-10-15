@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1157562533 (0x44ff00a5)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Sagar
+        Validity
+            Not Before: Nov 27 17:35:54 2015 GMT
+            Not After : Mar 30 17:35:54 3015 GMT
+        Subject: CN=Sagar
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8b:f7:a3:d4:53:4a:f3:b7:ec:03:ee:be:03:43:
+                    93:fe:04:40:b2:51:dc:5a:22:85:e6:95:fd:2e:07:
+                    8c:9c:02:df:1e:4f:7c:f9:06:0e:cc:88:1a:a0:29:
+                    97:a0:90:2e:ec:ea:70:f9:0e:a1:ef:8c:4d:da:cc:
+                    35:15:5a:ae:b7:9b:d9:6d:0c:17:44:77:00:7c:ed:
+                    72:53:94:ef:69:d9:04:02:ff:fe:1a:33:cb:88:f0:
+                    94:03:c8:ce:34:37:1a:7a:52:8e:17:28:32:50:6d:
+                    66:28:d1:3b:01:d1:4f:81:bf:07:f9:6f:f1:f1:a8:
+                    c5:2a:f1:d9:a0:b0:76:10:58:eb:c3:b0:4b:fe:22:
+                    67:2a:8a:67:99:05:e4:aa:36:67:94:fd:14:09:8c:
+                    3c:f9:50:5e:ac:b5:cf:00:8b:da:c8:60:11:a1:c8:
+                    23:82:42:61:c3:6b:02:ea:ff:aa:cd:0f:08:c0:b8:
+                    d3:17:22:e7:cc:20:4c:2e:b0:0f:61:97:5b:15:aa:
+                    dc:bf:b3:50:c5:9a:3a:1c:ad:5b:83:84:83:08:38:
+                    08:5b:96:91:70:d6:a9:e4:a9:36:b2:cb:93:55:c5:
+                    75:7b:76:e2:90:00:ad:c6:4c:51:64:c2:2f:0b:04:
+                    86:84:a6:5f:0c:5b:50:a7:1a:9f:66:07:20:77:cc:
+                    f8:bf
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                0E:1D:52:90:3C:21:B3:6E:DE:BD:97:C3:45:2D:CA:1F:6A:11:86:B6
+    Signature Algorithm: sha256WithRSAEncryption
+         85:54:53:ee:23:80:95:f6:70:1e:e4:ea:c5:88:e8:ba:e1:7d:
+         4f:ec:1e:9d:e2:9c:9d:35:17:97:2e:36:5b:bd:08:73:63:21:
+         17:18:9a:56:71:f1:70:f9:5e:a8:b3:f5:e4:1e:79:a0:ad:5b:
+         f8:0f:93:e0:8f:36:e4:23:67:ce:1a:08:0b:48:ca:46:db:f3:
+         e2:3d:c8:4c:a2:0c:97:21:cc:fe:ad:d1:32:d3:a8:83:43:2e:
+         24:b8:8b:76:3b:0c:a0:f5:bb:b2:3e:be:9b:cd:ec:15:e1:7e:
+         0a:38:b4:d5:6f:ef:3f:7a:98:c3:c2:4c:2b:01:a9:f0:e1:b4:
+         c1:a8:ba:c9:2b:ff:c6:0f:d7:73:a0:75:b2:75:72:e3:e4:89:
+         bf:27:fa:2e:b2:c8:28:7d:eb:09:76:71:55:92:a7:29:18:2f:
+         ae:bb:4e:a5:1d:00:0a:7a:99:0c:e9:3f:c0:a7:ad:97:46:c1:
+         f8:f1:40:68:d3:eb:ef:2e:cc:92:26:78:b2:36:9c:cc:af:eb:
+         3e:af:54:6d:dd:ac:bc:d9:8b:83:81:30:43:ec:76:e4:8d:8a:
+         cd:6c:2c:e5:f3:f1:ea:1f:99:d8:15:ac:9d:56:dc:ca:ac:06:
+         4e:5f:71:a5:1c:b4:90:4a:d3:3d:27:df:91:5c:55:e9:db:38:
+         17:15:e9:72
+-----BEGIN CERTIFICATE-----
+MIICwTCCAamgAwIBAgIERP8ApTANBgkqhkiG9w0BAQsFADAQMQ4wDAYDVQQDEwVT
+YWdhcjAgFw0xNTExMjcxNzM1NTRaGA8zMDE1MDMzMDE3MzU1NFowEDEOMAwGA1UE
+AxMFU2FnYXIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCL96PUU0rz
+t+wD7r4DQ5P+BECyUdxaIoXmlf0uB4ycAt8eT3z5Bg7MiBqgKZegkC7s6nD5DqHv
+jE3azDUVWq63m9ltDBdEdwB87XJTlO9p2QQC//4aM8uI8JQDyM40Nxp6Uo4XKDJQ
+bWYo0TsB0U+Bvwf5b/HxqMUq8dmgsHYQWOvDsEv+ImcqimeZBeSqNmeU/RQJjDz5
+UF6stc8Ai9rIYBGhyCOCQmHDawLq/6rNDwjAuNMXIufMIEwusA9hl1sVqty/s1DF
+mjocrVuDhIMIOAhblpFw1qnkqTayy5NVxXV7duKQAK3GTFFkwi8LBIaEpl8MW1Cn
+Gp9mByB3zPi/AgMBAAGjITAfMB0GA1UdDgQWBBQOHVKQPCGzbt69l8NFLcofahGG
+tjANBgkqhkiG9w0BAQsFAAOCAQEAhVRT7iOAlfZwHuTqxYjouuF9T+weneKcnTUX
+ly42W70Ic2MhFxiaVnHxcPleqLP15B55oK1b+A+T4I825CNnzhoIC0jKRtvz4j3I
+TKIMlyHM/q3RMtOog0MuJLiLdjsMoPW7sj6+m83sFeF+Cji01W/vP3qYw8JMKwGp
+8OG0wai6ySv/xg/Xc6B1snVy4+SJvyf6LrLIKH3rCXZxVZKnKRgvrrtOpR0ACnqZ
+DOk/wKetl0bB+PFAaNPr7y7MkiZ4sjaczK/rPq9Ubd2svNmLg4EwQ+x25I2KzWws
+5fPx6h+Z2BWsnVbcyqwGTl9xpRy0kErTPSffkVxV6ds4FxXpcg==
+-----END CERTIFICATE-----
+

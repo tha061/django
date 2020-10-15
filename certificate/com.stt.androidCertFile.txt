@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1308239596 (0x4dfa26ec)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=FI, ST=Helsinki, L=Helsinki, O=Sports Tracking Technologies Ltd, OU=Sports Tracking Technologies Ltd, CN=Sports Tracking Technologies Ltd
+        Validity
+            Not Before: Jun 16 15:53:16 2011 GMT
+            Not After : Mar 31 15:53:16 2285 GMT
+        Subject: C=FI, ST=Helsinki, L=Helsinki, O=Sports Tracking Technologies Ltd, OU=Sports Tracking Technologies Ltd, CN=Sports Tracking Technologies Ltd
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:87:b5:20:fd:a3:2c:37:b5:ab:c2:ed:c2:a4:be:
+                    d6:45:ba:fe:59:de:90:c4:0b:b3:d0:77:35:2b:70:
+                    0f:ab:f7:6b:e8:e1:93:9d:8c:23:cc:33:41:8c:06:
+                    f2:60:51:71:e7:10:b6:62:6b:bf:47:ad:0e:ac:85:
+                    d9:32:d7:8c:db:45:6c:52:85:28:cd:d6:a4:2a:c0:
+                    5b:54:52:c2:93:45:18:2e:fe:17:d0:1b:70:68:34:
+                    9a:be:4a:a5:36:87:f1:16:f6:7b:ba:e3:77:6b:26:
+                    a1:ae:44:81:9b:c0:3b:22:85:3e:5c:77:3e:a6:0e:
+                    c7:6e:90:f2:1e:6b:7a:ab:f2:d1:bf:24:d0:c4:c9:
+                    6f:92:26:0c:2a:93:6e:e8:42:6e:fb:a2:cd:ae:30:
+                    f5:a1:30:08:44:1d:80:a0:c4:3a:a1:f2:51:94:d9:
+                    ec:f8:e8:ff:61:85:45:ef:0f:b7:59:b6:27:86:bf:
+                    9d:d1:8b:34:4a:98:4e:64:33:60:1b:1a:0f:a4:09:
+                    a5:5d:65:a5:fc:4e:36:56:87:59:c7:a1:0b:16:ce:
+                    6f:f2:d6:80:fe:41:f7:25:99:e3:35:7a:53:7e:ae:
+                    32:49:29:2b:0d:0c:b4:be:cb:ad:b8:ab:ab:f9:a2:
+                    90:15:9d:0a:4a:6d:e0:4b:34:85:e6:44:33:7f:48:
+                    ef:11
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         6a:14:5a:d1:86:b8:c2:c5:c8:80:d0:99:59:d3:1d:7a:68:d8:
+         44:e0:6c:ec:1c:e4:bc:d0:30:8a:c2:57:ca:45:84:4d:3e:8f:
+         c3:be:7b:f7:38:f9:ca:c5:e3:65:b4:f5:a3:d9:be:d1:a6:4d:
+         73:42:95:c8:18:7b:48:e0:e3:7f:05:5c:f4:fb:54:64:95:3c:
+         8a:54:83:c2:e7:3f:b7:25:c0:f8:40:56:aa:1d:74:25:34:58:
+         fc:64:95:74:83:77:7e:10:28:43:7e:c4:57:37:b9:39:9b:f1:
+         df:e8:fa:96:fa:f4:28:b9:2f:92:74:4e:10:9f:27:04:86:86:
+         39:fb:db:e0:43:40:9f:05:2c:bd:2d:c5:1c:09:45:47:b2:68:
+         dc:8a:a2:1e:07:24:2b:31:49:3c:a3:73:0c:f4:51:c0:79:09:
+         68:d8:6b:3b:63:5f:15:53:fa:2e:83:7b:3f:94:5a:21:fa:59:
+         8d:76:5b:26:5c:a6:0e:40:c8:dc:6c:ee:e7:72:3f:ef:e5:cf:
+         2e:d4:ef:24:2e:44:8d:5e:dd:78:e3:cf:8a:e3:36:8c:69:ef:
+         a4:2e:7d:d7:69:26:d4:34:2c:38:fd:9d:24:b5:e7:53:0f:95:
+         67:3b:aa:2b:f5:1b:bb:ae:63:a8:ce:b5:0a:80:0d:25:3c:75:
+         bc:b4:93:3d
+-----BEGIN CERTIFICATE-----
+MIID6DCCAtCgAwIBAgIETfom7DANBgkqhkiG9w0BAQUFADCBtDELMAkGA1UEBhMC
+RkkxETAPBgNVBAgTCEhlbHNpbmtpMREwDwYDVQQHEwhIZWxzaW5raTEpMCcGA1UE
+ChMgU3BvcnRzIFRyYWNraW5nIFRlY2hub2xvZ2llcyBMdGQxKTAnBgNVBAsTIFNw
+b3J0cyBUcmFja2luZyBUZWNobm9sb2dpZXMgTHRkMSkwJwYDVQQDEyBTcG9ydHMg
+VHJhY2tpbmcgVGVjaG5vbG9naWVzIEx0ZDAgFw0xMTA2MTYxNTUzMTZaGA8yMjg1
+MDMzMTE1NTMxNlowgbQxCzAJBgNVBAYTAkZJMREwDwYDVQQIEwhIZWxzaW5raTER
+MA8GA1UEBxMISGVsc2lua2kxKTAnBgNVBAoTIFNwb3J0cyBUcmFja2luZyBUZWNo
+bm9sb2dpZXMgTHRkMSkwJwYDVQQLEyBTcG9ydHMgVHJhY2tpbmcgVGVjaG5vbG9n
+aWVzIEx0ZDEpMCcGA1UEAxMgU3BvcnRzIFRyYWNraW5nIFRlY2hub2xvZ2llcyBM
+dGQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCHtSD9oyw3tavC7cKk
+vtZFuv5Z3pDEC7PQdzUrcA+r92vo4ZOdjCPMM0GMBvJgUXHnELZia79HrQ6shdky
+14zbRWxShSjN1qQqwFtUUsKTRRgu/hfQG3BoNJq+SqU2h/EW9nu643drJqGuRIGb
+wDsihT5cdz6mDsdukPIea3qr8tG/JNDEyW+SJgwqk27oQm77os2uMPWhMAhEHYCg
+xDqh8lGU2ez46P9hhUXvD7dZtieGv53RizRKmE5kM2AbGg+kCaVdZaX8TjZWh1nH
+oQsWzm/y1oD+QfclmeM1elN+rjJJKSsNDLS+y624q6v5opAVnQpKbeBLNIXmRDN/
+SO8RAgMBAAEwDQYJKoZIhvcNAQEFBQADggEBAGoUWtGGuMLFyIDQmVnTHXpo2ETg
+bOwc5LzQMIrCV8pFhE0+j8O+e/c4+crF42W09aPZvtGmTXNClcgYe0jg438FXPT7
+VGSVPIpUg8LnP7clwPhAVqoddCU0WPxklXSDd34QKEN+xFc3uTmb8d/o+pb69Ci5
+L5J0ThCfJwSGhjn72+BDQJ8FLL0txRwJRUeyaNyKoh4HJCsxSTyjcwz0UcB5CWjY
+aztjXxVT+i6Dez+UWiH6WY12WyZcpg5AyNxs7udyP+/lzy7U7yQuRI1e3Xjjz4rj
+Noxp76QufddpJtQ0LDj9nSS151MPlWc7qiv1G7uuY6jOtQqADSU8dby0kz0=
+-----END CERTIFICATE-----
+

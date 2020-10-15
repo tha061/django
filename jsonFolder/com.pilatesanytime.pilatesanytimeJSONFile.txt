@@ -1,0 +1,75 @@
+{
+  "name": "com.pilatesanytime.pilatesanytime",
+  "fileSize": "15.3 MB",
+  "VTmd5": "58372d470e5f97119905bc284f4bac1f",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/30ba33beb87f3e10621c532f98bcfa6a41db750ef81d04a172508aa323b4d5a4/detection/f-30ba33beb87f3e10621c532f98bcfa6a41db750ef81d04a172508aa323b4d5a4-1590694884",
+  "VTresource": "30ba33beb87f3e10621c532f98bcfa6a41db750ef81d04a172508aa323b4d5a4",
+  "VTresponsecode": 1,
+  "VTscanID": "30ba33beb87f3e10621c532f98bcfa6a41db750ef81d04a172508aa323b4d5a4-1590694884",
+  "VTsha1": "89d67a074a68a6082233fb4943ffafc98545b23e",
+  "VTsha256": "30ba33beb87f3e10621c532f98bcfa6a41db750ef81d04a172508aa323b4d5a4",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "5 May 2020",
+    "Size": "22M",
+    "Installs": "10000",
+    "Current Version": "3.5.0",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$17.99 \u00e2\u20ac\u201c $214.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Pilates Anytime",
+    "Developer": "Visit website support@pilatesanytime.com Privacy Policy Pilates Anytime\n2150 Park Place\nSuite 100\nEl Segundo, CA 90245"
+  },
+  "rating": "4.6",
+  "description": "With over 3,400 Pilates videos featuring 180+ of the industry's best teachers, you can customize your Pilates experience for any duration, level, equipment, prop, or special need. We add new classes every week, so you will always have fresh new videos to try. For Pilates teachers, enrich your practice and your teaching with online workshops, Pilates history, talks, tutorials, and more. The Pilates Anytime Android app provides an easy way to stream our exercise videos. Our app also allows you to download videos for offline viewing on your Android device. You will not be charged during your free trial. After your free trial, you will automatically be billed $17.99 USD per month (price varies by currency). If you pay for your subscription via Google Play (you sign up from our Android app), you can cancel your subscription at play.google.com anytime. Click \"My subscriptions,\" \"Manage,\" and then \"Cancel Subscription.\" Start your free 7-day trial today to get unlimited access to high-quality, fun, and effective Pilates workouts you can do anywhere. Try one of our challenges to get started!",
+  "privacyText": "https://www.pilatesanytime.com/About-Pilates/1125/Your-Privacy-Rights",
+  "numInstalls": 10000,
+  "developer": "Pilates Anytime",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.pilatesanytime.com",
+    "Developer Email": "support@pilatesanytime.com",
+    "Privacy Policy": "https://www.pilatesanytime.com/About-Pilates/1125/Your-Privacy-Rights"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads",
+    "Kochava"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

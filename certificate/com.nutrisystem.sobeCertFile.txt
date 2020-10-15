@@ -1,0 +1,76 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 169199164 (0xa15c63c)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=Pennsylvania, L=Fort Washington, O=SBD Enterprises LLC, OU=Mobile Development, CN=Dave MacDonald
+        Validity
+            Not Before: Dec  9 16:26:27 2016 GMT
+            Not After : Dec  3 16:26:27 2041 GMT
+        Subject: C=US, ST=Pennsylvania, L=Fort Washington, O=SBD Enterprises LLC, OU=Mobile Development, CN=Dave MacDonald
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:94:64:7e:83:e6:58:aa:5b:ae:7d:97:c3:4d:9b:
+                    2b:e4:ab:27:e2:d0:7c:2f:c5:e9:5b:41:f8:a7:b2:
+                    8b:c1:77:6f:cf:0a:60:3b:60:93:6f:e5:b6:3f:a8:
+                    8c:b3:9e:4c:ac:1a:77:e6:cb:bc:a9:b2:b4:cf:ea:
+                    b2:38:b6:83:aa:9f:d5:8a:46:78:b3:1a:18:82:04:
+                    37:f0:96:45:47:f1:70:a3:b1:47:28:1d:13:0f:77:
+                    28:a0:9e:04:af:1d:95:3e:f3:07:7b:28:fc:21:bc:
+                    43:b2:60:f5:3c:77:7f:14:74:43:9e:cc:b6:b0:4c:
+                    2b:1c:38:11:00:a0:a7:24:a8:0c:2f:1e:e1:9a:11:
+                    b8:8c:9d:4c:9e:ce:01:d8:f5:93:f8:00:c7:3f:d7:
+                    dd:41:2b:7a:f3:a6:06:25:5b:e6:d9:1f:79:51:6e:
+                    48:85:9b:79:8c:bc:58:57:9d:14:30:00:8a:80:3d:
+                    a0:e4:9c:c1:4a:cf:f7:ed:b5:73:16:40:e6:a4:96:
+                    44:72:0a:d5:aa:55:eb:da:2a:ff:9e:c5:aa:a7:74:
+                    c8:cc:4b:1b:f2:c0:8c:cf:bf:a3:e4:eb:e3:c7:84:
+                    57:df:d0:6e:55:83:b1:aa:19:d9:aa:3f:a4:c5:1f:
+                    f3:23:db:6e:b1:19:03:50:05:af:54:44:bc:2f:b1:
+                    5b:47
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                5E:33:85:2C:71:C3:52:EE:88:CD:4F:66:93:FE:C7:DC:72:C4:DF:5C
+    Signature Algorithm: sha256WithRSAEncryption
+         51:21:47:b4:42:18:70:f2:f3:96:53:e3:94:cd:45:7c:de:df:
+         81:40:9e:04:30:a0:d7:a7:0c:95:0e:b9:94:66:0a:e1:e0:66:
+         6c:6a:84:ec:51:7e:77:12:5f:aa:87:0a:63:58:b4:3c:d8:85:
+         d6:4c:c5:bc:ef:43:97:42:c4:ec:a9:d8:0d:32:f6:0c:4a:95:
+         e6:40:32:3d:74:50:05:b1:74:e2:83:e7:93:af:43:e9:d2:8e:
+         78:61:82:29:3d:2c:fb:d3:83:91:10:8e:95:88:8e:df:e7:34:
+         56:ef:17:f5:13:91:fa:74:db:ec:14:12:6a:88:7a:0c:3a:99:
+         c5:1c:72:b5:fc:49:1a:f7:f2:15:2a:d5:39:32:ed:7a:d8:9b:
+         e4:ff:4d:8e:31:12:67:33:e0:cf:7b:ae:e5:60:d9:9b:7e:a0:
+         e8:c5:08:46:f5:a2:e5:96:94:89:36:00:62:49:3b:9e:1b:de:
+         2a:03:3f:05:4e:8e:de:c5:81:9b:ca:0e:a1:fd:fb:6c:3d:9d:
+         99:50:fe:a7:48:f6:b4:e5:35:59:e8:d3:77:ab:56:d4:52:a7:
+         3a:b7:49:5c:08:c7:fa:cc:7d:0c:40:f7:fd:43:12:fb:a5:95:
+         46:79:0a:70:7b:6d:b8:d6:be:2d:e8:d3:58:3e:80:ba:b6:74:
+         37:10:55:78
+-----BEGIN CERTIFICATE-----
+MIIDxTCCAq2gAwIBAgIEChXGPDANBgkqhkiG9w0BAQsFADCBkjELMAkGA1UEBhMC
+VVMxFTATBgNVBAgTDFBlbm5zeWx2YW5pYTEYMBYGA1UEBxMPRm9ydCBXYXNoaW5n
+dG9uMRwwGgYDVQQKExNTQkQgRW50ZXJwcmlzZXMgTExDMRswGQYDVQQLExJNb2Jp
+bGUgRGV2ZWxvcG1lbnQxFzAVBgNVBAMTDkRhdmUgTWFjRG9uYWxkMB4XDTE2MTIw
+OTE2MjYyN1oXDTQxMTIwMzE2MjYyN1owgZIxCzAJBgNVBAYTAlVTMRUwEwYDVQQI
+EwxQZW5uc3lsdmFuaWExGDAWBgNVBAcTD0ZvcnQgV2FzaGluZ3RvbjEcMBoGA1UE
+ChMTU0JEIEVudGVycHJpc2VzIExMQzEbMBkGA1UECxMSTW9iaWxlIERldmVsb3Bt
+ZW50MRcwFQYDVQQDEw5EYXZlIE1hY0RvbmFsZDCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAJRkfoPmWKpbrn2Xw02bK+SrJ+LQfC/F6VtB+Keyi8F3b88K
+YDtgk2/ltj+ojLOeTKwad+bLvKmytM/qsji2g6qf1YpGeLMaGIIEN/CWRUfxcKOx
+RygdEw93KKCeBK8dlT7zB3so/CG8Q7Jg9Tx3fxR0Q57MtrBMKxw4EQCgpySoDC8e
+4ZoRuIydTJ7OAdj1k/gAxz/X3UErevOmBiVb5tkfeVFuSIWbeYy8WFedFDAAioA9
+oOScwUrP9+21cxZA5qSWRHIK1apV69oq/57Fqqd0yMxLG/LAjM+/o+Tr48eEV9/Q
+blWDsaoZ2ao/pMUf8yPbbrEZA1AFr1REvC+xW0cCAwEAAaMhMB8wHQYDVR0OBBYE
+FF4zhSxxw1LuiM1PZpP+x9xyxN9cMA0GCSqGSIb3DQEBCwUAA4IBAQBRIUe0Qhhw
+8vOWU+OUzUV83t+BQJ4EMKDXpwyVDrmUZgrh4GZsaoTsUX53El+qhwpjWLQ82IXW
+TMW870OXQsTsqdgNMvYMSpXmQDI9dFAFsXTig+eTr0Pp0o54YYIpPSz704OREI6V
+iI7f5zRW7xf1E5H6dNvsFBJqiHoMOpnFHHK1/Eka9/IVKtU5Mu162Jvk/02OMRJn
+M+DPe67lYNmbfqDoxQhG9aLllpSJNgBiSTueG94qAz8FTo7exYGbyg6h/ftsPZ2Z
+UP6nSPa05TVZ6NN3q1bUUqc6t0lcCMf6zH0MQPf9QxL7pZVGeQpwe2241r4t6NNY
+PoC6tnQ3EFV4
+-----END CERTIFICATE-----
+

@@ -1,0 +1,73 @@
+{
+  "name": "net.pierrox.indoorcyclingworkout",
+  "fileSize": "1.7 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: net.pierrox.indoorcyclingworkout.service.TrainingService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "10 February 2020",
+    "Size": "1.7M",
+    "Installs": "10000",
+    "Current Version": "2.4.2",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Shares info, Digital purchases",
+    "In-app Products": "$0.99 \u2013 $3.26 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "PierroX",
+    "Developer": "Visit website pierrox@pierrox.net Privacy Policy La Jacqueti\u00e8re, 73470 Nances"
+  },
+  "rating": "3.7",
+  "description": "ICW aims to be the most reliable, efficient and easy to use indoor cycling workouts app. ICW lets you design your workouts using a powerful and intuitive editor. It then connects to an ANT+ FE-C trainer and automatically adjusts the resistance level according to the planned workout. Power, cadence, speed and heart rate data are collected as you ride and displayed on a comprehensive interface. Once the ride is complete, training data can be analyzed inside the app, uploaded to Strava or TrainingPeaks, or exported as FIT files. Key features: \u2022 Powerful workout editor: mix interval types in a single workout at will (grade, power, %FTP), pinch to zoom in/out, move intervals using drag&drop, easy interval copy, etc. \u2022 Comprehensive user interface, with extended ride control. \u2022 No internet connection needed. Workouts, activities and private profile data are saved locally and not shared with anyone, unless you decide to do so (Strava, FIT file export). \u2022 Works on both phones and tablets (a large screen is recommended as ICW will be able to display more data). \u2022 Support for multiple user/bike/trainer profiles \u2022 Free ride mode \u2022 Works with ANT+ FE-C enabled trainers and heart rate monitors. \u2022 Lean, efficient and smooth app in a small APK Indoor Cycling Workout is a free app, without ad. Achieve even more with the Pro version: \u2022 Access to Professional workouts designed by Martin Burrows, British Cycling level 3 and Training Peaks Level 2 Certified Coach. Full workout descriptions here: http://icw.pierrox.net/wordpress/icw-pro-workout-descriptions/ \u2022 No workout duration limit, ride as long as you can (45min max in the free version) \u2022 Unlimited number of workout plans for an increased flexibility (5 max in the free version) Training Plans are also available separately to provide structure and order to your workouts and help you to achieve your goals. Many more varied and tailored workouts are included with the training plans to ensure progression and guarantee you become an efficient, stronger, more powerful rider. Pro workouts and additional training plans designed in partnership with Martin Burrows - http://www.komcoaching.co.uk/ If you like this app, please consider switching to the Pro version and support the development of ICW! Please note: in order to benefit from this app, you need an ANT+ enabled Android phone or tablet, as well as an ANT+ FE-C compatible trainer (not bluetooth). This includes most Tacx smart trainers, Bkool Pro and similar. Other ANT+ FE-C trainers should work as well. In case of issue, please report it by e-mail so that it can be fixed. ANT+ on Android is built into most Samsung and Sony devices. For devices without integrated ANT+, the feature can be added with an USB dongle and an OTG cable (ICW has been tested with Garmin and Suunto USB sticks). Warning: some trainers can operate in either ANT+ or Bluetooth mode, please make sure that ANT+ is selected, Bluetooth will not work. Cadence sensors and heart rate monitors need to be ANT+ too. In case of issue, question or feature suggestion, no hesitation, send me an e-mail to pierrox@pierrox.net. Thanks, and now go for a ride and get stronger!",
+  "privacyText": "http://icw.pierrox.net/wordpress/privacy-policy/",
+  "numInstalls": 10000,
+  "developer": "PierroX",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://icw.pierrox.net/",
+    "Developer Email": "pierrox@pierrox.net",
+    "Privacy Policy": "http://icw.pierrox.net/wordpress/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Fasterxml",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

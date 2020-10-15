@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1274986893 (0x4bfec18d)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=us, ST=North Carolina, L=Cary, O=www.javastate.com, OU=DroidFit, CN=Ying Lin
+        Validity
+            Not Before: May 27 19:01:33 2010 GMT
+            Not After : Oct 12 19:01:33 2037 GMT
+        Subject: C=us, ST=North Carolina, L=Cary, O=www.javastate.com, OU=DroidFit, CN=Ying Lin
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8b:c1:6e:2a:58:24:ba:00:9a:82:ab:83:ef:52:
+                    c7:92:1f:a7:27:39:22:46:e0:e7:ab:f7:f2:82:fc:
+                    fb:81:bc:ac:82:d5:7c:ce:2f:95:03:13:17:2a:c3:
+                    fa:8c:99:6c:0d:62:29:ed:c0:13:f6:23:95:3f:4c:
+                    c8:21:f8:76:7b:3d:d9:ad:70:91:5d:10:65:51:95:
+                    dd:12:cb:c6:e0:d7:96:83:8b:e9:d0:8a:f3:e4:ba:
+                    b1:7d:01:a1:11:1d:85:20:60:a8:2b:d4:92:74:b7:
+                    b6:7e:0d:df:5f:63:27:02:28:c6:99:35:6a:93:4b:
+                    d0:26:c3:a6:33:3b:da:bf:f8:4b:1a:14:af:56:20:
+                    3c:18:77:06:88:13:01:06:c5:95:3d:d4:15:08:bd:
+                    f4:28:74:70:d1:46:56:2e:65:65:2a:4e:a1:a6:0b:
+                    68:5d:16:8a:72:0d:fe:ea:a2:38:76:b8:f1:3d:b8:
+                    f6:1a:c8:8d:ac:26:9d:e4:96:b6:60:ba:8b:7b:9e:
+                    74:8a:c6:39:58:30:60:4c:d9:a2:d7:7c:31:82:5a:
+                    da:29:eb:4e:4d:55:46:ac:3c:bf:24:00:1d:f4:cb:
+                    15:da:ab:78:a6:5a:48:c6:57:34:fa:cb:a0:e9:6b:
+                    ba:81:59:16:87:ed:de:81:0b:56:02:84:c1:d0:82:
+                    74:77
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         72:c9:7f:a8:a9:68:5a:73:67:63:aa:c3:d9:b1:76:71:06:13:
+         58:14:26:b8:49:07:3a:9c:1f:f3:77:63:91:b8:d5:6c:41:c8:
+         0c:02:20:45:f6:e1:db:f8:cf:77:42:0e:8d:55:22:da:5b:5a:
+         58:47:f6:f9:96:3a:f4:cf:09:d2:8b:45:53:ff:dc:e7:32:6a:
+         9b:af:70:6a:5e:da:1c:b3:fe:3c:d1:8b:a1:fe:6f:e8:41:05:
+         41:56:9a:7d:94:85:ec:d5:77:42:62:91:e8:d9:29:e5:83:03:
+         f2:b9:44:94:e8:be:48:5b:11:fd:59:a2:db:ad:63:4e:22:00:
+         dc:78:6f:03:29:96:c5:fe:1a:df:3e:0b:af:b3:77:39:78:38:
+         41:89:55:b1:68:df:2e:fb:62:ea:fe:4f:77:67:da:d5:ed:2a:
+         d2:e9:87:f2:12:54:ee:7c:41:7a:ac:91:81:a0:49:45:c6:d3:
+         f2:af:7b:ad:0b:56:01:9e:cb:e3:53:19:03:bb:c1:16:8a:13:
+         6a:f4:6a:c6:83:08:44:d5:4b:80:8d:4d:3d:a5:e8:99:bf:30:
+         45:80:70:1c:31:6a:35:33:a5:fc:b3:a5:47:ef:28:10:b8:d5:
+         f8:7f:aa:c8:bc:f3:fe:ea:bd:1e:a7:36:9a:f9:80:c5:d4:6e:
+         fa:6d:b9:29
+-----BEGIN CERTIFICATE-----
+MIIDajCCAlKgAwIBAgIES/7BjTANBgkqhkiG9w0BAQUFADB3MQswCQYDVQQGEwJ1
+czEXMBUGA1UECBMOTm9ydGggQ2Fyb2xpbmExDTALBgNVBAcTBENhcnkxGjAYBgNV
+BAoTEXd3dy5qYXZhc3RhdGUuY29tMREwDwYDVQQLEwhEcm9pZEZpdDERMA8GA1UE
+AxMIWWluZyBMaW4wHhcNMTAwNTI3MTkwMTMzWhcNMzcxMDEyMTkwMTMzWjB3MQsw
+CQYDVQQGEwJ1czEXMBUGA1UECBMOTm9ydGggQ2Fyb2xpbmExDTALBgNVBAcTBENh
+cnkxGjAYBgNVBAoTEXd3dy5qYXZhc3RhdGUuY29tMREwDwYDVQQLEwhEcm9pZEZp
+dDERMA8GA1UEAxMIWWluZyBMaW4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCLwW4qWCS6AJqCq4PvUseSH6cnOSJG4Oer9/KC/PuBvKyC1XzOL5UDExcq
+w/qMmWwNYintwBP2I5U/TMgh+HZ7PdmtcJFdEGVRld0Sy8bg15aDi+nQivPkurF9
+AaERHYUgYKgr1JJ0t7Z+Dd9fYycCKMaZNWqTS9Amw6YzO9q/+EsaFK9WIDwYdwaI
+EwEGxZU91BUIvfQodHDRRlYuZWUqTqGmC2hdFopyDf7qojh2uPE9uPYayI2sJp3k
+lrZguot7nnSKxjlYMGBM2aLXfDGCWtop605NVUasPL8kAB30yxXaq3imWkjGVzT6
+y6Dpa7qBWRaH7d6BC1YChMHQgnR3AgMBAAEwDQYJKoZIhvcNAQEFBQADggEBAHLJ
+f6ipaFpzZ2Oqw9mxdnEGE1gUJrhJBzqcH/N3Y5G41WxByAwCIEX24dv4z3dCDo1V
+ItpbWlhH9vmWOvTPCdKLRVP/3OcyapuvcGpe2hyz/jzRi6H+b+hBBUFWmn2UhezV
+d0JikejZKeWDA/K5RJTovkhbEf1ZotutY04iANx4bwMplsX+Gt8+C6+zdzl4OEGJ
+VbFo3y77Yur+T3dn2tXtKtLph/ISVO58QXqskYGgSUXG0/Kve60LVgGey+NTGQO7
+wRaKE2r0asaDCETVS4CNTT2l6Jm/MEWAcBwxajUzpfyzpUfvKBC41fh/qsi88/7q
+vR6nNpr5gMXUbvptuSk=
+-----END CERTIFICATE-----
+

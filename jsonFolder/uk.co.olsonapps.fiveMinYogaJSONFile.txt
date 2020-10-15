@@ -1,0 +1,75 @@
+{
+  "name": "uk.co.olsonapps.fiveMinYoga",
+  "fileSize": "18.9 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.helio.homeworkoutsuite.music.MusicService  permission: ",
+      "name: com.helio.homeworkoutsuite.database.LoadDataService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "16 August 2020",
+    "Size": "19M",
+    "Installs": "100000",
+    "Current Version": "3.0.3",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$1.99 \u00e2\u20ac\u201c $8.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Olson Applications Ltd",
+    "Developer": "Visit website catherine@olsonapps.co.uk Privacy Policy Stockton-on-Tees\nUK"
+  },
+  "rating": "4.5",
+  "description": "5 Minute Yoga: ideal for those wanting quick and easy daily yoga workouts   Each session is created from a selection of simple but effective yoga poses making it ideal for beginners.  Every pose features clear images and detailed instructions ensuring all poses are performed correctly - vital for effective practice.  To help keep your yoga practice quick but effective a timer function ensures all poses are performed for the correct amount of time. Every session takes less than 5 minutes! Quick workouts are ideal for many situations; a perfect way to start the day, an easy way to relieve stress in the office or to help unwind before bed. Regular yoga practice improves flexibility, increases strength, tones muscles and reduces stress.  Be amazed at what you can achieve in 5 minutes a day.",
+  "privacyText": "http://www.olsonapps.co.uk/PrivacyPolicyApp.html",
+  "numInstalls": 100000,
+  "developer": "Olson Applications Ltd",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.olsonapps.co.uk",
+    "Developer Email": "catherine@olsonapps.co.uk",
+    "Privacy Policy": "http://www.olsonapps.co.uk/PrivacyPolicyApp.html"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Nostra13"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1557503291 (0x5cd59d3b)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=IT, L=Naples, O=EGO360, OU=Game, CN=Luca
+        Validity
+            Not Before: Mar  1 19:20:56 2014 GMT
+            Not After : Jul 17 19:20:56 2041 GMT
+        Subject: C=IT, L=Naples, O=EGO360, OU=Game, CN=Luca
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:81:81:21:40:13:74:70:62:ec:15:f7:90:b6:6e:
+                    ac:e5:8a:93:b0:31:27:1c:ab:bd:e1:72:04:f7:1d:
+                    c0:07:c5:4e:88:7e:6b:54:60:89:77:d3:f2:ce:7f:
+                    94:8d:e7:0a:ec:bd:66:0e:3d:e5:b4:7e:65:25:6c:
+                    16:68:13:61:91:e1:98:3a:c4:3a:49:e9:61:3b:e8:
+                    61:07:11:62:eb:09:e6:e9:d1:9c:8c:7e:ea:f4:8f:
+                    79:ff:46:ee:e8:db:6c:ef:79:05:85:78:ed:c3:80:
+                    3d:15:3a:90:b8:75:fd:58:2b:e4:21:b0:d6:35:30:
+                    a1:60:f0:b8:6f:f5:a7:08:1e:85:fb:9f:95:d6:2b:
+                    55:17:c0:3c:ec:8a:44:96:a0:85:29:e4:97:a7:b0:
+                    27:71:00:e9:90:39:a9:ad:c5:73:45:cd:3d:66:b1:
+                    81:35:bf:fe:5f:c1:3a:28:1f:9f:03:ef:a8:69:da:
+                    8f:da:55:cd:38:33:46:e1:19:60:0d:85:18:d3:98:
+                    86:4d:48:ab:54:4e:1c:05:2f:94:b9:45:35:e6:6a:
+                    95:c3:74:78:e4:c6:70:73:b4:e3:d5:4c:26:b9:28:
+                    d9:9b:49:ef:15:33:47:2a:73:20:ba:88:03:9a:9a:
+                    09:31:9e:61:d4:94:94:d1:b1:f0:83:14:c5:3f:ec:
+                    c2:e7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                B9:B1:07:DF:65:2F:31:9D:22:F1:19:52:8F:74:50:71:A0:67:D9:41
+    Signature Algorithm: sha256WithRSAEncryption
+         54:a7:6b:f6:eb:59:6b:5e:c8:74:33:b8:39:6a:f9:30:2b:ac:
+         d6:2c:37:85:62:e5:22:1c:a9:32:c1:9b:76:49:b7:83:d2:57:
+         2b:6a:c8:4d:8e:6e:2c:6f:c0:c4:04:71:9d:d8:59:b6:be:f9:
+         04:4e:fd:ce:c4:25:85:b5:d2:30:39:bc:d3:9f:4e:ed:2e:88:
+         ed:63:f8:bd:67:a0:7a:9a:d1:66:c6:b7:b9:cd:ee:b8:1b:77:
+         82:3c:d0:8a:b8:f0:3b:4a:26:21:27:bd:ec:3e:e9:c8:24:e1:
+         fe:01:d6:50:d2:79:b9:cc:56:d7:42:5d:9a:7f:77:80:0c:f9:
+         35:b3:44:c4:73:7e:00:55:8d:a7:fa:8e:4d:3b:4f:8d:65:ee:
+         5b:fa:22:8a:4d:27:06:73:1c:ce:ca:05:fb:8b:4e:37:a1:aa:
+         36:24:df:bb:e6:93:30:13:8c:5d:8b:db:00:f4:d4:fb:07:d5:
+         d0:df:6d:cf:ec:7d:2f:71:2c:b0:5c:2b:b7:59:84:ca:8b:f8:
+         9a:26:d4:de:cf:15:2c:9e:04:d4:ff:bb:ef:94:23:43:b9:e0:
+         02:ce:5c:75:a9:9b:8f:aa:08:27:ff:ed:8f:08:57:52:25:a1:
+         b1:7e:f5:cd:77:f7:c4:be:8b:80:69:ae:62:2b:85:94:0e:17:
+         16:20:d4:a2
+-----BEGIN CERTIFICATE-----
+MIIDOTCCAiGgAwIBAgIEXNWdOzANBgkqhkiG9w0BAQsFADBNMQswCQYDVQQGEwJJ
+VDEPMA0GA1UEBxMGTmFwbGVzMQ8wDQYDVQQKEwZFR08zNjAxDTALBgNVBAsTBEdh
+bWUxDTALBgNVBAMTBEx1Y2EwHhcNMTQwMzAxMTkyMDU2WhcNNDEwNzE3MTkyMDU2
+WjBNMQswCQYDVQQGEwJJVDEPMA0GA1UEBxMGTmFwbGVzMQ8wDQYDVQQKEwZFR08z
+NjAxDTALBgNVBAsTBEdhbWUxDTALBgNVBAMTBEx1Y2EwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCBgSFAE3RwYuwV95C2bqzlipOwMSccq73hcgT3HcAH
+xU6IfmtUYIl30/LOf5SN5wrsvWYOPeW0fmUlbBZoE2GR4Zg6xDpJ6WE76GEHEWLr
+Cebp0ZyMfur0j3n/Ru7o22zveQWFeO3DgD0VOpC4df1YK+QhsNY1MKFg8Lhv9acI
+HoX7n5XWK1UXwDzsikSWoIUp5JensCdxAOmQOamtxXNFzT1msYE1v/5fwTooH58D
+76hp2o/aVc04M0bhGWANhRjTmIZNSKtUThwFL5S5RTXmapXDdHjkxnBztOPVTCa5
+KNmbSe8VM0cqcyC6iAOamgkxnmHUlJTRsfCDFMU/7MLnAgMBAAGjITAfMB0GA1Ud
+DgQWBBS5sQffZS8xnSLxGVKPdFBxoGfZQTANBgkqhkiG9w0BAQsFAAOCAQEAVKdr
+9utZa17IdDO4OWr5MCus1iw3hWLlIhypMsGbdkm3g9JXK2rITY5uLG/AxARxndhZ
+tr75BE79zsQlhbXSMDm8059O7S6I7WP4vWegeprRZsa3uc3uuBt3gjzQirjwO0om
+ISe97D7pyCTh/gHWUNJ5ucxW10Jdmn93gAz5NbNExHN+AFWNp/qOTTtPjWXuW/oi
+ik0nBnMczsoF+4tON6GqNiTfu+aTMBOMXYvbAPTU+wfV0N9tz+x9L3EssFwrt1mE
+yov4mibU3s8VLJ4E1P+775QjQ7ngAs5cdambj6oIJ//tjwhXUiWhsX71zXf3xL6L
+gGmuYiuFlA4XFiDUog==
+-----END CERTIFICATE-----
+

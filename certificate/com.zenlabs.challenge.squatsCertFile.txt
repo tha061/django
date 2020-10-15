@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 49879561 (0x2f91a09)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Squats Challenge
+        Validity
+            Not Before: Feb  4 12:28:28 2016 GMT
+            Not After : Jan 28 12:28:28 2041 GMT
+        Subject: CN=Squats Challenge
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8f:f7:31:c1:96:f8:37:02:17:76:cb:eb:3a:c1:
+                    8e:b2:09:14:b4:f9:9d:1f:a1:25:84:f8:c2:47:82:
+                    07:6a:6f:82:24:68:9a:73:19:fc:11:d2:ae:8c:f4:
+                    ba:33:16:ec:ce:f2:08:07:4b:a2:17:94:3a:db:38:
+                    10:d9:5c:4d:d2:64:e8:c4:67:f2:79:03:ee:de:07:
+                    7a:9a:1e:8b:e3:9a:a8:ad:3c:7b:3d:d6:c4:15:57:
+                    af:3c:7b:8c:44:07:9f:60:81:c3:36:02:b9:4d:1d:
+                    1f:c4:88:10:9d:66:8b:eb:4a:97:1b:fe:35:44:6e:
+                    27:b4:6f:1c:69:d9:c6:ad:2e:16:3f:71:56:f6:fd:
+                    a2:09:4a:25:06:a1:56:55:d0:3b:e4:a7:b9:b7:6b:
+                    cb:08:28:b2:25:af:fd:76:7a:b6:c5:47:11:31:33:
+                    4b:b6:32:32:57:a5:c7:ef:a4:3c:b7:b4:39:b8:d6:
+                    1a:98:7b:8e:d6:b9:fd:7e:ca:e3:e0:2e:a2:93:c4:
+                    af:15:55:23:1f:e5:26:79:b2:23:81:1c:68:8c:7a:
+                    e5:17:29:40:94:aa:cf:f1:59:f2:57:09:0f:c6:c6:
+                    ad:e2:15:93:5e:83:9c:7c:b1:96:62:94:8f:f5:2d:
+                    40:a8:3e:30:2b:71:4a:b3:ce:fc:5d:f4:b8:6d:df:
+                    85:49
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                C8:98:7F:6C:1A:60:53:EA:DB:C5:3D:E6:D8:BC:43:EF:49:8F:54:0D
+    Signature Algorithm: sha256WithRSAEncryption
+         3d:ce:ee:4d:7f:58:82:bf:b5:c8:c9:da:9e:b0:6f:78:87:91:
+         d0:2d:55:7d:21:37:77:ab:72:dc:e7:96:44:13:a2:0e:a5:98:
+         e1:0e:67:58:26:f1:08:9b:3d:25:e2:13:c1:11:b3:a0:95:af:
+         54:d5:c1:bc:a3:f1:ab:c1:45:5e:a4:f7:23:be:4a:10:fb:7a:
+         d6:ab:dc:0a:50:1c:23:1a:ec:da:34:17:60:24:b1:29:38:e8:
+         e4:7b:13:0b:06:a3:20:8a:d7:3e:48:1b:41:5f:48:45:f5:8d:
+         14:37:d8:5c:54:0d:cf:64:00:4b:6d:82:c6:6f:27:58:9e:8c:
+         b2:32:69:bb:0a:81:9b:2e:95:24:63:ec:ba:b1:c3:7b:a2:00:
+         f3:37:f1:5c:c6:08:4b:c2:dc:76:a7:78:35:dc:b8:28:c2:53:
+         63:66:47:3d:96:cc:04:66:e0:7d:b9:6e:6a:f9:06:13:cb:26:
+         6f:40:c1:cc:69:f9:8d:f1:a1:d0:99:aa:06:d3:7f:e9:d8:29:
+         c4:7f:c2:7e:b0:5e:fb:cf:8a:73:49:55:2f:cd:6d:47:11:0e:
+         e6:6e:56:35:a2:1f:3e:b6:05:b2:22:74:b5:2f:3b:6e:ad:b8:
+         40:8f:da:0a:39:d8:f2:a0:22:7d:2f:96:29:70:24:0f:7b:e8:
+         8e:c2:30:6d
+-----BEGIN CERTIFICATE-----
+MIIC1TCCAb2gAwIBAgIEAvkaCTANBgkqhkiG9w0BAQsFADAbMRkwFwYDVQQDExBT
+cXVhdHMgQ2hhbGxlbmdlMB4XDTE2MDIwNDEyMjgyOFoXDTQxMDEyODEyMjgyOFow
+GzEZMBcGA1UEAxMQU3F1YXRzIENoYWxsZW5nZTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAI/3McGW+DcCF3bL6zrBjrIJFLT5nR+hJYT4wkeCB2pvgiRo
+mnMZ/BHSroz0ujMW7M7yCAdLoheUOts4ENlcTdJk6MRn8nkD7t4Hepoei+OaqK08
+ez3WxBVXrzx7jEQHn2CBwzYCuU0dH8SIEJ1mi+tKlxv+NURuJ7RvHGnZxq0uFj9x
+Vvb9oglKJQahVlXQO+SnubdrywgosiWv/XZ6tsVHETEzS7YyMlelx++kPLe0ObjW
+Gph7jta5/X7K4+AuopPErxVVIx/lJnmyI4EcaIx65RcpQJSqz/FZ8lcJD8bGreIV
+k16DnHyxlmKUj/UtQKg+MCtxSrPO/F30uG3fhUkCAwEAAaMhMB8wHQYDVR0OBBYE
+FMiYf2waYFPq28U95ti8Q+9Jj1QNMA0GCSqGSIb3DQEBCwUAA4IBAQA9zu5Nf1iC
+v7XIydqesG94h5HQLVV9ITd3q3Lc55ZEE6IOpZjhDmdYJvEImz0l4hPBEbOgla9U
+1cG8o/GrwUVepPcjvkoQ+3rWq9wKUBwjGuzaNBdgJLEpOOjkexMLBqMgitc+SBtB
+X0hF9Y0UN9hcVA3PZABLbYLGbydYnoyyMmm7CoGbLpUkY+y6scN7ogDzN/FcxghL
+wtx2p3g13LgowlNjZkc9lswEZuB9uW5q+QYTyyZvQMHMafmN8aHQmaoG03/p2CnE
+f8J+sF77z4pzSVUvzW1HEQ7mblY1oh8+tgWyInS1LzturbhAj9oKOdjyoCJ9L5Yp
+cCQPe+iOwjBt
+-----END CERTIFICATE-----
+

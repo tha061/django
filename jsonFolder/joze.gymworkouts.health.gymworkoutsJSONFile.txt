@@ -1,0 +1,80 @@
+{
+  "name": "joze.gymworkouts.health.gymworkouts",
+  "fileSize": "9.3 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: me.gymworkouts.health.gymworkouts.CurrentWorkoutService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.play.core.assetpacks.AssetPackExtractionService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "11 October 2020",
+    "Size": "11M",
+    "Installs": "10000",
+    "Current Version": "3.6.7",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u2013 $94.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "JoZe",
+    "Developer": "Visit website gymworkoutsapp@gmail.com Privacy Policy 62 Koonawarra Street, Clayton VIC"
+  },
+  "rating": "4.4",
+  "description": "Join the thousands of users  that are planning, tracking and training with FitGain. Featuring workout plans for all fitness levels  including full body workouts, weightlifting routines, home workouts, muscle building exercises, weight loss programs, dumbbell only plans and much more. Get fit and strong with FitGain  and start to transform your body the simple way. We have made it easy to plan, track and log all your workouts including your sets, reps, weight lifted, muscle usage, calories burned and much more.  \ud83d\udcaa  Top Features  \ud83d\udcaa \u2714 150+ workout plans and programs \u2714 Built-in tracker \u2714 Customizable rest timer \u2714 Create custom workouts \u2714 Simple and easy to use \u2714 Tons of exercises \u2714 Full workout log \u2714 Weight lifting + workout summary \u2714 Photos and custom exercises \u2714 Add your own workout notes \u2714 Visualize your muscle gains \u2714 Weight lifting tips \u2714 Muscle breakdown \ud83d\udcd3  Workout Programs  \ud83d\udcd3 \u2714 Programs for the beginner to the advanced lifter \u2714 Muscle Building \u2714 Weight Loss and Fat Shred Programs \u2714 Full Body Workouts \u2714 Weight lifting plans \u2714 Toning exercises and gym programs \u2714 Dumbbell, Barbell and Kettlebell \u2714 Target Programs - Abs, Arms, Glutes, Fat, Chest, Butt \u2714 Powerlifting and bodybuilding routines \u2714 Split workouts \u2714 Strength Training \u2714 Bodyweight and no equipment plans \u2714 Home and gym workouts The time for effective results is now. The simple workout tracker functions in a way that simplifies the weight lifting and bodybuilding process to make it easier for both men and women to achieve their fitness goals at home or at the gym. Try the free workouts and join the 30,000+ users planning and tracking their home and gym workouts today.",
+  "privacyText": "https://gymworkoutsapp.com/privacy/",
+  "numInstalls": 10000,
+  "developer": "JoZe",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.gymworkoutsapp.com",
+    "Developer Email": "gymworkoutsapp@gmail.com",
+    "Privacy Policy": "https://gymworkoutsapp.com/privacy/"
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads",
+    "Intuit"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

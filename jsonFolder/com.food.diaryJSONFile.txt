@@ -1,0 +1,80 @@
+{
+  "name": "com.food.diary",
+  "fileSize": "4.3 MB",
+  "VTmd5": "e9417cc380504b7c25c53f6bc4ce3457",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/1d0ed2d186f3e9e4a0e00019f16a6bfc8bb77e1fc27d9b2426a929e02186cfd0/detection/f-1d0ed2d186f3e9e4a0e00019f16a6bfc8bb77e1fc27d9b2426a929e02186cfd0-1572054039",
+  "VTresource": "1d0ed2d186f3e9e4a0e00019f16a6bfc8bb77e1fc27d9b2426a929e02186cfd0",
+  "VTresponsecode": 1,
+  "VTscanID": "1d0ed2d186f3e9e4a0e00019f16a6bfc8bb77e1fc27d9b2426a929e02186cfd0-1572054039",
+  "VTsha1": "cffa06794d0a379b48cad8912e9e57102051a7f4",
+  "VTsha256": "1d0ed2d186f3e9e4a0e00019f16a6bfc8bb77e1fc27d9b2426a929e02186cfd0",
+  "VTtotal": 56,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.food.diary.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   description: @string/provider_permission_read_description   label: @string/provider_permission_read_label   name: com.food.diary.provider.permission.READ   protectionLevel: signature",
+    "   name: com.food.diary.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: org.acra.sender.SenderService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "4 August 2018",
+    "Size": "4.3M",
+    "Installs": "100000",
+    "Current Version": "3.0",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "WeCode Team",
+    "Developer": "Visit website uxstudio7@gmail.com Privacy Policy 11923 NE Sumner St\nSTE 753374\nPortland, Oregon, 97220, USA"
+  },
+  "rating": "4.2",
+  "description": "Food Diary is the best food journal to track what you eat everyday easily. It is a food log to record what you eat and when, to be more conscious of your eating habits, you can use this food tracker anytime and anywhere because Food Diary is Simple to use. Just click, type what you eat, time comes up automatically/you can change it if you need to, with Food Diary you can track your diet with a few clicks With Food Diary you can track your daily diet, log everything you eat and drink as well as keep your exercises, activities and medications with this food journal . Food Diary Features: - Easy and simple to use : food journal helps you adding entries easily with a few clicks. - Backup your data easily : you can backup your food journal data also you can restore it later. - Built-in Calendar : our Food Diary provides you a calendar to jump to any day you want to see your food tracker history or edit it. - Easy navigation between days: if you want to see or edit your food tracker history just swipe to the right  - Has exercice, medication, supplements, food journal : Food Diary offers you other entries types such as medication, supplements, exercise \u2026. - Now option : if you are exploring your food log history and you want to come back to the current day just click the small calendar icon in the top bar. - food log Autocompletes entries to quickly enter common meals - Share your daily food records with your friends via facebook, whatsapp, twitter or any other app easily - Daily Reminder : Our food journal offers you a reminder to remind you at a specific time to add or update your food tracker, and you can activate or deactivate it through the settings page, also you can change the food log reminder time. - And more features Food Diary and your private life : What personal information do Food Diary collects from the people that use it? Food Diary does not collect information from the users. When do Food Diary collects information? Food Diary does not collect information from the users. How do we use your information? We do not send your information or use it at all. Credits: Some graphics in the food journal Icon and the graphic-art are taken from flaticon.com Disclaimer: Food Diary is based on an open source app, and licensed under the GNU General Public License Download Food Diary and start living a happier and healthier life today! Please if you like Food Diary don't forget inviting your friend to try Food Diary.",
+  "privacyText": "http://uxstudio7.blogspot.com/2018/07/food-diary-privacy-policy.html",
+  "numInstalls": 100000,
+  "developer": "WeCode Team",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://uxstudio7.blogspot.com/",
+    "Developer Email": "uxstudio7@gmail.com",
+    "Privacy Policy": "http://uxstudio7.blogspot.com/2018/07/food-diary-privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads",
+    "Opencv"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

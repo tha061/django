@@ -1,0 +1,74 @@
+{
+  "name": "com.hazard.yoga.yogadaily",
+  "fileSize": "42.0 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.hazard.yoga.yogadaily.service.BootService  permission: ",
+      "name: com.hazard.yoga.yogadaily.service.ReminderService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+    ]
+  },
+  "metaData": {
+    "Updated": "19 September 2020",
+    "Size": "42M",
+    "Installs": "100000",
+    "Current Version": "1.55",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.99 \u2013 $9.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Hazard Studio",
+    "Developer": "Visit website hazardstdio@gmail.com Privacy Policy Grant Ave., San Francisco, CA 94199, USA"
+  },
+  "rating": "4.7",
+  "description": "Yoga has long been known for its many effects on health and longevity. Are you looking to learn about Yoga? Are you a beginner to yoga? Do you want to practice difficult postures in Yoga? With many easy to advanced yoga poses we've compiled, the level from easy to difficult for beginners to advanced like Easy Pose, Boat Pose, Gate Pose, Mountain Pose, Handstand ... With over 100 Yoga poses will bring you great experience and many health benefits. Many exercises we have compiled help you have many options to practice such as toning abs, Yoga for beginner, advanced yoga, recovery yoga for back pain ... Yoga lose weight fast and healthily With postures that help burn fat, toning the body, along with diet will help you lose weight fast and healthily. Yoga loses weight but combines muscle gain and adjustment of bodybuilding index extremely effectively. Yoga preserves beauty With exercises that have been practiced for thousands of years, Yoga helps to keep the body toned. Practicing yoga is also a great spiritual therapy, helping the mind to relax, sleep well, dispel depression and anxiety. Yoga helps flexibility and balance, mobility Professional Yoga coach Applications with more than 100 postures are illustrated with realistic, 3D images to help you easily catch yoga exercises from easy to advanced Daily Yoga At Home You can easily workout Yoga anytime and anywhere even at home or in bed. Only with Yoga Home Workout \u2013 Daily Yoga, you can do Yoga no equipment require. Feature * Automatically record workout progress and sync with Google Fit * Body tracking graph, BMI * Customize your own workout plan * Daily practice reminder * All exercise instruction by 3D Video",
+  "privacyText": "https://sites.google.com/view/yoga-daily",
+  "numInstalls": 100000,
+  "developer": "Hazard Studio",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://hazardfitnessads.web.app",
+    "Developer Email": "hazardstdio@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/yoga-daily"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1746699529 (0x681c8509)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Zoltan Demant
+        Validity
+            Not Before: Apr 11 09:17:49 2013 GMT
+            Not After : Mar 31 09:17:49 2058 GMT
+        Subject: CN=Zoltan Demant
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9a:12:b2:bc:9b:cc:ec:fc:c5:82:39:ff:bb:78:
+                    5f:bc:ef:25:15:fc:b3:13:28:8d:3d:23:81:44:be:
+                    b9:8d:d2:bd:bc:86:93:0e:ff:ef:cc:9d:51:e6:07:
+                    7f:fe:48:a3:4a:9f:f5:ac:79:b2:6d:e5:df:2e:d5:
+                    28:ca:54:63:e4:7f:0c:d4:0c:c3:b7:f4:17:06:1a:
+                    05:6f:61:cd:d6:a6:c4:b1:41:5e:5c:f2:f8:73:64:
+                    7c:31:5f:bb:de:49:e5:a0:e3:ad:5f:65:98:83:33:
+                    ef:89:25:98:c3:9a:3b:2a:46:fa:39:03:44:d3:77:
+                    c0:db:e5:46:f6:cb:16:74:1c:4c:b1:c8:84:9f:29:
+                    ee:d9:33:9e:4f:cf:8c:f9:21:f4:ac:71:fd:e4:b5:
+                    29:af:48:ea:af:d8:cd:fb:bd:57:46:62:6a:82:b7:
+                    b6:de:e2:cc:6e:ec:d7:28:dd:6b:95:06:b1:bf:82:
+                    e0:3b:cc:93:f5:a6:ff:b2:14:d2:ae:c1:bf:c1:48:
+                    e5:dc:de:f0:e1:e7:f9:d8:90:5f:7b:0f:44:93:e7:
+                    82:a3:7f:ac:35:c1:2f:dc:6b:fa:e2:4a:5c:0e:c6:
+                    12:e4:9b:03:e0:4f:ff:08:62:ca:bb:c8:92:e1:84:
+                    ed:64:4b:69:c1:a4:96:27:2c:3c:11:ea:9c:d3:df:
+                    b2:95
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                C3:F4:6F:54:5F:1E:0B:78:DD:AE:DF:D7:DA:B0:08:F4:BB:8E:B7:A3
+    Signature Algorithm: sha256WithRSAEncryption
+         4b:b7:4d:1b:a2:84:5e:d0:0c:6c:52:0e:d0:c1:48:99:51:b2:
+         8d:8b:e6:2f:11:ea:42:0f:7d:0a:73:39:40:dc:43:ab:fc:af:
+         45:71:f3:34:ad:01:90:0b:03:66:d5:5b:82:97:56:51:1e:31:
+         ab:b4:ad:6e:3b:68:25:e1:c0:5c:3f:a2:29:ce:6b:50:61:9b:
+         d2:3b:f2:cb:9f:3d:11:9f:ce:63:0f:f3:3c:fc:85:7f:65:99:
+         e8:9e:f5:41:02:65:26:81:0d:07:e5:d8:d4:43:ed:42:b6:b9:
+         bd:da:ce:dc:01:22:09:4e:02:c0:37:8e:30:a5:bb:05:e7:08:
+         b7:2e:eb:5b:38:ab:63:54:5a:e8:05:7f:ac:6f:23:dc:b1:fb:
+         97:e5:4e:ac:26:6c:fa:c9:b6:d8:b3:84:4e:f7:9c:57:67:97:
+         04:99:d1:53:ec:ab:b7:3f:0b:1b:be:83:d6:ed:2b:93:29:bb:
+         7a:69:aa:3c:12:69:3b:20:98:3d:39:94:34:ae:19:8d:f0:87:
+         fa:d7:ab:06:c1:16:f8:98:d3:3b:ad:ef:9a:e1:fa:5c:7a:e0:
+         c7:58:df:2b:91:cd:c5:cd:2a:3e:07:18:9a:5c:36:da:50:23:
+         91:48:56:76:48:88:36:f8:50:a3:cb:71:5b:c4:d7:e3:99:21:
+         9c:4c:cb:c4
+-----BEGIN CERTIFICATE-----
+MIIC0TCCAbmgAwIBAgIEaByFCTANBgkqhkiG9w0BAQsFADAYMRYwFAYDVQQDEw1a
+b2x0YW4gRGVtYW50MCAXDTEzMDQxMTA5MTc0OVoYDzIwNTgwMzMxMDkxNzQ5WjAY
+MRYwFAYDVQQDEw1ab2x0YW4gRGVtYW50MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAmhKyvJvM7PzFgjn/u3hfvO8lFfyzEyiNPSOBRL65jdK9vIaTDv/v
+zJ1R5gd//kijSp/1rHmybeXfLtUoylRj5H8M1AzDt/QXBhoFb2HN1qbEsUFeXPL4
+c2R8MV+73knloOOtX2WYgzPviSWYw5o7Kkb6OQNE03fA2+VG9ssWdBxMsciEnynu
+2TOeT8+M+SH0rHH95LUpr0jqr9jN+71XRmJqgre23uLMbuzXKN1rlQaxv4LgO8yT
+9ab/shTSrsG/wUjl3N7w4ef52JBfew9Ek+eCo3+sNcEv3Gv64kpcDsYS5JsD4E//
+CGLKu8iS4YTtZEtpwaSWJyw8Eeqc09+ylQIDAQABoyEwHzAdBgNVHQ4EFgQUw/Rv
+VF8eC3jdrt/X2rAI9LuOt6MwDQYJKoZIhvcNAQELBQADggEBAEu3TRuihF7QDGxS
+DtDBSJlRso2L5i8R6kIPfQpzOUDcQ6v8r0Vx8zStAZALA2bVW4KXVlEeMau0rW47
+aCXhwFw/oinOa1Bhm9I78sufPRGfzmMP8zz8hX9lmeie9UECZSaBDQfl2NRD7UK2
+ub3aztwBIglOAsA3jjCluwXnCLcu61s4q2NUWugFf6xvI9yx+5flTqwmbPrJttiz
+hE73nFdnlwSZ0VPsq7c/Cxu+g9btK5Mpu3ppqjwSaTsgmD05lDSuGY3wh/rXqwbB
+FviY0zut75rh+lx64MdY3yuRzcXNKj4HGJpcNtpQI5FIVnZIiDb4UKPLcVvE1+OZ
+IZxMy8Q=
+-----END CERTIFICATE-----
+

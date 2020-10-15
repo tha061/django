@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1271356819 (0x4bc75d93)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=Richard Maddux
+        Validity
+            Not Before: Apr 15 18:40:19 2010 GMT
+            Not After : Apr  9 18:40:19 2035 GMT
+        Subject: CN=Richard Maddux
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:8a:06:11:43:5b:40:4e:22:ea:ae:6d:88:c3:55:
+                    30:cd:b0:0f:56:e2:66:23:34:63:aa:1f:76:d8:f4:
+                    0f:9d:c5:56:eb:9c:83:2f:00:71:46:f6:a8:00:88:
+                    1a:66:60:7f:ef:0b:a8:0e:e0:15:92:79:a0:69:57:
+                    4c:c7:6b:bb:57:7d:0e:c5:56:e2:c7:06:5a:d8:f2:
+                    78:fb:19:09:b7:9a:be:19:18:17:ee:7e:fd:56:57:
+                    8d:f7:92:58:7b:e0:6f:37:a7:68:7b:4b:b8:fe:fd:
+                    53:88:b9:ed:4d:93:f8:46:c8:eb:5e:1d:51:87:89:
+                    4c:b4:73:57:57:17:2c:92:71
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         09:8f:0b:b9:21:bc:26:4a:37:a0:69:fb:be:0a:6b:7a:ad:9b:
+         b9:58:f9:4e:34:3e:94:c2:9b:69:4f:7c:f4:73:62:30:3d:26:
+         c6:e2:2d:3f:b3:5d:59:a9:61:95:33:7b:82:af:cf:85:f2:a3:
+         10:9f:b4:56:f0:df:11:70:10:75:d4:ff:53:04:c3:6a:43:29:
+         b8:80:f1:ba:ba:8a:3d:0d:7f:ff:f8:4e:f3:40:7c:25:f2:91:
+         a1:f8:4c:8b:11:78:ec:90:0b:e4:d2:2f:a6:19:2a:7c:ef:95:
+         fd:29:8b:8f:8c:15:77:c6:73:be:fe:92:66:06:d8:a9:8b:7d:
+         35:f5
+-----BEGIN CERTIFICATE-----
+MIIBqTCCARKgAwIBAgIES8ddkzANBgkqhkiG9w0BAQUFADAZMRcwFQYDVQQDEw5S
+aWNoYXJkIE1hZGR1eDAeFw0xMDA0MTUxODQwMTlaFw0zNTA0MDkxODQwMTlaMBkx
+FzAVBgNVBAMTDlJpY2hhcmQgTWFkZHV4MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCB
+iQKBgQCKBhFDW0BOIuqubYjDVTDNsA9W4mYjNGOqH3bY9A+dxVbrnIMvAHFG9qgA
+iBpmYH/vC6gO4BWSeaBpV0zHa7tXfQ7FVuLHBlrY8nj7GQm3mr4ZGBfufv1WV433
+klh74G83p2h7S7j+/VOIue1Nk/hGyOteHVGHiUy0c1dXFyyScQIDAQABMA0GCSqG
+SIb3DQEBBQUAA4GBAAmPC7khvCZKN6Bp+74Ka3qtm7lY+U40PpTCm2lPfPRzYjA9
+JsbiLT+zXVmpYZUze4Kvz4XyoxCftFbw3xFwEHXU/1MEw2pDKbiA8bq6ij0Nf//4
+TvNAfCXykaH4TIsReOyQC+TSL6YZKnzvlf0pi4+MFXfGc77+kmYG2KmLfTX1
+-----END CERTIFICATE-----
+

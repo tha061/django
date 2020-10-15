@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1690043526 (0x64bc0486)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=ua, ST=max, L=max, O=max, OU=max, CN=max
+        Validity
+            Not Before: May 24 10:45:19 2016 GMT
+            Not After : Oct 10 10:45:19 2043 GMT
+        Subject: C=ua, ST=max, L=max, O=max, OU=max, CN=max
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9c:c2:79:d2:76:0e:8b:f0:ad:7e:be:13:c0:3b:
+                    e6:3c:e5:c5:4f:7b:7e:df:f1:fe:d7:6a:14:f8:ec:
+                    98:78:f7:df:13:1a:75:12:45:9b:af:f8:ba:63:6d:
+                    8c:ba:fe:75:48:01:d3:be:d5:94:44:ad:dd:50:04:
+                    e3:bd:c7:4d:fc:48:f5:05:e8:31:90:f5:9d:18:83:
+                    fe:98:8d:87:5c:7f:3e:6b:e5:2a:7a:ca:a2:3c:ce:
+                    ec:89:e1:7f:c6:bb:83:f5:b6:6d:2c:99:3d:ef:2f:
+                    ae:a1:c8:6a:39:87:ed:b6:26:47:0e:07:84:cd:86:
+                    8d:7d:41:0b:65:a8:f6:a5:64:7b:31:14:17:f1:97:
+                    1d:85:02:79:d6:10:bb:4f:2f:14:25:2d:96:33:56:
+                    86:22:0a:fc:ee:45:ff:c2:af:da:74:0c:89:55:04:
+                    fc:f8:79:38:96:ba:d0:ca:9d:64:3a:97:0e:a5:e3:
+                    cb:89:80:79:60:03:87:34:b9:42:18:60:c1:95:f9:
+                    0f:6b:8d:79:6f:01:80:2c:87:ec:28:7c:e6:b0:c1:
+                    dc:a6:df:0d:d6:7e:7e:22:99:ec:28:62:73:b2:49:
+                    66:d7:b6:e8:90:c3:8f:4f:3c:e4:fa:ac:fc:a3:05:
+                    64:11:bb:76:03:f1:31:f9:ec:17:22:80:49:b7:28:
+                    39:0f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                E7:C5:44:B9:3C:12:EF:F5:B3:77:68:18:82:8A:6F:12:41:EF:9A:EA
+    Signature Algorithm: sha256WithRSAEncryption
+         61:1a:80:d5:36:41:d2:8b:4f:84:69:74:38:41:64:a8:4e:b9:
+         fc:8e:83:7c:15:3d:6e:c2:09:57:3c:85:09:8e:71:f1:6e:a2:
+         b6:53:f4:eb:d5:55:d8:a7:2a:47:4d:ac:7c:cd:9e:fe:2b:8b:
+         02:7d:e3:85:7f:d2:1f:82:44:22:ef:d7:b3:1f:e7:00:9e:c1:
+         26:87:69:a9:d7:b8:ea:12:43:0f:33:38:54:ff:6f:4f:9e:cc:
+         9b:3c:02:be:a8:1a:af:9a:78:95:28:e1:29:40:1b:52:9f:64:
+         8d:21:ce:80:16:9a:7e:1c:55:62:df:a9:92:b5:73:aa:2f:57:
+         e6:11:a6:75:6e:17:ac:1e:a6:b4:8d:16:76:66:8a:5e:46:03:
+         a6:c8:c0:33:6f:47:9c:4a:2b:93:4c:1b:0e:cb:9e:de:be:b1:
+         4b:fe:fc:f4:4e:93:6d:99:4c:43:d4:06:0f:d0:93:cf:a7:19:
+         e0:df:0e:70:9c:55:f3:81:1d:33:2f:8d:f8:cc:6e:b9:b1:72:
+         ab:eb:fa:19:f9:e4:3c:d6:39:b1:bf:19:8e:42:e5:ca:4e:0c:
+         f5:2e:b5:96:0c:89:d8:ca:64:e1:c4:0d:39:64:26:9b:a9:2e:
+         f1:63:26:28:16:ae:93:42:30:d1:61:b2:a5:a5:71:89:99:74:
+         3d:c6:ed:82
+-----BEGIN CERTIFICATE-----
+MIIDRTCCAi2gAwIBAgIEZLwEhjANBgkqhkiG9w0BAQsFADBTMQswCQYDVQQGEwJ1
+YTEMMAoGA1UECBMDbWF4MQwwCgYDVQQHEwNtYXgxDDAKBgNVBAoTA21heDEMMAoG
+A1UECxMDbWF4MQwwCgYDVQQDEwNtYXgwHhcNMTYwNTI0MTA0NTE5WhcNNDMxMDEw
+MTA0NTE5WjBTMQswCQYDVQQGEwJ1YTEMMAoGA1UECBMDbWF4MQwwCgYDVQQHEwNt
+YXgxDDAKBgNVBAoTA21heDEMMAoGA1UECxMDbWF4MQwwCgYDVQQDEwNtYXgwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCcwnnSdg6L8K1+vhPAO+Y85cVP
+e37f8f7XahT47Jh4998TGnUSRZuv+LpjbYy6/nVIAdO+1ZRErd1QBOO9x038SPUF
+6DGQ9Z0Yg/6YjYdcfz5r5Sp6yqI8zuyJ4X/Gu4P1tm0smT3vL66hyGo5h+22JkcO
+B4TNho19QQtlqPalZHsxFBfxlx2FAnnWELtPLxQlLZYzVoYiCvzuRf/Cr9p0DIlV
+BPz4eTiWutDKnWQ6lw6l48uJgHlgA4c0uUIYYMGV+Q9rjXlvAYAsh+wofOawwdym
+3w3Wfn4imewoYnOySWbXtuiQw49PPOT6rPyjBWQRu3YD8TH57BcigEm3KDkPAgMB
+AAGjITAfMB0GA1UdDgQWBBTnxUS5PBLv9bN3aBiCim8SQe+a6jANBgkqhkiG9w0B
+AQsFAAOCAQEAYRqA1TZB0otPhGl0OEFkqE65/I6DfBU9bsIJVzyFCY5x8W6itlP0
+69VV2KcqR02sfM2e/iuLAn3jhX/SH4JEIu/Xsx/nAJ7BJodpqde46hJDDzM4VP9v
+T57MmzwCvqgar5p4lSjhKUAbUp9kjSHOgBaafhxVYt+pkrVzqi9X5hGmdW4XrB6m
+tI0WdmaKXkYDpsjAM29HnEork0wbDsue3r6xS/789E6TbZlMQ9QGD9CTz6cZ4N8O
+cJxV84EdMy+N+MxuubFyq+v6GfnkPNY5sb8ZjkLlyk4M9S61lgyJ2Mpk4cQNOWQm
+m6ku8WMmKBauk0Iw0WGypaVxiZl0Pcbtgg==
+-----END CERTIFICATE-----
+

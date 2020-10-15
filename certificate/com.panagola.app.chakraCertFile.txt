@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 349929752 (0x14db8118)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=India, ST=Tamil Nadu, L=Chennai, O=PANAGOLA, OU=Software, CN=Sreeja S Nair
+        Validity
+            Not Before: Nov 11 01:06:47 2012 GMT
+            Not After : Dec 31 01:06:47 2094 GMT
+        Subject: C=India, ST=Tamil Nadu, L=Chennai, O=PANAGOLA, OU=Software, CN=Sreeja S Nair
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b0:8b:db:51:6a:1a:04:ff:7e:e5:98:3b:69:83:
+                    7d:02:bb:e3:53:d5:10:c5:3e:3b:20:9a:94:86:44:
+                    0b:a5:dd:dd:9d:7e:da:b9:3a:99:7c:4e:cf:6e:99:
+                    bb:70:5b:95:58:24:01:09:a6:e0:2c:ed:1e:33:03:
+                    4f:6b:54:7a:fe:4b:d3:a7:cc:11:e8:cb:27:ba:41:
+                    c4:d6:38:2e:21:e9:8a:79:da:e4:a8:52:e6:04:16:
+                    8f:f9:4b:7d:2e:c2:3f:48:e6:76:21:16:c9:2f:1a:
+                    dd:65:e3:71:f5:d6:fd:e8:b9:f8:ce:7e:9a:af:e2:
+                    4b:d0:2a:bd:fe:80:f5:7a:d7:f5:1a:00:03:bf:c7:
+                    b9:19:f1:df:8d:1f:8e:af:d0:ff:de:09:0b:17:10:
+                    bc:db:b6:9d:0f:94:00:8c:01:28:47:f4:42:33:bb:
+                    8c:3e:57:79:59:db:3c:5b:9f:fc:b0:22:74:e6:2c:
+                    55:7b:49:ff:ad:bd:43:0f:ae:f6:bc:3c:d3:df:1e:
+                    95:07:b9:4e:a2:6c:a6:c7:70:c2:32:c7:b1:f7:dc:
+                    37:bf:7c:e6:e0:03:85:1e:2c:30:d8:44:33:57:ea:
+                    cc:b8:ad:0a:14:78:44:b8:2b:05:ca:82:0c:c2:0e:
+                    c7:5b:5b:82:8f:ca:ff:1b:36:97:e1:19:d9:bd:5a:
+                    87:25
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                3E:AD:66:21:7E:26:B1:53:B4:D7:85:DF:A7:51:50:59:31:B6:E1:F8
+    Signature Algorithm: sha256WithRSAEncryption
+         63:aa:56:2a:bf:1b:17:1d:9a:b1:28:4c:34:89:29:16:01:53:
+         64:c0:78:46:b0:b4:0f:7c:bb:a9:12:af:32:bf:a5:ca:b6:37:
+         17:10:4f:0e:87:4c:04:97:10:e4:f0:e3:43:3e:26:55:d9:e5:
+         a8:a5:a4:77:82:0c:64:02:f8:73:92:b4:d6:69:20:03:37:15:
+         77:9e:12:6c:7a:12:5b:5f:11:e3:36:c5:1d:3e:f2:10:1c:08:
+         bd:fc:78:b1:58:20:1e:18:26:31:b3:a8:39:d2:fa:40:c2:65:
+         19:d2:41:31:3d:ea:d4:61:22:5e:96:f0:1a:a3:f7:69:53:24:
+         d9:ed:aa:17:0f:f6:7c:01:82:41:b1:19:f2:a3:89:7b:8a:14:
+         ac:34:9f:b6:44:83:3b:eb:ac:50:01:7e:e9:cb:5a:5e:2e:11:
+         40:2f:48:c8:53:bf:43:f2:44:5d:c2:9b:2c:eb:db:a0:d3:90:
+         75:40:c0:8a:3d:67:e8:c8:df:a3:84:1a:70:3e:6d:25:83:99:
+         f4:f8:ed:57:b4:f8:12:44:0f:55:ed:3b:f7:63:53:4b:81:42:
+         7d:af:72:15:b2:be:bf:4e:6b:09:28:ba:ea:66:33:44:d1:2f:
+         30:b0:24:56:ef:72:f4:01:8f:72:18:7e:4b:c4:ab:95:ec:8f:
+         63:d8:a0:14
+-----BEGIN CERTIFICATE-----
+MIIDizCCAnOgAwIBAgIEFNuBGDANBgkqhkiG9w0BAQsFADB1MQ4wDAYDVQQGEwVJ
+bmRpYTETMBEGA1UECBMKVGFtaWwgTmFkdTEQMA4GA1UEBxMHQ2hlbm5haTERMA8G
+A1UEChMIUEFOQUdPTEExETAPBgNVBAsTCFNvZnR3YXJlMRYwFAYDVQQDEw1TcmVl
+amEgUyBOYWlyMCAXDTEyMTExMTAxMDY0N1oYDzIwOTQxMjMxMDEwNjQ3WjB1MQ4w
+DAYDVQQGEwVJbmRpYTETMBEGA1UECBMKVGFtaWwgTmFkdTEQMA4GA1UEBxMHQ2hl
+bm5haTERMA8GA1UEChMIUEFOQUdPTEExETAPBgNVBAsTCFNvZnR3YXJlMRYwFAYD
+VQQDEw1TcmVlamEgUyBOYWlyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAsIvbUWoaBP9+5Zg7aYN9ArvjU9UQxT47IJqUhkQLpd3dnX7auTqZfE7Pbpm7
+cFuVWCQBCabgLO0eMwNPa1R6/kvTp8wR6MsnukHE1jguIemKedrkqFLmBBaP+Ut9
+LsI/SOZ2IRbJLxrdZeNx9db96Ln4zn6ar+JL0Cq9/oD1etf1GgADv8e5GfHfjR+O
+r9D/3gkLFxC827adD5QAjAEoR/RCM7uMPld5Wds8W5/8sCJ05ixVe0n/rb1DD672
+vDzT3x6VB7lOomymx3DCMsex99w3v3zm4AOFHiww2EQzV+rMuK0KFHhEuCsFyoIM
+wg7HW1uCj8r/GzaX4RnZvVqHJQIDAQABoyEwHzAdBgNVHQ4EFgQUPq1mIX4msVO0
+14Xfp1FQWTG24fgwDQYJKoZIhvcNAQELBQADggEBAGOqViq/GxcdmrEoTDSJKRYB
+U2TAeEawtA98u6kSrzK/pcq2NxcQTw6HTASXEOTw40M+JlXZ5ailpHeCDGQC+HOS
+tNZpIAM3FXeeEmx6EltfEeM2xR0+8hAcCL38eLFYIB4YJjGzqDnS+kDCZRnSQTE9
+6tRhIl6W8Bqj92lTJNntqhcP9nwBgkGxGfKjiXuKFKw0n7ZEgzvrrFABfunLWl4u
+EUAvSMhTv0PyRF3Cmyzr26DTkHVAwIo9Z+jI36OEGnA+bSWDmfT47Ve0+BJED1Xt
+O/djU0uBQn2vchWyvr9OawkouupmM0TRLzCwJFbvcvQBj3IYfkvEq5Xsj2PYoBQ=
+-----END CERTIFICATE-----
+

@@ -1,0 +1,82 @@
+{
+  "name": "com.themovementathlete",
+  "fileSize": "45.4 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.themovementathlete.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.themovementathlete.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: crc64a98abb514ffad9f1.KeepAliveService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "15 September 2020",
+    "Size": "45M",
+    "Installs": "10000",
+    "Current Version": "1.30.10.2",
+    "Requires Android": "4.4W and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "The Movement Athlete",
+    "Developer": "Visit website hello@themovementathlete.com Privacy Policy Clyde Offices\n2nd Floor\n48 West George Street\nGlasgow\nG2 1BP"
+  },
+  "rating": "4.1",
+  "description": "Learning bodyweight gymnastics and calisthenics skills will not only get you strong, lean and with the gymnast-like body, but will also add a completely new dimension to your training.  Not only you will be working towards something real (not just those numbers on the scale) but you will also build up your mobility, flexibility, strength and power.  Unfortunately, up until now professional, world-class training has been only accessible to elite athletes. Until now.  At The Movement Athlete (TMA) we distil the knowledge of hundreds of coaches, trainers and physiotherapists for the first time making the world-class, personalised coaching for gymnastics and calisthenics skills available to anyone.  Tested on hundreds of athlete who went from zero to advanced skills and got in the best shape of their lives with no effort.  How does it work? We work with a multidisciplinary team of world's best trainers and physios to analyze and break down each move, create a multidimensional path towards it and fit it into a comprehensive system of progressions that are all INTERLINKED and make our training program MAP. Features -  comprehensive athlete assessment, through which we identify exactly where you are at and create a fully a personalised training program just for you.  -Each workout you are pushed a little bit more, learning new and harder movements, and unlocking new levels of strength, flexibility, and mobility. -The training system uses hundreds of algorithms to ADJUST your training daily based on your feedback, periodical assessments & pain indicators -REDUCING the likelihood of injuries, strains and drop out rate. -It also guides you towards the mastery, through a gamified map of harder and harder moves that are unlocked as you develop attributes like strength, mobility etc.  For the first time offering a HOLISTIC way to get fit while learning HUNDREDS OF MOVES.  All accessible from ONE app for a fraction of the price.  Ready to get started!? Become the Movement Athlete",
+  "privacyText": "http://app-test.themovementathlete.com/privacy/",
+  "numInstalls": 10000,
+  "developer": "The Movement Athlete",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://themovementathlete.com/",
+    "Developer Email": "hello@themovementathlete.com",
+    "Privacy Policy": "http://app-test.themovementathlete.com/privacy/"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Bumptech",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

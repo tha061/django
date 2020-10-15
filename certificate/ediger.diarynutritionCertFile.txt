@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1556185188 (0x5cc18064)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=RU, ST=Tatarstan, L=Kazan, O=EdigerApps, OU=Ediger, CN=Roman Edigarev
+        Validity
+            Not Before: Sep 21 16:22:06 2016 GMT
+            Not After : Sep 15 16:22:06 2041 GMT
+        Subject: C=RU, ST=Tatarstan, L=Kazan, O=EdigerApps, OU=Ediger, CN=Roman Edigarev
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9d:1f:9d:89:3f:c7:91:ae:04:b6:95:c5:fe:7f:
+                    30:28:0c:78:b2:5a:7a:f6:d2:f2:58:b8:1b:84:68:
+                    ab:7d:bb:a9:a7:ad:46:73:73:60:65:f0:a7:70:5a:
+                    a0:61:40:f1:9a:af:70:68:f1:6f:7d:a3:e4:60:b0:
+                    ef:b6:b4:01:7b:b6:f3:ff:76:b5:bd:fc:e3:aa:9f:
+                    36:ec:a6:80:46:06:8b:42:b2:2a:46:68:b6:e6:1d:
+                    0f:c7:27:b6:a4:24:d2:18:56:89:3c:93:63:d7:ca:
+                    20:2a:ef:48:30:13:05:34:9b:cb:41:0c:e5:c8:f9:
+                    10:14:1b:19:48:4d:21:c3:46:7e:97:57:d8:61:70:
+                    b7:84:de:1a:b9:5e:45:52:20:a6:c7:7c:1b:8e:b2:
+                    1b:4c:85:c8:07:7b:8b:ba:f9:b4:45:72:de:b2:4b:
+                    ac:7b:09:65:c0:3f:30:81:d3:d4:48:57:05:57:4c:
+                    1e:53:93:25:2b:6f:52:dd:ff:3e:c9:46:8c:d9:ad:
+                    51:f7:3a:2c:b4:38:00:cc:ca:05:51:ee:c5:5c:05:
+                    4e:c8:81:8c:0a:56:50:fb:c6:6e:b7:78:db:d1:94:
+                    5e:3d:26:86:a4:71:6a:4d:4d:4c:7f:af:bd:be:b0:
+                    c8:df:21:83:a4:f2:f3:48:99:ab:71:74:71:ea:da:
+                    1d:79
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                A9:26:8E:18:F0:6E:D0:5C:7B:9B:14:DE:78:AD:61:2C:5E:55:08:5C
+    Signature Algorithm: sha256WithRSAEncryption
+         47:ea:e8:d3:f8:28:cf:1f:cc:fe:7d:9c:b7:da:1d:1a:a3:75:
+         fa:24:5e:dc:e7:b6:de:70:e7:64:55:3c:7a:19:a1:89:84:2d:
+         2c:83:4e:f3:ba:2e:0d:7e:a8:ca:5a:12:7f:18:57:1a:0f:0c:
+         9f:d1:67:18:4e:61:b3:ff:ca:c4:e7:83:19:fd:ed:49:5d:bb:
+         f9:06:85:d6:4d:1d:85:80:92:4b:b3:12:40:ef:4b:21:98:92:
+         81:af:08:25:dc:46:b8:69:66:f9:21:fb:44:26:0a:19:13:ab:
+         b8:e6:1e:56:9d:6f:f5:42:13:16:c0:c8:04:72:23:9a:1f:b8:
+         3b:6b:09:ce:bb:43:41:88:f4:32:6d:63:b0:47:a1:2a:ff:27:
+         44:a2:cf:38:71:d2:a7:19:65:89:ea:5a:ec:93:7d:a0:ec:31:
+         f6:70:e3:e0:c0:e1:de:02:a7:85:d9:4a:e2:32:dc:4d:57:fd:
+         83:e0:7f:5c:ad:2a:b3:90:76:89:ce:f1:9e:65:47:d9:9d:33:
+         31:40:cb:f7:cf:b4:bf:dc:62:87:2c:66:aa:0c:34:f2:68:f9:
+         a9:e9:55:3a:d8:55:e7:b1:38:c3:51:15:1b:55:00:89:a4:f4:
+         d0:65:2f:7e:19:71:79:36:fb:97:37:40:3d:57:ec:db:c3:f9:
+         7a:67:ba:2e
+-----BEGIN CERTIFICATE-----
+MIIDfzCCAmegAwIBAgIEXMGAZDANBgkqhkiG9w0BAQsFADBwMQswCQYDVQQGEwJS
+VTESMBAGA1UECBMJVGF0YXJzdGFuMQ4wDAYDVQQHEwVLYXphbjETMBEGA1UEChMK
+RWRpZ2VyQXBwczEPMA0GA1UECxMGRWRpZ2VyMRcwFQYDVQQDEw5Sb21hbiBFZGln
+YXJldjAeFw0xNjA5MjExNjIyMDZaFw00MTA5MTUxNjIyMDZaMHAxCzAJBgNVBAYT
+AlJVMRIwEAYDVQQIEwlUYXRhcnN0YW4xDjAMBgNVBAcTBUthemFuMRMwEQYDVQQK
+EwpFZGlnZXJBcHBzMQ8wDQYDVQQLEwZFZGlnZXIxFzAVBgNVBAMTDlJvbWFuIEVk
+aWdhcmV2MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnR+diT/Hka4E
+tpXF/n8wKAx4slp69tLyWLgbhGirfbupp61Gc3NgZfCncFqgYUDxmq9waPFvfaPk
+YLDvtrQBe7bz/3a1vfzjqp827KaARgaLQrIqRmi25h0Pxye2pCTSGFaJPJNj18og
+Ku9IMBMFNJvLQQzlyPkQFBsZSE0hw0Z+l1fYYXC3hN4auV5FUiCmx3wbjrIbTIXI
+B3uLuvm0RXLeskusewllwD8wgdPUSFcFV0weU5MlK29S3f8+yUaM2a1R9zostDgA
+zMoFUe7FXAVOyIGMClZQ+8Zut3jb0ZRePSaGpHFqTU1Mf6+9vrDI3yGDpPLzSJmr
+cXRx6todeQIDAQABoyEwHzAdBgNVHQ4EFgQUqSaOGPBu0Fx7mxTeeK1hLF5VCFww
+DQYJKoZIhvcNAQELBQADggEBAEfq6NP4KM8fzP59nLfaHRqjdfokXtzntt5w52RV
+PHoZoYmELSyDTvO6Lg1+qMpaEn8YVxoPDJ/RZxhOYbP/ysTngxn97Uldu/kGhdZN
+HYWAkkuzEkDvSyGYkoGvCCXcRrhpZvkh+0QmChkTq7jmHladb/VCExbAyARyI5of
+uDtrCc67Q0GI9DJtY7BHoSr/J0Sizzhx0qcZZYnqWuyTfaDsMfZw4+DA4d4Cp4XZ
+SuIy3E1X/YPgf1ytKrOQdonO8Z5lR9mdMzFAy/fPtL/cYocsZqoMNPJo+anpVTrY
+VeexOMNRFRtVAImk9NBlL34ZcXk2+5c3QD1X7NvD+Xpnui4=
+-----END CERTIFICATE-----
+

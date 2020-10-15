@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            34:88:97:06:65:33:4e:3d
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=Cat  studiosweat/emailAddress=cat@studiosweat.com, C=United States
+        Validity
+            Not Before: Jul 25 19:24:12 2016 GMT
+            Not After : Oct 23 19:24:12 2033 GMT
+        Subject: CN=Cat  studiosweat/emailAddress=cat@studiosweat.com, C=United States
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:94:92:69:70:3e:6e:7e:0b:2d:aa:27:9a:54:6a:
+                    28:95:0f:0e:d7:da:13:c5:74:c5:58:94:53:a9:35:
+                    0f:ac:a3:30:32:1a:81:a0:87:91:ae:d9:0a:cb:1a:
+                    e9:d0:9c:25:dc:8c:87:1f:2a:77:00:c4:4a:4f:de:
+                    44:57:be:e3:fb:c1:11:25:4c:10:8b:5c:e7:66:0e:
+                    6d:ad:7b:cf:1c:3b:3c:fe:51:5a:66:84:53:70:29:
+                    8d:15:96:9f:9b:51:05:85:b8:d2:bc:fc:76:ed:6d:
+                    f2:d6:c6:3b:4a:e8:5a:17:ce:1b:f1:6e:45:62:f5:
+                    f0:d4:e4:90:86:60:e1:37:5e:7a:06:f7:45:a6:0a:
+                    6a:ff:3b:09:ce:fa:e9:e2:41:cf:e6:57:e1:7f:68:
+                    4b:11:1c:96:6f:6a:8b:0d:fa:3b:43:9a:f1:6e:19:
+                    49:cd:ad:c9:c8:08:11:85:dc:d4:41:50:89:37:89:
+                    98:18:90:15:95:5d:25:69:13:a9:97:07:a9:63:93:
+                    63:67:02:6e:96:92:1a:74:c0:2c:e3:8f:32:ad:0f:
+                    07:39:e3:e5:b9:55:a2:40:a7:39:ef:1f:23:e2:45:
+                    0a:ea:3b:05:a2:5b:83:34:2f:2c:2f:af:99:7a:b6:
+                    82:be:55:85:14:12:df:53:2b:1f:19:0b:55:5b:1a:
+                    66:77
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         7f:e5:eb:c5:ed:e8:bc:9e:37:14:85:3a:21:be:77:58:38:55:
+         4c:fa:33:40:15:7e:68:5e:c1:86:2f:c1:c0:d4:b5:72:f2:f7:
+         54:64:a3:6f:46:a6:17:cc:7e:c2:db:e9:f5:63:9c:4e:2a:48:
+         ad:c4:20:71:a5:eb:9e:3c:d8:81:de:f4:12:52:6e:d0:cb:d3:
+         89:36:c5:27:eb:a9:d6:20:3b:b6:a3:c0:77:90:31:3e:0a:40:
+         0f:bc:4e:95:c4:f1:9d:07:c6:fe:d5:59:22:a1:35:a3:13:0c:
+         51:18:4d:f6:87:19:d3:2d:96:12:9c:0f:db:94:5b:65:d7:d9:
+         0b:83:36:48:b7:42:7a:b1:8a:b7:15:7e:97:a9:d8:51:02:76:
+         43:7c:14:15:0d:35:2f:14:60:e7:9e:69:0b:90:25:de:04:22:
+         03:14:48:ec:21:bc:f3:1d:2a:af:77:3e:66:4e:85:36:9c:97:
+         03:e4:1c:5b:22:13:79:35:6e:09:18:5c:14:f5:07:74:94:97:
+         7b:e1:d7:cf:e7:9f:2c:0a:3d:84:c9:c0:d5:82:cb:4b:6f:b4:
+         46:ca:cb:18:c4:b8:01:aa:da:55:21:7f:01:19:eb:90:e6:8a:
+         03:c3:c6:f8:1d:64:2b:0c:e0:ce:94:05:bd:70:60:96:f9:b8:
+         2e:76:1f:e0
+-----BEGIN CERTIFICATE-----
+MIIDLjCCAhagAwIBAgIINIiXBmUzTj0wDQYJKoZIhvcNAQEFBQAwVzEZMBcGA1UE
+AwwQQ2F0ICBzdHVkaW9zd2VhdDEiMCAGCSqGSIb3DQEJARYTY2F0QHN0dWRpb3N3
+ZWF0LmNvbTEWMBQGA1UEBhMNVW5pdGVkIFN0YXRlczAeFw0xNjA3MjUxOTI0MTJa
+Fw0zMzEwMjMxOTI0MTJaMFcxGTAXBgNVBAMMEENhdCAgc3R1ZGlvc3dlYXQxIjAg
+BgkqhkiG9w0BCQEWE2NhdEBzdHVkaW9zd2VhdC5jb20xFjAUBgNVBAYTDVVuaXRl
+ZCBTdGF0ZXMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCUkmlwPm5+
+Cy2qJ5pUaiiVDw7X2hPFdMVYlFOpNQ+sozAyGoGgh5Gu2QrLGunQnCXcjIcfKncA
+xEpP3kRXvuP7wRElTBCLXOdmDm2te88cOzz+UVpmhFNwKY0Vlp+bUQWFuNK8/Hbt
+bfLWxjtK6FoXzhvxbkVi9fDU5JCGYOE3XnoG90WmCmr/OwnO+uniQc/mV+F/aEsR
+HJZvaosN+jtDmvFuGUnNrcnICBGF3NRBUIk3iZgYkBWVXSVpE6mXB6ljk2NnAm6W
+khp0wCzjjzKtDwc54+W5VaJApznvHyPiRQrqOwWiW4M0Lywvr5l6toK+VYUUEt9T
+Kx8ZC1VbGmZ3AgMBAAEwDQYJKoZIhvcNAQEFBQADggEBAH/l68Xt6LyeNxSFOiG+
+d1g4VUz6M0AVfmhewYYvwcDUtXLy91Rko29GphfMfsLb6fVjnE4qSK3EIHGl6548
+2IHe9BJSbtDL04k2xSfrqdYgO7ajwHeQMT4KQA+8TpXE8Z0Hxv7VWSKhNaMTDFEY
+TfaHGdMtlhKcD9uUW2XX2QuDNki3QnqxircVfpep2FECdkN8FBUNNS8UYOeeaQuQ
+Jd4EIgMUSOwhvPMdKq93PmZOhTaclwPkHFsiE3k1bgkYXBT1B3SUl3vh18/nnywK
+PYTJwNWCy0tvtEbKyxjEuAGq2lUhfwEZ65DmigPDxvgdZCsM4M6UBb1wYJb5uC52
+H+A=
+-----END CERTIFICATE-----
+

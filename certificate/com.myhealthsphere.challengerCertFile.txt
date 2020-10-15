@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 732031723 (0x2ba1eaeb)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CA, ST=Ontario, L=Toronto, O=myHealthSphere, OU=myHealthSphere, CN=Stephan Massin
+        Validity
+            Not Before: Apr 21 15:01:01 2015 GMT
+            Not After : Sep  6 15:01:01 2042 GMT
+        Subject: C=CA, ST=Ontario, L=Toronto, O=myHealthSphere, OU=myHealthSphere, CN=Stephan Massin
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:84:00:56:67:4f:4e:b2:d0:b0:ee:2b:10:af:36:
+                    01:b7:4f:8c:56:cf:b3:4b:3c:bb:83:37:fe:b6:7e:
+                    83:97:05:2a:be:23:1b:7c:c6:9b:5e:d7:e7:09:12:
+                    35:34:e0:16:8c:c0:b8:ea:44:3a:50:e1:f1:0d:a3:
+                    70:d5:77:55:e6:51:7c:9a:b6:8f:70:33:4d:39:19:
+                    8e:63:0d:b0:21:b2:a5:b9:64:0c:00:5a:8e:a7:7a:
+                    d1:18:8d:79:8c:64:db:31:e6:9d:65:60:56:18:a9:
+                    26:1d:fd:6b:f1:33:68:ed:3a:90:75:14:7d:fc:90:
+                    32:a4:40:a2:4a:32:f9:aa:53:80:58:9c:42:95:12:
+                    0e:88:c5:65:cf:fc:7a:be:89:32:ba:91:3b:95:04:
+                    61:13:49:b7:bc:5e:c1:f0:8d:cf:ba:5e:69:30:55:
+                    3d:a6:0c:41:35:c5:a3:67:20:24:b2:7c:59:8e:f2:
+                    f1:0a:ec:f3:88:c3:77:d3:ec:3b:52:f7:24:5b:ce:
+                    e1:0a:5c:b8:7f:87:62:f6:98:54:04:9c:12:54:dc:
+                    13:a8:00:ff:1b:69:a1:1c:3f:9f:2e:c8:27:59:d1:
+                    5c:2d:b1:de:fe:ba:6c:34:32:4b:ee:13:d4:95:35:
+                    5a:93:f9:4f:14:17:c3:dc:6a:2b:c0:37:42:d8:ec:
+                    44:9b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                13:0D:11:8A:C7:42:87:B3:05:98:E9:C0:66:42:A1:72:0C:4F:DF:53
+    Signature Algorithm: sha256WithRSAEncryption
+         77:8c:d7:31:7a:85:da:1d:a7:a0:e9:fe:c2:7b:73:f0:91:d3:
+         45:57:09:bc:bb:50:77:33:93:a5:a4:dc:a3:a6:73:c0:0a:c4:
+         e5:2a:72:ef:20:bd:2e:28:c6:59:1c:a3:b7:11:5f:fc:81:a4:
+         83:e3:5b:88:32:7b:ec:c4:3e:e0:37:a2:57:9f:71:20:74:bb:
+         88:aa:5b:0b:28:37:09:45:6a:ec:22:49:ff:df:3a:b3:9e:5e:
+         ba:4b:d6:2d:4f:23:cd:a4:ed:af:49:08:eb:7b:45:8d:56:1e:
+         79:8f:5a:e0:7f:58:2c:88:49:1d:83:7a:1d:8a:cf:b4:27:af:
+         f2:88:78:cd:39:b8:04:31:11:00:c4:c8:b3:4d:3b:62:0e:a2:
+         d7:2f:42:bd:bf:b4:47:3e:0f:b9:21:06:fb:c0:2d:8a:45:74:
+         19:70:68:28:72:f8:eb:0d:1c:0a:58:9d:b5:e7:19:c4:eb:63:
+         a0:ec:94:cb:b1:38:6d:68:d4:6d:b7:8c:a6:3a:01:75:bd:fe:
+         87:c1:40:08:3a:b9:8f:e2:6d:9e:2a:e9:bd:bf:80:9d:51:1f:
+         d3:61:e5:ae:f8:a1:7f:0a:4d:34:12:8b:98:9d:19:08:d6:85:
+         43:33:ee:02:23:29:fa:26:e3:26:44:36:bf:22:fb:3d:8a:fd:
+         91:79:bd:d6
+-----BEGIN CERTIFICATE-----
+MIIDlzCCAn+gAwIBAgIEK6Hq6zANBgkqhkiG9w0BAQsFADB8MQswCQYDVQQGEwJD
+QTEQMA4GA1UECBMHT250YXJpbzEQMA4GA1UEBxMHVG9yb250bzEXMBUGA1UEChMO
+bXlIZWFsdGhTcGhlcmUxFzAVBgNVBAsTDm15SGVhbHRoU3BoZXJlMRcwFQYDVQQD
+Ew5TdGVwaGFuIE1hc3NpbjAeFw0xNTA0MjExNTAxMDFaFw00MjA5MDYxNTAxMDFa
+MHwxCzAJBgNVBAYTAkNBMRAwDgYDVQQIEwdPbnRhcmlvMRAwDgYDVQQHEwdUb3Jv
+bnRvMRcwFQYDVQQKEw5teUhlYWx0aFNwaGVyZTEXMBUGA1UECxMObXlIZWFsdGhT
+cGhlcmUxFzAVBgNVBAMTDlN0ZXBoYW4gTWFzc2luMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAhABWZ09OstCw7isQrzYBt0+MVs+zSzy7gzf+tn6DlwUq
+viMbfMabXtfnCRI1NOAWjMC46kQ6UOHxDaNw1XdV5lF8mraPcDNNORmOYw2wIbKl
+uWQMAFqOp3rRGI15jGTbMeadZWBWGKkmHf1r8TNo7TqQdRR9/JAypECiSjL5qlOA
+WJxClRIOiMVlz/x6vokyupE7lQRhE0m3vF7B8I3Pul5pMFU9pgxBNcWjZyAksnxZ
+jvLxCuzziMN30+w7UvckW87hCly4f4di9phUBJwSVNwTqAD/G2mhHD+fLsgnWdFc
+LbHe/rpsNDJL7hPUlTVak/lPFBfD3GorwDdC2OxEmwIDAQABoyEwHzAdBgNVHQ4E
+FgQUEw0RisdCh7MFmOnAZkKhcgxP31MwDQYJKoZIhvcNAQELBQADggEBAHeM1zF6
+hdodp6Dp/sJ7c/CR00VXCby7UHczk6Wk3KOmc8AKxOUqcu8gvS4oxlkco7cRX/yB
+pIPjW4gye+zEPuA3olefcSB0u4iqWwsoNwlFauwiSf/fOrOeXrpL1i1PI82k7a9J
+COt7RY1WHnmPWuB/WCyISR2Deh2Kz7Qnr/KIeM05uAQxEQDEyLNNO2IOotcvQr2/
+tEc+D7khBvvALYpFdBlwaChy+OsNHApYnbXnGcTrY6DslMuxOG1o1G23jKY6AXW9
+/ofBQAg6uY/ibZ4q6b2/gJ1RH9Nh5a74oX8KTTQSi5idGQjWhUMz7gIjKfom4yZE
+Nr8i+z2K/ZF5vdY=
+-----END CERTIFICATE-----
+

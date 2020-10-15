@@ -1,0 +1,80 @@
+{
+  "name": "com.mo2tion.indoorbike",
+  "fileSize": "13.0 MB",
+  "VTmd5": "7669ed20768700e997685263326c5d91",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/c60dd072fe5a810c2afc99d83810b39e9fe9a8b446e874a0ab3d65bdb286a142/detection/f-c60dd072fe5a810c2afc99d83810b39e9fe9a8b446e874a0ab3d65bdb286a142-1602201582",
+  "VTresource": "c60dd072fe5a810c2afc99d83810b39e9fe9a8b446e874a0ab3d65bdb286a142",
+  "VTresponsecode": 1,
+  "VTscanID": "c60dd072fe5a810c2afc99d83810b39e9fe9a8b446e874a0ab3d65bdb286a142-1602201582",
+  "VTsha1": "dbc22f0a0dc313b06222b92cae2357c8ef01749e",
+  "VTsha256": "c60dd072fe5a810c2afc99d83810b39e9fe9a8b446e874a0ab3d65bdb286a142",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "android.permission.BLUETOOTH Protection Level: normal",
+    "android.permission.BLUETOOTH_ADMIN Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "7 October 2020",
+    "Size": "42M",
+    "Installs": "10000",
+    "Current Version": "2.71.0",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Motosumo",
+    "Developer": "Visit website support@motosumo.com Privacy Policy \nMotosumo ApS\nH\u00f8rk\u00e6r 26, 1\nDK-2730 Herlev\nDenmark"
+  },
+  "rating": "3.5",
+  "description": "GET CONNECTED Motosumo makes it easy and fun to follow, understand, and track your training: Try the only group fitness solution powered by smartphones to track and connect everyone. Every gym, every class, every member. COMPETE, COMPARE, COOPERATE The Motosumo app provides everyone with relevant live data, easy to understand color zones, and training history to keep track of progress. The entire team and instructor are connected in the app in real-time, so you do not need a group display to create a team experience. Be part of an engaging class where everyone interacts and becomes better together through gamification on individual, team level, or between gyms. ONE SOLUTION That covers both indoor cycling and all other group fitness classes. INDOOR BIKE SOLUTION - RPM, KCAL, KM, HR, and WATT (available soon) Instructor and class members are connected based on their location no matter which bike (standard or tech bikes) and Bluetooth enabled heart rate monitor they use. Ready to follow your instructor, race your friend, cooperate as a team, or challenge another gym. In addition, instructors have dedicated features like countdowns and motivational messages that can be sent to all members. HEART RATE SOLUTION FOR ANY GROUP EXERCISE CLASS \u2013 HR and KCAL Connects to any Bluetooth enabled Heart Rate monitor allowing everyone to connect as a team based on their location. Let members bring their own belts. Real-time feedback on workout intensity zone, heart rate, and calories burned on mobile or group display. Motosumo \u2013 We are motion! App features and services: - Worlds first sensor-free cadence measurement. - Dedicated views for cadence, heart rate, and power. - Compatible with Bluetooth heart rate and power meters, for example Schwinn, Keiser, Spinning, ICG, BodyBike, and Wattbike. - Social connection \u2013 follow your instructor and team based on real-time data. - Instructor tools with full class overview, countdowns, sound effects, and emoji features. - Divide your class in two teams and race against each other. - Run a 5 minute FTP test from the app. - Session graph for the last 1.5 minutes on all real-time data. - History overview with main workout zone, gym location, duration, estimated distance and calories. - Workout view with dedicated views for cadence, heart rate, and power; graph with color based zone distribution and pie chart; training metrics for duration, calories, revolutions, average cadence, estimated distance, estimated average speed, average heart rate, max heart rate, average power and max power. - Select sport to choose between indoor cycling and heart rate powered workout with dedicated views for each. - Group display solutions available for both cadence, heart rate, power, and team. - Onboarding, guide, and FAQ. Notice: - This app requires a data connection (cellular or Wi-Fi) for analysis of your movement data. Check your internet connection if you experience problems, or request a Wi-Fi connection from your gym. - Can't find your gym? Please contact us at support@motosumo.com and we will add it for you. - There are many low-cost handlebar fixtures available that are designed specifically for smartphones. Either use your own or ask your gym to provide one. - Always ensure that the top of your device is pointing in the direction of travel. Background: Motosumo is a Danish technology company with a mission to create the world\u2019s leading group fitness solution. Backed by a strong team of investors and advisors from the fitness, gaming, and mobile industry, we are here to drive the industry forward with a real-time social network, connecting all group activities across members, instructors, classes, training concepts, and gyms all over the world. Motosumo is in a strategic partnership with American fitness giant Core Health & Fitness.",
+  "privacyText": "https://s3-eu-west-1.amazonaws.com/mo2tion-static/PrivacyPolicy.html",
+  "numInstalls": 10000,
+  "developer": "Motosumo",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.motosumo.com",
+    "Developer Email": "support@motosumo.com",
+    "Privacy Policy": "https://s3-eu-west-1.amazonaws.com/mo2tion-static/PrivacyPolicy.html"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Jakewharton"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

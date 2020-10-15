@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1676190324 (0x63e8a274)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=HU, ST=Budapest, O=EN-CO Software Kft.
+        Validity
+            Not Before: Jul 24 14:50:27 2014 GMT
+            Not After : Jul 16 14:50:27 2044 GMT
+        Subject: C=HU, ST=Budapest, O=EN-CO Software Kft.
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ab:15:6b:0c:d8:0f:bc:62:ab:c7:a9:2e:ea:f2:
+                    35:b8:f7:d5:68:f4:27:4a:65:fa:dc:8f:e4:fb:95:
+                    64:57:a6:53:33:06:92:23:04:d3:9b:97:bd:fb:b0:
+                    be:37:43:69:3e:04:02:b9:d4:57:55:2a:24:74:85:
+                    86:2e:7e:84:58:44:2b:07:96:13:64:bb:3f:11:0a:
+                    80:31:0c:3f:e3:a5:e1:b6:8f:f1:a6:6e:bb:65:ce:
+                    4c:b8:8c:c5:94:4d:c4:02:b8:fb:56:bb:18:7b:56:
+                    59:e2:aa:b8:d0:b9:95:ae:60:d3:72:8c:8b:3a:84:
+                    31:29:8a:d2:92:35:70:7f:af:ae:59:72:1b:e1:f5:
+                    8c:52:34:07:1e:bd:c5:86:c2:80:39:35:f1:8d:48:
+                    bb:1b:9f:35:da:c0:21:8e:00:c3:00:0b:0c:61:f1:
+                    a3:54:35:2b:92:2a:fb:1e:f7:2a:83:46:80:92:2f:
+                    33:47:bd:bb:b0:1f:8f:5e:9c:c1:93:80:e8:ff:56:
+                    09:bf:94:f0:c1:b9:05:e5:df:df:9d:44:9f:82:00:
+                    e1:99:a4:01:f9:a5:f4:48:57:c1:cd:03:d1:3d:3e:
+                    9b:8e:43:26:55:13:64:37:37:bd:5c:76:bd:c1:6d:
+                    e6:7e:45:cb:89:37:7d:30:c5:0e:d4:a5:64:ca:82:
+                    3c:0b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                E1:23:CD:F5:DC:21:D7:A2:5C:25:7F:BD:DE:4D:A3:4F:F2:BA:BE:09
+    Signature Algorithm: sha256WithRSAEncryption
+         7d:05:41:a8:3f:35:ee:28:98:a6:a9:83:00:76:8e:34:d2:83:
+         c7:c2:6d:8e:25:6f:68:6a:47:66:d7:19:db:e2:fd:a5:8e:dd:
+         87:18:94:35:4d:f9:e7:a1:7d:86:ea:c6:0c:c1:37:92:89:12:
+         f0:98:f9:40:f9:54:e6:5a:f4:20:a4:e4:8c:68:eb:74:ec:a3:
+         50:9b:44:2b:f7:78:b1:39:02:a8:4f:37:52:8a:f4:23:4f:80:
+         03:2e:82:df:6d:2f:c3:d3:ce:77:93:c1:6e:17:d5:98:72:2a:
+         71:dd:a2:80:ce:0d:44:82:58:15:57:89:18:59:fc:0e:2c:a3:
+         be:2d:8c:fe:6d:19:ae:65:1d:b2:bd:a8:e3:3e:a8:a3:03:a3:
+         45:61:b5:71:40:b6:7d:a2:20:50:c6:c2:b8:9e:aa:79:62:cc:
+         5e:84:4d:9e:c9:2f:6c:0e:b6:10:70:02:1a:6a:83:0c:b8:32:
+         99:46:e5:25:e0:7b:e7:f4:55:b3:d3:4f:9e:6c:64:df:fa:85:
+         5c:cc:74:d7:63:e1:3c:aa:b5:08:1c:7a:4b:cf:ac:e6:56:78:
+         0c:e4:58:a1:89:a7:75:0e:31:cd:eb:28:77:1f:39:52:0e:88:
+         be:be:c9:0e:0f:15:8c:1f:40:2c:ba:a8:81:bd:98:8e:4b:78:
+         db:fc:45:90
+-----BEGIN CERTIFICATE-----
+MIIDGzCCAgOgAwIBAgIEY+iidDANBgkqhkiG9w0BAQsFADA+MQswCQYDVQQGEwJI
+VTERMA8GA1UECBMIQnVkYXBlc3QxHDAaBgNVBAoTE0VOLUNPIFNvZnR3YXJlIEtm
+dC4wHhcNMTQwNzI0MTQ1MDI3WhcNNDQwNzE2MTQ1MDI3WjA+MQswCQYDVQQGEwJI
+VTERMA8GA1UECBMIQnVkYXBlc3QxHDAaBgNVBAoTE0VOLUNPIFNvZnR3YXJlIEtm
+dC4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCrFWsM2A+8YqvHqS7q
+8jW499Vo9CdKZfrcj+T7lWRXplMzBpIjBNObl737sL43Q2k+BAK51FdVKiR0hYYu
+foRYRCsHlhNkuz8RCoAxDD/jpeG2j/Gmbrtlzky4jMWUTcQCuPtWuxh7VlniqrjQ
+uZWuYNNyjIs6hDEpitKSNXB/r65Zchvh9YxSNAcevcWGwoA5NfGNSLsbnzXawCGO
+AMMACwxh8aNUNSuSKvse9yqDRoCSLzNHvbuwH49enMGTgOj/Vgm/lPDBuQXl39+d
+RJ+CAOGZpAH5pfRIV8HNA9E9PpuOQyZVE2Q3N71cdr3BbeZ+RcuJN30wxQ7UpWTK
+gjwLAgMBAAGjITAfMB0GA1UdDgQWBBThI8313CHXolwlf73eTaNP8rq+CTANBgkq
+hkiG9w0BAQsFAAOCAQEAfQVBqD817iiYpqmDAHaONNKDx8JtjiVvaGpHZtcZ2+L9
+pY7dhxiUNU3556F9hurGDME3kokS8Jj5QPlU5lr0IKTkjGjrdOyjUJtEK/d4sTkC
+qE83Uor0I0+AAy6C320vw9POd5PBbhfVmHIqcd2igM4NRIJYFVeJGFn8Diyjvi2M
+/m0ZrmUdsr2o4z6oowOjRWG1cUC2faIgUMbCuJ6qeWLMXoRNnskvbA62EHACGmqD
+DLgymUblJeB75/RVs9NPnmxk3/qFXMx012PhPKq1CBx6S8+s5lZ4DORYoYmndQ4x
+zesodx85Ug6Ivr7JDg8VjB9ALLqogb2Yjkt42/xFkA==
+-----END CERTIFICATE-----
+

@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1043773577 (0x3e36b889)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=USA, ST=NY, L=New York, O=Classpass, CN=Dustin Hoffman
+        Validity
+            Not Before: Jun 11 22:39:59 2018 GMT
+            Not After : Jun  5 22:39:59 2043 GMT
+        Subject: C=USA, ST=NY, L=New York, O=Classpass, CN=Dustin Hoffman
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:94:d4:99:88:a0:39:9f:0d:c1:7b:90:cd:d9:2a:
+                    00:cd:b8:18:5e:7e:b4:df:dc:d7:00:f1:0a:1e:9d:
+                    c6:4b:31:e7:6d:f6:02:3a:4f:ce:3e:66:5a:17:ea:
+                    76:6d:e0:fd:1c:24:92:17:fa:47:1c:bb:d4:88:73:
+                    24:e9:a1:a5:05:28:4c:62:2e:19:c8:8c:10:c5:e0:
+                    58:9a:a6:6e:b1:4a:86:2a:25:f6:fc:46:c3:dc:ee:
+                    13:21:6a:de:20:e2:b3:db:05:c2:32:54:f8:a8:6c:
+                    47:bb:52:b9:97:90:51:d7:55:6f:5b:c6:36:4e:e5:
+                    4a:3f:9a:80:e3:7f:dc:e6:91:0e:0e:02:1a:8b:de:
+                    d5:7b:63:ba:65:a5:4a:9d:2f:2e:ef:61:00:ea:bd:
+                    28:76:3b:45:18:60:68:4e:cb:ab:4d:34:fa:18:11:
+                    14:ec:36:5d:b2:39:56:23:ac:15:0f:f1:4b:c6:14:
+                    dc:c4:2e:22:46:d6:16:34:75:d3:a2:3f:44:84:ed:
+                    38:b0:7d:c5:ba:63:84:1d:e3:8f:a7:83:b6:03:c2:
+                    e9:e6:50:1b:85:b6:48:17:61:00:77:62:7a:bc:2c:
+                    aa:09:68:9a:b6:43:1f:e6:1d:a0:4a:4c:8f:e6:54:
+                    ec:d6:b3:08:e8:e4:7d:a9:c4:86:be:98:58:b0:04:
+                    b8:2b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                BC:59:30:C8:13:C5:11:AC:1B:E8:87:19:25:73:EF:C2:C6:8F:55:D7
+    Signature Algorithm: sha256WithRSAEncryption
+         92:ae:bc:f7:28:23:3b:82:dd:4e:da:03:86:4c:87:1b:30:d4:
+         fe:8d:d8:23:f4:d9:fb:b8:85:a1:e0:6c:ce:0f:b0:85:cb:1b:
+         04:9f:4c:23:38:aa:15:62:bd:f7:eb:57:88:39:89:a9:55:dd:
+         02:a5:e3:f4:f8:76:33:b6:a0:f5:02:f1:6f:fb:cf:d4:bf:b2:
+         60:c7:9e:f6:09:ad:d1:f4:1c:e4:05:df:10:b6:af:da:17:b9:
+         aa:f3:c4:36:09:f4:8a:f8:dc:99:a4:7f:71:ca:64:b4:c9:15:
+         ac:51:14:9c:2e:3b:af:05:ca:98:35:2c:42:34:18:55:5e:80:
+         da:be:9d:86:da:c5:9f:ed:05:23:70:49:76:cd:7c:a5:30:89:
+         2d:76:c2:be:54:e7:a6:b0:81:18:41:b0:0e:f5:5b:aa:35:44:
+         b6:18:8c:09:68:1a:9e:d6:99:09:da:0a:41:d5:f7:3f:5e:6c:
+         f7:3d:c0:1d:55:6e:9d:a8:f7:29:ec:60:4d:cd:f5:ac:27:72:
+         9a:56:61:a2:a3:77:49:6c:1e:00:61:aa:3d:1f:ab:4c:10:17:
+         b1:be:9e:5c:3c:29:21:94:33:e0:41:e6:fd:eb:1a:2b:bb:f2:
+         ba:42:c0:14:0a:b3:f0:8c:fd:bf:1f:72:c9:7e:ea:64:00:4d:
+         5c:b2:74:4a
+-----BEGIN CERTIFICATE-----
+MIIDVTCCAj2gAwIBAgIEPja4iTANBgkqhkiG9w0BAQsFADBbMQwwCgYDVQQGEwNV
+U0ExCzAJBgNVBAgTAk5ZMREwDwYDVQQHEwhOZXcgWW9yazESMBAGA1UEChMJQ2xh
+c3NwYXNzMRcwFQYDVQQDEw5EdXN0aW4gSG9mZm1hbjAeFw0xODA2MTEyMjM5NTla
+Fw00MzA2MDUyMjM5NTlaMFsxDDAKBgNVBAYTA1VTQTELMAkGA1UECBMCTlkxETAP
+BgNVBAcTCE5ldyBZb3JrMRIwEAYDVQQKEwlDbGFzc3Bhc3MxFzAVBgNVBAMTDkR1
+c3RpbiBIb2ZmbWFuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlNSZ
+iKA5nw3Be5DN2SoAzbgYXn6039zXAPEKHp3GSzHnbfYCOk/OPmZaF+p2beD9HCSS
+F/pHHLvUiHMk6aGlBShMYi4ZyIwQxeBYmqZusUqGKiX2/EbD3O4TIWreIOKz2wXC
+MlT4qGxHu1K5l5BR11VvW8Y2TuVKP5qA43/c5pEODgIai97Ve2O6ZaVKnS8u72EA
+6r0odjtFGGBoTsurTTT6GBEU7DZdsjlWI6wVD/FLxhTcxC4iRtYWNHXToj9EhO04
+sH3FumOEHeOPp4O2A8Lp5lAbhbZIF2EAd2J6vCyqCWiatkMf5h2gSkyP5lTs1rMI
+6OR9qcSGvphYsAS4KwIDAQABoyEwHzAdBgNVHQ4EFgQUvFkwyBPFEawb6IcZJXPv
+wsaPVdcwDQYJKoZIhvcNAQELBQADggEBAJKuvPcoIzuC3U7aA4ZMhxsw1P6N2CP0
+2fu4haHgbM4PsIXLGwSfTCM4qhVivffrV4g5ialV3QKl4/T4djO2oPUC8W/7z9S/
+smDHnvYJrdH0HOQF3xC2r9oXuarzxDYJ9Ir43Jmkf3HKZLTJFaxRFJwuO68Fypg1
+LEI0GFVegNq+nYbaxZ/tBSNwSXbNfKUwiS12wr5U56awgRhBsA71W6o1RLYYjAlo
+Gp7WmQnaCkHV9z9ebPc9wB1Vbp2o9ynsYE3N9awncppWYaKjd0lsHgBhqj0fq0wQ
+F7G+nlw8KSGUM+BB5v3rGiu78rpCwBQKs/CM/b8fcsl+6mQATVyydEo=
+-----END CERTIFICATE-----
+

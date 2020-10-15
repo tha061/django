@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1711563446 (0x660462b6)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Pedometer Reboot
+        Validity
+            Not Before: Aug 30 08:38:15 2016 GMT
+            Not After : Aug 24 08:38:15 2041 GMT
+        Subject: CN=Pedometer Reboot
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:93:62:bf:53:c3:16:9f:56:7c:79:52:c8:8e:16:
+                    aa:ff:2a:e5:37:20:c3:1f:b1:5a:d8:a4:fc:d2:63:
+                    ad:27:5f:e5:d0:29:e9:8d:2a:9e:18:65:bf:30:fb:
+                    40:d2:af:9e:45:a6:15:18:81:e6:e9:be:04:f0:c8:
+                    83:76:0b:9f:33:28:22:39:0a:a2:ce:d0:9b:f3:6d:
+                    64:02:d1:4f:46:ea:31:55:67:85:77:36:39:18:71:
+                    b0:1a:0e:f2:40:e6:68:71:bb:14:a0:38:02:c0:aa:
+                    63:67:8c:56:fc:c4:ea:c6:53:27:a6:0b:b8:3f:aa:
+                    3e:4c:15:b7:50:ed:32:fa:6a:8f:fd:7e:c3:e7:e5:
+                    9a:02:91:52:db:1a:62:da:06:72:18:61:fa:f2:94:
+                    12:c9:49:bb:48:91:c6:a3:90:64:f2:8f:b1:d2:df:
+                    2d:97:4f:83:17:35:61:1a:d8:c9:bf:72:8b:93:c1:
+                    6a:2f:7f:9e:8b:1a:fa:4f:08:7a:73:95:a3:be:cd:
+                    8d:8b:61:2b:f0:b0:f0:43:1e:de:01:4f:a8:c9:5b:
+                    57:ed:9c:55:94:8a:fc:06:ec:bb:07:f4:1a:8f:f2:
+                    34:2f:9b:df:a1:ce:ff:34:d5:25:55:8c:b0:34:4f:
+                    a9:71:67:fc:38:03:aa:51:7b:55:28:5c:98:53:9a:
+                    eb:2f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                98:A0:36:D5:25:A1:07:1B:3F:F2:0F:CA:50:F4:25:EA:CD:18:3B:E3
+    Signature Algorithm: sha256WithRSAEncryption
+         1e:4d:30:67:c7:d6:b3:b1:55:54:a4:37:d5:e0:eb:57:a7:29:
+         6e:03:bf:05:18:bd:91:02:b7:bb:3b:20:54:45:e0:e5:d3:a2:
+         8d:c2:2d:a2:2d:30:23:fe:df:e1:23:07:28:43:74:93:cf:43:
+         95:ec:76:46:8a:57:09:81:cd:b8:5e:ec:4b:3f:bb:63:25:d3:
+         21:05:e3:12:55:e2:80:08:e1:40:30:c8:6a:c9:91:87:21:33:
+         9e:50:47:6a:93:98:d5:ca:62:47:cf:57:5f:e8:74:80:f2:3c:
+         b3:40:fa:14:c2:3c:e8:52:8a:36:0c:d9:05:ac:1a:92:a6:7f:
+         60:6f:8f:a9:d5:03:3b:90:cc:94:20:27:dc:1b:ac:75:e9:ad:
+         53:68:eb:45:39:76:32:6d:f0:1f:12:45:0f:fd:27:3d:02:62:
+         ce:d8:5c:a0:a0:03:18:a2:eb:98:cc:46:0f:a8:cf:b0:bc:37:
+         91:5b:74:f6:c1:56:4d:27:a9:0c:5b:3f:11:1a:12:7c:0a:25:
+         cd:ff:c7:87:65:d4:ef:cc:4d:84:7f:3b:68:bd:9c:c8:ce:a1:
+         0f:4e:6f:de:f7:2f:68:f2:e9:2e:41:ee:1a:13:82:0a:a7:3d:
+         d8:28:37:b6:5a:9c:8d:02:69:f6:13:66:4e:f3:82:3f:00:85:
+         be:65:6f:32
+-----BEGIN CERTIFICATE-----
+MIIC1TCCAb2gAwIBAgIEZgRitjANBgkqhkiG9w0BAQsFADAbMRkwFwYDVQQDExBQ
+ZWRvbWV0ZXIgUmVib290MB4XDTE2MDgzMDA4MzgxNVoXDTQxMDgyNDA4MzgxNVow
+GzEZMBcGA1UEAxMQUGVkb21ldGVyIFJlYm9vdDCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAJNiv1PDFp9WfHlSyI4Wqv8q5Tcgwx+xWtik/NJjrSdf5dAp
+6Y0qnhhlvzD7QNKvnkWmFRiB5um+BPDIg3YLnzMoIjkKos7Qm/NtZALRT0bqMVVn
+hXc2ORhxsBoO8kDmaHG7FKA4AsCqY2eMVvzE6sZTJ6YLuD+qPkwVt1DtMvpqj/1+
+w+flmgKRUtsaYtoGchhh+vKUEslJu0iRxqOQZPKPsdLfLZdPgxc1YRrYyb9yi5PB
+ai9/nosa+k8IenOVo77NjYthK/Cw8EMe3gFPqMlbV+2cVZSK/Absuwf0Go/yNC+b
+36HO/zTVJVWMsDRPqXFn/DgDqlF7VShcmFOa6y8CAwEAAaMhMB8wHQYDVR0OBBYE
+FJigNtUloQcbP/IPylD0JerNGDvjMA0GCSqGSIb3DQEBCwUAA4IBAQAeTTBnx9az
+sVVUpDfV4OtXpyluA78FGL2RAre7OyBUReDl06KNwi2iLTAj/t/hIwcoQ3STz0OV
+7HZGilcJgc24XuxLP7tjJdMhBeMSVeKACOFAMMhqyZGHITOeUEdqk5jVymJHz1df
+6HSA8jyzQPoUwjzoUoo2DNkFrBqSpn9gb4+p1QM7kMyUICfcG6x16a1TaOtFOXYy
+bfAfEkUP/Sc9AmLO2FygoAMYouuYzEYPqM+wvDeRW3T2wVZNJ6kMWz8RGhJ8CiXN
+/8eHZdTvzE2EfztovZzIzqEPTm/e9y9o8ukuQe4aE4IKpz3YKDe2WpyNAmn2E2ZO
+84I/AIW+ZW8y
+-----END CERTIFICATE-----
+

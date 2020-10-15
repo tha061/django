@@ -1,0 +1,82 @@
+{
+  "name": "me.inakitajes.calisteniapp",
+  "fileSize": "38.5 MB",
+  "VTmd5": "3708d438acbda0823af3b68157cc32d3",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/fa8ea3ad4319db4d99260c0d868d974f150543c386b8fec8905a6018c7c52147/detection/f-fa8ea3ad4319db4d99260c0d868d974f150543c386b8fec8905a6018c7c52147-1601534954",
+  "VTresource": "fa8ea3ad4319db4d99260c0d868d974f150543c386b8fec8905a6018c7c52147",
+  "VTresponsecode": 1,
+  "VTscanID": "fa8ea3ad4319db4d99260c0d868d974f150543c386b8fec8905a6018c7c52147-1601534954",
+  "VTsha1": "c1b312d4f6b770dc6bddd25bdc947c0de48fe605",
+  "VTsha256": "fa8ea3ad4319db4d99260c0d868d974f150543c386b8fec8905a6018c7c52147",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: me.inakitajes.calisteniapp.workout.WorkoutSessionService  permission: ",
+      "name: me.inakitajes.calisteniapp.messaging.MyFirebaseMessagingService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "23 September 2020",
+    "Size": "38M",
+    "Installs": "500000",
+    "Current Version": "6.0.5",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$0.99 \u2013 $29.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "I\u00f1aki Tajes Reiris",
+    "Developer": "Visit website info@calisteniapp.com Privacy Policy Calle San Sim\u00f3n, San Bartolom\u00e9, Las Palmas, Spain, 35550"
+  },
+  "rating": "4.8",
+  "description": "Calisteniapp is more than an app, more than half a million people who use it say it. Start training Calisthenics today! There is content for all levels, so you don't need to have practiced calisthenics or bodyweight training before. Access hundreds of workout routines, for any level and muscle group, completely free or create your own routines with the schedule maker. so your routine changes automatically based on your performance. With this new concept of adaptive routines, you will get the best out of yourself and move forward in the most efficient way to achieve your goals. Do you like challenges? Then our training programs and 21-day challenges are for you! By following a more traditional methodology, you will be able to follow specific plans to achieve all kinds of goals, gain strength, gain muscle mass or perform the more complex movements of calisthenics. Learn to plan your week with the help of the schedule maker so you don't miss any workouts. Training is good, but learning is essential to do it correctly. Not sure how to exercise or what routine to train? With the exercise dictionary, educational articles and routine assistant you will learn everything you need! --------------------------------------------------------- PRO SUBSCRIPTION PRICING & TERMS Downloading Calisteniapp is free of charge. Get the Premium subscription to access workout plans and unlock all the content. The charges are non-refundable. Calisteniapp Premium prices may vary on location. Subscription purchase and info For the purchase of subscription payment will be charged to your Google Play account at the confirmation of purchase. The subscription automatically renews unless canceled 24 hours prior to the end of the subscription period. Manage subscriptions and turn off auto-renewal in the Google Play subscriptions manager after purchase. All charges are non-refundable. Best calisthenics app ever ! See full terms of use: https://calisteniapp.com/termsOfUse.html",
+  "privacyText": "https://calistenia-5cc65.web.app/es/privacyPolicy.html",
+  "numInstalls": 500000,
+  "developer": "I\u00f1aki Tajes Reiris",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://calisteniapp.com",
+    "Developer Email": "info@calisteniapp.com",
+    "Privacy Policy": "https://calistenia-5cc65.web.app/es/privacyPolicy.html"
+  },
+  "smali_Directories": [
+    "Facebook"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

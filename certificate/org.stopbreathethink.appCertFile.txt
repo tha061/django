@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1411969832 (0x5428f328)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=CA, L=Pasadena, O=Tools For Peace, OU=Mobile Development, CN=Tools Peace
+        Validity
+            Not Before: Sep 29 05:50:32 2014 GMT
+            Not After : Sep 23 05:50:32 2039 GMT
+        Subject: C=US, ST=CA, L=Pasadena, O=Tools For Peace, OU=Mobile Development, CN=Tools Peace
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:85:fb:ae:b1:18:df:32:ab:ce:dd:e8:ef:85:6f:
+                    ae:78:a4:e6:67:ba:c9:5b:df:36:eb:b3:ca:d7:48:
+                    f3:6c:c1:42:db:ad:2e:42:51:c2:57:1f:c7:e6:49:
+                    2d:42:81:95:cb:ee:57:d1:49:fb:cd:b0:a7:09:36:
+                    65:c9:4c:3a:b4:eb:5d:6c:ce:7a:ba:5a:9d:59:dd:
+                    50:87:0c:6a:20:fe:63:fc:d4:78:28:a9:72:08:00:
+                    26:c6:75:37:4b:8f:d9:f5:ee:a7:d9:aa:ef:fd:3e:
+                    a0:d0:92:b8:14:af:5b:08:17:be:ea:ba:6f:10:1a:
+                    7f:61:4d:17:65:c1:07:e3:87
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         49:f9:65:f3:e1:b8:05:87:7d:b4:24:d5:f9:70:82:95:70:5f:
+         aa:e3:b6:71:62:7d:6a:ad:98:5e:ff:96:72:7c:32:60:6c:70:
+         b2:df:00:bc:76:4e:cf:e1:d7:fc:9e:28:58:58:bc:f4:54:5c:
+         c0:a0:71:ba:98:23:c0:b9:b6:02:a0:cb:db:36:b5:1e:71:21:
+         4a:ae:de:50:de:96:35:39:0a:e4:f5:0c:c0:4d:4d:8f:0c:be:
+         48:8d:20:ca:da:e1:2f:e1:7e:f3:dc:76:67:99:3d:89:d8:6b:
+         18:fa:4b:5b:60:e4:ea:10:ad:cf:d0:d3:51:96:b9:59:8b:61:
+         95:e5
+-----BEGIN CERTIFICATE-----
+MIICazCCAdSgAwIBAgIEVCjzKDANBgkqhkiG9w0BAQUFADB6MQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCQ0ExETAPBgNVBAcTCFBhc2FkZW5hMRgwFgYDVQQKEw9Ub29s
+cyBGb3IgUGVhY2UxGzAZBgNVBAsTEk1vYmlsZSBEZXZlbG9wbWVudDEUMBIGA1UE
+AxMLVG9vbHMgUGVhY2UwHhcNMTQwOTI5MDU1MDMyWhcNMzkwOTIzMDU1MDMyWjB6
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExETAPBgNVBAcTCFBhc2FkZW5hMRgw
+FgYDVQQKEw9Ub29scyBGb3IgUGVhY2UxGzAZBgNVBAsTEk1vYmlsZSBEZXZlbG9w
+bWVudDEUMBIGA1UEAxMLVG9vbHMgUGVhY2UwgZ8wDQYJKoZIhvcNAQEBBQADgY0A
+MIGJAoGBAIX7rrEY3zKrzt3o74Vvrnik5me6yVvfNuuzytdI82zBQtutLkJRwlcf
+x+ZJLUKBlcvuV9FJ+82wpwk2ZclMOrTrXWzOerpanVndUIcMaiD+Y/zUeCipcggA
+JsZ1N0uP2fXup9mq7/0+oNCSuBSvWwgXvuq6bxAaf2FNF2XBB+OHAgMBAAEwDQYJ
+KoZIhvcNAQEFBQADgYEASfll8+G4BYd9tCTV+XCClXBfquO2cWJ9aq2YXv+Wcnwy
+YGxwst8AvHZOz+HX/J4oWFi89FRcwKBxupgjwLm2AqDL2za1HnEhSq7eUN6WNTkK
+5PUMwE1Njwy+SI0gytrhL+F+89x2Z5k9idhrGPpLW2Dk6hCtz9DTUZa5WYthleU=
+-----END CERTIFICATE-----
+

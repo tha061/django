@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2074979664 (0x7badad50)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=UA, ST=kh, L=Kh, O=TAC, OU=The Awesome Company, CN=Yevgen Kulik
+        Validity
+            Not Before: Jul 21 22:09:15 2016 GMT
+            Not After : Dec  7 22:09:15 2043 GMT
+        Subject: C=UA, ST=kh, L=Kh, O=TAC, OU=The Awesome Company, CN=Yevgen Kulik
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9e:51:de:3b:a5:88:f1:e4:1c:45:01:dc:39:ac:
+                    ac:c0:b9:de:95:c7:8f:4c:1d:ac:f8:eb:29:65:c8:
+                    ab:5c:1c:f4:99:6e:12:bd:5b:9c:66:a5:32:e0:b1:
+                    dd:a3:ba:d3:73:26:a9:d0:b8:d8:63:b9:4d:59:90:
+                    06:05:9a:23:49:77:99:7c:d2:66:63:6d:bc:f7:de:
+                    ac:9e:ff:82:16:3d:46:fe:a6:3b:a0:36:61:c7:6d:
+                    49:74:b8:45:a4:2c:bf:ee:d6:8b:2c:71:e1:d2:eb:
+                    f8:d8:9a:a5:8a:04:38:65:1a:b1:d7:27:62:9a:30:
+                    e7:98:3d:27:5b:5d:bf:ba:70:16:46:25:6c:b8:69:
+                    d8:d4:21:43:17:6a:46:9b:b4:78:c2:58:01:31:e1:
+                    ef:12:25:6e:ec:2a:fa:e9:fe:13:7c:0b:2a:22:69:
+                    ee:6a:e4:f0:b9:52:62:a9:46:ec:bc:50:09:d0:c0:
+                    0d:47:49:bb:57:fc:b3:fd:c9:64:18:08:ed:22:0c:
+                    77:ce:28:0c:32:b8:0b:5e:c5:76:66:16:98:b6:78:
+                    d6:b7:62:79:cf:7b:80:f5:cd:19:35:05:ed:e1:20:
+                    81:ec:38:20:1e:65:d3:cd:44:6a:cf:6e:db:89:25:
+                    2b:9d:74:2a:a3:76:ea:38:b6:5c:88:f9:ff:dc:7f:
+                    30:d3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                6B:57:DD:5C:DE:FB:35:4C:3F:12:8D:E7:89:5A:E8:B1:81:E5:57:D8
+    Signature Algorithm: sha256WithRSAEncryption
+         4d:2a:21:c3:aa:9d:d3:ef:f6:f1:5c:2c:ce:f3:4d:9c:46:2b:
+         4d:53:03:c4:53:38:e4:85:3a:00:32:fb:c9:e0:31:71:57:1c:
+         64:44:5c:1d:84:c7:e6:f4:a7:8b:6e:09:54:cd:ad:20:fa:94:
+         6e:aa:4a:dd:9b:8f:e3:ac:c1:c0:ea:28:2d:2e:4b:6a:e0:7e:
+         03:0b:53:b7:4d:51:f7:72:6c:4d:b5:8d:35:b9:ed:28:ac:96:
+         be:b2:a0:15:01:6f:06:3e:27:6c:3a:fe:fa:59:e7:ae:ca:f9:
+         c7:ea:7b:0e:55:68:4f:87:7e:da:f4:88:cd:dd:4b:67:f8:1d:
+         95:40:52:a8:34:c6:51:69:44:97:a9:97:1f:26:6c:fc:77:8a:
+         9e:60:9f:98:52:00:fe:5f:80:2e:b0:00:22:4a:f5:cd:e8:4c:
+         32:6d:cd:ab:c3:b4:e6:65:f0:de:6b:1c:cc:64:cb:71:05:9a:
+         3d:f3:28:93:47:f2:69:06:22:3f:92:08:c2:36:a7:85:6c:07:
+         a7:24:63:c0:74:1a:9b:d2:98:57:6c:f5:e5:ab:7d:32:be:cd:
+         b1:da:75:c0:c2:90:df:02:45:9e:54:0e:0e:99:a9:21:7c:91:
+         35:3b:bd:f6:c4:25:f0:6a:b6:f5:c9:f5:60:b6:de:f4:86:92:
+         fc:2e:70:45
+-----BEGIN CERTIFICATE-----
+MIIDczCCAlugAwIBAgIEe62tUDANBgkqhkiG9w0BAQsFADBqMQswCQYDVQQGEwJV
+QTELMAkGA1UECBMCa2gxCzAJBgNVBAcTAktoMQwwCgYDVQQKEwNUQUMxHDAaBgNV
+BAsTE1RoZSBBd2Vzb21lIENvbXBhbnkxFTATBgNVBAMTDFlldmdlbiBLdWxpazAe
+Fw0xNjA3MjEyMjA5MTVaFw00MzEyMDcyMjA5MTVaMGoxCzAJBgNVBAYTAlVBMQsw
+CQYDVQQIEwJraDELMAkGA1UEBxMCS2gxDDAKBgNVBAoTA1RBQzEcMBoGA1UECxMT
+VGhlIEF3ZXNvbWUgQ29tcGFueTEVMBMGA1UEAxMMWWV2Z2VuIEt1bGlrMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnlHeO6WI8eQcRQHcOayswLnelceP
+TB2s+OspZcirXBz0mW4SvVucZqUy4LHdo7rTcyap0LjYY7lNWZAGBZojSXeZfNJm
+Y228996snv+CFj1G/qY7oDZhx21JdLhFpCy/7taLLHHh0uv42JqligQ4ZRqx1ydi
+mjDnmD0nW12/unAWRiVsuGnY1CFDF2pGm7R4wlgBMeHvEiVu7Cr66f4TfAsqImnu
+auTwuVJiqUbsvFAJ0MANR0m7V/yz/clkGAjtIgx3zigMMrgLXsV2ZhaYtnjWt2J5
+z3uA9c0ZNQXt4SCB7DggHmXTzURqz27biSUrnXQqo3bqOLZciPn/3H8w0wIDAQAB
+oyEwHzAdBgNVHQ4EFgQUa1fdXN77NUw/Eo3niVrosYHlV9gwDQYJKoZIhvcNAQEL
+BQADggEBAE0qIcOqndPv9vFcLM7zTZxGK01TA8RTOOSFOgAy+8ngMXFXHGREXB2E
+x+b0p4tuCVTNrSD6lG6qSt2bj+OswcDqKC0uS2rgfgMLU7dNUfdybE21jTW57Sis
+lr6yoBUBbwY+J2w6/vpZ567K+cfqew5VaE+Hftr0iM3dS2f4HZVAUqg0xlFpRJep
+lx8mbPx3ip5gn5hSAP5fgC6wACJK9c3oTDJtzavDtOZl8N5rHMxky3EFmj3zKJNH
+8mkGIj+SCMI2p4VsB6ckY8B0GpvSmFds9eWrfTK+zbHadcDCkN8CRZ5UDg6ZqSF8
+kTU7vfbEJfBqtvXJ9WC23vSGkvwucEU=
+-----END CERTIFICATE-----
+

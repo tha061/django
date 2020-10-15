@@ -1,0 +1,70 @@
+{
+  "name": "com.food.calories",
+  "fileSize": "3.5 MB",
+  "VTmd5": "29b88c2cf083d87edd45a8f51299e28e",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/d733f7fc02a37feea585bd0ad39d7271a25ecad85148e6b0bb5c6279051f3568/detection/f-d733f7fc02a37feea585bd0ad39d7271a25ecad85148e6b0bb5c6279051f3568-1602712912",
+  "VTresource": "d733f7fc02a37feea585bd0ad39d7271a25ecad85148e6b0bb5c6279051f3568",
+  "VTresponsecode": 1,
+  "VTscanID": "d733f7fc02a37feea585bd0ad39d7271a25ecad85148e6b0bb5c6279051f3568-1602712912",
+  "VTsha1": "d2ba59ecfd864f031a69eec088ad40bb820216d2",
+  "VTsha256": "d733f7fc02a37feea585bd0ad39d7271a25ecad85148e6b0bb5c6279051f3568",
+  "VTtotal": 65,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.CampaignTrackingService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "27 May 2018",
+    "Size": "3.5M",
+    "Installs": "5000000",
+    "Current Version": "1.6",
+    "Requires Android": "4.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Alexey Korobov",
+    "Developer": "Visit website hotgameskz@gmail.com Privacy Policy"
+  },
+  "rating": "4.5",
+  "description": "Using the calories table you can define the energy value of the most popular food items and cooked foods. As well, you can learn and correct your daily eating. General list includes the information on energy, carbohydrates, proteins and fats content in 100 grams of food. Energy value is expressed in kilocalories (kcal). The app contains more than 8700 items, and for your convenience it is separated into sections, and food items are listed in alphabetic order. Data in table are maximally exact, but you shall remeber that cooking peculiarities of some food influence the energy value and content of proteins, fats and carbohydrates.",
+  "privacyText": "http://hotgames.kz/pp_and_tc/calories_in_food_privacy_policy.html",
+  "numInstalls": 5000000,
+  "developer": "Alexey Korobov",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://hotgames.kz",
+    "Developer Email": "hotgameskz@gmail.com",
+    "Privacy Policy": "http://hotgames.kz/pp_and_tc/calories_in_food_privacy_policy.html"
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Google Analytics",
+    "Nostra13"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

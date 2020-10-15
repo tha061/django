@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1474020517 (0x57dbc4a5)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: ST=Armenia, L=Yerevan, O=fyfplank.me, OU=fyfplank.me, CN=Gor
+        Validity
+            Not Before: Sep 16 10:08:37 2016 GMT
+            Not After : Sep 10 10:08:37 2041 GMT
+        Subject: ST=Armenia, L=Yerevan, O=fyfplank.me, OU=fyfplank.me, CN=Gor
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:8d:74:89:b3:e2:2c:23:76:05:0d:76:67:98:0e:
+                    8d:ed:9b:95:7d:20:c7:1d:6a:77:11:25:bb:51:a7:
+                    56:32:4e:d4:4e:de:2b:6b:19:c6:3f:4e:e1:59:ee:
+                    43:31:7f:bc:65:61:bf:fc:01:9d:88:5a:d5:9c:4c:
+                    ee:54:be:7d:c6:f6:ea:6c:2e:c9:d3:c0:4c:fa:4f:
+                    45:66:0f:fd:fb:20:d6:77:f7:25:17:9e:76:c6:74:
+                    61:16:3c:76:c2:75:f5:79:fb:03:7f:19:84:66:c5:
+                    64:1c:fa:ce:cc:94:e2:12:c2:01:ef:70:c4:2f:58:
+                    a5:06:f2:42:e8:66:d5:ae:d5
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         50:a2:06:c2:86:93:a8:79:5a:7b:b8:f0:8e:32:7d:ed:85:2d:
+         08:57:76:6b:af:d7:b3:21:a6:f0:81:ff:38:f1:2a:1c:57:9c:
+         aa:a1:bb:9e:3d:15:ad:f6:c8:10:66:03:c4:d5:c5:55:8c:c1:
+         b2:c4:1e:58:b1:ef:ee:c3:95:ba:63:42:39:f0:41:1a:da:15:
+         3d:aa:5a:d5:cd:fd:6d:46:d4:e6:f9:08:f2:05:1d:85:ff:4e:
+         98:ab:65:3f:7c:46:89:7a:4c:f5:ca:60:84:27:41:c2:a9:06:
+         c9:ce:f7:02:1c:c0:01:b5:24:05:17:d3:83:e1:f7:37:8b:f6:
+         63:69
+-----BEGIN CERTIFICATE-----
+MIICMzCCAZygAwIBAgIEV9vEpTANBgkqhkiG9w0BAQUFADBeMRAwDgYDVQQIEwdB
+cm1lbmlhMRAwDgYDVQQHEwdZZXJldmFuMRQwEgYDVQQKEwtmeWZwbGFuay5tZTEU
+MBIGA1UECxMLZnlmcGxhbmsubWUxDDAKBgNVBAMTA0dvcjAeFw0xNjA5MTYxMDA4
+MzdaFw00MTA5MTAxMDA4MzdaMF4xEDAOBgNVBAgTB0FybWVuaWExEDAOBgNVBAcT
+B1llcmV2YW4xFDASBgNVBAoTC2Z5ZnBsYW5rLm1lMRQwEgYDVQQLEwtmeWZwbGFu
+ay5tZTEMMAoGA1UEAxMDR29yMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCN
+dImz4iwjdgUNdmeYDo3tm5V9IMcdancRJbtRp1YyTtRO3itrGcY/TuFZ7kMxf7xl
+Yb/8AZ2IWtWcTO5Uvn3G9upsLsnTwEz6T0VmD/37INZ39yUXnnbGdGEWPHbCdfV5
++wN/GYRmxWQc+s7MlOISwgHvcMQvWKUG8kLoZtWu1QIDAQABMA0GCSqGSIb3DQEB
+BQUAA4GBAFCiBsKGk6h5Wnu48I4yfe2FLQhXdmuv17MhpvCB/zjxKhxXnKqhu549
+Fa32yBBmA8TVxVWMwbLEHlix7+7DlbpjQjnwQRraFT2qWtXN/W1G1Ob5CPIFHYX/
+TpirZT98Rol6TPXKYIQnQcKpBsnO9wIcwAG1JAUX04Ph9zeL9mNp
+-----END CERTIFICATE-----
+

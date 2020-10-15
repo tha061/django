@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 646077416 (0x26825be8)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=RFit Apps
+        Validity
+            Not Before: May 20 12:40:26 2016 GMT
+            Not After : Apr 26 12:40:26 2116 GMT
+        Subject: CN=RFit Apps
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e1:75:2a:1a:7d:37:ed:1c:bd:fc:be:ea:b5:16:
+                    35:ad:32:1e:d6:04:04:cb:81:79:f7:78:ff:f9:97:
+                    0b:9d:b8:a6:5b:75:af:03:36:0b:86:cd:bc:6b:e5:
+                    ef:17:96:7a:f5:e4:00:2a:14:36:60:0b:9b:7a:04:
+                    2b:20:60:7c:c0:ba:31:57:fb:3e:53:17:13:3d:44:
+                    e0:46:fb:af:e2:01:52:6e:86:d0:8b:ee:ee:17:8c:
+                    48:d2:a0:43:36:34:fa:32:d2:f8:73:d1:ee:cd:48:
+                    25:87:17:34:97:72:88:16:36:e0:fb:42:d5:3e:08:
+                    5d:64:0d:fb:0d:52:8d:f4:2f:0c:82:e1:5d:3d:1c:
+                    26:a9:09:c7:27:d0:f9:99:2d:62:8c:c2:74:f1:8c:
+                    67:2c:59:33:02:84:d6:ed:4d:71:e0:ee:02:cb:51:
+                    93:66:e8:f1:4c:5c:44:73:61:77:bc:03:14:39:74:
+                    49:97:91:f5:d2:e3:27:99:a3:1d:7e:10:8d:e9:b5:
+                    18:f0:5b:d9:45:90:22:76:b5:80:4e:24:52:b2:1f:
+                    f9:0a:c9:13:99:7d:f2:3f:d6:a2:d7:98:15:de:74:
+                    67:58:96:ce:9d:f7:a0:7c:68:40:7e:95:9d:8e:1a:
+                    b5:d6:95:7b:14:f5:70:84:12:39:e3:39:af:9b:e7:
+                    e8:49
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                D3:75:B6:1B:ED:49:C7:02:68:F6:6E:05:2D:53:DF:43:D3:C0:5D:7A
+    Signature Algorithm: sha256WithRSAEncryption
+         20:88:72:88:8e:eb:42:46:f0:42:af:e1:af:2d:e5:47:e3:6a:
+         f6:28:df:b1:ca:8e:2e:b8:c2:5a:b7:56:e3:ea:6a:59:02:72:
+         4c:91:30:d8:6d:9f:47:8d:33:ba:d4:df:ed:c2:c7:4e:b2:ff:
+         64:c9:ee:42:73:db:82:d1:00:40:f2:e8:bc:3e:0f:83:ea:ef:
+         5e:3d:c3:4d:5a:77:c6:ed:9a:25:cd:26:54:0c:c5:87:2d:b9:
+         4e:b4:bb:f6:0a:8e:e0:5e:57:50:56:9c:35:43:ac:92:97:15:
+         d3:26:f7:27:48:2b:07:b8:48:96:63:75:68:dd:d4:b3:59:e0:
+         82:05:ef:f5:8c:d3:e0:ca:8e:fb:dd:4b:0e:97:30:24:5e:85:
+         ad:ed:24:9b:ef:34:61:7a:dd:4d:d0:41:b5:b0:42:2e:01:8c:
+         e7:4c:a5:0d:ff:c5:fc:09:06:fc:db:c2:c2:8d:fe:97:92:61:
+         30:a5:f6:14:eb:a9:f3:3e:34:71:f5:88:fa:d8:f2:c3:56:5c:
+         6c:cd:5e:95:a8:27:53:8b:d4:7f:0c:10:cd:7b:00:69:9d:37:
+         98:f7:db:32:aa:9f:08:29:b2:54:2c:16:1a:03:61:7f:5a:44:
+         f2:7c:be:98:f7:25:3a:7e:c7:5c:21:7e:09:1c:81:01:08:e8:
+         dc:f9:46:53
+-----BEGIN CERTIFICATE-----
+MIICyTCCAbGgAwIBAgIEJoJb6DANBgkqhkiG9w0BAQsFADAUMRIwEAYDVQQDEwlS
+Rml0IEFwcHMwIBcNMTYwNTIwMTI0MDI2WhgPMjExNjA0MjYxMjQwMjZaMBQxEjAQ
+BgNVBAMTCVJGaXQgQXBwczCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AOF1Khp9N+0cvfy+6rUWNa0yHtYEBMuBefd4//mXC524plt1rwM2C4bNvGvl7xeW
+evXkACoUNmALm3oEKyBgfMC6MVf7PlMXEz1E4Eb7r+IBUm6G0Ivu7heMSNKgQzY0
++jLS+HPR7s1IJYcXNJdyiBY24PtC1T4IXWQN+w1SjfQvDILhXT0cJqkJxyfQ+Zkt
+YozCdPGMZyxZMwKE1u1NceDuAstRk2bo8UxcRHNhd7wDFDl0SZeR9dLjJ5mjHX4Q
+jem1GPBb2UWQIna1gE4kUrIf+QrJE5l98j/WoteYFd50Z1iWzp33oHxoQH6VnY4a
+tdaVexT1cIQSOeM5r5vn6EkCAwEAAaMhMB8wHQYDVR0OBBYEFNN1thvtSccCaPZu
+BS1T30PTwF16MA0GCSqGSIb3DQEBCwUAA4IBAQAgiHKIjutCRvBCr+GvLeVH42r2
+KN+xyo4uuMJat1bj6mpZAnJMkTDYbZ9HjTO61N/twsdOsv9kye5Cc9uC0QBA8ui8
+Pg+D6u9ePcNNWnfG7ZolzSZUDMWHLblOtLv2Co7gXldQVpw1Q6ySlxXTJvcnSCsH
+uEiWY3Vo3dSzWeCCBe/1jNPgyo773UsOlzAkXoWt7SSb7zRhet1N0EG1sEIuAYzn
+TKUN/8X8CQb828LCjf6XkmEwpfYU66nzPjRx9Yj62PLDVlxszV6VqCdTi9R/DBDN
+ewBpnTeY99syqp8IKbJULBYaA2F/WkTyfL6Y9yU6fsdcIX4JHIEBCOjc+UZT
+-----END CERTIFICATE-----
+

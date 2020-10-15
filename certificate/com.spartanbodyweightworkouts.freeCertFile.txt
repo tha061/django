@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 374307448 (0x164f7a78)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Arslan Hajdarevic
+        Validity
+            Not Before: Feb 21 19:02:56 2015 GMT
+            Not After : Jun 24 19:02:56 3013 GMT
+        Subject: CN=Arslan Hajdarevic
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:81:8a:86:86:af:59:52:cf:c9:31:24:08:e4:05:
+                    f3:82:64:ba:56:b5:23:f7:ea:82:ef:54:20:13:64:
+                    37:fa:71:26:ac:05:dd:62:1f:54:f8:96:6f:d1:2e:
+                    78:54:bf:d2:ce:b5:56:e5:a2:1c:35:56:51:bf:da:
+                    d5:e4:f6:ff:e7:dc:3b:ee:e3:bb:fa:6a:bb:71:3a:
+                    4a:28:12:c8:44:1b:4d:1b:16:85:20:cf:18:3f:0b:
+                    c7:cd:9a:dd:2f:f3:7f:f1:ab:b9:ea:c2:99:a2:30:
+                    67:f7:c3:57:d1:b2:9b:a1:ed:75:48:13:d0:45:58:
+                    fe:09:39:3b:32:b1:a7:2f:00:51:54:ab:be:7b:a8:
+                    7e:cf:50:49:0d:17:09:3d:07:e6:79:e9:f8:9d:cb:
+                    e5:71:a2:a6:da:5f:a9:9b:36:6e:0f:85:30:57:a3:
+                    3f:51:1c:48:fb:be:09:4d:1c:1c:db:f0:4f:12:8b:
+                    e8:12:e1:f2:39:6a:8f:de:df:02:ea:ef:c1:b6:16:
+                    44:40:df:21:e1:4a:3d:a1:3a:6f:79:12:ea:f3:72:
+                    e2:c6:22:e9:7c:72:36:3f:25:c5:38:43:3c:d2:2b:
+                    ed:b5:7a:f6:7e:f5:6a:2c:b1:cf:0a:b0:bd:e6:e7:
+                    a1:92:9d:c1:fc:39:98:6b:c5:af:a1:cd:01:b4:ac:
+                    ec:3b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                16:FE:F2:01:01:B2:1A:D7:49:9D:CB:B3:09:17:36:0D:8C:16:6B:79
+    Signature Algorithm: sha256WithRSAEncryption
+         03:a3:c9:0b:9d:52:34:e9:0b:a1:b7:6a:93:5f:5c:bd:2e:16:
+         2c:2b:ee:dd:92:3e:91:22:c8:05:5b:f9:4f:b3:3c:49:59:84:
+         ce:19:9e:55:2c:df:45:47:03:90:2e:1a:54:50:3d:16:77:dc:
+         1d:02:97:17:cb:68:2e:da:05:5c:72:81:71:aa:b4:27:f5:62:
+         e0:0c:98:e3:38:dd:7a:ea:71:aa:98:82:89:cc:06:e0:9b:35:
+         5f:df:29:56:da:b1:c5:7f:0f:09:2a:c5:8c:78:3b:b4:b1:c9:
+         fb:d5:d1:57:e0:f7:98:34:8a:61:88:d9:12:d8:4f:f4:9a:fd:
+         08:61:79:8b:d5:0c:2a:a6:c5:9b:ff:bd:a3:66:eb:de:d5:b4:
+         bd:43:bc:1b:df:11:51:9f:ea:a7:bb:fe:26:37:d8:fd:eb:49:
+         d5:b3:80:34:56:ca:d5:0e:f5:c5:5f:c9:15:c4:e1:91:2c:e4:
+         9e:99:52:3f:56:a4:dc:2d:03:45:94:d4:89:35:98:b2:6d:39:
+         6d:70:30:20:15:e8:59:50:cb:b7:bc:87:39:b6:82:ca:8a:7f:
+         8f:cc:36:5c:6d:6e:c6:86:66:c5:a6:45:03:d8:4f:df:46:f5:
+         49:46:7c:10:4d:ed:e0:c5:fd:17:48:d6:74:d0:7a:d4:d6:42:
+         46:71:75:4e
+-----BEGIN CERTIFICATE-----
+MIIC2TCCAcGgAwIBAgIEFk96eDANBgkqhkiG9w0BAQsFADAcMRowGAYDVQQDExFB
+cnNsYW4gSGFqZGFyZXZpYzAgFw0xNTAyMjExOTAyNTZaGA8zMDEzMDYyNDE5MDI1
+NlowHDEaMBgGA1UEAxMRQXJzbGFuIEhhamRhcmV2aWMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCBioaGr1lSz8kxJAjkBfOCZLpWtSP36oLvVCATZDf6
+cSasBd1iH1T4lm/RLnhUv9LOtVblohw1VlG/2tXk9v/n3Dvu47v6artxOkooEshE
+G00bFoUgzxg/C8fNmt0v83/xq7nqwpmiMGf3w1fRspuh7XVIE9BFWP4JOTsysacv
+AFFUq757qH7PUEkNFwk9B+Z56fidy+VxoqbaX6mbNm4PhTBXoz9RHEj7vglNHBzb
+8E8Si+gS4fI5ao/e3wLq78G2FkRA3yHhSj2hOm95EurzcuLGIul8cjY/JcU4QzzS
+K+21evZ+9Wossc8KsL3m56GSncH8OZhrxa+hzQG0rOw7AgMBAAGjITAfMB0GA1Ud
+DgQWBBQW/vIBAbIa10mdy7MJFzYNjBZreTANBgkqhkiG9w0BAQsFAAOCAQEAA6PJ
+C51SNOkLobdqk19cvS4WLCvu3ZI+kSLIBVv5T7M8SVmEzhmeVSzfRUcDkC4aVFA9
+FnfcHQKXF8toLtoFXHKBcaq0J/Vi4AyY4zjdeupxqpiCicwG4Js1X98pVtqxxX8P
+CSrFjHg7tLHJ+9XRV+D3mDSKYYjZEthP9Jr9CGF5i9UMKqbFm/+9o2br3tW0vUO8
+G98RUZ/qp7v+JjfY/etJ1bOANFbK1Q71xV/JFcThkSzknplSP1ak3C0DRZTUiTWY
+sm05bXAwIBXoWVDLt7yHObaCyop/j8w2XG1uxoZmxaZFA9hP30b1SUZ8EE3t4MX9
+F0jWdNB61NZCRnF1Tg==
+-----END CERTIFICATE-----
+

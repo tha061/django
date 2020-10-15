@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1396339221 (0x533a7215)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=BN, ST=Barcelona, L=Barcelona, O=8fit, OU=8fit, CN=Pablo Micho
+        Validity
+            Not Before: Apr  1 08:00:21 2014 GMT
+            Not After : Aug 17 08:00:21 2041 GMT
+        Subject: C=BN, ST=Barcelona, L=Barcelona, O=8fit, OU=8fit, CN=Pablo Micho
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:af:ee:5a:0d:d1:8c:11:66:69:39:1d:38:5b:e4:
+                    19:c0:80:9f:7a:bc:43:34:fe:44:8a:6e:b5:40:05:
+                    aa:31:e7:7d:51:55:00:64:40:d3:88:12:42:f5:21:
+                    99:4f:2b:07:e9:43:4e:cd:46:74:1e:48:6f:43:b7:
+                    db:30:4b:27:ab:69:30:36:9b:3a:08:46:dc:a4:69:
+                    75:b8:e9:a7:f7:f9:d3:cd:77:76:0d:ff:b2:7e:44:
+                    c4:ef:8a:a6:30:1a:43:3f:c5:41:b5:58:37:61:1a:
+                    dc:cb:df:41:d4:40:d9:44:fb:1a:0c:f4:33:3b:f0:
+                    11:b7:12:43:c2:43:f1:b7:72:e4:25:23:59:78:8b:
+                    ea:82:85:fd:fb:ba:ca:10:0a:0c:09:4e:e0:b0:ab:
+                    09:16:e2:d7:97:a3:01:34:81:22:48:f8:56:a5:00:
+                    2b:04:cd:15:1b:7c:1e:7d:9b:2a:39:8a:b9:71:34:
+                    d0:fb:e1:2f:bb:a4:a9:76:08:42:b6:1c:09:13:d8:
+                    7c:a0:df:23:38:b5:05:78:7d:79:5f:87:9b:c3:5c:
+                    ce:94:2c:10:8d:d2:65:77:5f:b4:18:45:49:3f:c4:
+                    08:6c:f3:50:91:d0:69:94:fb:76:a7:05:0b:48:7f:
+                    6d:4d:40:68:34:6b:26:4f:c5:9d:ea:09:53:24:eb:
+                    32:bd
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         15:2e:b2:06:91:cc:b1:eb:5f:1e:96:b6:c8:b2:8e:67:d6:5d:
+         08:17:61:5d:b8:8f:7e:8f:01:d0:e9:85:c9:d2:d1:2f:84:81:
+         d6:6c:24:41:f9:39:93:a3:60:6b:98:d3:8d:16:c4:39:68:9d:
+         7c:f9:a7:94:cb:aa:58:74:0b:f9:2f:47:d8:b3:27:07:3d:51:
+         32:11:68:28:e4:e5:21:5f:3c:0c:74:71:03:01:2e:9b:70:e3:
+         69:e6:e4:7f:a2:c5:f8:60:10:41:80:5e:37:f1:a1:21:f5:3f:
+         d5:97:62:d6:87:80:e4:81:ec:fd:71:7a:e9:27:b6:2c:91:00:
+         6b:76:29:81:ed:67:c2:27:8f:74:6e:af:38:9b:7e:d2:6d:69:
+         a9:4a:03:ee:cf:44:84:71:d6:aa:00:c4:74:d1:a3:93:b0:5a:
+         be:4b:4f:0c:be:ef:62:13:ba:61:75:b4:8c:d7:4d:fa:0e:1a:
+         54:02:37:2c:00:f5:66:18:f8:5b:fa:bd:9c:82:41:61:bc:2e:
+         67:9c:62:67:c7:f8:c7:35:1e:7d:f7:fc:5f:15:23:97:7f:91:
+         48:c3:8b:1d:46:06:87:4c:a9:66:95:5d:29:75:09:88:dc:dc:
+         38:ce:aa:09:01:44:34:a2:b1:0d:f9:3c:73:6b:2e:f1:d6:ab:
+         79:ac:a8:5f
+-----BEGIN CERTIFICATE-----
+MIIDTjCCAjagAwIBAgIEUzpyFTANBgkqhkiG9w0BAQUFADBpMQswCQYDVQQGEwJC
+TjESMBAGA1UECBMJQmFyY2Vsb25hMRIwEAYDVQQHEwlCYXJjZWxvbmExDTALBgNV
+BAoTBDhmaXQxDTALBgNVBAsTBDhmaXQxFDASBgNVBAMTC1BhYmxvIE1pY2hvMB4X
+DTE0MDQwMTA4MDAyMVoXDTQxMDgxNzA4MDAyMVowaTELMAkGA1UEBhMCQk4xEjAQ
+BgNVBAgTCUJhcmNlbG9uYTESMBAGA1UEBxMJQmFyY2Vsb25hMQ0wCwYDVQQKEwQ4
+Zml0MQ0wCwYDVQQLEwQ4Zml0MRQwEgYDVQQDEwtQYWJsbyBNaWNobzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAK/uWg3RjBFmaTkdOFvkGcCAn3q8QzT+
+RIputUAFqjHnfVFVAGRA04gSQvUhmU8rB+lDTs1GdB5Ib0O32zBLJ6tpMDabOghG
+3KRpdbjpp/f50813dg3/sn5ExO+KpjAaQz/FQbVYN2Ea3MvfQdRA2UT7Ggz0Mzvw
+EbcSQ8JD8bdy5CUjWXiL6oKF/fu6yhAKDAlO4LCrCRbi15ejATSBIkj4VqUAKwTN
+FRt8Hn2bKjmKuXE00PvhL7ukqXYIQrYcCRPYfKDfIzi1BXh9eV+Hm8NczpQsEI3S
+ZXdftBhFST/ECGzzUJHQaZT7dqcFC0h/bU1AaDRrJk/FneoJUyTrMr0CAwEAATAN
+BgkqhkiG9w0BAQUFAAOCAQEAFS6yBpHMsetfHpa2yLKOZ9ZdCBdhXbiPfo8B0OmF
+ydLRL4SB1mwkQfk5k6Nga5jTjRbEOWidfPmnlMuqWHQL+S9H2LMnBz1RMhFoKOTl
+IV88DHRxAwEum3Djaebkf6LF+GAQQYBeN/GhIfU/1Zdi1oeA5IHs/XF66Se2LJEA
+a3Ypge1nwiePdG6vOJt+0m1pqUoD7s9EhHHWqgDEdNGjk7BavktPDL7vYhO6YXW0
+jNdN+g4aVAI3LAD1Zhj4W/q9nIJBYbwuZ5xiZ8f4xzUefff8XxUjl3+RSMOLHUYG
+h0ypZpVdKXUJiNzcOM6qCQFENKKxDfk8c2su8dareayoXw==
+-----END CERTIFICATE-----
+

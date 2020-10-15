@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1442635002 (0x55fcdcfa)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=01, ST=Colorado, L=Boulder, O=Stryd, CN=Kun Li
+        Validity
+            Not Before: Sep 19 03:56:42 2015 GMT
+            Not After : Sep  6 03:56:42 2065 GMT
+        Subject: C=01, ST=Colorado, L=Boulder, O=Stryd, CN=Kun Li
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d6:a5:f6:45:6e:7a:8a:0b:65:f7:b9:58:2e:ab:
+                    a0:ed:26:29:77:a6:1d:1c:e8:73:d8:94:d3:ef:7e:
+                    d8:bc:36:ac:6c:82:04:f4:31:d5:5d:29:f9:82:f9:
+                    c0:4b:47:6e:8f:e8:e0:be:f1:83:44:91:c5:6f:6b:
+                    4c:24:f8:af:05:70:e0:02:71:b0:5d:32:58:16:db:
+                    87:e2:01:a5:61:f7:73:51:e6:fb:a1:6f:8f:05:24:
+                    54:9f:a5:75:7a:7e:4f:95:d1:1b:d5:4b:56:8d:5b:
+                    1a:c3:88:96:cf:af:22:00:62:fa:36:c7:85:aa:0c:
+                    1b:88:f2:4c:3f:ec:11:22:2f
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         70:26:f7:22:f8:ee:e0:1b:8c:b6:aa:fc:01:fa:2f:32:72:2c:
+         98:93:59:d1:99:35:8b:30:b1:bd:11:0e:68:30:c9:91:d6:58:
+         26:31:42:a3:ad:17:c6:dc:6f:ad:19:b2:27:f7:67:ce:64:f1:
+         9e:b5:19:26:3a:d6:c2:cf:1d:f8:2a:9b:9b:a8:d6:84:40:3f:
+         42:3a:03:1c:b8:98:26:7d:67:5c:04:79:3e:f3:02:7e:17:b6:
+         73:c2:07:3e:b1:75:91:d0:28:48:71:95:b9:0d:8d:dc:9f:43:
+         59:2b:6b:79:9c:78:2d:b7:5a:67:61:45:eb:31:bf:6a:47:22:
+         4b:fc
+-----BEGIN CERTIFICATE-----
+MIICHzCCAYigAwIBAgIEVfzc+jANBgkqhkiG9w0BAQUFADBTMQswCQYDVQQGEwIw
+MTERMA8GA1UECBMIQ29sb3JhZG8xEDAOBgNVBAcTB0JvdWxkZXIxDjAMBgNVBAoT
+BVN0cnlkMQ8wDQYDVQQDEwZLdW4gTGkwIBcNMTUwOTE5MDM1NjQyWhgPMjA2NTA5
+MDYwMzU2NDJaMFMxCzAJBgNVBAYTAjAxMREwDwYDVQQIEwhDb2xvcmFkbzEQMA4G
+A1UEBxMHQm91bGRlcjEOMAwGA1UEChMFU3RyeWQxDzANBgNVBAMTBkt1biBMaTCB
+nzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1qX2RW56igtl97lYLqug7SYpd6Yd
+HOhz2JTT737YvDasbIIE9DHVXSn5gvnAS0duj+jgvvGDRJHFb2tMJPivBXDgAnGw
+XTJYFtuH4gGlYfdzUeb7oW+PBSRUn6V1en5PldEb1UtWjVsaw4iWz68iAGL6NseF
+qgwbiPJMP+wRIi8CAwEAATANBgkqhkiG9w0BAQUFAAOBgQBwJvci+O7gG4y2qvwB
++i8yciyYk1nRmTWLMLG9EQ5oMMmR1lgmMUKjrRfG3G+tGbIn92fOZPGetRkmOtbC
+zx34KpubqNaEQD9COgMcuJgmfWdcBHk+8wJ+F7Zzwgc+sXWR0ChIcZW5DY3cn0NZ
+K2t5nHgtt1pnYUXrMb9qRyJL/A==
+-----END CERTIFICATE-----
+

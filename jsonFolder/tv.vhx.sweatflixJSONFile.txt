@@ -1,0 +1,78 @@
+{
+  "name": "tv.vhx.sweatflix",
+  "fileSize": "11.7 MB",
+  "VTmd5": "ccf3ed354d981d1e135e6d7e75c8843e",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/31a9757879add268568d33588e84deb5665f0e8ecc90095df12628112bbc88b8/detection/f-31a9757879add268568d33588e84deb5665f0e8ecc90095df12628112bbc88b8-1602492970",
+  "VTresource": "31a9757879add268568d33588e84deb5665f0e8ecc90095df12628112bbc88b8",
+  "VTresponsecode": 1,
+  "VTscanID": "31a9757879add268568d33588e84deb5665f0e8ecc90095df12628112bbc88b8-1602492970",
+  "VTsha1": "72eac30e549de0d72def215e249f84bb4859f166",
+  "VTsha256": "31a9757879add268568d33588e84deb5665f0e8ecc90095df12628112bbc88b8",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.SYSTEM_ALERT_WINDOW Protection Level: signature|preinstalled|appop|pre23|development",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.uscreen_app2.video.activities.PlayerService  permission: ",
+      "name: me.pushy.sdk.services.PushySocketService  permission: ",
+      "name: me.pushy.sdk.services.PushyJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.cast.framework.media.MediaNotificationService  permission: ",
+      "name: com.google.android.gms.cast.framework.ReconnectionService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "26 May 2020",
+    "Size": "11M",
+    "Installs": "10000",
+    "Current Version": "2.8.0",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$9.99 \u2013 $99.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "BODYROCK TV INC.",
+    "Developer": "customercare@bodyrock.tv Privacy Policy 70 Raglan Road\nKingston, ON\nK7K 1K8"
+  },
+  "rating": "4.0",
+  "description": "Since 2008, BodyRock has been providing health and fitness coaching that you can follow at home without a gym membership. We launched Bodyrockplus so you can access all of our workouts and videos in one place, with awesome features that help you remove excuses and reach your fitness and health goals. It's like having a personalized trainer on your device for a fraction of the price! Subscribe to get access to exclusive workout series including HIIT, Tabata, Combat, Yoga, Strength Training. There's something for everyone! -Already have an account? Sign-In to access your subscription. -New? Try it for free! Subscribe in the app to get instant access. You'll receive unlimited access to content on all your devices. Pricing may vary and is confirmed prior to purchase. Payment is charged to your account at confirmation of purchase. After the free trial, subscription automatically renews unless canceled at least 24 hours before the end of the trial period. Monthly subscription automatically renews unless canceled within 24-hours of the end of current billing period. Manage your subscription in Account Settings (cancel trial; cancel subscription; view billing date).",
+  "privacyText": "https://www.bodyrockplus.com/pages/privacy-policy",
+  "numInstalls": 10000,
+  "developer": "BODYROCK TV INC.",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.bodyrockplus.com/pages/privacy-policy",
+    "Developer Email": "customercare@bodyrock.tv",
+    "Privacy Policy": "https://www.bodyrockplus.com/pages/privacy-policy"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Fasterxml"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

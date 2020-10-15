@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1653364843 (0x628c586b)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=FR, ST=Ile-de-France, L=Clichy, O=L'Or\xC3\xA9al, OU=CDO Team, CN=L'Or\xC3\xA9al Account
+        Validity
+            Not Before: Nov 16 09:46:44 2016 GMT
+            Not After : Apr  3 09:46:44 2044 GMT
+        Subject: C=FR, ST=Ile-de-France, L=Clichy, O=L'Or\xC3\xA9al, OU=CDO Team, CN=L'Or\xC3\xA9al Account
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9a:5a:27:32:22:22:d7:a4:0c:42:21:f8:ab:bf:
+                    28:c0:82:7a:d2:fe:f2:6b:8d:68:9c:72:6f:f7:52:
+                    11:0d:ff:5a:ea:74:d4:f9:77:9d:d2:1b:4f:8e:43:
+                    39:d5:2b:b8:bd:b3:fb:76:f2:f2:20:c5:f1:20:43:
+                    2a:d6:c9:90:a8:30:84:23:12:9a:f1:d8:51:56:ee:
+                    0f:1d:24:10:17:74:94:3d:79:40:85:4e:1f:9f:b8:
+                    ba:68:ec:e7:93:43:32:d9:12:ee:a2:22:dc:c1:12:
+                    7a:d9:d0:00:3f:7c:12:26:89:11:14:6e:9d:ed:db:
+                    e2:29:b1:22:2e:b1:29:b2:bd:c9:ba:b7:39:91:5c:
+                    55:34:5c:9d:e6:03:b2:e4:78:77:bb:31:c8:3b:a3:
+                    86:88:95:f8:d1:ed:19:76:73:54:03:0f:a9:4a:74:
+                    48:8e:7d:24:96:a2:28:55:35:37:88:46:5f:b3:90:
+                    0e:74:b0:c5:49:18:bb:ab:09:7c:81:d6:a4:ad:a6:
+                    b3:25:82:42:d9:69:ab:18:b9:bb:16:d5:ca:1a:cf:
+                    95:ef:77:e1:73:83:c5:af:94:1e:5d:10:bd:20:1e:
+                    60:2e:23:5f:31:b1:91:5c:d8:55:d1:87:31:50:2c:
+                    20:23:64:a1:52:c6:6a:3c:35:e6:de:97:0d:1c:9a:
+                    e9:47
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                14:D0:90:E3:DA:DC:63:A6:16:39:07:4D:B4:60:2A:16:3A:EC:9C:76
+    Signature Algorithm: sha256WithRSAEncryption
+         65:da:a5:83:40:46:e5:39:ff:5f:e5:fb:06:34:d4:22:f7:a1:
+         fc:56:d8:c0:af:d6:7f:31:64:d2:91:fa:cb:8a:18:de:0c:cf:
+         37:83:11:21:98:5f:01:e8:2c:fd:6a:03:1a:c1:2a:79:1f:d3:
+         e9:65:60:1a:35:3e:87:72:62:db:8b:83:32:4c:91:91:78:24:
+         9b:ed:69:80:e7:14:e9:38:e4:b7:40:78:21:58:3f:f5:77:7a:
+         96:b4:73:33:01:df:c2:73:17:71:5e:74:f5:29:5b:8e:04:9b:
+         6f:c3:ec:3a:4c:23:e3:37:8d:5f:a3:1c:7d:f2:79:5d:14:79:
+         d0:a4:53:63:d6:40:ba:46:19:e4:b0:f0:de:93:22:2d:79:53:
+         0a:a1:10:0c:91:61:f0:15:ed:78:3b:43:43:f2:ff:f4:98:2b:
+         ee:08:07:d7:3d:3f:89:cc:81:76:df:c1:04:8b:db:a2:1a:da:
+         4b:4e:a0:95:3a:af:42:d1:fa:4b:94:28:d3:13:fb:a9:25:b0:
+         b3:5d:32:f0:7a:8f:89:fa:7c:55:08:f9:eb:5a:3a:15:15:9f:
+         6d:63:db:46:8f:6c:b7:ca:54:4c:cc:22:ae:29:a2:22:36:cf:
+         78:cb:38:db:b4:ae:c0:be:f8:61:8c:a0:66:2e:d9:01:4a:ed:
+         27:10:12:59
+-----BEGIN CERTIFICATE-----
+MIIDjTCCAnWgAwIBAgIEYoxYazANBgkqhkiG9w0BAQsFADB3MQswCQYDVQQGEwJG
+UjEWMBQGA1UECBMNSWxlLWRlLUZyYW5jZTEPMA0GA1UEBxMGQ2xpY2h5MREwDwYD
+VQQKDAhMJ09yw6lhbDERMA8GA1UECxMIQ0RPIFRlYW0xGTAXBgNVBAMMEEwnT3LD
+qWFsIEFjY291bnQwHhcNMTYxMTE2MDk0NjQ0WhcNNDQwNDAzMDk0NjQ0WjB3MQsw
+CQYDVQQGEwJGUjEWMBQGA1UECBMNSWxlLWRlLUZyYW5jZTEPMA0GA1UEBxMGQ2xp
+Y2h5MREwDwYDVQQKDAhMJ09yw6lhbDERMA8GA1UECxMIQ0RPIFRlYW0xGTAXBgNV
+BAMMEEwnT3LDqWFsIEFjY291bnQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCaWicyIiLXpAxCIfirvyjAgnrS/vJrjWiccm/3UhEN/1rqdNT5d53SG0+O
+QznVK7i9s/t28vIgxfEgQyrWyZCoMIQjEprx2FFW7g8dJBAXdJQ9eUCFTh+fuLpo
+7OeTQzLZEu6iItzBEnrZ0AA/fBImiREUbp3t2+IpsSIusSmyvcm6tzmRXFU0XJ3m
+A7LkeHe7Mcg7o4aIlfjR7Rl2c1QDD6lKdEiOfSSWoihVNTeIRl+zkA50sMVJGLur
+CXyB1qStprMlgkLZaasYubsW1coaz5Xvd+Fzg8WvlB5dEL0gHmAuI18xsZFc2FXR
+hzFQLCAjZKFSxmo8Nebelw0cmulHAgMBAAGjITAfMB0GA1UdDgQWBBQU0JDj2txj
+phY5B020YCoWOuycdjANBgkqhkiG9w0BAQsFAAOCAQEAZdqlg0BG5Tn/X+X7BjTU
+Iveh/FbYwK/WfzFk0pH6y4oY3gzPN4MRIZhfAegs/WoDGsEqeR/T6WVgGjU+h3Ji
+24uDMkyRkXgkm+1pgOcU6Tjkt0B4IVg/9Xd6lrRzMwHfwnMXcV509SlbjgSbb8Ps
+Okwj4zeNX6McffJ5XRR50KRTY9ZAukYZ5LDw3pMiLXlTCqEQDJFh8BXteDtDQ/L/
+9Jgr7ggH1z0/icyBdt/BBIvbohraS06glTqvQtH6S5Qo0xP7qSWws10y8HqPifp8
+VQj561o6FRWfbWPbRo9st8pUTMwirimiIjbPeMs427SuwL74YYygZi7ZAUrtJxAS
+WQ==
+-----END CERTIFICATE-----
+

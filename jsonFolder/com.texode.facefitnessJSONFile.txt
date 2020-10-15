@@ -1,0 +1,77 @@
+{
+  "name": "com.texode.facefitness",
+  "fileSize": "50.8 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "13 October 2020",
+    "Size": "52M",
+    "Installs": "50000",
+    "Current Version": "1.2.1",
+    "Requires Android": "6.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$2.99 \u2013 $24.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Texode Technologies LLC",
+    "Developer": "softdev@texode.com Privacy Policy 117\u0410 Nezavisimosti Ave, Floor 10, Minsk, Belarus 220114"
+  },
+  "rating": "4.2",
+  "description": "FaceFitness is a unique application with complex exercises for the face, which will help you feel the difference three weeks after the start of training! All complexes are developed on the basis of professional exercises and the latest face-building technologies. A special guide will help you tone your facial muscles and prevent aging through performing facial gymnastics. Also, you can easily manage selected exercise programs through the application. FaceFitness is your personal portable trainer! Face building application - why? There is no longer any reason to spend money on the services of injection specialists and plastic surgeons. In the application you will find more than a hundred workouts. Special sets of exercises are available for the forehead, interbrow space, cheeks, nose, lips, nasolabial folds, cheekbones, and chin. The duration of the programs varies from 7 days to 3 weeks. How to do gymnastics for the face? How does FaceFitness work? Using the front camera, the application determines which parts of the face will be involved in the exercise. An additional window describes in detail how to do the exercise. All you need is your phone and some free time! Who should use face exercises? FaceFitness is suitable for women of all ages, face types and skin features. The application is completely tailored to you and helps you keep track of changes in facial expressions. The design and ease of use of the application will make your day a little better! I just found out about face gymnastics, what should I do? The application is suitable for both beginners and professionals in Face building. FaceFitness will help you tone your facial muscles and prevent skin aging in a short time! Manage your daily workouts, set up reminders for future workouts, and keep an eye on skin changes. We will help you get a little closer to the skin of your dreams! Free version in Russian In our application, part of the facial gymnastics programs are available completely free of charge. All descriptions of Face building exercises have been fully translated into Russian and English. PRO version The application contains the following subscription options (unlocking all exercises and programs for the face): Monthly subscription with a trial period of 3 days. Privacy Policy - https://doc.texode.com/facefitness/ru-privacy-policy User agreement - https://doc.texode.com/facefitness/ru-terms-of-use",
+  "privacyText": "https://doc.texode.com/facefitness/en-privacy-policy",
+  "numInstalls": 50000,
+  "developer": "Texode Technologies LLC",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://doc.texode.com/facefitness/en-privacy-policy",
+    "Developer Email": "softdev@texode.com",
+    "Privacy Policy": "https://doc.texode.com/facefitness/en-privacy-policy"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Facebook",
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,67 @@
+{
+  "name": "com.bodybike.bbsmartplus",
+  "fileSize": "3.7 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.dsi.ant.permission.ANT Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.BLUETOOTH Protection Level: normal",
+    "android.permission.BLUETOOTH_ADMIN Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.megster.cordova.ble.central.DfuService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "20 February 2020",
+    "Size": "3.7M",
+    "Installs": "50000",
+    "Current Version": "1.5.4",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "BODY BIKE International",
+    "Developer": "Visit website info@body-bike.com Privacy Policy Pier 6 Nord\n9900 Frederikshavn\nDenmark"
+  },
+  "rating": "3.1",
+  "description": "The BODY BIKE\u00c2\u00ae Indoor Cycling app is developed for the BODY BIKE SMART\u00c2\u00ae+ indoor bike. Use the smartphone to display the training data during a workout. Connect by Bluetooth\u00c2\u00ae. BODY BIKE Indoor Cycling app provides users with a powerful tool to monitor their indoor cycling during a workout and after. Displaying power/watts, %FTP, heart rate, cadence, distance and calories burned \u00e2\u20ac\u201c current, average and maximum values.  It is a motivating display of data intended all indoor cyclists using the BODY BIKE SMART\u00c2\u00ae+ indoor bike. Upload your performance data from the app to your Strava account to get a complete overview of all your workouts \u00e2\u20ac\u201c indoor cycling, running, hiking etc. Push yourself, achieve ranks and become a legend. Features: - Data display: tap the screen to switch between the data types. - Colour intensity zones: 5-zone colour display (Coggan's power zones). - FTP estimation: Estimate your FTP from your gender, age, weight, height and hours of weekly cardio training under Personal Settings. - 5 minute FTP Test: Take the test and find your FTP value. - VO2 max test: Take the VO2 max test to determine your FTP and VO2 max value. - Customization: Choose a favourite colour scheme. - Workout history: Keep track of the indoor cycling workouts. Get an overview of all past workouts and track improvement.  - Upload your performance data to your Strava account. New: - Achievement system: Push yourself and achieve rank and medals along your way.  - Metric and Imperial units system: Choose the right unit system for your need.  - Intensity scale: Get an overview of how many percentages of each workout you have spent in the few different intensity zones.  - Strava upload fix: Upload to Strava using a google account is now fixed. - New workout overview: You can now look at all your workout clustered in a week, month and even a year.  - Danish translation: The first translation out of several upcoming translations is now available. Do you have proposals to new features? Is something not working correctly?  Please contact us at info@body-bike.com BODY BIKE\u00c2\u00ae Indoor Cycling app connects to BODY BIKE SMART\u00c2\u00ae+ indoor bike by Bluetooth\u00c2\u00ae.  Compatible with most Bluetooth\u00c2\u00ae heart rate monitors.",
+  "privacyText": "https://body-bike.com/privacy-policy/",
+  "numInstalls": 50000,
+  "developer": "BODY BIKE International",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://body-bike.com",
+    "Developer Email": "info@body-bike.com",
+    "Privacy Policy": "https://body-bike.com/privacy-policy/"
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1101728185 (0x41ab09b9)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Ifor Powell
+        Validity
+            Not Before: Nov 18 17:32:02 2011 GMT
+            Not After : Oct 25 17:32:02 2111 GMT
+        Subject: CN=Ifor Powell
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8c:2a:a6:88:b0:0d:d8:d5:5b:7e:9d:29:74:8f:
+                    4a:8e:c0:26:21:4f:aa:1d:f5:65:bb:6c:25:83:56:
+                    e7:84:c7:aa:c6:d5:ad:61:2e:0d:16:16:43:6e:fd:
+                    9a:c5:7d:ce:24:42:ab:0a:fa:45:14:5a:4c:1a:4e:
+                    bc:e5:d9:72:83:69:70:9a:6d:48:c6:2b:81:3c:13:
+                    e1:59:d8:62:7c:8c:b1:b0:ff:8d:f7:37:e4:79:b2:
+                    34:e5:07:7c:70:74:71:da:4a:12:90:d8:80:08:7c:
+                    88:1d:24:57:43:8b:e7:6b:f2:10:86:13:ab:a6:69:
+                    80:67:b7:85:b0:d2:a4:a2:50:e3:3c:9c:73:cb:b7:
+                    38:1c:5f:93:04:c7:fe:70:c1:c7:6a:d6:d3:38:53:
+                    95:4e:03:aa:c6:96:2c:a9:b7:84:30:17:0d:51:bd:
+                    02:72:1d:04:0a:af:eb:c9:8a:e2:7a:f9:a1:e4:c6:
+                    fc:6f:7b:b7:24:d4:08:3a:c5:73:be:d2:d9:14:4f:
+                    40:7f:e2:52:f7:be:64:d2:e9:bb:e8:bc:05:c2:60:
+                    6c:e7:b4:12:4a:bd:8f:dd:8e:6b:56:e9:fd:a4:50:
+                    77:4c:db:ce:da:90:a4:92:6b:cc:dc:dc:5d:4e:74:
+                    d5:0a:8d:71:86:28:c1:d7:8c:30:4c:ee:c2:31:30:
+                    1d:97
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                FF:92:44:FE:B6:7C:1D:9B:B9:6C:BF:DC:54:0D:80:AA:A9:AD:FB:59
+    Signature Algorithm: sha256WithRSAEncryption
+         62:10:14:a7:70:82:e3:29:de:76:43:41:96:57:a4:c0:46:3e:
+         9e:55:28:ac:2d:d7:c2:f3:a0:d8:e4:ab:5a:3e:04:b7:ee:54:
+         bb:55:98:26:9a:a0:18:84:a9:24:73:dc:f2:be:8c:b0:74:c4:
+         1e:60:2f:49:49:ca:d4:f4:9a:8c:cc:38:81:98:b5:07:20:52:
+         7c:33:4d:ba:b3:7d:3e:c5:ef:4b:3e:20:1c:45:2f:cf:72:b1:
+         e3:9d:73:9f:b3:94:3c:10:06:6a:5b:61:cc:6d:1c:12:e2:da:
+         9a:70:b5:d6:ae:16:f1:63:27:0b:a8:bd:a7:58:fe:a9:a2:f6:
+         59:93:0d:35:5b:98:cc:54:12:35:88:3e:c8:f3:b9:98:dd:aa:
+         0a:e5:c6:ea:d5:49:c8:50:2e:29:12:d3:db:e6:bb:71:8a:47:
+         8e:62:f2:09:91:d0:26:bc:f5:e9:06:8f:0a:e4:09:96:f8:47:
+         f6:14:93:12:d3:3c:f5:01:3f:b5:81:85:0c:66:b5:f0:58:19:
+         21:75:e5:17:f7:7e:85:3d:c6:2e:7c:b4:bd:bb:e2:48:6d:ab:
+         59:aa:21:2b:9a:fd:8d:07:80:63:34:90:66:43:a5:3e:21:e9:
+         28:35:92:22:ee:d8:18:97:b4:a0:a7:78:63:29:e4:24:fd:e2:
+         e8:f1:b8:2e
+-----BEGIN CERTIFICATE-----
+MIICzTCCAbWgAwIBAgIEQasJuTANBgkqhkiG9w0BAQsFADAWMRQwEgYDVQQDEwtJ
+Zm9yIFBvd2VsbDAgFw0xMTExMTgxNzMyMDJaGA8yMTExMTAyNTE3MzIwMlowFjEU
+MBIGA1UEAxMLSWZvciBQb3dlbGwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCMKqaIsA3Y1Vt+nSl0j0qOwCYhT6od9WW7bCWDVueEx6rG1a1hLg0WFkNu
+/ZrFfc4kQqsK+kUUWkwaTrzl2XKDaXCabUjGK4E8E+FZ2GJ8jLGw/433N+R5sjTl
+B3xwdHHaShKQ2IAIfIgdJFdDi+dr8hCGE6umaYBnt4Ww0qSiUOM8nHPLtzgcX5ME
+x/5wwcdq1tM4U5VOA6rGliypt4QwFw1RvQJyHQQKr+vJiuJ6+aHkxvxve7ck1Ag6
+xXO+0tkUT0B/4lL3vmTS6bvovAXCYGzntBJKvY/djmtW6f2kUHdM287akKSSa8zc
+3F1OdNUKjXGGKMHXjDBM7sIxMB2XAgMBAAGjITAfMB0GA1UdDgQWBBT/kkT+tnwd
+m7lsv9xUDYCqqa37WTANBgkqhkiG9w0BAQsFAAOCAQEAYhAUp3CC4ynedkNBllek
+wEY+nlUorC3XwvOg2OSrWj4Et+5Uu1WYJpqgGISpJHPc8r6MsHTEHmAvSUnK1PSa
+jMw4gZi1ByBSfDNNurN9PsXvSz4gHEUvz3Kx451zn7OUPBAGalthzG0cEuLamnC1
+1q4W8WMnC6i9p1j+qaL2WZMNNVuYzFQSNYg+yPO5mN2qCuXG6tVJyFAuKRLT2+a7
+cYpHjmLyCZHQJrz16QaPCuQJlvhH9hSTEtM89QE/tYGFDGa18FgZIXXlF/d+hT3G
+Lny0vbviSG2rWaohK5r9jQeAYzSQZkOlPiHpKDWSIu7YGJe0oKd4YynkJP3i6PG4
+Lg==
+-----END CERTIFICATE-----
+

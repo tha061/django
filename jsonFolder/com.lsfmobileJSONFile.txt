@@ -1,0 +1,81 @@
+{
+  "name": "com.lsfmobile",
+  "fileSize": "43.5 MB",
+  "VTmd5": "4ed4ddb173351f15d2d32e138932a4ee",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/155dcd70010f83407bc1ed74bfd5cb8c5a5504cb75f720f10755e853e6d1c903/detection/f-155dcd70010f83407bc1ed74bfd5cb8c5a5504cb75f720f10755e853e6d1c903-1594369746",
+  "VTresource": "155dcd70010f83407bc1ed74bfd5cb8c5a5504cb75f720f10755e853e6d1c903",
+  "VTresponsecode": 1,
+  "VTscanID": "155dcd70010f83407bc1ed74bfd5cb8c5a5504cb75f720f10755e853e6d1c903-1594369746",
+  "VTsha1": "e6293cf680c7fbfcff7ade067bf997b5b3a53fb6",
+  "VTsha256": "155dcd70010f83407bc1ed74bfd5cb8c5a5504cb75f720f10755e853e6d1c903",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.READ_CALENDAR Protection Level: dangerous",
+    "android.permission.WRITE_CALENDAR Protection Level: dangerous",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "8 July 2020",
+    "Size": "49M",
+    "Installs": "50000",
+    "Current Version": "1.75.5",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$13.99 \u2013 $99.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Love Sweat Fitness",
+    "Developer": "Visit website support@lovesweatfitness.com Privacy Policy 27198 Paseo Espada Suite 624\nSan Juan Capistrano, CA 92675"
+  },
+  "rating": "3.9",
+  "description": "Get fit today with Love Sweat Fitness - more than just a women\u2019s workout app, we\u2019re here to support and motivate you for the whole journey! Follow along with guided workouts using Katie\u2019s proven 3:1 method and customized plans for all fitness levels. Whether your goal is to lose weight, tone up, build lean muscle or get fit, you\u2019ll find exactly what you need right here. Set and crush your goals with personalized weight, hydration and measurement trackers in one place. Plus, track your workouts, mood, self-care habits, add your progress photos and see how far you\u2019ve come! Earn trophies for crushing your fitness & self-care goals, grab bonus rewards along the way and keep an eye out for tons of motivational surprises to keep you going every single day. We\u2019re right there with you! -------------------------------------------------------- WHY SWEAT WITH LOVE SWEAT FITNESS? -------------------------------------------------------- \u25cf Daily workouts to lose fat, tone and build lean muscle \u25cf Benefit from Katie\u2019s proven 3:1 workout method \u25cf Follow guided workouts with full-length videos \u25cf Workout sessions are short enough to fit with any schedule \u25cf Customized programs for all fitness levels \u25cf Sweat challenges push you & boost fitness gains \u25cf Sculpt & tone your body with workouts targeting specific areas \u25cf Log your water intake, weight loss, workout history and more \u25cf Add progress pictures to see how far you\u2019ve come \u25cf Track workouts, self-care habits, your mood and more \u25cf Get motivated with in-app trophies and rewards START YOUR FITNESS JOURNEY WITH LOVE SWEAT FITNESS \u2013 DOWNLOAD TODAY!",
+  "privacyText": "https://lovesweatfitness.com/privacy-policy/",
+  "numInstalls": 50000,
+  "developer": "Love Sweat Fitness",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://lovesweatfitness.com",
+    "Developer Email": "support@lovesweatfitness.com",
+    "Privacy Policy": "https://lovesweatfitness.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Adobe",
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

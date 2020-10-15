@@ -1,0 +1,76 @@
+{
+  "name": "com.jnj.sevenminuteworkout",
+  "fileSize": "47.9 MB",
+  "VTmd5": "7c5322076db84132fe45e59224b7bf22",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/7f121ab3dc2bf27d279a0d339519361ef093749b8b67129adf2380ed26304019/detection/f-7f121ab3dc2bf27d279a0d339519361ef093749b8b67129adf2380ed26304019-1593059599",
+  "VTresource": "7f121ab3dc2bf27d279a0d339519361ef093749b8b67129adf2380ed26304019",
+  "VTresponsecode": 1,
+  "VTscanID": "7f121ab3dc2bf27d279a0d339519361ef093749b8b67129adf2380ed26304019-1593059599",
+  "VTsha1": "623091cf5bebf39ce248e65f2fa271955f751c32",
+  "VTsha256": "7f121ab3dc2bf27d279a0d339519361ef093749b8b67129adf2380ed26304019",
+  "VTtotal": 60,
+  "VTpositives": 1,
+  "VTratio": "0.016666666666666666",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.CHANGE_NETWORK_STATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.REQUEST_INSTALL_PACKAGES Protection Level: signature",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.jnj.sevenminuteworkout.media.MediaPlaybackService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "30 June 2020",
+    "Size": "50M",
+    "Installs": "500000",
+    "Current Version": "2.8.3",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Johnson & Johnson Health & Wellness Solutions Inc.",
+    "Developer": "Visit website jjhws@its.jnj.com Privacy Policy"
+  },
+  "rating": "4.6",
+  "description": "A fast, simple, science-based way to make every minute count!   Designed by Chris Jordan, Director of Exercise Physiology at the Johnson & Johnson Human Performance Institute, the app has been downloaded more than 2.5 million times in 230+ countries!  Key Features: \u2022 Workout Library contains 22 preset workouts, varying in intensity and duration \u2022 Workouts are designed to fit your schedule, ranging from 7 to 32 minutes \u2022 72 exercises and 22 workouts you can customize to create over 1,000 variations \u2013 from easy to hard \u2022 Smart Workout feature gauges your fitness and motivation level and creates a variety of workouts specifically for you \u2022 Create custom workouts targeting multiple focus areas and workout intensity \u2022 Control music and audio prompts from your device  \u2022 Learn the exercises with 72 high-definition video tutorials \u2022 Set workout and inactivity reminders to help you stay on track \u2022 Share your workouts via Facebook and Twitter  It\u2019s time to work out!",
+  "privacyText": "https://7minuteworkout.jnj.com/#ios-privacy-policy",
+  "numInstalls": 500000,
+  "developer": "Johnson & Johnson Health & Wellness Solutions Inc.",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://7minuteworkout.jnj.com/",
+    "Developer Email": "jjhws@its.jnj.com",
+    "Privacy Policy": "https://7minuteworkout.jnj.com/#ios-privacy-policy"
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Google Analytics",
+    "J256",
+    "New Relic"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

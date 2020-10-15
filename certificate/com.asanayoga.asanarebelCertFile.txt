@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 456224093 (0x1b316d5d)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: O=ASANAYOGA GmbH
+        Validity
+            Not Before: Sep 23 14:42:42 2016 GMT
+            Not After : Sep 17 14:42:42 2041 GMT
+        Subject: O=ASANAYOGA GmbH
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8d:53:53:04:a9:b0:36:ec:05:36:ff:14:7b:55:
+                    d1:79:a1:1d:ea:41:69:b9:e1:fb:75:e6:61:e1:71:
+                    0f:6f:56:32:24:f8:ac:e8:1a:7d:ca:6f:90:91:b1:
+                    4a:4a:6c:40:af:8c:97:62:8c:12:f5:9e:50:88:c2:
+                    bf:7f:3b:6b:ab:89:39:7d:32:0f:68:b0:a0:60:11:
+                    cd:1d:37:53:cd:d1:28:e7:d7:6f:50:b3:f3:e5:e3:
+                    47:36:d3:d8:5f:28:15:9e:30:f7:fd:dc:d1:f3:80:
+                    56:1d:8d:63:d2:f4:00:5f:1e:12:0f:95:c7:3e:a4:
+                    e7:52:44:48:71:97:1f:d7:fd:aa:20:13:a1:ff:e4:
+                    09:f9:53:0d:57:7c:f4:36:e0:f4:22:69:e6:06:93:
+                    67:46:ed:a3:50:7c:5f:bb:0b:04:22:5d:75:4c:e2:
+                    01:54:23:26:5a:44:04:9e:33:50:8f:6b:4b:3b:02:
+                    ed:dd:2c:40:f7:7a:fa:97:85:d8:6c:8e:5d:07:5c:
+                    39:9f:01:55:2d:21:d0:17:f1:f1:8f:5e:4e:3c:c4:
+                    e5:51:b6:76:86:03:c6:3a:f1:b8:3f:8c:82:e5:c9:
+                    3b:18:e8:02:8e:84:3a:8c:ae:f9:15:b0:89:e1:dc:
+                    45:7e:bf:35:19:92:b1:bd:52:e4:b1:5f:36:36:29:
+                    eb:0f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                78:EA:F4:77:AE:01:EB:33:C4:80:DF:E8:08:DC:DF:ED:05:92:DA:E1
+    Signature Algorithm: sha256WithRSAEncryption
+         67:10:76:3f:5d:81:14:43:e9:94:9c:ca:f2:db:77:9b:cd:41:
+         d0:c1:4c:01:f4:04:0e:b9:65:1d:7d:5e:4c:e7:65:34:93:ff:
+         a2:60:e2:26:ed:d2:8a:6b:35:2b:b3:ea:91:c0:c5:a0:b2:bf:
+         c3:60:0e:48:4d:cc:1d:44:80:f3:f3:a2:32:88:ca:fd:24:61:
+         a9:94:92:ca:78:be:f6:d3:c4:4a:21:af:d5:9a:49:81:79:75:
+         f3:b8:a6:7b:33:da:2c:6e:e8:9b:52:7f:ec:09:ce:48:01:80:
+         db:b8:90:93:77:83:06:dd:d7:7a:d9:fa:e7:71:34:79:cc:f5:
+         4d:6c:9c:43:0d:e2:fa:cb:31:ab:de:ed:38:74:05:76:ce:8a:
+         5a:04:c7:cc:48:5c:ed:ea:86:33:28:b9:8f:d6:41:25:66:0a:
+         e3:16:20:ab:5c:9b:e7:d6:05:72:0e:9d:fc:29:f8:42:86:d1:
+         b8:a6:b4:aa:3a:4c:89:1e:54:41:63:77:53:5a:e3:91:a1:03:
+         a8:00:ca:63:05:f7:0c:7e:51:ec:33:5f:bf:ac:89:ce:78:04:
+         43:c8:79:c7:41:16:2e:fc:0a:c9:a2:5f:32:3a:62:a4:5d:98:
+         7e:48:11:4e:46:36:c2:26:9b:6c:08:3c:4a:5a:7c:a3:31:0d:
+         dc:56:b5:cf
+-----BEGIN CERTIFICATE-----
+MIIC0TCCAbmgAwIBAgIEGzFtXTANBgkqhkiG9w0BAQsFADAZMRcwFQYDVQQKEw5B
+U0FOQVlPR0EgR21iSDAeFw0xNjA5MjMxNDQyNDJaFw00MTA5MTcxNDQyNDJaMBkx
+FzAVBgNVBAoTDkFTQU5BWU9HQSBHbWJIMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAjVNTBKmwNuwFNv8Ue1XReaEd6kFpueH7deZh4XEPb1YyJPis6Bp9
+ym+QkbFKSmxAr4yXYowS9Z5QiMK/fztrq4k5fTIPaLCgYBHNHTdTzdEo59dvULPz
+5eNHNtPYXygVnjD3/dzR84BWHY1j0vQAXx4SD5XHPqTnUkRIcZcf1/2qIBOh/+QJ
++VMNV3z0NuD0ImnmBpNnRu2jUHxfuwsEIl11TOIBVCMmWkQEnjNQj2tLOwLt3SxA
+93r6l4XYbI5dB1w5nwFVLSHQF/Hxj15OPMTlUbZ2hgPGOvG4P4yC5ck7GOgCjoQ6
+jK75FbCJ4dxFfr81GZKxvVLksV82NinrDwIDAQABoyEwHzAdBgNVHQ4EFgQUeOr0
+d64B6zPEgN/oCNzf7QWS2uEwDQYJKoZIhvcNAQELBQADggEBAGcQdj9dgRRD6ZSc
+yvLbd5vNQdDBTAH0BA65ZR19XkznZTST/6Jg4ibt0oprNSuz6pHAxaCyv8NgDkhN
+zB1EgPPzojKIyv0kYamUksp4vvbTxEohr9WaSYF5dfO4pnsz2ixu6JtSf+wJzkgB
+gNu4kJN3gwbd13rZ+udxNHnM9U1snEMN4vrLMave7Th0BXbOiloEx8xIXO3qhjMo
+uY/WQSVmCuMWIKtcm+fWBXIOnfwp+EKG0bimtKo6TIkeVEFjd1Na45GhA6gAymMF
+9wx+UewzX7+sic54BEPIecdBFi78CsmiXzI6YqRdmH5IEU5GNsImm2wIPEpafKMx
+DdxWtc8=
+-----END CERTIFICATE-----
+

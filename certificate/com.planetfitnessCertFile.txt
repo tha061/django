@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1423087352 (0x54d296f8)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=Donn Gobin
+        Validity
+            Not Before: Feb  4 22:02:32 2015 GMT
+            Not After : Jan 29 22:02:32 2040 GMT
+        Subject: CN=Donn Gobin
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:9d:2a:3f:bb:a5:a3:5b:81:0d:ec:65:a8:f6:72:
+                    a1:a3:ed:b2:49:a6:4e:a2:ca:e4:7e:a2:20:23:d0:
+                    ce:a8:01:e6:97:ca:d2:dc:7c:49:49:69:c0:84:a5:
+                    08:b7:76:84:cb:2f:3e:3a:05:3c:3f:72:8f:b8:b3:
+                    f9:57:5d:74:e0:b5:84:c5:34:f1:64:a4:ae:d0:f6:
+                    28:d9:d6:2a:10:25:aa:9c:7c:3f:8d:bc:e0:fa:cb:
+                    e5:44:9c:ab:58:1a:b2:ff:e6:81:3e:f8:91:a2:33:
+                    2f:57:de:6f:71:08:ec:27:0e:74:7e:97:d6:ad:28:
+                    6b:c5:56:83:4b:12:53:38:61
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         25:53:bc:57:9f:1e:88:99:6d:ff:1f:24:e5:22:c7:5a:f5:fc:
+         b8:6d:85:65:5b:1c:2b:2d:76:80:40:6a:cb:51:01:0f:70:90:
+         44:a7:96:f6:15:09:e3:b3:bf:81:f3:ae:33:6a:ba:e5:d9:1d:
+         19:91:62:f4:c8:79:8a:f3:2a:4a:e9:50:80:10:fd:78:7c:d9:
+         8b:4b:54:c9:8e:74:3d:f0:75:59:11:69:d3:df:e0:10:fc:88:
+         62:b4:81:bd:6e:31:a8:7f:31:31:1f:ff:15:bb:a0:17:52:70:
+         d2:cd:7f:3b:cf:0f:6c:c9:1c:a7:4c:2b:2a:14:07:29:a0:e7:
+         73:fa
+-----BEGIN CERTIFICATE-----
+MIIBoTCCAQqgAwIBAgIEVNKW+DANBgkqhkiG9w0BAQUFADAVMRMwEQYDVQQDEwpE
+b25uIEdvYmluMB4XDTE1MDIwNDIyMDIzMloXDTQwMDEyOTIyMDIzMlowFTETMBEG
+A1UEAxMKRG9ubiBHb2JpbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAnSo/
+u6WjW4EN7GWo9nKho+2ySaZOosrkfqIgI9DOqAHml8rS3HxJSWnAhKUIt3aEyy8+
+OgU8P3KPuLP5V1104LWExTTxZKSu0PYo2dYqECWqnHw/jbzg+svlRJyrWBqy/+aB
+PviRojMvV95vcQjsJw50fpfWrShrxVaDSxJTOGECAwEAATANBgkqhkiG9w0BAQUF
+AAOBgQAlU7xXnx6ImW3/HyTlIsda9fy4bYVlWxwrLXaAQGrLUQEPcJBEp5b2FQnj
+s7+B864zarrl2R0ZkWL0yHmK8ypK6VCAEP14fNmLS1TJjnQ98HVZEWnT3+AQ/Ihi
+tIG9bjGofzExH/8Vu6AXUnDSzX87zw9syRynTCsqFAcpoOdz+g==
+-----END CERTIFICATE-----
+

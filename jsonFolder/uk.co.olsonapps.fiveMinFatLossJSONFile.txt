@@ -1,0 +1,75 @@
+{
+  "name": "uk.co.olsonapps.fiveMinFatLoss",
+  "fileSize": "16.6 MB",
+  "VTmd5": "c6a60274546409e72d5277609ee1bb43",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/5f315497325bdb3b34f62425c01859dc2f15e1aa049c13d63b21b612074e7cd3/detection/f-5f315497325bdb3b34f62425c01859dc2f15e1aa049c13d63b21b612074e7cd3-1600172001",
+  "VTresource": "5f315497325bdb3b34f62425c01859dc2f15e1aa049c13d63b21b612074e7cd3",
+  "VTresponsecode": 1,
+  "VTscanID": "5f315497325bdb3b34f62425c01859dc2f15e1aa049c13d63b21b612074e7cd3-1600172001",
+  "VTsha1": "4e6c6c6a584ef48cfe81536f5ced65565cb5eeb9",
+  "VTsha256": "5f315497325bdb3b34f62425c01859dc2f15e1aa049c13d63b21b612074e7cd3",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.helio.homeworkoutsuite.music.MusicService  permission: ",
+      "name: com.helio.homeworkoutsuite.database.LoadDataService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "16 August 2020",
+    "Size": "17M",
+    "Installs": "100000",
+    "Current Version": "3.0.3",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$1.99 \u2013 $8.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Olson Applications Ltd",
+    "Developer": "Visit website catherine@olsonapps.co.uk Privacy Policy Stockton-on-Tees\nUK"
+  },
+  "rating": "4.5",
+  "description": "Kick start your way to a new body with these intense 5 minute fat loss workouts designed to burn fat and lose weight All sessions have timed rest and exercise periods to ensure workouts take no more than 5 minutes - even the busiest people should be able to find 5 minutes a day to exercise! All workouts are designed to help you tone up, burn calories and help weight loss. Each exercise has detailed instructions and clear animations making it ideal for beginners. Stay motivated and focused on your goals with exercise targets that vary according to your progress.  Separate fat loss workouts for men and women to target key trouble spots. Feel you can do more than 5 minutes?  Do 2 workout sessions back to back and feel the calories burn! A wide range of different fat loss exercises so you can lose weight, tone up and burn fat. See what you can achieve in just 5 minutes a day",
+  "privacyText": "http://www.olsonapps.co.uk/PrivacyPolicyApp.html",
+  "numInstalls": 100000,
+  "developer": "Olson Applications Ltd",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.olsonapps.co.uk",
+    "Developer Email": "catherine@olsonapps.co.uk",
+    "Privacy Policy": "http://www.olsonapps.co.uk/PrivacyPolicyApp.html"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Nostra13"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

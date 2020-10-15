@@ -1,0 +1,46 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1430230309 (0x553f9525)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=Skyfit, CN=Jeremy Smith
+        Validity
+            Not Before: Apr 28 14:11:49 2015 GMT
+            Not After : Apr 21 14:11:49 2040 GMT
+        Subject: O=Skyfit, CN=Jeremy Smith
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c0:0c:b3:33:05:e1:9b:0e:e3:e0:f1:a9:e8:75:
+                    c9:1b:16:54:cb:da:8c:71:1a:38:00:1e:10:97:2f:
+                    a3:bc:7b:65:95:4b:96:d4:e0:c7:68:13:03:cd:a3:
+                    c1:93:1c:86:fa:7d:27:87:27:e2:59:3b:b4:22:54:
+                    6d:f0:66:4d:2b:e3:68:cb:e9:04:fa:9b:66:45:43:
+                    e4:be:77:2d:c8:4f:7f:e5:d2:b3:6b:00:1a:64:4e:
+                    92:9a:15:3f:cf:01:5b:17:7b:17:7f:27:ea:75:2f:
+                    bd:60:9a:64:e9:53:78:cd:cd:df:fc:a8:a1:c2:87:
+                    2a:b3:37:eb:6b:1b:98:5f:cb
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         b7:72:17:13:97:7e:e8:39:c6:73:60:13:7c:cb:4a:a5:14:1d:
+         47:06:81:0e:04:90:1d:6a:a3:e7:98:39:f8:e9:6d:f5:c4:36:
+         b2:0d:57:1d:4a:e3:36:88:af:d1:d1:98:5c:ee:e1:98:cd:80:
+         9d:47:55:e4:e5:b2:ee:89:82:ab:ef:53:e2:6c:07:c4:9d:f0:
+         c3:3e:b3:12:69:bc:65:6b:e2:4d:f3:77:aa:c3:0e:4e:c0:e6:
+         da:74:e6:2b:d8:fa:f6:9d:65:ed:fb:82:33:c2:e4:54:ce:62:
+         bd:86:28:59:e0:2b:3b:46:dd:2d:94:a8:44:fa:e6:66:71:47:
+         c3:d1
+-----BEGIN CERTIFICATE-----
+MIIBxzCCATCgAwIBAgIEVT+VJTANBgkqhkiG9w0BAQUFADAoMQ8wDQYDVQQKEwZT
+a3lmaXQxFTATBgNVBAMTDEplcmVteSBTbWl0aDAeFw0xNTA0MjgxNDExNDlaFw00
+MDA0MjExNDExNDlaMCgxDzANBgNVBAoTBlNreWZpdDEVMBMGA1UEAxMMSmVyZW15
+IFNtaXRoMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDADLMzBeGbDuPg8ano
+dckbFlTL2oxxGjgAHhCXL6O8e2WVS5bU4MdoEwPNo8GTHIb6fSeHJ+JZO7QiVG3w
+Zk0r42jL6QT6m2ZFQ+S+dy3IT3/l0rNrABpkTpKaFT/PAVsXexd/J+p1L71gmmTp
+U3jNzd/8qKHChyqzN+trG5hfywIDAQABMA0GCSqGSIb3DQEBBQUAA4GBALdyFxOX
+fug5xnNgE3zLSqUUHUcGgQ4EkB1qo+eYOfjpbfXENrINVx1K4zaIr9HRmFzu4ZjN
+gJ1HVeTlsu6JgqvvU+JsB8Sd8MM+sxJpvGVr4k3zd6rDDk7A5tp05ivY+vadZe37
+gjPC5FTOYr2GKFngKztG3S2UqET65mZxR8PR
+-----END CERTIFICATE-----
+

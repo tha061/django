@@ -1,0 +1,91 @@
+{
+  "name": "nn.ease",
+  "fileSize": "66.6 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.alarm.permission.SET_ALARM Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.GET_TASKS Protection Level: N/A",
+    "18 Protection Level: Developer Defined Permission",
+    "android.permission.VIBRATE Protection Level: normal",
+    "air.nn.mobile.app.main.READ Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   description: @string/ease_read_permission_content   label: @string/ease_read_permission_title   name: nn.ease.READ"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: crc64ae1f025e891c6b29.InitService  permission: ",
+      "name: crc64a389c5cd135159df.NotificationServiceImpl  permission: ",
+      "name: crc64a389c5cd135159df.RemoteCommandCenterHandler  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "27 July 2020",
+    "Size": "67M",
+    "Installs": "50000",
+    "Current Version": "2.1.0",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$15.99 \u2013 $219.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "NeuroNation",
+    "Developer": "Visit website ease@neuronation.com Privacy Policy Synaptikon GmbH, Ritterstr. 3, 10969 Berlin, Germany"
+  },
+  "rating": "4.2",
+  "description": "Welcome to NeuroNation Ease, a personalised and effective meditation app that will help you to make your first steps into the world of guided meditation and mindfulness with ease. Ease Mindfulness and Meditation was developed by NeuroNation, a leading organisation in the field of scientific mental training. NeuroNation's cognitive training program was awarded the AOK-Leonardo Prize for Digital Prevention by Germany's Federal Ministry of Health. We live in busy times, and it can be hard to find calm and peace among the hustle and bustle. That's why with NeuroNation Ease, you can undertake various guided courses to help you deal with stress, anxiety, sleeping problems, and to improve your focus.  There are many studies that already show the various effects of regular meditation, including: 1. Reducing fatigue and learning how to prevent stress from taking hold before it arises. 2. Focussing your concentration and attention on that which is truly important for you. 3. Learning to combat recurring anxiety, worries, and panic attacks. 4. Helping stave off depression preventatively. 5. Finding inner peace and through this, being able to get a better night's sleep. 6. Allowing yourself to feel more content and happy, and to enjoy live to the full once more. With NeuroNation Ease, you receive: A free foundations course to introduce you to mindfulness and several techniques that can already help you in moments of stress. Personalisation of your meditation sessions based on your needs - change the length of the sessions and the level of spoken guidance at any time to make it even easier to relax. Guidance from a friendly and experienced meditation expert, with content developed together with the MBSR and MBCT practitioner Dr Malte Thormaehlen. Daily reminders to help you integrate mindfulness into your routine in whichever way suits you best. Several courses to introduce you to different techniques including breathing exercises and MBSR body scanning, with new courses published regularly. NEURONATION EASE PREMIUM NeuroNation Ease offers you an entire mindfulness course for free without restrictions. In addition to this, there are further courses to discover as part of NeuroNation Ease Premium and mini-exercises available to you looking at different techniques and allowing you to progress further on your mindfulness journey. New courses are published regularly, so keep an eye out!",
+  "privacyText": "http://www.neuronation.com/lp/data_privacy",
+  "numInstalls": 50000,
+  "developer": "NeuroNation",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://easeapp.de/",
+    "Developer Email": "ease@neuronation.com",
+    "Privacy Policy": "http://www.neuronation.com/lp/data_privacy"
+  },
+  "smali_Directories": [
+    "adjust",
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,72 @@
+{
+  "name": "com.insplisity.ultimateupperbodyworkouts",
+  "fileSize": "8.3 MB",
+  "VTmd5": "379e85378461f7022a9fda58af9b7056",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/74b732b8beee5f97d0e407b16d2f10b8f47f90635730b6678a567e6b56245838/detection/f-74b732b8beee5f97d0e407b16d2f10b8f47f90635730b6678a567e6b56245838-1578179093",
+  "VTresource": "74b732b8beee5f97d0e407b16d2f10b8f47f90635730b6678a567e6b56245838",
+  "VTresponsecode": 1,
+  "VTscanID": "74b732b8beee5f97d0e407b16d2f10b8f47f90635730b6678a567e6b56245838-1578179093",
+  "VTsha1": "313ffa1ffd3a9dc01c2f980c70a1cd03f9fa10ab",
+  "VTsha256": "74b732b8beee5f97d0e407b16d2f10b8f47f90635730b6678a567e6b56245838",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.alarm.permission.SET_ALARM Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "18 October 2019",
+    "Size": "8.3M",
+    "Installs": "100000",
+    "Current Version": "1.10",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Insplisity",
+    "Developer": "Visit website apps@insplisity.com Privacy Policy Insplisity\nKidriceva 35\n9220 Lendava\nSlovenia, EU"
+  },
+  "rating": "4.6",
+  "description": "Find the ultimate answer to the question: \u201cWhat workouts should I do to develop a stunning chest and arms?\u201d  Ultimate Upper Body Workouts has the most effective bodyweight and dumbbell exercises that you can do in the comfort of your own home. And that\u2019s all you need to build muscle and develop a strong and sculpted upper body that you\u2019ve always wanted. The workouts don\u2019t take much time. They\u2019re fun. They\u2019re safe. And they\u2019ll be sure to transform your body in a minimal amount of time. Included are cardio and HIIT, which will melt fat off of you and the special design of the workouts hits all of your major muscle groups, making sure that you don\u2019t run the risk of imbalances on your fitness journey. By training every two or three days, for a short thirty-minute (or less) session, you\u2019ll get started on the road to your dream body. Features: - Dynamic warm ups and cool downs to make sure you stay safe. - Beginner and advance workout routines. - Designed for everyone, men and women, young or old. - Engaging, animated exercise guides. - No internet necessary, work out whenever, wherever without worrying about WiFi. - Workout reminders to keep you on track. - Everything contained in a simple to use app. - 100% free. Currently includes the following workout routines: - Fat Burning Butt and Thigh Workout - Bodyweight Upper Body Workout - Upper Body HIIT Workout We\u2019re dedicated to helping you achieve your fitness goals, and we\u2019re constantly expanding. Stay tuned for more great workouts! Why not start right now? Achieve the physique you want. Get healthier. Lose extra weight. And have more energy for the things you want to do. All your questions, comments and feedback are welcome at contact@insplisity.com and we\u2019ll get back to you at the first opportunity.",
+  "privacyText": "http://insplisity.com/privacy-policy/",
+  "numInstalls": 100000,
+  "developer": "Insplisity",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.insplisity.com/",
+    "Developer Email": "apps@insplisity.com",
+    "Privacy Policy": "http://insplisity.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

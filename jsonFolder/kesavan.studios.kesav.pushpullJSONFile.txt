@@ -1,0 +1,75 @@
+{
+  "name": "kesavan.studios.kesav.pushpull",
+  "fileSize": "3.1 MB",
+  "VTmd5": "515fb2414c907faa4ba39553ef88eb01",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/5d4392188d8e081d8a0ddfe114318472be35fdda8b5d02a08bd4a4c52b3f1bd3/detection/f-5d4392188d8e081d8a0ddfe114318472be35fdda8b5d02a08bd4a4c52b3f1bd3-1597561354",
+  "VTresource": "5d4392188d8e081d8a0ddfe114318472be35fdda8b5d02a08bd4a4c52b3f1bd3",
+  "VTresponsecode": 1,
+  "VTscanID": "5d4392188d8e081d8a0ddfe114318472be35fdda8b5d02a08bd4a4c52b3f1bd3-1597561354",
+  "VTsha1": "430ded4af1f5b178cc41d5d9b58396df71703bdc",
+  "VTsha256": "5d4392188d8e081d8a0ddfe114318472be35fdda8b5d02a08bd4a4c52b3f1bd3",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "kesavan.studios.kesav.pushpull.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: kesavan.studios.kesav.pushpull.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "22 October 2017",
+    "Size": "3.1M",
+    "Installs": "10000",
+    "Current Version": "3.3.3",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Bava Kesavan",
+    "Developer": "Visit website contact@bavakesavan.com Privacy Policy"
+  },
+  "rating": "4.2",
+  "description": "A series of effective workouts that target specific muscle groups, in a 7-day fitness routine, to ensure you get toned, bigger and stronger. The workout is split up into 3 sections, Push, Pull, Legs and within those 2 parts, separated by 6 days. By training your body with a variety of different workouts, you will be able to target specific muscle groups to ensure you make progress. You will have 6 workouts to do each day, and the goal is to be able to do all of them with the suggested rest times. By following a routine, you will find yourself in better shape, both physically and emotionally. Features: - Keep track of training progress - Ensure you're following the right routine - Quick Ab Workout - View your progress on convenient graphs - Get suggestions on your training (coming soon) Consisting of 6 workouts, 6 days a week with 1 rest day, you will work different sections of your body out every day, ensuring your body gets the appropriate rest time to recover.  Day 1 works your chest and triceps. Day 2 works your back and biceps. Day 3 works your legs and butt out. Day 4 works a different part of your chest and triceps. Day 5 works your back and biceps out using different exercises. Day 6 works your leg out again, and Day 7 is your rest day.",
+  "privacyText": "http://bavakesavan.com/assets/privacypolicy.pdf",
+  "numInstalls": 10000,
+  "developer": "Bava Kesavan",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://bavakesavan.com",
+    "Developer Email": "contact@bavakesavan.com",
+    "Privacy Policy": "http://bavakesavan.com/assets/privacypolicy.pdf"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

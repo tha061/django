@@ -1,0 +1,79 @@
+{
+  "name": "no.bluprnt.WODroulette",
+  "fileSize": "28.1 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: org.apache.cordova.firebase.FirebasePluginMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "20 September 2020",
+    "Size": "28M",
+    "Installs": "50000",
+    "Current Version": "4.7.0",
+    "Requires Android": "7.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "The Training Blueprint",
+    "Developer": "Visit website feedback@bluprnt.no Privacy Policy Ture Nermans vei 1\n5143 Fyllingsdalen\nNorway"
+  },
+  "rating": "4.2",
+  "description": "Ever visit your local gym and get ready to start training, but don't know which workout to do? Sounds familiar? WOD Roulette to your rescue. WOD Roulette serves you a random WOD from our collection, ranging from classic benchmark WODs and Open workouts, to new, cool metcons you have never done before. Simply click the roulette button or shake your phone (to warm up you wrists and shoulder ;) ) and you have yourself a workout! As simple as that! We have both METCON and lifting type workouts:  - Open, Regionals and Games WODs - Benchmark WODs - Bodyweight movements - Max lifts - Travel and hotel friendly workouts - AMRAP - EMOM - RFT - FT - Ladder style workouts - Death by style workouts - Partner/team workouts - Lifting (powerlifting, weightlifting) - Endurance (running, rowing, skiing, biking) Don't like what Wodify, Beyondthewhiteboard or other services have planned for you? We have 100k+ workouts ready, try the best WOD generator NOW! Disclaimer: - This application is not affiliated or associated with CrossFit, Inc.",
+  "privacyText": "https://wodroulette.no/privacy",
+  "numInstalls": 50000,
+  "developer": "The Training Blueprint",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://wodroulette.no",
+    "Developer Email": "feedback@bluprnt.no",
+    "Privacy Policy": "https://wodroulette.no/privacy"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

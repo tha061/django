@@ -1,0 +1,70 @@
+{
+  "name": "com.nicemir.myback",
+  "fileSize": "27.7 MB",
+  "VTmd5": "6b3bd08784f77feb4a696ad2b4c16542",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/0145b5ed802bd1fd7d2fdc1b32947ab4f261f71a09f579a56c14ede5e0d387b6/detection/f-0145b5ed802bd1fd7d2fdc1b32947ab4f261f71a09f579a56c14ede5e0d387b6-1578594183",
+  "VTresource": "0145b5ed802bd1fd7d2fdc1b32947ab4f261f71a09f579a56c14ede5e0d387b6",
+  "VTresponsecode": 1,
+  "VTscanID": "0145b5ed802bd1fd7d2fdc1b32947ab4f261f71a09f579a56c14ede5e0d387b6-1578594183",
+  "VTsha1": "a6f751a47718ed1433c49d92785213f8c577adba",
+  "VTsha256": "0145b5ed802bd1fd7d2fdc1b32947ab4f261f71a09f579a56c14ede5e0d387b6",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "16 July 2015",
+    "Size": "28M",
+    "Installs": "100000",
+    "Current Version": "2.9",
+    "Requires Android": "3.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$7.00 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "nicemir.com",
+    "Developer": "Visit website web@nicemir.com Ukraine, Kyiv"
+  },
+  "rating": "4.6",
+  "description": "Back exercises We offer you a range of exercises to strengthen the muscle corset back and spine. Exercise will help prevent back pain and lumbar. Each exercise is shown in the video and has a brief description. A set of exercises includes: - Back exercises; - Exercises for the lower back; - Exercises for the neck; - Fitness; - Yoga. App features: - Video on each exercise; - Sound start and end of the exercise; - Customization of the exercise time; - Daily reminder about workout; - A set of exercises lying down and sitting. * Before performing any exercise you should consult with your doctor, especially if there is a hernia or protrusion of the spine.",
+  "privacyText": "",
+  "numInstalls": 100000,
+  "developer": "nicemir.com",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://nicemir.com/myback/",
+    "Developer Email": "web@nicemir.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

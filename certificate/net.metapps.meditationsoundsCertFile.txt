@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1350553601 (0x507fd001)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=SK, ST=Slovakia, L=Bratislava, O=Unknown, OU=Unknown, CN=Stefan Mitrik
+        Validity
+            Not Before: Oct 18 09:46:41 2012 GMT
+            Not After : Jul 22 09:46:41 2067 GMT
+        Subject: C=SK, ST=Slovakia, L=Bratislava, O=Unknown, OU=Unknown, CN=Stefan Mitrik
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c5:3c:d8:8c:53:96:5b:bc:5a:92:31:d0:30:0b:
+                    a1:4f:8b:bb:47:e4:b6:28:1e:31:01:56:25:56:5e:
+                    cf:41:3c:be:aa:f0:bb:4a:d1:f9:22:92:44:34:c7:
+                    ab:1c:db:a3:98:7c:19:df:3a:09:b7:71:5d:2c:67:
+                    66:a1:c7:2f:6f:ee:1e:66:36:20:7f:2a:e1:4b:3f:
+                    83:1b:a2:ab:d5:2b:16:b8:db:b8:bc:56:28:8a:70:
+                    33:c3:36:f1:e6:89:35:24:d6:55:19:6a:24:5b:8a:
+                    9d:3b:c4:99:4d:75:bd:8c:55:83:49:d2:b2:0e:15:
+                    98:35:b6:fa:98:be:9e:c5:87:50:20:00:4c:ff:23:
+                    d3:2e:f1:78:b6:8f:37:98:1e:cf:19:a4:ec:74:58:
+                    4f:e1:08:85:ec:87:05:9b:d5:e8:fb:4e:24:ad:26:
+                    43:e0:f3:e9:1a:3c:d8:84:da:2d:2c:1a:6a:e3:a1:
+                    00:2a:95:c7:57:6f:6d:48:6b:64:34:d4:d5:2c:75:
+                    ba:4a:77:36:29:a8:65:6a:e3:36:93:31:f7:fc:0b:
+                    16:c5:9d:26:f7:7b:50:b3:73:70:71:41:50:3f:73:
+                    dd:4b:56:4b:b3:ed:a3:1a:cc:b5:88:2a:2f:a6:f7:
+                    7e:43:c0:42:9d:a7:3d:d7:5a:de:f8:44:ad:a2:0c:
+                    63:e9
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         3f:3f:55:2c:d3:c9:58:14:ce:10:dd:5c:7d:4c:1e:c8:45:c2:
+         b7:51:d3:74:87:44:5f:3c:4b:fe:2e:f2:f1:7c:84:dc:65:81:
+         dd:94:41:4b:05:09:24:56:d5:8d:a0:06:c9:dd:33:32:8d:08:
+         5e:1c:10:60:69:5b:84:8a:26:c2:5c:30:b8:49:57:ac:43:91:
+         3c:92:dc:cf:3c:b4:37:32:0c:bb:25:e3:36:86:15:e0:e9:f9:
+         0b:1f:da:f5:35:a9:62:19:e7:79:ee:e7:3b:4c:8d:ec:d3:ff:
+         51:44:44:d8:76:8d:b4:9e:ee:ab:5e:4c:4d:39:41:ce:ff:13:
+         bb:0c:cb:c4:73:4c:e6:82:28:4c:38:1a:00:16:93:cb:fa:73:
+         81:ff:5c:6c:1d:77:f7:1a:cf:f1:62:eb:14:0f:95:a6:8b:74:
+         ce:0d:35:e7:99:e2:e4:da:28:d6:83:40:0d:ea:c6:0a:ee:21:
+         64:36:92:71:ab:51:fd:f7:f9:b7:23:14:a8:10:83:c7:dd:4f:
+         30:57:7c:1c:5e:e1:3a:8f:e9:52:75:43:9e:38:ac:a2:ec:4d:
+         2d:41:40:35:ca:9e:05:2b:86:f0:8e:c3:d7:5a:14:86:a8:78:
+         64:9c:0e:8c:9c:d8:45:56:f3:a7:84:84:d9:b4:97:d4:4f:f4:
+         cb:4c:30:ab
+-----BEGIN CERTIFICATE-----
+MIIDYDCCAkigAwIBAgIEUH/QATANBgkqhkiG9w0BAQUFADBxMQswCQYDVQQGEwJT
+SzERMA8GA1UECBMIU2xvdmFraWExEzARBgNVBAcTCkJyYXRpc2xhdmExEDAOBgNV
+BAoTB1Vua25vd24xEDAOBgNVBAsTB1Vua25vd24xFjAUBgNVBAMTDVN0ZWZhbiBN
+aXRyaWswIBcNMTIxMDE4MDk0NjQxWhgPMjA2NzA3MjIwOTQ2NDFaMHExCzAJBgNV
+BAYTAlNLMREwDwYDVQQIEwhTbG92YWtpYTETMBEGA1UEBxMKQnJhdGlzbGF2YTEQ
+MA4GA1UEChMHVW5rbm93bjEQMA4GA1UECxMHVW5rbm93bjEWMBQGA1UEAxMNU3Rl
+ZmFuIE1pdHJpazCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMU82IxT
+llu8WpIx0DALoU+Lu0fktigeMQFWJVZez0E8vqrwu0rR+SKSRDTHqxzbo5h8Gd86
+CbdxXSxnZqHHL2/uHmY2IH8q4Us/gxuiq9UrFrjbuLxWKIpwM8M28eaJNSTWVRlq
+JFuKnTvEmU11vYxVg0nSsg4VmDW2+pi+nsWHUCAATP8j0y7xeLaPN5gezxmk7HRY
+T+EIheyHBZvV6PtOJK0mQ+Dz6Ro82ITaLSwaauOhACqVx1dvbUhrZDTU1Sx1ukp3
+NimoZWrjNpMx9/wLFsWdJvd7ULNzcHFBUD9z3UtWS7PtoxrMtYgqL6b3fkPAQp2n
+Pdda3vhEraIMY+kCAwEAATANBgkqhkiG9w0BAQUFAAOCAQEAPz9VLNPJWBTOEN1c
+fUweyEXCt1HTdIdEXzxL/i7y8XyE3GWB3ZRBSwUJJFbVjaAGyd0zMo0IXhwQYGlb
+hIomwlwwuElXrEORPJLczzy0NzIMuyXjNoYV4On5Cx/a9TWpYhnnee7nO0yN7NP/
+UURE2HaNtJ7uq15MTTlBzv8TuwzLxHNM5oIoTDgaABaTy/pzgf9cbB139xrP8WLr
+FA+Vpot0zg0155ni5Noo1oNADerGCu4hZDaScatR/ff5tyMUqBCDx91PMFd8HF7h
+Oo/pUnVDnjisouxNLUFANcqeBSuG8I7D11oUhqh4ZJwOjJzYRVbzp4SE2bSX1E/0
+y0wwqw==
+-----END CERTIFICATE-----
+

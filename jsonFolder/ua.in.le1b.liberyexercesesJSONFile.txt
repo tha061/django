@@ -1,0 +1,64 @@
+{
+  "name": "ua.in.le1b.liberyexerceses",
+  "fileSize": "22.1 MB",
+  "VTmd5": "af5165ba3afad50af3ac5c304f12bb93",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/3c44d95cd5a4ba9deef86ad185c930f071f32338ff9e185f5e833d9ab6413a16/detection/f-3c44d95cd5a4ba9deef86ad185c930f071f32338ff9e185f5e833d9ab6413a16-1594809178",
+  "VTresource": "3c44d95cd5a4ba9deef86ad185c930f071f32338ff9e185f5e833d9ab6413a16",
+  "VTresponsecode": 1,
+  "VTscanID": "3c44d95cd5a4ba9deef86ad185c930f071f32338ff9e185f5e833d9ab6413a16-1594809178",
+  "VTsha1": "91157b37992f227ea8ea805b10671ca6e769f1d9",
+  "VTsha256": "3c44d95cd5a4ba9deef86ad185c930f071f32338ff9e185f5e833d9ab6413a16",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "29 August 2015",
+    "Size": "22M",
+    "Installs": "1000000",
+    "Current Version": "1.8.1",
+    "Requires Android": "2.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Le1b",
+    "Developer": "leib.publish@gmail.com Yuriy Myshliaiev\n\nKarla Marksa street 15/118\nVyshneve Kyiv\nUkraine\n08132"
+  },
+  "rating": "4.7",
+  "description": "The application is a universal tool for both amateurs power classes, and experienced practitioners. Special, exclusive character give detailed and neat illustrations, clear explanations, which contribute to the fullest extent possible perception and reproduction of the author's system of exercises. The practical use of this application will achieve strong skills correctly perform basic types of strength training will give a stable aesthetic result, which will not disappear because of a temporary cessation of practice mode. Muscle groups: Chest, Shoulders, The Back, Legs, Biceps, Triceps, The Press. If you have suggestions for povodunovogo requests or bugs, please contact us by e-mail.",
+  "privacyText": "",
+  "numInstalls": 1000000,
+  "developer": "Le1b",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "",
+    "Developer Email": "leib.publish@gmail.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,80 @@
+{
+  "name": "com.fitifyapps.bosu",
+  "fileSize": "20.7 MB",
+  "VTmd5": "328d0c90672eb44e33f203897d0d03c5",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/4072560fac9d5c8941542fa58b229a9f0a3bd642ae9d756af55efdc497b0415b/detection/f-4072560fac9d5c8941542fa58b229a9f0a3bd642ae9d756af55efdc497b0415b-1602494717",
+  "VTresource": "4072560fac9d5c8941542fa58b229a9f0a3bd642ae9d756af55efdc497b0415b",
+  "VTresponsecode": 1,
+  "VTscanID": "4072560fac9d5c8941542fa58b229a9f0a3bd642ae9d756af55efdc497b0415b-1602494717",
+  "VTsha1": "88bd887a8dc705c0f3134f4fdd001138ec97d0dc",
+  "VTsha256": "4072560fac9d5c8941542fa58b229a9f0a3bd642ae9d756af55efdc497b0415b",
+  "VTtotal": 60,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "25 February 2020",
+    "Size": "Varies with device",
+    "Installs": "10000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$3.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fitify Apps",
+    "Developer": "Visit website support@fitifyapps.com Privacy Policy Podhurecka 558 Klatovy 33901 Czech Republic"
+  },
+  "rating": "4.7",
+  "description": "Bosu Balance Trainer is a video coaching app, which gives you full workout sessions with BOSU stability ball.  Increase muscular strength, balance and cardio condition as well.  Features \u00e2\u20ac\u00a2 over 70 exercises \u00e2\u20ac\u00a2 5 unique workout programs \u00e2\u20ac\u00a2 voice coach \u00e2\u20ac\u00a2 clear HD video demonstrations \u00e2\u20ac\u00a2 works offline Custom Workouts Build your own workout with custom workouts. Choose exercises, duration, rest intervals and challenge yourself with your own training. Adaptable difficulty We adjust your training level up or down based on your feedback. Fitify Apps Be stronger, leaner, healthier with Fitify \u00e2\u20ac\u201c your very own personal trainer. Check out other Fitify apps with fitness tools (such as TRX, Kettlebell, Swiss Ball or Foam Roller).",
+  "privacyText": "https://gofitify.com/privacy-policy.html",
+  "numInstalls": 10000,
+  "developer": "Fitify Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://fitifyapps.com/",
+    "Developer Email": "support@fitifyapps.com",
+    "Privacy Policy": "https://gofitify.com/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

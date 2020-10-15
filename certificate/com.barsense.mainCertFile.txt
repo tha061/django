@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1386200571 (0x529fbdfb)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=Unknown, ST=Unknown, L=Unknown, O=BarSense, OU=Unknown, CN=Martin Drashkov
+        Validity
+            Not Before: Dec  4 23:42:51 2013 GMT
+            Not After : Apr 21 23:42:51 2041 GMT
+        Subject: C=Unknown, ST=Unknown, L=Unknown, O=BarSense, OU=Unknown, CN=Martin Drashkov
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:85:56:5c:ab:7e:b0:e9:75:69:66:8c:81:d5:43:
+                    9e:6f:31:c2:52:3f:ea:04:c2:d3:39:0b:29:f5:4f:
+                    9c:9d:28:c2:fa:0f:5b:94:92:17:94:1d:73:3d:d3:
+                    95:63:c6:fe:32:af:47:1c:e8:2f:62:4c:d1:6b:b3:
+                    92:aa:aa:34:83:2a:7c:ef:5b:a4:18:fe:8a:8b:1f:
+                    64:3a:a3:5a:dd:3a:9c:2a:15:61:21:25:d1:fe:5e:
+                    1e:6e:f4:08:79:6e:3f:57:8d:54:2e:36:c9:70:de:
+                    32:f7:6c:5e:80:06:03:49:b8:98:55:a6:bf:bf:2a:
+                    f9:43:f1:c7:ea:bf:f8:3a:cb:02:f7:f1:9a:a3:75:
+                    a6:4e:c0:cf:64:23:cc:a6:09:da:5a:74:c2:00:ed:
+                    b2:bc:89:b1:65:5a:0d:49:db:44:59:f0:14:79:61:
+                    59:e1:ed:f7:4e:db:52:73:6a:cd:01:cf:9d:67:09:
+                    6b:c1:fe:85:77:09:3d:bb:30:94:f3:1d:cb:ad:08:
+                    39:0d:b7:fb:09:70:18:e4:32:86:15:94:c5:f9:6b:
+                    16:9e:e2:f3:67:90:5a:0b:07:72:15:14:2d:aa:f1:
+                    46:f9:10:90:1a:03:97:42:48:f1:02:04:59:2f:88:
+                    a5:7b:15:ff:97:40:5b:79:35:1a:72:f7:43:4a:a8:
+                    ca:13
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         19:98:b9:34:4f:54:97:ec:e1:02:fe:8a:f3:53:95:82:4d:44:
+         a1:25:bb:a9:ef:48:0d:cf:c6:e1:cc:4b:4e:c5:dc:ba:89:24:
+         9f:34:11:a3:b0:23:f8:59:bf:11:7a:09:09:57:e3:83:08:2e:
+         95:44:b0:0a:a9:80:9b:c0:50:b5:bf:95:91:93:8c:10:cc:23:
+         bb:b5:a5:3e:f3:f5:6d:3e:b1:be:7c:2f:a1:1d:59:e7:30:50:
+         cd:8b:2b:a9:73:07:e4:b8:45:b9:14:bd:dd:ec:2c:d0:d0:fa:
+         27:80:8e:78:97:c0:f7:9d:f1:5e:80:0d:1c:d1:50:76:74:e5:
+         68:02:3b:7c:bc:4e:8f:f6:e0:ab:00:fe:e9:bb:c7:dd:2a:a6:
+         48:74:46:0a:eb:b9:75:39:be:f9:08:79:91:64:dd:af:54:0a:
+         98:4a:31:ac:40:39:f2:29:b2:a8:c4:87:39:37:3b:68:5d:e5:
+         46:1d:61:6b:2c:41:9a:ce:15:7d:66:63:fd:79:0b:12:6a:de:
+         e3:f8:92:09:cf:57:03:e6:1f:b9:c8:cb:da:a5:36:f4:20:94:
+         f4:82:34:8e:30:ef:ba:ef:bc:17:23:57:01:4e:40:f4:4b:f1:
+         4f:d7:fe:ea:4c:01:4b:69:69:b4:0e:ad:3e:3f:9b:d7:30:d2:
+         fd:c0:ee:c7
+-----BEGIN CERTIFICATE-----
+MIIDZjCCAk6gAwIBAgIEUp+9+zANBgkqhkiG9w0BAQUFADB1MRAwDgYDVQQGEwdV
+bmtub3duMRAwDgYDVQQIEwdVbmtub3duMRAwDgYDVQQHEwdVbmtub3duMREwDwYD
+VQQKEwhCYXJTZW5zZTEQMA4GA1UECxMHVW5rbm93bjEYMBYGA1UEAxMPTWFydGlu
+IERyYXNoa292MB4XDTEzMTIwNDIzNDI1MVoXDTQxMDQyMTIzNDI1MVowdTEQMA4G
+A1UEBhMHVW5rbm93bjEQMA4GA1UECBMHVW5rbm93bjEQMA4GA1UEBxMHVW5rbm93
+bjERMA8GA1UEChMIQmFyU2Vuc2UxEDAOBgNVBAsTB1Vua25vd24xGDAWBgNVBAMT
+D01hcnRpbiBEcmFzaGtvdjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AIVWXKt+sOl1aWaMgdVDnm8xwlI/6gTC0zkLKfVPnJ0owvoPW5SSF5Qdcz3TlWPG
+/jKvRxzoL2JM0WuzkqqqNIMqfO9bpBj+iosfZDqjWt06nCoVYSEl0f5eHm70CHlu
+P1eNVC42yXDeMvdsXoAGA0m4mFWmv78q+UPxx+q/+DrLAvfxmqN1pk7Az2QjzKYJ
+2lp0wgDtsryJsWVaDUnbRFnwFHlhWeHt907bUnNqzQHPnWcJa8H+hXcJPbswlPMd
+y60IOQ23+wlwGOQyhhWUxflrFp7i82eQWgsHchUULarxRvkQkBoDl0JI8QIEWS+I
+pXsV/5dAW3k1GnL3Q0qoyhMCAwEAATANBgkqhkiG9w0BAQUFAAOCAQEAGZi5NE9U
+l+zhAv6K81OVgk1EoSW7qe9IDc/G4cxLTsXcuokknzQRo7Aj+Fm/EXoJCVfjgwgu
+lUSwCqmAm8BQtb+VkZOMEMwju7WlPvP1bT6xvnwvoR1Z5zBQzYsrqXMH5LhFuRS9
+3ews0ND6J4COeJfA953xXoANHNFQdnTlaAI7fLxOj/bgqwD+6bvH3SqmSHRGCuu5
+dTm++Qh5kWTdr1QKmEoxrEA58imyqMSHOTc7aF3lRh1hayxBms4VfWZj/XkLEmre
+4/iSCc9XA+YfucjL2qU29CCU9II0jjDvuu+8FyNXAU5A9EvxT9f+6kwBS2lptA6t
+Pj+b1zDS/cDuxw==
+-----END CERTIFICATE-----
+

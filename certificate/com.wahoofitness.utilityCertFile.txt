@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1938102037 (0x73851715)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: ST=GA, L=Atlanta, O=Wahoo Fitness, CN=Rob Gilbert
+        Validity
+            Not Before: Jun 20 05:47:06 2013 GMT
+            Not After : Jun 14 05:47:06 2038 GMT
+        Subject: ST=GA, L=Atlanta, O=Wahoo Fitness, CN=Rob Gilbert
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d0:c4:4f:5d:bb:44:90:64:83:ae:f6:c5:14:63:
+                    16:3c:30:1d:7b:92:f5:ed:3e:be:5d:8e:6e:f7:13:
+                    8e:7f:9b:24:74:ab:ce:93:93:4b:fe:ea:b3:50:a6:
+                    d6:2d:a4:8d:b8:3b:a1:33:30:f2:f3:6a:83:f7:b8:
+                    e1:2c:1e:4d:53:3b:8b:21:e4:f5:52:ed:c5:90:8f:
+                    b1:8e:a0:ed:d8:93:eb:b7:64:4c:2c:6d:94:a8:6e:
+                    c8:cc:c5:c1:2b:1b:4a:a0:47:10:15:e3:28:aa:5c:
+                    f5:72:19:d9:1a:4b:19:64:a7:8f:db:e1:7a:d5:98:
+                    4f:b2:c3:b7:63:9b:bd:a3:c3:76:45:0b:f7:84:90:
+                    66:74:f4:e0:86:14:f3:87:75:63:66:fe:c6:18:9e:
+                    ef:bf:a4:3f:7e:15:1c:13:75:61:66:72:30:4d:6f:
+                    4e:5d:7e:1d:54:02:33:b8:04:ad:95:57:7e:d6:e8:
+                    77:ec:63:d9:cb:cf:3e:4e:97:d8:c9:74:84:e8:f8:
+                    af:09:b4:7e:48:9a:de:ea:2c:b9:fd:f5:1f:c9:c5:
+                    88:5f:a4:a2:8e:bb:14:f3:b9:36:c0:92:1b:e8:72:
+                    c1:26:95:f8:e6:7e:ad:72:33:7f:61:87:c8:bd:cc:
+                    18:cd:d9:8a:24:7b:de:85:d3:60:82:67:4a:dc:73:
+                    a3:d9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                97:60:A7:53:60:F5:94:7C:CF:A4:36:33:27:E5:17:25:3F:D9:8F:92
+    Signature Algorithm: sha256WithRSAEncryption
+         bd:bc:6c:91:5f:36:d7:c7:70:1e:b2:25:cb:a5:65:22:0f:2f:
+         5d:69:11:a5:11:d7:45:5e:d6:d8:d1:c4:fe:d9:2d:43:ad:9f:
+         28:34:ca:6a:80:3f:b7:23:e3:78:ee:87:d7:33:8a:75:ca:18:
+         15:a7:dd:95:5e:d6:d2:7d:45:66:74:86:60:ab:99:36:5e:c6:
+         90:03:ba:e4:16:27:03:89:b8:12:b6:02:fc:06:8f:34:c7:70:
+         8e:bc:38:9e:f1:f1:c4:0a:a5:fd:26:f8:d4:e9:22:d8:f0:38:
+         bf:18:41:8f:5f:14:06:df:39:01:17:ca:3f:b5:20:47:15:93:
+         f2:6d:3e:c0:f4:cf:d9:9f:48:bc:59:c8:1d:c7:30:4f:6c:65:
+         ba:34:0e:83:a7:24:e2:46:4a:f6:27:d8:3d:b6:ab:8e:0f:4d:
+         3b:73:ef:d3:d1:5f:1b:c4:d0:77:c0:47:2b:8d:08:01:2f:8c:
+         61:21:f5:cd:a1:e2:3e:95:99:5d:9a:30:2a:38:3c:f4:7f:78:
+         6f:9e:25:3b:c2:63:f0:66:7d:e4:3b:c4:84:64:84:0f:6c:df:
+         10:a0:e6:da:98:b6:42:51:0e:37:c4:8c:15:ed:0c:fe:54:a4:
+         0d:d6:9b:04:1b:05:6d:2e:75:c6:f8:a5:a7:cf:ec:32:aa:22:
+         9c:b3:77:32
+-----BEGIN CERTIFICATE-----
+MIIDOTCCAiGgAwIBAgIEc4UXFTANBgkqhkiG9w0BAQsFADBNMQswCQYDVQQIEwJH
+QTEQMA4GA1UEBxMHQXRsYW50YTEWMBQGA1UEChMNV2Fob28gRml0bmVzczEUMBIG
+A1UEAxMLUm9iIEdpbGJlcnQwHhcNMTMwNjIwMDU0NzA2WhcNMzgwNjE0MDU0NzA2
+WjBNMQswCQYDVQQIEwJHQTEQMA4GA1UEBxMHQXRsYW50YTEWMBQGA1UEChMNV2Fo
+b28gRml0bmVzczEUMBIGA1UEAxMLUm9iIEdpbGJlcnQwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDQxE9du0SQZIOu9sUUYxY8MB17kvXtPr5djm73E45/
+myR0q86Tk0v+6rNQptYtpI24O6EzMPLzaoP3uOEsHk1TO4sh5PVS7cWQj7GOoO3Y
+k+u3ZEwsbZSobsjMxcErG0qgRxAV4yiqXPVyGdkaSxlkp4/b4XrVmE+yw7djm72j
+w3ZFC/eEkGZ09OCGFPOHdWNm/sYYnu+/pD9+FRwTdWFmcjBNb05dfh1UAjO4BK2V
+V37W6HfsY9nLzz5Ol9jJdITo+K8JtH5Imt7qLLn99R/JxYhfpKKOuxTzuTbAkhvo
+csEmlfjmfq1yM39hh8i9zBjN2Yoke96F02CCZ0rcc6PZAgMBAAGjITAfMB0GA1Ud
+DgQWBBSXYKdTYPWUfM+kNjMn5RclP9mPkjANBgkqhkiG9w0BAQsFAAOCAQEAvbxs
+kV8218dwHrIly6VlIg8vXWkRpRHXRV7W2NHE/tktQ62fKDTKaoA/tyPjeO6H1zOK
+dcoYFafdlV7W0n1FZnSGYKuZNl7GkAO65BYnA4m4ErYC/AaPNMdwjrw4nvHxxAql
+/Sb41Oki2PA4vxhBj18UBt85ARfKP7UgRxWT8m0+wPTP2Z9IvFnIHccwT2xlujQO
+g6ck4kZK9ifYPbarjg9NO3Pv09FfG8TQd8BHK40IAS+MYSH1zaHiPpWZXZowKjg8
+9H94b54lO8Jj8GZ95DvEhGSED2zfEKDm2pi2QlEON8SMFe0M/lSkDdabBBsFbS51
+xvilp8/sMqoinLN3Mg==
+-----END CERTIFICATE-----
+

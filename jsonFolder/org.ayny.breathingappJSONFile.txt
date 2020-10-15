@@ -1,0 +1,60 @@
+{
+  "name": "org.ayny.breathingapp",
+  "fileSize": "15.2 MB",
+  "VTmd5": "50d02db1eba69208b016cb6e2fff7c1f",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/8d1234f9000ed49447f63a4154265b49441d07618549c51eb2ebfb52acdf31cf/detection/f-8d1234f9000ed49447f63a4154265b49441d07618549c51eb2ebfb52acdf31cf-1593729926",
+  "VTresource": "8d1234f9000ed49447f63a4154265b49441d07618549c51eb2ebfb52acdf31cf",
+  "VTresponsecode": 1,
+  "VTscanID": "8d1234f9000ed49447f63a4154265b49441d07618549c51eb2ebfb52acdf31cf-1593729926",
+  "VTsha1": "a74e32e5f95df94778c681291463cc2cbd371e9e",
+  "VTsha256": "8d1234f9000ed49447f63a4154265b49441d07618549c51eb2ebfb52acdf31cf",
+  "VTtotal": 59,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.svareniem.pranayamaapp.soundservice.SoundService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "7 January 2018",
+    "Size": "15M",
+    "Installs": "50000",
+    "Current Version": "1.0",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Sergey Varichev",
+    "Developer": "Visit website s.varichev@gmail.com"
+  },
+  "rating": "4.2",
+  "description": "The Breathing App is inspired by resonance, the scientific name that describes what happens when our heart rate, heart rate variability, blood pressure, and brainwave function come into a coherent frequency. It occurs spontaneously when we breathe at a rate of five to seven breaths per minute (instead of our usual 15-18). It results in a calm, restful alertness and many other benefits.  Quick start video: https://www.youtube.com/watch?v=xXpsoGHnEiU&list=UUNMy2KojFn0jMbxbHZVppGw&index=4 About Resonance The effects of resonance supports the innate ability of our body, nervous system, and emotions to restore themselves through the balancing of the complementary branches of our autonomic nervous system, which control our heart rate, blood pressure, digestion, respiration, and many other automatic functions of the body.  There have been hundreds of scientific studies performed on resonant breathing, which show a wide array of benefits, including reduction of inflammation, reduction of stress, improved sleep, improved resiliency, and strengthening of cardiovascular function.  How is it possible for one breathing technique to do so much? The answer lies within our nervous system. By breathing at resonance, we enter into an even balance between the two branches of our autonomic nervous system, the sympathetic (which moves us towards activity) and the parasympathetic, which moves us towards rest.  The sympathetic branch is our accelerator, and speeds us up. The parasympathetic is our braking system, which slows us down. We alternate between these two every second of the day, with each breath we take.  However, in our fact paced, information heavy world, we often lean towards acceleration. Spending just a few minutes consciously breathing sends signals of balance to our brain, telling us that we are ok, and brings us out from the part of our brain that makes us feel overwhelmed, into a state of calm. With resonant breathing, you learn how to apply your brake at will, rather than being sidelined by anxiety, distractedness, or excess stress.  Our world is very much in sympathetic overdrive: we are overly active, overly plugged in, and live in a world of both heated politics and climate. It\u2019s important to learn to cool down, so that we can be as effective in our lives as possible, and conscious breathing is one of the best ways to do that. The Breathing App, by virtue of toning the vagus nerve, reduces inflammation, and induces a state of restful alertness and mental clarity. Resonant breathing is like a stress reset button. About the creators of the Breathing App Eddie Stern, a yoga teacher, author and lecturer from New York, created the concept, and drew the blueprint for the app. Deepak Chopra, MD, FACP, NYT best selling author of over 85 books, founder of the Chopra Center and Jiyo.com, guided the science and context behind the app. Sergey Varichev, an app developer and coder from Belarus, currently living in Amsterdam, did the coding, and co-designed the app.  Moby, a musician, DJ, author, and photographer born in New York City, who has sold over 20 million albums worldwide, developed the breathing cue sounds.",
+  "privacyText": "",
+  "numInstalls": 50000,
+  "developer": "Sergey Varichev",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://ayny.org/breathing-app/",
+    "Developer Email": "s.varichev@gmail.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": false
+}

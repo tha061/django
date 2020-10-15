@@ -1,0 +1,82 @@
+{
+  "name": "com.ejercicioscaseros",
+  "fileSize": "10.2 MB",
+  "VTmd5": "de0b4a96016625e66f4c40f0a411682e",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/d8e1f514c7f254272fbcc3afc42500dc001d80e2eba4222a076c17e78bedfec7/detection/f-d8e1f514c7f254272fbcc3afc42500dc001d80e2eba4222a076c17e78bedfec7-1588959349",
+  "VTresource": "d8e1f514c7f254272fbcc3afc42500dc001d80e2eba4222a076c17e78bedfec7",
+  "VTresponsecode": 1,
+  "VTscanID": "d8e1f514c7f254272fbcc3afc42500dc001d80e2eba4222a076c17e78bedfec7-1588959349",
+  "VTsha1": "29c24d1a0beafbe442d9053de1b184949e2517d6",
+  "VTsha256": "d8e1f514c7f254272fbcc3afc42500dc001d80e2eba4222a076c17e78bedfec7",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "8 May 2020",
+    "Size": "12M",
+    "Installs": "5000000",
+    "Current Version": "7.12.2",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$2.99 \u2013 $3.17 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "MoviliXa SAS",
+    "Developer": "Visit website info@movilixa.com Privacy Policy Cra 72B # 5B - 93 Of. 401\nBogot\u00e1 - Colombia"
+  },
+  "rating": "4.6",
+  "description": "Exercise is an important part of a healthy lifestyle because it prevents health problems, develops resistance, provides more energy and helps to reduce stress. With our application you can get your body in great shape without using any expensive machine. You can do exercise anywhere you wish, no equipment needed. With text to speech engine included, you can perform the entire routine without interrupting the exercise. Additionally you can activate a sound guide per second for best rhythm in the exercises. Each exercise contains an illustrative details to facilitate their execution. It has warm-up workout and final stretch workout to improve training results. Additionally, we have the option to create personalized routines and keep track of your weight and body mass index. We have compiled the best routines, made by professionals, so you can do them in the comfort of your home. Some of the routines are the following: * Seven minutes * Abs in 5 minutes * Legs and buttocks * Strengthen your body You can also track the workouts on a calendar and create alarms for the days and hours you want to carry out a training program. The exercises are divided into sections so that you can detail and practice them individually. Before starting your routine remember: Ask your doctor to let you know the best exercise for your physical condition. Get hydrated before, during and after physical exercise. Perform a warm-up of 15 minutes, to avoid muscle injuries. Perform 10 minutes of stretching, after finishing your exercise routine.",
+  "privacyText": "http://movilixa.com/eula",
+  "numInstalls": 5000000,
+  "developer": "MoviliXa SAS",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.movilixa.com",
+    "Developer Email": "info@movilixa.com",
+    "Privacy Policy": "http://movilixa.com/eula"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

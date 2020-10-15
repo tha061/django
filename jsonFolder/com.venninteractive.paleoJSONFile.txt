@@ -1,0 +1,77 @@
+{
+  "name": "com.venninteractive.paleo",
+  "fileSize": "31.4 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.stansassets.android.app.notifications.AN_AlarmNotificationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "28 November 2019",
+    "Size": "31M",
+    "Installs": "10000",
+    "Current Version": "6.3.1",
+    "Requires Android": "4.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$4.99 \u00e2\u20ac\u201c $19.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Venn Interactive Inc.",
+    "Developer": "Visit website support@venninteractive.com Privacy Policy 1267 Willis St.\nSTE 200\nRedding, CA 96001"
+  },
+  "rating": "3.8",
+  "description": "Lose weight, gain muscle, and feel empowered about your food choices with Stupid Simple Paleo, the easiest-to-use calories and macros counter for people on the Paleo Diet. Why eat as the cavemen did? The Paleo Diet emphasizes a return to our natural state with a diet rich with high fiber, unprocessed foods, locally grown produce, and quality antibiotic-free, organic meats. You\u00e2\u20ac\u2122ll feel great losing weight and you\u00e2\u20ac\u2122ll feel confident about consuming only natural foods.   FEATURES: \u00e2\u20ac\u00a2\u00e2\u20ac\u0192Easy-to-use food icons for logging your daily Paleo foods. \u00e2\u20ac\u00a2\u00e2\u20ac\u0192Full of Paleo ingredients to inspire creative cooking. \u00e2\u20ac\u00a2\u00e2\u20ac\u0192Barcode scanner that let's you scan food to record it. \u00e2\u20ac\u00a2\u00e2\u20ac\u0192Track your progress over time and set daily goals. \u00e2\u20ac\u00a2\u00e2\u20ac\u0192Sync between devices for free. \u00e2\u20ac\u00a2\u00e2\u20ac\u0192Food bank conserves calories for special events. \u00e2\u20ac\u00a2\u00e2\u20ac\u0192Add custom foods. \u00e2\u20ac\u00a2\u00e2\u20ac\u0192Helpful warnings when you approach your daily carb/fat/protein limit. \u00e2\u20ac\u00a2\u00e2\u20ac\u0192Change portion sizes on the fly. \u00e2\u20ac\u00a2\u00e2\u20ac\u0192Easily review your daily foods. \u00e2\u20ac\u00a2\u00e2\u20ac\u0192Helps you learn new habits, eat right, and ultimately keep the weight off.  \u00e2\u20ac\u00a2\u00e2\u20ac\u0192Track your glasses of water each day Are you ready for a healthy start? Try it out today - it\u00e2\u20ac\u2122s free! You have nothing to lose but the fat.   *Brought to you by the developer of Stupid Simple Keto.",
+  "privacyText": "http://www.mystupidsimpleapp.com/privacy",
+  "numInstalls": 10000,
+  "developer": "Venn Interactive Inc.",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.venninteractive.com",
+    "Developer Email": "support@venninteractive.com",
+    "Privacy Policy": "http://www.mystupidsimpleapp.com/privacy"
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Unity3d"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,76 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 83018432 (0x4f2c2c0)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=86, ST=Fujian, L=Xiamen, O=easy.fit.developer.com, OU=easy.fit.developer.com, CN=easy.fit.developer.com
+        Validity
+            Not Before: May  8 05:45:18 2018 GMT
+            Not After : Apr 14 05:45:18 2118 GMT
+        Subject: C=86, ST=Fujian, L=Xiamen, O=easy.fit.developer.com, OU=easy.fit.developer.com, CN=easy.fit.developer.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:87:f4:69:c6:af:e0:86:6d:a7:2d:34:e4:44:8d:
+                    c0:f0:d5:03:78:0f:6b:db:8a:1c:17:d1:a7:77:12:
+                    bc:f8:7f:c0:3a:aa:6b:6b:ed:96:ee:61:4d:c1:98:
+                    4c:75:ce:f2:18:fa:25:24:22:a9:4c:9c:04:3b:16:
+                    31:89:9f:79:1d:cd:55:e8:8c:88:96:82:be:46:45:
+                    02:59:92:1c:31:f8:0b:4b:47:83:2b:80:55:59:81:
+                    2e:68:8a:10:48:c1:6a:f1:74:f2:01:b7:b1:8e:1a:
+                    f0:21:1a:9c:07:7e:89:d1:fd:d7:28:51:b5:07:88:
+                    7e:f8:67:73:6e:19:28:3e:e0:7d:7e:36:b4:62:5c:
+                    b9:2f:5e:99:6b:e6:ce:9d:16:11:aa:a7:a3:48:c0:
+                    0c:b7:80:10:60:ee:d3:6a:e1:39:59:c1:ae:10:38:
+                    67:88:93:71:c5:f5:0b:14:b7:33:94:a0:96:06:45:
+                    21:74:2f:82:a5:f8:bc:b0:01:32:1f:1b:0a:93:29:
+                    77:ab:ad:91:af:e7:e0:ee:25:35:98:6f:bc:84:10:
+                    ed:8c:88:8a:37:cf:74:63:1f:6e:59:e0:70:94:2a:
+                    5c:cd:75:9a:54:e5:89:3c:0e:a0:19:cc:11:d8:0a:
+                    5d:ec:87:b1:c1:29:97:17:cb:ae:05:cb:53:36:00:
+                    3b:cd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                AF:CC:BB:5B:34:3E:92:50:86:D5:30:7E:98:C2:EB:C5:10:1F:3E:27
+    Signature Algorithm: sha256WithRSAEncryption
+         56:94:4b:a1:49:6a:a8:4a:ef:78:48:3f:d0:8e:f5:d1:86:5f:
+         df:a9:24:03:4b:bc:ea:7e:1c:0e:0c:d3:87:fa:dd:b6:85:70:
+         dc:87:e1:1f:9e:fd:cd:32:fa:15:37:54:38:eb:b8:4f:e2:ff:
+         bb:3e:80:ad:3d:1b:be:4b:ce:33:31:ea:a9:02:8e:b1:26:81:
+         07:66:2c:01:52:d6:89:65:50:a0:8b:bd:0e:93:02:9f:5c:53:
+         61:f2:44:71:89:fe:93:56:57:15:7c:88:49:18:71:05:00:21:
+         a7:27:78:ea:18:cd:61:0c:d8:e3:08:88:a7:12:b4:56:ba:b5:
+         21:6a:89:df:c2:82:d5:8d:c3:28:aa:dc:3b:42:c6:bb:c7:37:
+         50:7b:90:33:a2:6d:7e:04:2f:15:f4:9b:64:2d:61:f9:55:d1:
+         be:0d:89:51:08:94:a1:f8:a6:17:2d:84:1b:cd:10:c3:d3:9c:
+         25:94:07:10:68:19:8a:bf:bc:95:de:e2:d8:11:14:9f:aa:f5:
+         b4:e0:ca:d4:d3:20:78:9a:56:9c:60:a7:c0:75:5c:25:a5:47:
+         f9:5a:3b:61:b2:0f:bd:11:e7:cc:bd:0f:30:a1:46:ab:ef:d8:
+         00:52:d3:7a:cb:e4:ef:10:ee:cf:80:c5:78:ea:7d:2e:9e:24:
+         a1:91:46:12
+-----BEGIN CERTIFICATE-----
+MIIDxzCCAq+gAwIBAgIEBPLCwDANBgkqhkiG9w0BAQsFADCBkjELMAkGA1UEBhMC
+ODYxDzANBgNVBAgTBkZ1amlhbjEPMA0GA1UEBxMGWGlhbWVuMR8wHQYDVQQKExZl
+YXN5LmZpdC5kZXZlbG9wZXIuY29tMR8wHQYDVQQLExZlYXN5LmZpdC5kZXZlbG9w
+ZXIuY29tMR8wHQYDVQQDExZlYXN5LmZpdC5kZXZlbG9wZXIuY29tMCAXDTE4MDUw
+ODA1NDUxOFoYDzIxMTgwNDE0MDU0NTE4WjCBkjELMAkGA1UEBhMCODYxDzANBgNV
+BAgTBkZ1amlhbjEPMA0GA1UEBxMGWGlhbWVuMR8wHQYDVQQKExZlYXN5LmZpdC5k
+ZXZlbG9wZXIuY29tMR8wHQYDVQQLExZlYXN5LmZpdC5kZXZlbG9wZXIuY29tMR8w
+HQYDVQQDExZlYXN5LmZpdC5kZXZlbG9wZXIuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAh/Rpxq/ghm2nLTTkRI3A8NUDeA9r24ocF9GndxK8+H/A
+Oqpra+2W7mFNwZhMdc7yGPolJCKpTJwEOxYxiZ95Hc1V6IyIloK+RkUCWZIcMfgL
+S0eDK4BVWYEuaIoQSMFq8XTyAbexjhrwIRqcB36J0f3XKFG1B4h++GdzbhkoPuB9
+fja0Yly5L16Za+bOnRYRqqejSMAMt4AQYO7TauE5WcGuEDhniJNxxfULFLczlKCW
+BkUhdC+Cpfi8sAEyHxsKkyl3q62Rr+fg7iU1mG+8hBDtjIiKN890Yx9uWeBwlCpc
+zXWaVOWJPA6gGcwR2Apd7IexwSmXF8uuBctTNgA7zQIDAQABoyEwHzAdBgNVHQ4E
+FgQUr8y7WzQ+klCG1TB+mMLrxRAfPicwDQYJKoZIhvcNAQELBQADggEBAFaUS6FJ
+aqhK73hIP9CO9dGGX9+pJANLvOp+HA4M04f63baFcNyH4R+e/c0y+hU3VDjruE/i
+/7s+gK09G75LzjMx6qkCjrEmgQdmLAFS1ollUKCLvQ6TAp9cU2HyRHGJ/pNWVxV8
+iEkYcQUAIacneOoYzWEM2OMIiKcStFa6tSFqid/CgtWNwyiq3DtCxrvHN1B7kDOi
+bX4ELxX0m2QtYflV0b4NiVEIlKH4phcthBvNEMPTnCWUBxBoGYq/vJXe4tgRFJ+q
+9bTgytTTIHiaVpxgp8B1XCWlR/laO2GyD70R58y9DzChRqvv2ABS03rL5O8Q7s+A
+xXjqfS6eJKGRRhI=
+-----END CERTIFICATE-----
+

@@ -1,0 +1,82 @@
+{
+  "name": "com.breakthroughapps.MaryOchsnerYoga.android",
+  "fileSize": "40.0 MB",
+  "VTmd5": "a5e9c93d1cdc64b7c41dc755b4a2919d",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/bc103add4633f565e02d8203f29ca680ed66bf3f58a4dbcc8e0ab436c90ecf1c/detection/f-bc103add4633f565e02d8203f29ca680ed66bf3f58a4dbcc8e0ab436c90ecf1c-1601387413",
+  "VTresource": "bc103add4633f565e02d8203f29ca680ed66bf3f58a4dbcc8e0ab436c90ecf1c",
+  "VTresponsecode": 1,
+  "VTscanID": "bc103add4633f565e02d8203f29ca680ed66bf3f58a4dbcc8e0ab436c90ecf1c-1601387413",
+  "VTsha1": "ec4cac1d58dd581009dad54b62b047ba8e024aac",
+  "VTsha256": "bc103add4633f565e02d8203f29ca680ed66bf3f58a4dbcc8e0ab436c90ecf1c",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "16 September 2020",
+    "Size": "40M",
+    "Installs": "10000",
+    "Current Version": "3.6.0",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$9.99 \u2013 $399.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Breakthrough Apps Inc",
+    "Developer": "support@breakthroughapps.zendesk.com Privacy Policy 1390 Market St Apt 2523, San Francisco, California"
+  },
+  "rating": "4.4",
+  "description": "NOTE: YEARLY & LIFETIME MEMBERSHIPS ARE 50% OFF FOR A LIMITED TIME! Need more yoga in your life? You\u2019re in the right place! It doesn\u2019t matter if you have never stepped on a yoga mat before or if you are an experienced yogi. These classes provide clear instruction and modifications to meet you exactly where you are. No prior experience necessary! App Features Include: -Multi-day courses -Full length Yoga Classes for Any Level -Daily Positive Vibes -User Profile to Track Your Yoga Journey -Daily Yoga Reminder Settings Join us in the Mary Ochsner Yoga App to find the perfect yoga class that fits into your daily routine. Terms of use for this Product : https://www.breakthroughapps.net/mary-ochsner-terms-conditions",
+  "privacyText": "https://www.breakthroughapps.io/privacypolicy",
+  "numInstalls": 10000,
+  "developer": "Breakthrough Apps Inc",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.breakthroughapps.io/privacypolicy",
+    "Developer Email": "support@breakthroughapps.zendesk.com",
+    "Privacy Policy": "https://www.breakthroughapps.io/privacypolicy"
+  },
+  "smali_Directories": [
+    "Appsflyer",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

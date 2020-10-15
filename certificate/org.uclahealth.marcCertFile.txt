@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1326046135 (0x4f09dbb7)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=California, L=Los Angeles, O=UCLA Health, OU=UCLA Health, CN=Nino Guba
+        Validity
+            Not Before: May 13 20:00:17 2019 GMT
+            Not After : Sep 28 20:00:17 2046 GMT
+        Subject: C=US, ST=California, L=Los Angeles, O=UCLA Health, OU=UCLA Health, CN=Nino Guba
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:85:b8:b7:07:c6:de:ea:7c:96:9d:71:a5:dc:de:
+                    6c:e6:4a:81:10:39:fe:2c:a5:48:4d:26:bb:e0:c2:
+                    a8:a7:93:39:0b:f7:cc:74:2f:db:3a:7e:3c:c7:27:
+                    e2:ac:dd:f8:cf:a4:a5:fe:58:b3:31:0f:7c:c8:7b:
+                    4a:41:ed:06:8c:4b:6c:dd:14:b5:74:f6:65:d2:51:
+                    1e:3c:8a:a9:06:76:1b:cc:f6:40:55:4a:52:3f:0a:
+                    9b:09:e9:2a:f6:f0:f3:80:9d:e9:00:78:07:ca:f6:
+                    99:72:c4:5c:fa:60:6b:1e:12:c7:20:15:64:33:9d:
+                    be:6a:89:34:a6:3a:95:57:c9:c3:47:25:59:fc:3d:
+                    ea:fc:43:e3:48:89:35:e8:4f:d2:96:dd:e4:16:63:
+                    02:13:50:1b:ff:b3:e2:42:1a:e8:c3:91:59:fd:b5:
+                    98:5f:f1:30:06:da:14:1c:db:d0:6c:6b:aa:9a:e6:
+                    e0:c4:3b:a8:2a:8e:11:36:1f:d2:d0:5b:9d:ba:fc:
+                    ec:25:12:40:55:c2:98:f2:79:b9:bf:51:47:62:9b:
+                    f0:a3:8c:75:ac:cc:a6:e5:7e:db:47:b2:94:f7:1e:
+                    f9:92:94:aa:36:ca:ec:23:40:a3:b8:58:d2:9b:c7:
+                    c3:73:77:7d:55:72:31:cd:14:46:8c:fe:3c:55:e6:
+                    a1:a1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                84:FD:D5:9B:56:16:97:73:1F:3F:51:8D:68:FE:06:40:9C:3A:58:2E
+    Signature Algorithm: sha256WithRSAEncryption
+         5b:d7:30:47:03:9e:54:07:16:84:dd:fb:39:df:63:65:82:fe:
+         24:c9:23:00:a0:c1:35:d1:4b:3b:0f:89:31:1f:8e:dd:95:1f:
+         dd:ed:b1:6a:a2:2e:60:f7:7f:f0:ed:61:86:27:82:d7:ec:82:
+         f4:0c:e2:a1:e5:9b:70:af:6f:df:ca:29:6e:b1:bd:14:7b:a1:
+         a9:44:95:9b:95:cc:88:07:f1:16:65:19:93:f2:0c:ba:e0:ec:
+         be:16:e4:bb:d0:fe:87:a1:17:9c:42:8f:23:11:66:7f:f1:c5:
+         6d:95:40:2f:2c:c3:96:38:b6:2e:6f:f4:d1:ec:d0:01:ae:51:
+         7e:94:a8:4b:11:17:6e:4d:98:d0:92:68:90:16:06:8c:c5:3a:
+         6d:99:cf:23:80:a8:c8:98:c0:d9:95:ce:87:32:16:61:9f:83:
+         b2:ab:b1:6e:69:f8:82:83:f4:84:67:13:18:58:14:bb:e1:71:
+         78:b9:94:90:fb:11:ad:7b:7e:0c:80:12:b4:5d:74:f1:e6:08:
+         33:cf:12:d9:3d:93:2d:78:26:75:bc:60:29:bb:a8:be:6f:f7:
+         11:f8:9b:f8:46:d7:2d:53:16:c1:44:cf:27:68:9e:a3:d9:75:
+         c7:b2:be:67:6b:f9:54:90:d1:fa:c2:e5:a1:ab:e7:64:a8:84:
+         de:73:7c:3b
+-----BEGIN CERTIFICATE-----
+MIIDjzCCAnegAwIBAgIETwnbtzANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQGEwJV
+UzETMBEGA1UECBMKQ2FsaWZvcm5pYTEUMBIGA1UEBxMLTG9zIEFuZ2VsZXMxFDAS
+BgNVBAoTC1VDTEEgSGVhbHRoMRQwEgYDVQQLEwtVQ0xBIEhlYWx0aDESMBAGA1UE
+AxMJTmlubyBHdWJhMB4XDTE5MDUxMzIwMDAxN1oXDTQ2MDkyODIwMDAxN1oweDEL
+MAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFDASBgNVBAcTC0xvcyBB
+bmdlbGVzMRQwEgYDVQQKEwtVQ0xBIEhlYWx0aDEUMBIGA1UECxMLVUNMQSBIZWFs
+dGgxEjAQBgNVBAMTCU5pbm8gR3ViYTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAIW4twfG3up8lp1xpdzebOZKgRA5/iylSE0mu+DCqKeTOQv3zHQv2zp+
+PMcn4qzd+M+kpf5YszEPfMh7SkHtBoxLbN0UtXT2ZdJRHjyKqQZ2G8z2QFVKUj8K
+mwnpKvbw84Cd6QB4B8r2mXLEXPpgax4SxyAVZDOdvmqJNKY6lVfJw0clWfw96vxD
+40iJNehP0pbd5BZjAhNQG/+z4kIa6MORWf21mF/xMAbaFBzb0Gxrqprm4MQ7qCqO
+ETYf0tBbnbr87CUSQFXCmPJ5ub9RR2Kb8KOMdazMpuV+20eylPce+ZKUqjbK7CNA
+o7hY0pvHw3N3fVVyMc0URoz+PFXmoaECAwEAAaMhMB8wHQYDVR0OBBYEFIT91ZtW
+FpdzHz9RjWj+BkCcOlguMA0GCSqGSIb3DQEBCwUAA4IBAQBb1zBHA55UBxaE3fs5
+32Nlgv4kySMAoME10Us7D4kxH47dlR/d7bFqoi5g93/w7WGGJ4LX7IL0DOKh5Ztw
+r2/fyilusb0Ue6GpRJWblcyIB/EWZRmT8gy64Oy+FuS70P6HoRecQo8jEWZ/8cVt
+lUAvLMOWOLYub/TR7NABrlF+lKhLERduTZjQkmiQFgaMxTptmc8jgKjImMDZlc6H
+MhZhn4Oyq7FuafiCg/SEZxMYWBS74XF4uZSQ+xGte34MgBK0XXTx5ggzzxLZPZMt
+eCZ1vGApu6i+b/cR+Jv4RtctUxbBRM8naJ6j2XXHsr5na/lUkNH6wuWhq+dkqITe
+c3w7
+-----END CERTIFICATE-----
+

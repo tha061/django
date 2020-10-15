@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1440990313 (0x55e3c469)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=HecQuyn
+        Validity
+            Not Before: Aug 31 03:05:13 2015 GMT
+            Not After : Aug 24 03:05:13 2040 GMT
+        Subject: O=HecQuyn
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:bc:8d:ac:7b:1b:5c:3c:3e:46:dd:4c:97:34:0b:
+                    47:f7:11:e3:e9:b9:33:6d:c8:79:62:bf:52:7e:21:
+                    a3:dd:be:15:36:fd:09:0a:ca:92:45:ec:b7:a4:c0:
+                    95:37:65:92:96:ae:6f:1e:a3:60:9c:c0:84:a4:69:
+                    b7:df:32:18:3e:9e:b4:da:c3:f8:4d:8d:d5:b0:d4:
+                    3a:6d:8c:52:77:44:f8:49:a4:2c:78:a7:65:59:9e:
+                    29:fc:40:61:cf:1e:97:04:c0:99:0a:b8:94:b7:a4:
+                    d0:31:b8:af:a1:23:5b:1e:c5:8f:2d:42:c5:7a:ff:
+                    41:69:83:86:3e:e4:67:bf:17
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         7a:33:e6:e8:62:37:93:ba:73:7d:07:d1:ce:04:1f:f4:91:0c:
+         91:fa:13:46:29:43:a4:8b:c1:dc:d4:d2:18:55:d4:bc:b7:1e:
+         7a:00:03:a4:54:e9:19:92:fa:bb:73:76:3e:f8:92:69:9e:86:
+         7c:dc:2d:88:e6:01:ad:22:7f:74:9d:a9:ac:cb:14:de:dd:83:
+         f4:f1:4a:5c:27:e8:7d:32:d4:ae:0b:6f:08:bf:28:50:08:f3:
+         2d:a7:80:91:fd:32:53:e3:36:c4:13:98:66:4e:cb:c6:54:9e:
+         41:54:e4:cb:86:34:a5:ca:98:d6:26:4f:d7:31:8e:6e:5f:15:
+         cf:de
+-----BEGIN CERTIFICATE-----
+MIIBmzCCAQSgAwIBAgIEVePEaTANBgkqhkiG9w0BAQUFADASMRAwDgYDVQQKEwdI
+ZWNRdXluMB4XDTE1MDgzMTAzMDUxM1oXDTQwMDgyNDAzMDUxM1owEjEQMA4GA1UE
+ChMHSGVjUXV5bjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvI2sextcPD5G
+3UyXNAtH9xHj6bkzbch5Yr9SfiGj3b4VNv0JCsqSRey3pMCVN2WSlq5vHqNgnMCE
+pGm33zIYPp602sP4TY3VsNQ6bYxSd0T4SaQseKdlWZ4p/EBhzx6XBMCZCriUt6TQ
+MbivoSNbHsWPLULFev9BaYOGPuRnvxcCAwEAATANBgkqhkiG9w0BAQUFAAOBgQB6
+M+boYjeTunN9B9HOBB/0kQyR+hNGKUOki8Hc1NIYVdS8tx56AAOkVOkZkvq7c3Y+
++JJpnoZ83C2I5gGtIn90namsyxTe3YP08UpcJ+h9MtSuC28IvyhQCPMtp4CR/TJT
+4zbEE5hmTsvGVJ5BVOTLhjSlypjWJk/XMY5uXxXP3g==
+-----END CERTIFICATE-----
+

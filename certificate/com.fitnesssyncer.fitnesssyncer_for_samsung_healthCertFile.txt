@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1139330237 (0x43e8ccbd)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=WA, L=Seattle, O=FX Development, Inc., OU=FitnessSyncer.com, CN=Eric Theriault
+        Validity
+            Not Before: Sep 17 19:54:41 2016 GMT
+            Not After : Sep 10 19:54:41 2046 GMT
+        Subject: C=US, ST=WA, L=Seattle, O=FX Development, Inc., OU=FitnessSyncer.com, CN=Eric Theriault
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a5:bf:05:ce:2d:e0:7f:f7:8a:a5:18:62:da:68:
+                    0a:26:86:2a:ab:b5:11:5a:30:53:ff:47:58:b8:02:
+                    3c:45:65:ab:7f:fc:30:ab:e9:15:b6:14:d5:97:a4:
+                    25:55:a9:7f:27:6f:3c:7f:ff:4f:00:dd:d4:43:fa:
+                    ec:20:d2:33:e8:4d:f2:e4:e0:fd:a0:cf:7a:16:c8:
+                    c3:ad:be:7e:cc:aa:6e:dd:f2:ab:dd:48:8e:ae:40:
+                    5f:84:f3:83:c7:f9:a8:5c:5f:79:0d:5e:e9:c1:53:
+                    27:8f:26:49:73:09:d2:5a:59:d9:57:78:a9:26:76:
+                    0e:23:11:8b:06:93:51:7b:95:9e:7f:7d:44:ec:9f:
+                    17:1b:53:7f:26:a9:32:22:e5:f1:02:90:13:5b:c4:
+                    e0:64:f3:d3:b5:83:94:3a:44:ef:6f:13:95:cc:46:
+                    2a:67:15:63:f8:33:20:80:d6:77:da:cd:18:bc:17:
+                    f9:4b:d2:68:72:2e:d2:74:8c:6e:57:a8:da:e1:39:
+                    9e:2e:6c:90:1e:b8:f3:75:68:1b:7b:8c:a5:3c:02:
+                    b8:d7:cd:0e:ad:20:10:d3:fc:d7:96:a7:c0:b1:d3:
+                    9a:ce:fc:c2:fa:51:56:84:ea:99:4d:e9:5f:f2:3d:
+                    b9:34:39:a6:18:b0:1b:0c:b1:93:05:d8:a7:ef:1b:
+                    f2:85
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                B0:B2:AE:A8:E4:8F:0A:C0:52:2B:EC:12:D2:A7:E3:8D:D7:2B:09:54
+    Signature Algorithm: sha256WithRSAEncryption
+         48:53:77:75:e4:36:dd:83:ff:74:e1:5d:7c:10:cc:93:f4:7d:
+         41:e0:4c:a9:4c:6b:aa:68:54:38:1a:7d:a6:68:5d:31:d2:81:
+         bb:b8:36:fc:8b:82:fb:b8:10:bb:16:b6:51:82:c6:2b:ad:d9:
+         81:dd:24:72:ff:81:03:57:f1:b6:0c:26:83:58:81:c9:76:d4:
+         db:59:7c:6b:7b:4c:63:47:0f:32:ad:52:a4:f4:7a:94:d6:ad:
+         36:34:e7:a4:af:e3:60:1b:e5:69:91:d1:e3:57:6d:59:30:3b:
+         d2:65:d3:19:f2:97:09:c5:7d:74:4a:2a:7a:24:71:4d:0d:b5:
+         3c:d8:aa:1e:99:df:b3:85:05:37:76:2e:a4:95:3e:ad:58:c7:
+         58:91:2d:17:f1:9e:51:85:13:8d:eb:93:b7:03:08:d5:e9:22:
+         4b:38:51:c1:57:ed:35:87:7d:7e:18:de:68:60:e7:79:dc:9b:
+         21:0a:44:cc:ee:6c:d4:e9:39:d9:2c:24:c0:59:42:5d:c0:0c:
+         d2:69:a2:6d:d0:21:81:b6:51:d4:70:7c:e7:c6:2b:32:5a:fc:
+         3c:56:88:a8:0a:39:fc:32:b3:ce:32:79:0a:45:f3:8d:2b:2c:
+         7d:d6:f1:c0:b6:cb:04:be:a3:d7:08:05:b5:89:08:17:9e:5d:
+         8f:ca:b3:9c
+-----BEGIN CERTIFICATE-----
+MIIDoTCCAomgAwIBAgIEQ+jMvTANBgkqhkiG9w0BAQsFADCBgDELMAkGA1UEBhMC
+VVMxCzAJBgNVBAgTAldBMRAwDgYDVQQHEwdTZWF0dGxlMR0wGwYDVQQKExRGWCBE
+ZXZlbG9wbWVudCwgSW5jLjEaMBgGA1UECxMRRml0bmVzc1N5bmNlci5jb20xFzAV
+BgNVBAMTDkVyaWMgVGhlcmlhdWx0MB4XDTE2MDkxNzE5NTQ0MVoXDTQ2MDkxMDE5
+NTQ0MVowgYAxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJXQTEQMA4GA1UEBxMHU2Vh
+dHRsZTEdMBsGA1UEChMURlggRGV2ZWxvcG1lbnQsIEluYy4xGjAYBgNVBAsTEUZp
+dG5lc3NTeW5jZXIuY29tMRcwFQYDVQQDEw5FcmljIFRoZXJpYXVsdDCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAKW/Bc4t4H/3iqUYYtpoCiaGKqu1EVow
+U/9HWLgCPEVlq3/8MKvpFbYU1ZekJVWpfydvPH//TwDd1EP67CDSM+hN8uTg/aDP
+ehbIw62+fsyqbt3yq91Ijq5AX4Tzg8f5qFxfeQ1e6cFTJ48mSXMJ0lpZ2Vd4qSZ2
+DiMRiwaTUXuVnn99ROyfFxtTfyapMiLl8QKQE1vE4GTz07WDlDpE728TlcxGKmcV
+Y/gzIIDWd9rNGLwX+UvSaHIu0nSMbleo2uE5ni5skB6483VoG3uMpTwCuNfNDq0g
+ENP815anwLHTms78wvpRVoTqmU3pX/I9uTQ5phiwGwyxkwXYp+8b8oUCAwEAAaMh
+MB8wHQYDVR0OBBYEFLCyrqjkjwrAUivsEtKn443XKwlUMA0GCSqGSIb3DQEBCwUA
+A4IBAQBIU3d15Dbdg/904V18EMyT9H1B4EypTGuqaFQ4Gn2maF0x0oG7uDb8i4L7
+uBC7FrZRgsYrrdmB3SRy/4EDV/G2DCaDWIHJdtTbWXxre0xjRw8yrVKk9HqU1q02
+NOekr+NgG+VpkdHjV21ZMDvSZdMZ8pcJxX10Sip6JHFNDbU82Koemd+zhQU3di6k
+lT6tWMdYkS0X8Z5RhRON65O3AwjV6SJLOFHBV+01h31+GN5oYOd53JshCkTM7mzU
+6TnZLCTAWUJdwAzSaaJt0CGBtlHUcHznxisyWvw8VoioCjn8MrPOMnkKRfONKyx9
+1vHAtssEvqPXCAW1iQgXnl2PyrOc
+-----END CERTIFICATE-----
+

@@ -1,0 +1,71 @@
+{
+  "name": "com.simplevision.workout.tabata",
+  "fileSize": "11.5 MB",
+  "VTmd5": "0c173aa4e0699032ad1fc31732ddd4c8",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/6f46f7b294928ab0ab099fef9f183383651b21ebe0b2fd7940999dce8f3ad5bc/detection/f-6f46f7b294928ab0ab099fef9f183383651b21ebe0b2fd7940999dce8f3ad5bc-1575957447",
+  "VTresource": "6f46f7b294928ab0ab099fef9f183383651b21ebe0b2fd7940999dce8f3ad5bc",
+  "VTresponsecode": 1,
+  "VTscanID": "6f46f7b294928ab0ab099fef9f183383651b21ebe0b2fd7940999dce8f3ad5bc-1575957447",
+  "VTsha1": "009fa343f65c1c311220f2dd918b2b907a37f97d",
+  "VTsha256": "6f46f7b294928ab0ab099fef9f183383651b21ebe0b2fd7940999dce8f3ad5bc",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+    ]
+  },
+  "metaData": {
+    "Updated": "22 September 2020",
+    "Size": "12M",
+    "Installs": "1000000",
+    "Current Version": "26.0.7",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Simple Vision",
+    "Developer": "Visit website mozygle@gmail.com Privacy Policy No.26, Ln. 7, Zhongqin St., Bade Dist., Taoyuan City 334, Taiwan"
+  },
+  "rating": "4.7",
+  "description": "The Tabata Timer is an easy to use app for high intensity interval training (HIIT). It helps you to do Tabata Training. Features: + Configurable preparation, workout and rest durations. + Configurable number of cycles and tabatas (sets). + Clear time display. + Multiple display colors. + Customizable background music. + Record your daily workout history and track performance. + Notes for your next exercise. + Record your weight and BMI.",
+  "privacyText": "https://sites.google.com/view/simple-vision-apps/home/tabata-timer-privacy-policy",
+  "numInstalls": 1000000,
+  "developer": "Simple Vision",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://simple-vision.app",
+    "Developer Email": "mozygle@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/simple-vision-apps/home/tabata-timer-privacy-policy"
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

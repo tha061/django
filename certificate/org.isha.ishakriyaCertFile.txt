@@ -1,0 +1,50 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1373436044 (0x51dcf88c)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=India, ST=Tamil Nadu, L=Coimbatore, O=Isha Foundation, OU=Isha Foundation, CN=Isha Foundation
+        Validity
+            Not Before: Jul 10 06:00:44 2013 GMT
+            Not After : Jul  3 06:00:44 2043 GMT
+        Subject: C=India, ST=Tamil Nadu, L=Coimbatore, O=Isha Foundation, OU=Isha Foundation, CN=Isha Foundation
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:9c:57:ca:df:a9:86:5b:ed:8f:db:5e:2b:94:dc:
+                    30:85:cd:43:43:52:d3:77:31:d0:0f:f7:99:53:d0:
+                    e2:e4:0f:a0:1f:c0:6f:8e:f4:64:42:78:d6:b8:86:
+                    6a:39:05:80:98:1b:2c:60:37:78:25:ce:70:75:0d:
+                    61:2b:23:c2:ca:ec:42:f2:e5:a4:53:37:38:0a:79:
+                    64:80:cc:32:b3:98:25:96:8c:f1:79:f1:8c:af:46:
+                    f5:c1:ff:06:f5:2c:30:d7:a6:53:5b:e7:e5:78:b8:
+                    97:17:98:34:ce:dd:90:ba:f4:ec:1d:c8:48:fc:5c:
+                    17:e7:9b:99:51:53:9f:84:87
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         2c:a1:ba:82:a1:29:e4:9f:1e:2b:08:35:3e:7b:08:e7:35:60:
+         3e:4e:6f:ba:9a:22:65:e5:eb:59:ca:4f:56:69:74:c0:7a:51:
+         2e:7b:33:86:41:e0:b5:a7:ab:1d:20:a2:20:84:11:0d:23:14:
+         d8:dc:fd:8e:44:d8:c0:0b:4c:c7:58:08:82:27:0a:38:12:a1:
+         52:c0:af:14:89:7d:24:d2:73:45:db:2f:1a:e7:6c:f9:1d:64:
+         ce:b4:c8:a8:ea:c2:4f:e7:f5:ad:49:8c:c9:ff:2e:1c:81:8e:
+         73:a3:a7:aa:2a:bc:9b:ae:88:3e:13:f9:c8:c4:7f:4e:06:5d:
+         28:8b
+-----BEGIN CERTIFICATE-----
+MIICiTCCAfKgAwIBAgIEUdz4jDANBgkqhkiG9w0BAQUFADCBiDEOMAwGA1UEBhMF
+SW5kaWExEzARBgNVBAgTClRhbWlsIE5hZHUxEzARBgNVBAcTCkNvaW1iYXRvcmUx
+GDAWBgNVBAoTD0lzaGEgRm91bmRhdGlvbjEYMBYGA1UECxMPSXNoYSBGb3VuZGF0
+aW9uMRgwFgYDVQQDEw9Jc2hhIEZvdW5kYXRpb24wHhcNMTMwNzEwMDYwMDQ0WhcN
+NDMwNzAzMDYwMDQ0WjCBiDEOMAwGA1UEBhMFSW5kaWExEzARBgNVBAgTClRhbWls
+IE5hZHUxEzARBgNVBAcTCkNvaW1iYXRvcmUxGDAWBgNVBAoTD0lzaGEgRm91bmRh
+dGlvbjEYMBYGA1UECxMPSXNoYSBGb3VuZGF0aW9uMRgwFgYDVQQDEw9Jc2hhIEZv
+dW5kYXRpb24wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJxXyt+phlvtj9te
+K5TcMIXNQ0NS03cx0A/3mVPQ4uQPoB/Ab470ZEJ41riGajkFgJgbLGA3eCXOcHUN
+YSsjwsrsQvLlpFM3OAp5ZIDMMrOYJZaM8XnxjK9G9cH/BvUsMNemU1vn5Xi4lxeY
+NM7dkLr07B3ISPxcF+ebmVFTn4SHAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEALKG6
+gqEp5J8eKwg1PnsI5zVgPk5vupoiZeXrWcpPVml0wHpRLnszhkHgtaerHSCiIIQR
+DSMU2Nz9jkTYwAtMx1gIgicKOBKhUsCvFIl9JNJzRdsvGuds+R1kzrTIqOrCT+f1
+rUmMyf8uHIGOc6Onqiq8m66IPhP5yMR/TgZdKIs=
+-----END CERTIFICATE-----
+

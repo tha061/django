@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1763259815 (0x691935a7)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Craftsman Spirit
+        Validity
+            Not Before: Jul 18 11:56:18 2019 GMT
+            Not After : Jul 11 11:56:18 2044 GMT
+        Subject: CN=Craftsman Spirit
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a7:db:ca:a7:12:e6:37:45:fd:06:8c:58:a9:59:
+                    c7:e9:e5:e2:33:de:39:f0:18:25:16:88:84:91:e2:
+                    7c:0f:27:43:82:99:20:70:a2:49:86:d6:56:e9:37:
+                    25:8c:11:a4:f2:8b:e3:0a:f0:77:72:6a:83:4b:6c:
+                    a2:0d:1e:6f:31:12:d7:24:8c:af:75:e7:27:be:f4:
+                    f7:59:f2:8b:15:f5:aa:aa:85:8b:51:74:d2:d0:7c:
+                    5b:8c:53:6f:08:40:a2:37:a3:68:5a:5d:63:13:a8:
+                    0c:d4:cc:ca:de:04:52:71:2b:7c:71:cd:2c:06:69:
+                    62:53:9e:12:f7:b0:b5:fc:70:d9:5f:53:9e:5c:e8:
+                    99:bc:32:87:e7:fd:45:e5:c7:df:56:89:f8:af:87:
+                    14:28:dd:4d:cc:db:73:dc:0e:b7:a7:b8:e1:15:94:
+                    bd:94:70:14:db:91:ed:66:8e:bd:98:e6:6b:6a:e6:
+                    a4:4f:f7:37:19:6c:88:87:af:28:07:85:c7:d3:69:
+                    00:2c:b9:e5:4c:c0:55:cc:2f:1c:60:51:74:15:b8:
+                    a4:a3:2b:81:b4:87:f9:7e:a7:1c:e6:ed:56:ee:e9:
+                    3f:67:09:c1:29:bd:d0:41:fc:77:af:b8:ae:b0:05:
+                    93:cc:86:dc:af:c7:4c:ad:cc:92:23:10:3f:7d:91:
+                    3e:1d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                B7:EA:0B:7D:44:43:B4:98:76:C8:60:3A:F2:46:03:7A:B1:0A:27:24
+    Signature Algorithm: sha256WithRSAEncryption
+         86:0e:40:3b:20:27:e1:61:67:3c:6e:07:6c:15:be:6f:0f:9f:
+         eb:59:94:fc:d8:b9:b3:1d:82:e1:fa:09:5f:b9:b2:55:16:0d:
+         54:cd:ef:75:12:5e:91:d9:c7:b3:64:bc:15:82:01:5b:df:8d:
+         f7:9a:2a:bb:3c:c3:dd:4c:5d:c3:0b:37:9f:b0:74:66:4d:1a:
+         2b:97:a5:95:8c:87:a0:af:96:ca:dd:d0:31:60:fe:c9:54:59:
+         e0:b6:c4:c7:48:64:54:e8:46:ce:90:d0:4b:f7:7a:bd:a0:c8:
+         8f:69:fc:63:6f:7d:f0:48:5f:fa:a5:c1:35:a1:7d:f5:c6:37:
+         6b:5e:10:98:61:38:ad:e5:f5:32:2b:a8:90:90:29:81:dc:50:
+         f1:22:b1:24:47:ab:ae:0d:18:96:dd:2e:b1:f0:e6:f3:e0:9a:
+         ee:1f:a1:16:c5:9f:62:55:25:c9:7c:9a:39:10:28:9b:b6:97:
+         ea:da:c0:17:d7:91:7d:ca:9b:af:cf:82:34:b3:62:12:79:ed:
+         e5:33:f2:74:ee:62:e1:dc:0e:a9:a7:a0:1d:b5:8e:99:be:b0:
+         3f:aa:ac:2a:99:86:d9:18:1c:0f:3e:f3:9a:40:84:e7:f2:99:
+         cf:d8:7e:1d:ca:f6:e5:fe:09:6b:f8:41:1b:f3:95:66:a6:84:
+         a8:28:08:2f
+-----BEGIN CERTIFICATE-----
+MIIC1TCCAb2gAwIBAgIEaRk1pzANBgkqhkiG9w0BAQsFADAbMRkwFwYDVQQDExBD
+cmFmdHNtYW4gU3Bpcml0MB4XDTE5MDcxODExNTYxOFoXDTQ0MDcxMTExNTYxOFow
+GzEZMBcGA1UEAxMQQ3JhZnRzbWFuIFNwaXJpdDCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAKfbyqcS5jdF/QaMWKlZx+nl4jPeOfAYJRaIhJHifA8nQ4KZ
+IHCiSYbWVuk3JYwRpPKL4wrwd3Jqg0tsog0ebzES1ySMr3XnJ77091nyixX1qqqF
+i1F00tB8W4xTbwhAojejaFpdYxOoDNTMyt4EUnErfHHNLAZpYlOeEvewtfxw2V9T
+nlzombwyh+f9ReXH31aJ+K+HFCjdTczbc9wOt6e44RWUvZRwFNuR7WaOvZjma2rm
+pE/3NxlsiIevKAeFx9NpACy55UzAVcwvHGBRdBW4pKMrgbSH+X6nHObtVu7pP2cJ
+wSm90EH8d6+4rrAFk8yG3K/HTK3MkiMQP32RPh0CAwEAAaMhMB8wHQYDVR0OBBYE
+FLfqC31EQ7SYdshgOvJGA3qxCickMA0GCSqGSIb3DQEBCwUAA4IBAQCGDkA7ICfh
+YWc8bgdsFb5vD5/rWZT82LmzHYLh+glfubJVFg1Uze91El6R2cezZLwVggFb3433
+miq7PMPdTF3DCzefsHRmTRorl6WVjIegr5bK3dAxYP7JVFngtsTHSGRU6EbOkNBL
+93q9oMiPafxjb33wSF/6pcE1oX31xjdrXhCYYTit5fUyK6iQkCmB3FDxIrEkR6uu
+DRiW3S6x8Obz4JruH6EWxZ9iVSXJfJo5ECibtpfq2sAX15F9ypuvz4I0s2ISee3l
+M/J07mLh3A6pp6AdtY6ZvrA/qqwqmYbZGBwPPvOaQITn8pnP2H4dyvbl/glr+EEb
+85VmpoSoKAgv
+-----END CERTIFICATE-----
+

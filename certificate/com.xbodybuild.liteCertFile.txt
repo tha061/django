@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 542465391 (0x20555d6f)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=RU, ST=Tatarstan, L=Kazan, O=Xbodybuild, CN=Tukhvatullin Marat
+        Validity
+            Not Before: Nov  1 16:07:40 2014 GMT
+            Not After : Aug 21 16:07:40 2314 GMT
+        Subject: C=RU, ST=Tatarstan, L=Kazan, O=Xbodybuild, CN=Tukhvatullin Marat
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a6:2a:0c:4f:cd:a7:4a:3e:b1:83:a0:a1:71:db:
+                    8e:8d:e8:e3:09:ec:35:a3:92:92:1a:ac:37:30:34:
+                    f0:5e:61:21:30:85:97:fb:46:3c:c6:d7:47:51:01:
+                    1a:4a:3f:5d:f4:d5:2d:44:74:4b:88:e5:c1:d2:0c:
+                    67:bb:eb:bf:cf:0f:3f:d2:0f:ae:fc:c1:f5:1d:c5:
+                    d0:99:89:61:fe:79:bd:24:07:1c:67:8e:1f:16:fa:
+                    79:2f:8f:c3:48:8a:c5:be:5f:b8:16:60:3c:5a:6b:
+                    7d:46:49:e8:b2:23:da:07:93:6f:5c:ff:ca:df:c4:
+                    09:3e:ed:a7:aa:b0:fe:be:8e:fc:93:7a:40:7c:05:
+                    cc:94:86:cf:c0:6b:d7:c3:51:ff:d9:8e:4b:6b:ec:
+                    2c:09:cd:c4:4a:7f:20:9e:37:cc:66:47:9b:f1:ca:
+                    f6:1b:c3:76:3e:2e:19:ab:bb:7b:f3:27:80:e7:4e:
+                    2b:86:3a:36:96:86:5b:ce:1a:5d:d0:32:9e:24:c3:
+                    d0:7e:9c:60:cd:c5:f7:e9:5a:28:08:15:a5:b4:ff:
+                    57:5c:6a:cc:b2:55:47:4e:f8:c9:0f:0d:56:09:0e:
+                    49:f1:ef:83:40:fb:0a:10:23:e0:7b:c2:89:05:d4:
+                    09:5f:d9:96:0c:61:ba:23:6b:cb:54:df:46:a5:4b:
+                    97:7b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                9B:57:09:80:FF:AD:91:07:33:ED:76:98:13:69:1B:B0:98:57:9D:7F
+    Signature Algorithm: sha256WithRSAEncryption
+         9c:fa:db:d7:7e:0b:13:b9:f0:de:c6:fe:21:54:3e:dc:c4:90:
+         86:c3:bb:eb:ea:d2:75:ca:03:e9:7d:67:fe:8c:0f:e9:c3:d4:
+         bf:76:42:4c:7a:0d:53:7c:b1:88:3c:c6:42:08:2e:9b:54:ed:
+         52:5c:04:17:f8:51:28:37:e6:f1:39:b8:9d:b2:8f:ea:93:ab:
+         62:ff:38:47:91:14:ef:d4:f7:79:51:d8:9c:d1:5f:ef:c9:56:
+         21:05:aa:b9:f1:be:5c:c2:4e:c1:36:6c:b8:dd:73:e7:4c:98:
+         7a:c4:5e:10:25:8f:76:56:ec:67:d7:bd:4b:07:82:f9:c8:5b:
+         1c:06:dc:93:31:f6:00:17:28:03:6d:31:86:d7:d7:21:02:87:
+         eb:28:b3:2b:34:ce:4b:d7:17:4e:9f:fa:4d:c8:55:91:1b:28:
+         ec:36:af:c7:a5:60:f6:51:1c:1c:99:54:33:eb:0f:f9:0c:6b:
+         d3:ad:90:ac:83:bb:be:1b:6b:d9:02:42:46:77:c5:cf:04:e7:
+         4d:a8:62:ea:e8:ce:64:e2:73:99:7f:81:d6:c3:bc:4d:11:80:
+         29:05:6c:36:a7:3f:a2:50:2f:6f:17:d0:90:74:c3:db:30:2f:
+         e9:a5:83:99:cf:24:c9:a6:79:31:3f:73:f1:f6:c4:0a:9b:b5:
+         6b:38:d6:3b
+-----BEGIN CERTIFICATE-----
+MIIDZzCCAk+gAwIBAgIEIFVdbzANBgkqhkiG9w0BAQsFADBjMQswCQYDVQQGEwJS
+VTESMBAGA1UECBMJVGF0YXJzdGFuMQ4wDAYDVQQHEwVLYXphbjETMBEGA1UEChMK
+WGJvZHlidWlsZDEbMBkGA1UEAxMSVHVraHZhdHVsbGluIE1hcmF0MCAXDTE0MTEw
+MTE2MDc0MFoYDzIzMTQwODIxMTYwNzQwWjBjMQswCQYDVQQGEwJSVTESMBAGA1UE
+CBMJVGF0YXJzdGFuMQ4wDAYDVQQHEwVLYXphbjETMBEGA1UEChMKWGJvZHlidWls
+ZDEbMBkGA1UEAxMSVHVraHZhdHVsbGluIE1hcmF0MIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEApioMT82nSj6xg6ChcduOjejjCew1o5KSGqw3MDTwXmEh
+MIWX+0Y8xtdHUQEaSj9d9NUtRHRLiOXB0gxnu+u/zw8/0g+u/MH1HcXQmYlh/nm9
+JAccZ44fFvp5L4/DSIrFvl+4FmA8Wmt9RknosiPaB5NvXP/K38QJPu2nqrD+vo78
+k3pAfAXMlIbPwGvXw1H/2Y5La+wsCc3ESn8gnjfMZkeb8cr2G8N2Pi4Zq7t78yeA
+504rhjo2loZbzhpd0DKeJMPQfpxgzcX36VooCBWltP9XXGrMslVHTvjJDw1WCQ5J
+8e+DQPsKECPge8KJBdQJX9mWDGG6I2vLVN9GpUuXewIDAQABoyEwHzAdBgNVHQ4E
+FgQUm1cJgP+tkQcz7XaYE2kbsJhXnX8wDQYJKoZIhvcNAQELBQADggEBAJz629d+
+CxO58N7G/iFUPtzEkIbDu+vq0nXKA+l9Z/6MD+nD1L92Qkx6DVN8sYg8xkIILptU
+7VJcBBf4USg35vE5uJ2yj+qTq2L/OEeRFO/U93lR2JzRX+/JViEFqrnxvlzCTsE2
+bLjdc+dMmHrEXhAlj3ZW7GfXvUsHgvnIWxwG3JMx9gAXKANtMYbX1yECh+sosys0
+zkvXF06f+k3IVZEbKOw2r8elYPZRHByZVDPrD/kMa9OtkKyDu74ba9kCQkZ3xc8E
+502oYurozmTic5l/gdbDvE0RgCkFbDanP6JQL28X0JB0w9swL+mlg5nPJMmmeTE/
+c/H2xAqbtWs41js=
+-----END CERTIFICATE-----
+

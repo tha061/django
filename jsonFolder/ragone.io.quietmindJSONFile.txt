@@ -1,0 +1,62 @@
+{
+  "name": "ragone.io.quietmind",
+  "fileSize": "12.8 MB",
+  "VTmd5": "eb0e4c84b5e9147257b0ab8d061e0f1e",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/59d3a613bc21186910c76aef611250332a5835bfb54bf8455cbdc69ac9ca324b/detection/f-59d3a613bc21186910c76aef611250332a5835bfb54bf8455cbdc69ac9ca324b-1572366443",
+  "VTresource": "59d3a613bc21186910c76aef611250332a5835bfb54bf8455cbdc69ac9ca324b",
+  "VTresponsecode": 1,
+  "VTscanID": "59d3a613bc21186910c76aef611250332a5835bfb54bf8455cbdc69ac9ca324b-1572366443",
+  "VTsha1": "896659aeac2ba7616f7760fac279cc8192d1f89d",
+  "VTsha256": "59d3a613bc21186910c76aef611250332a5835bfb54bf8455cbdc69ac9ca324b",
+  "VTtotal": 57,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WRITE_SETTINGS Protection Level: signature|preinstalled|appop|pre23"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "15 April 2016",
+    "Size": "13M",
+    "Installs": "10000",
+    "Current Version": "1.0",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Alex Ragone",
+    "Developer": "Visit website alex@ragone.io"
+  },
+  "rating": "4.4",
+  "description": "Meditation timer for silent meditation, with option for Vipassana 60-minute sit by S.N. Goenka.  FEATURES: - One gong at start of meditation and 3 gongs at the end. - Stay committed and don't break your streak! - Ten stages of meditation as described in Culadasa's The Mind Illuminated.",
+  "privacyText": "",
+  "numInstalls": 10000,
+  "developer": "Alex Ragone",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.ragone.io",
+    "Developer Email": "alex@ragone.io",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Github"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 149971036 (0x8f0605c)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Taras
+        Validity
+            Not Before: Apr 13 20:30:14 2017 GMT
+            Not After : Mar 27 20:30:14 2087 GMT
+        Subject: CN=Taras
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b0:e1:ce:3c:17:00:5c:2a:b2:fe:26:75:a9:f3:
+                    70:87:ae:52:7f:0f:f6:bc:e9:57:30:53:f0:57:9b:
+                    87:27:f9:0b:3f:20:23:be:4d:b9:27:db:37:bf:ca:
+                    1b:25:bb:ce:2c:32:4e:71:58:42:21:ea:3c:ef:6c:
+                    04:6c:3a:03:54:2e:de:f6:4b:86:03:36:d5:df:44:
+                    a7:1d:df:ab:3d:9a:e5:a2:cf:5e:ac:b9:37:7d:9e:
+                    7c:ea:55:32:81:48:02:85:a6:89:43:81:d7:14:45:
+                    30:83:0b:e3:1d:02:94:22:dc:a8:05:f0:12:38:cd:
+                    8a:26:40:54:ba:74:26:f4:23:1f:d3:a1:c6:3e:7a:
+                    74:f2:cd:0a:4f:d4:35:c7:5c:a1:46:f5:9e:3b:79:
+                    80:f1:89:00:f9:36:8a:f8:2c:5a:cb:00:00:09:8c:
+                    e6:0f:1d:47:af:c1:2f:62:6d:03:cb:96:2f:1f:f7:
+                    ae:79:e7:62:81:0a:bc:ce:65:e4:37:b8:25:c5:8d:
+                    40:e3:06:0a:a7:5b:fb:05:ea:0a:f5:57:78:78:db:
+                    91:ae:7e:fa:82:71:5b:d8:70:8b:d0:66:af:69:e9:
+                    7c:d6:6d:5a:16:38:da:e1:99:0e:13:a9:02:22:67:
+                    98:01:6b:b8:ef:76:88:84:20:e1:20:da:8e:fe:0f:
+                    98:3f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                7E:A6:5A:70:98:A2:9F:D6:A8:0C:7D:FF:10:71:C2:AE:74:FD:1B:59
+    Signature Algorithm: sha256WithRSAEncryption
+         46:b8:49:a9:d8:b0:cb:13:a0:c0:48:4f:7e:09:db:a9:7f:22:
+         a1:8b:5f:48:fd:42:56:a7:c0:b9:7f:46:7a:c9:a7:5d:ef:db:
+         25:90:2d:05:9c:f2:df:ff:54:40:0d:da:fa:84:85:f0:d2:64:
+         34:08:e3:5b:5d:55:c0:6c:97:8e:29:ec:c6:c1:96:e3:a4:05:
+         28:3f:2f:48:22:90:dc:c6:52:d2:42:49:44:f9:58:ac:06:d7:
+         08:0c:24:09:35:7d:ba:2a:3a:d6:fd:f1:28:f9:63:0c:25:53:
+         3c:dc:a3:dd:9c:75:79:1a:be:4a:7b:d7:d7:02:96:8e:d5:97:
+         4e:c9:c0:99:fb:b1:81:f6:b4:43:72:06:63:d8:58:38:43:53:
+         f1:0c:67:f8:53:98:bd:01:df:00:44:25:bc:db:4c:3a:62:e1:
+         b6:3a:80:1b:17:67:4b:75:f1:b5:4e:0b:84:fb:57:34:07:42:
+         fc:09:3e:3b:5c:2e:aa:88:57:da:75:aa:2b:67:fa:fd:2f:b8:
+         34:a8:35:93:1f:e3:42:48:25:76:b3:d5:7a:b3:e2:79:5e:25:
+         61:f1:3d:97:81:30:f4:e2:20:c1:9e:59:b1:b6:9f:fc:90:44:
+         61:1d:73:c9:1a:52:00:d2:f5:a1:61:82:14:48:c2:94:77:e5:
+         b6:a7:19:ec
+-----BEGIN CERTIFICATE-----
+MIICwTCCAamgAwIBAgIECPBgXDANBgkqhkiG9w0BAQsFADAQMQ4wDAYDVQQDEwVU
+YXJhczAgFw0xNzA0MTMyMDMwMTRaGA8yMDg3MDMyNzIwMzAxNFowEDEOMAwGA1UE
+AxMFVGFyYXMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCw4c48FwBc
+KrL+JnWp83CHrlJ/D/a86VcwU/BXm4cn+Qs/ICO+Tbkn2ze/yhslu84sMk5xWEIh
+6jzvbARsOgNULt72S4YDNtXfRKcd36s9muWiz16suTd9nnzqVTKBSAKFpolDgdcU
+RTCDC+MdApQi3KgF8BI4zYomQFS6dCb0Ix/TocY+enTyzQpP1DXHXKFG9Z47eYDx
+iQD5Nor4LFrLAAAJjOYPHUevwS9ibQPLli8f965552KBCrzOZeQ3uCXFjUDjBgqn
+W/sF6gr1V3h425GufvqCcVvYcIvQZq9p6XzWbVoWONrhmQ4TqQIiZ5gBa7jvdoiE
+IOEg2o7+D5g/AgMBAAGjITAfMB0GA1UdDgQWBBR+plpwmKKf1qgMff8QccKudP0b
+WTANBgkqhkiG9w0BAQsFAAOCAQEARrhJqdiwyxOgwEhPfgnbqX8ioYtfSP1CVqfA
+uX9GesmnXe/bJZAtBZzy3/9UQA3a+oSF8NJkNAjjW11VwGyXjinsxsGW46QFKD8v
+SCKQ3MZS0kJJRPlYrAbXCAwkCTV9uio61v3xKPljDCVTPNyj3Zx1eRq+SnvX1wKW
+jtWXTsnAmfuxgfa0Q3IGY9hYOENT8Qxn+FOYvQHfAEQlvNtMOmLhtjqAGxdnS3Xx
+tU4LhPtXNAdC/Ak+O1wuqohX2nWqK2f6/S+4NKg1kx/jQkgldrPVerPieV4lYfE9
+l4Ew9OIgwZ5Zsbaf/JBEYR1zyRpSANL1oWGCFEjClHfltqcZ7A==
+-----END CERTIFICATE-----
+

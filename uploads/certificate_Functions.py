@@ -8,6 +8,7 @@ import tzlocal
 
 from .ninjadroid.cert_interface import CertInterface
 from .ninjadroid.file import File
+from .filepaths import *
 #from ninjadroid.errors.cert_parsing_error import CertParsingError
 
 

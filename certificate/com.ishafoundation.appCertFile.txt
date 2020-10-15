@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1340908412 (0x4feca37c)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=Sekhar
+        Validity
+            Not Before: Jun 28 18:33:32 2012 GMT
+            Not After : Jun 16 18:33:32 2062 GMT
+        Subject: CN=Sekhar
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:81:7f:d9:a5:75:80:87:a6:39:26:06:e0:79:8f:
+                    54:7c:09:11:a7:36:87:01:fb:c9:48:07:c3:17:5a:
+                    e3:b9:99:09:cc:8d:63:b2:b1:41:69:df:83:f2:df:
+                    22:cc:e1:38:f2:d0:43:4c:c8:e0:b5:cc:54:0f:1b:
+                    6a:79:f6:b7:fa:4a:75:57:a5:c8:97:b4:92:cf:96:
+                    ae:cd:db:57:6e:72:10:75:2b:51:08:b9:cc:2d:06:
+                    81:72:75:d9:cc:6c:1f:c7:fd:e7:81:97:69:9e:fb:
+                    2d:2d:dc:24:14:e0:1e:5a:fc:96:94:a1:71:7e:11:
+                    65:ea:af:2a:68:3c:eb:97:d9
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         37:97:cd:1b:15:7d:3d:22:a6:58:fb:fa:e9:d1:2b:27:67:27:
+         48:22:86:85:4c:93:a4:c5:e5:a9:9d:c0:55:d6:1a:1f:3e:1d:
+         cf:68:c9:f2:68:e9:b1:fa:10:3e:3a:28:78:de:da:f8:5f:40:
+         87:5a:85:4b:ef:4e:57:d8:4a:b2:e6:d5:b4:41:32:55:ec:86:
+         34:bd:23:e9:43:3e:3d:1b:4d:3e:d3:39:63:64:4e:49:d9:dd:
+         61:76:e1:2a:de:5e:cc:71:dc:ec:36:98:50:7f:a5:db:06:03:
+         09:52:55:5b:06:d6:19:ab:8e:09:51:e8:e7:9f:f0:cc:5c:b5:
+         3b:de
+-----BEGIN CERTIFICATE-----
+MIIBmzCCAQSgAwIBAgIET+yjfDANBgkqhkiG9w0BAQUFADARMQ8wDQYDVQQDEwZT
+ZWtoYXIwIBcNMTIwNjI4MTgzMzMyWhgPMjA2MjA2MTYxODMzMzJaMBExDzANBgNV
+BAMTBlNla2hhcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAgX/ZpXWAh6Y5
+JgbgeY9UfAkRpzaHAfvJSAfDF1rjuZkJzI1jsrFBad+D8t8izOE48tBDTMjgtcxU
+Dxtqefa3+kp1V6XIl7SSz5auzdtXbnIQdStRCLnMLQaBcnXZzGwfx/3ngZdpnvst
+LdwkFOAeWvyWlKFxfhFl6q8qaDzrl9kCAwEAATANBgkqhkiG9w0BAQUFAAOBgQA3
+l80bFX09IqZY+/rp0SsnZydIIoaFTJOkxeWpncBV1hofPh3PaMnyaOmx+hA+Oih4
+3tr4X0CHWoVL705X2Eqy5tW0QTJV7IY0vSPpQz49G00+0zljZE5J2d1hduEq3l7M
+cdzsNphQf6XbBgMJUlVbBtYZq44JUejnn/DMXLU73g==
+-----END CERTIFICATE-----
+

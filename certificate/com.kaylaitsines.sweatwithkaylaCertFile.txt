@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1456269236 (0x56cce7b4)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=61, ST=SA, L=Adelaide, O=The Bikini Body Training Company
+        Validity
+            Not Before: Feb 23 23:13:56 2016 GMT
+            Not After : Feb 16 23:13:56 2041 GMT
+        Subject: C=61, ST=SA, L=Adelaide, O=The Bikini Body Training Company
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:ac:3e:f2:56:e7:e6:41:12:21:e1:a8:b7:67:25:
+                    81:f8:a3:f5:b3:f3:0f:5f:b5:6a:6a:1e:26:50:fd:
+                    c0:fc:8d:69:5d:26:73:66:03:4d:26:cc:5d:48:01:
+                    e7:c1:39:d5:6e:ce:46:ef:a4:cb:61:15:ab:22:80:
+                    9d:9c:64:fc:96:a0:5d:af:0c:6a:50:6b:58:bf:76:
+                    73:6f:a5:8f:44:c1:bf:f7:64:5d:a6:50:e0:ec:d6:
+                    90:c4:8b:f9:a9:6f:3e:01:d2:f5:be:71:6d:9f:a7:
+                    ec:a5:8b:96:f1:56:87:ed:4a:8e:dd:7f:e5:ba:4d:
+                    80:e6:8c:14:07:85:a8:6c:49
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         14:23:6b:48:12:34:41:10:00:50:a1:e2:6b:57:af:67:36:20:
+         06:22:0a:4f:7a:c3:87:d8:75:bd:9a:ae:bf:64:4f:f9:6e:c8:
+         af:87:94:d9:85:20:61:07:2d:a6:89:38:64:2b:69:aa:00:18:
+         66:05:cb:6b:a0:3b:98:95:c7:d4:54:4a:aa:65:bb:bc:6f:b5:
+         ab:a2:8b:82:10:3e:37:ba:89:1d:4b:2c:53:33:ba:f4:b0:cc:
+         5a:36:3a:db:e0:d8:da:a1:ab:aa:cb:31:98:5a:d4:61:4c:3d:
+         42:20:0f:6d:f5:c2:c5:98:23:2e:18:87:65:11:f6:61:26:b9:
+         db:17
+-----BEGIN CERTIFICATE-----
+MIICJzCCAZCgAwIBAgIEVszntDANBgkqhkiG9w0BAQUFADBYMQswCQYDVQQGEwI2
+MTELMAkGA1UECBMCU0ExETAPBgNVBAcTCEFkZWxhaWRlMSkwJwYDVQQKEyBUaGUg
+QmlraW5pIEJvZHkgVHJhaW5pbmcgQ29tcGFueTAeFw0xNjAyMjMyMzEzNTZaFw00
+MTAyMTYyMzEzNTZaMFgxCzAJBgNVBAYTAjYxMQswCQYDVQQIEwJTQTERMA8GA1UE
+BxMIQWRlbGFpZGUxKTAnBgNVBAoTIFRoZSBCaWtpbmkgQm9keSBUcmFpbmluZyBD
+b21wYW55MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsPvJW5+ZBEiHhqLdn
+JYH4o/Wz8w9ftWpqHiZQ/cD8jWldJnNmA00mzF1IAefBOdVuzkbvpMthFasigJ2c
+ZPyWoF2vDGpQa1i/dnNvpY9Ewb/3ZF2mUODs1pDEi/mpbz4B0vW+cW2fp+yli5bx
+VoftSo7df+W6TYDmjBQHhahsSQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBABQja0gS
+NEEQAFCh4mtXr2c2IAYiCk96w4fYdb2arr9kT/luyK+HlNmFIGEHLaaJOGQraaoA
+GGYFy2ugO5iVx9RUSqplu7xvtauii4IQPje6iR1LLFMzuvSwzFo2Otvg2Nqhq6rL
+MZha1GFMPUIgD231wsWYIy4Yh2UR9mEmudsX
+-----END CERTIFICATE-----
+

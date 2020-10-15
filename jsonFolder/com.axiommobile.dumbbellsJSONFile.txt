@@ -1,0 +1,74 @@
+{
+  "name": "com.axiommobile.dumbbells",
+  "fileSize": "3.4 MB",
+  "VTmd5": "55a77285740d202b6e7a68d56da7b9b6",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/1296804185543c9cd44302155c3f6300a6ee61ebfb94f84ad2c1943d18d6fbf3/detection/f-1296804185543c9cd44302155c3f6300a6ee61ebfb94f84ad2c1943d18d6fbf3-1601111098",
+  "VTresource": "1296804185543c9cd44302155c3f6300a6ee61ebfb94f84ad2c1943d18d6fbf3",
+  "VTresponsecode": 1,
+  "VTscanID": "1296804185543c9cd44302155c3f6300a6ee61ebfb94f84ad2c1943d18d6fbf3-1601111098",
+  "VTsha1": "e988541113f952837c34298d34b32dbf1af9c6bc",
+  "VTsha256": "1296804185543c9cd44302155c3f6300a6ee61ebfb94f84ad2c1943d18d6fbf3",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.USE_CREDENTIALS Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.play.core.assetpacks.AssetPackExtractionService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "26 August 2020",
+    "Size": "4.5M",
+    "Installs": "500000",
+    "Current Version": "2.17",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact, In-app purchases",
+    "In-app Products": "$2.99 \u2013 $9.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "AxiomMobile",
+    "Developer": "Visit website info@axiommobile.ru Privacy Policy Axiom Mobile Ltd\n22/59 F.Munnikha st.\nTomsk\nRussia\n634059"
+  },
+  "rating": "4.7",
+  "description": "Build muscle and gain strength with dumbbell workout. Download the app and get everything you need: \u2714 Preset training plans: ++ Beginner ++ Weight Loss ++ Full Body ++ Total Split  \u2714 Illustrated exercises for each muscle group \u2714 Voice feedback \u2714 Detailed history \u2714 Beautiful, fit body and strong muscles Tips: Select a weight that you're comfortable with. Only increase the weight when a set starts to feel as though it's not challenging you anymore. Help us translate into your language: http://translate.axiomrun.com Follow us: \u2192 https://www.facebook.com/axiomrun",
+  "privacyText": "https://axiomrun.com/privacy-policy/",
+  "numInstalls": 500000,
+  "developer": "AxiomMobile",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://axiomrun.com/",
+    "Developer Email": "info@axiommobile.ru",
+    "Privacy Policy": "https://axiomrun.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Bumptech"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

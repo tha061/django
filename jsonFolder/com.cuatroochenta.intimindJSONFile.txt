@@ -1,0 +1,91 @@
+{
+  "name": "com.cuatroochenta.intimind",
+  "fileSize": "6.1 MB",
+  "VTmd5": "1f70d82b2ae553ae049340091a7b5634",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/02c2744161cd9749325f028c2d9e9c0f71a93ca854757f7f3d5fe2ac72920af7/detection/f-02c2744161cd9749325f028c2d9e9c0f71a93ca854757f7f3d5fe2ac72920af7-1586339737",
+  "VTresource": "02c2744161cd9749325f028c2d9e9c0f71a93ca854757f7f3d5fe2ac72920af7",
+  "VTresponsecode": 1,
+  "VTscanID": "02c2744161cd9749325f028c2d9e9c0f71a93ca854757f7f3d5fe2ac72920af7-1586339737",
+  "VTsha1": "150619de4262d6981e017b66b6241c00b2961feb",
+  "VTsha256": "02c2744161cd9749325f028c2d9e9c0f71a93ca854757f7f3d5fe2ac72920af7",
+  "VTtotal": 60,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.cuatroochenta.intimind.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.cuatroochenta.intimind.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.parse.PushService  permission: ",
+      "name: com.cuatroochenta.intimind.audio.AudioPlayerService  permission: ",
+      "name: com.parse.PushServiceApi26  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "7 April 2020",
+    "Size": "6.1M",
+    "Installs": "50000",
+    "Current Version": "1.7.0",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$3.49 \u2013 $59.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "CREACONCEPTO CONSULTORA AUDIOVISUAL SL",
+    "Developer": "Visit website contacto@intimind.es Privacy Policy C/ Cid n\u00ba 10 - 46530 Pu\u00e7ol - Valencia"
+  },
+  "rating": "3.9",
+  "description": "Medita con Intimind, un m\u00e9todo efectivo elaborado por psic\u00f3logos expertos en atenci\u00f3n plena (mindfulness). Adaptado a tu ritmo de vida, puedes practicar con s\u00f3lo 10 minutos al d\u00eda.  Para iniciarte y aprender, te ofrecemos nuestro programa \u201cIntroducci\u00f3n\u201d con 7 meditaciones gratuitas. Si quieres trabajar alg\u00fan aspecto concreto de tu vida tenemos 4 programas:  - Salud y Estr\u00e9s - Trabaja Mejor - Relaciones Personales  - Equilibrio Emocional.  Avanza por la senda Intimind con cada ejercicio. Programas dise\u00f1ados para entrenar la atenci\u00f3n y cultivar habilidades como la empat\u00eda, la creatividad, o la concentraci\u00f3n seg\u00fan el programa que elijas.  Decide a tu propio ritmo si dedicas 10 o 20 minutos a tu pr\u00e1ctica diaria. Opta por los entrenamientos si quieres meditaciones guiadas para situaciones o momentos concretos de tu vida diaria. Te ofrecemos 11 meditaciones gratuitas. Si quieres perfeccionar tu pr\u00e1ctica puedes acceder a todo sin limites con los bonos de duraci\u00f3n determinada (mensual o anual) o compra el programa que necesitas para tenerlo siempre a mano. Meditates with Intimind, an effective method developed by expert psychologists in mindfulness (mindfulness). Adapted to your lifestyle, you can practice with just 10 minutes a day. To get started and learn, we offer our \"Introduction\" with 7 free meditations. If you want to work some particular aspect of your life we \u200b\u200bhave 4 Programs: - Health and Stress - Works Better - Personal relationships - Emotional balance. Go down the path Intimind with each exercise. Programs designed to train attention and nurturing skills such as empathy, creativity, or concentration depending on the program you choose. Decide your own pace if you spend 10 or 20 minutes to your daily practice. Opt for training if you want guided tours for specific situations or moments of your daily life meditations. We offer 11 free meditations. If you want to improve your practice you can access everything without limits with fixed-term bonds (monthly or annual) or purchase the program you need to have it always at hand.",
+  "privacyText": "http://intimind.es/politica-de-privacidad/",
+  "numInstalls": 50000,
+  "developer": "CREACONCEPTO CONSULTORA AUDIOVISUAL SL",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://intimind.es/",
+    "Developer Email": "contacto@intimind.es",
+    "Privacy Policy": "http://intimind.es/politica-de-privacidad/"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Google Analytics",
+    "Nostra13"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

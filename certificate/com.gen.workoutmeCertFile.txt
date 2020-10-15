@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1218915197 (0x48a72b7d)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=UA, L=Kiev, O=Insomnia, CN=Volodymyr Chernyshov
+        Validity
+            Not Before: Apr  1 12:19:18 2014 GMT
+            Not After : Mar 19 12:19:18 2064 GMT
+        Subject: C=UA, L=Kiev, O=Insomnia, CN=Volodymyr Chernyshov
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9b:93:b8:5e:cb:79:32:e1:92:b3:1a:ae:19:11:
+                    fe:e5:4b:e2:ba:95:8d:b8:05:60:ff:26:d3:b1:aa:
+                    24:1d:fb:36:d3:fe:28:70:a5:75:62:0c:ed:92:53:
+                    1f:21:61:e3:50:fa:ef:85:42:c1:12:6c:f3:6e:b6:
+                    ab:85:f4:f6:84:1c:5e:3f:a9:24:ee:b4:1a:24:21:
+                    ab:25:d5:ed:f0:1e:61:6f:e1:82:b8:1c:19:2b:e3:
+                    c6:be:60:41:ff:04:04:80:b3:74:0b:7f:a9:53:0b:
+                    27:de:b1:66:6d:d9:d3:22:ba:3a:b5:62:13:74:81:
+                    ef:a6:c7:e8:2b:33:21:5f:d7:ed:bd:b4:c6:6a:12:
+                    87:ae:36:36:03:3e:9b:c9:f8:45:f2:90:66:89:41:
+                    ff:12:30:2d:16:58:53:b7:be:4c:05:50:3c:3b:f1:
+                    fb:42:7c:df:6e:c8:07:51:56:78:00:5c:78:91:a1:
+                    c2:e4:28:c6:27:0a:4a:36:2c:bd:08:85:81:ee:0d:
+                    1b:c7:ec:f5:a2:b8:5f:30:38:cd:68:ee:e5:db:4c:
+                    22:8a:da:8c:f4:1b:4f:30:10:93:4c:af:12:78:13:
+                    95:32:b8:04:73:94:67:c1:63:7e:55:c4:8b:9a:be:
+                    56:d7:2e:e0:99:f5:f7:b1:54:36:cc:b5:0d:be:22:
+                    d2:7d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                DE:BF:3D:44:EB:29:AF:51:CA:E6:8A:C9:A1:A7:2A:3C:3B:EA:5C:C1
+    Signature Algorithm: sha256WithRSAEncryption
+         94:9b:ed:8e:9b:fc:ef:68:7d:9f:97:99:ae:b0:ec:b1:37:53:
+         79:eb:ab:b2:11:bc:a2:b0:f8:8b:f7:e8:36:68:53:26:a7:65:
+         a8:ad:92:75:fd:94:0d:57:22:e4:5e:aa:62:40:b1:ad:92:fb:
+         d9:1b:d0:01:b9:52:4a:9c:4e:34:29:19:4a:2f:28:ad:c6:6c:
+         a1:4f:65:b6:6b:45:6e:99:a8:40:1f:60:71:bb:c8:a8:65:4b:
+         80:87:df:7f:25:b7:f4:ba:43:fe:62:ea:0b:72:98:a4:63:be:
+         4c:a3:40:61:e8:05:05:93:46:df:a4:1e:f4:45:37:9a:57:50:
+         0b:09:e6:34:16:50:07:bf:d9:33:af:33:dc:e7:76:b0:f1:64:
+         21:a0:2e:c9:f8:7a:01:c2:4b:f5:55:06:70:0e:e4:53:4c:03:
+         c5:a9:cc:53:7c:eb:d8:5e:e7:02:d6:8b:26:9d:2a:4d:5c:e5:
+         a2:22:32:a6:fc:70:2a:d4:0b:55:8f:2c:b3:0f:96:a8:22:85:
+         55:16:ca:74:da:3b:0e:8e:5a:03:52:19:6e:2e:10:09:58:c8:
+         74:31:43:14:56:28:e0:aa:c4:db:01:f8:dc:4a:70:0e:20:f6:
+         73:c1:54:ae:b0:03:cf:02:a6:a8:81:65:e1:0b:37:28:e0:91:
+         6b:16:8e:ea
+-----BEGIN CERTIFICATE-----
+MIIDPTCCAiWgAwIBAgIESKcrfTANBgkqhkiG9w0BAQsFADBOMQswCQYDVQQGEwJV
+QTENMAsGA1UEBxMES2lldjERMA8GA1UEChMISW5zb21uaWExHTAbBgNVBAMTFFZv
+bG9keW15ciBDaGVybnlzaG92MCAXDTE0MDQwMTEyMTkxOFoYDzIwNjQwMzE5MTIx
+OTE4WjBOMQswCQYDVQQGEwJVQTENMAsGA1UEBxMES2lldjERMA8GA1UEChMISW5z
+b21uaWExHTAbBgNVBAMTFFZvbG9keW15ciBDaGVybnlzaG92MIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm5O4Xst5MuGSsxquGRH+5UviupWNuAVg/ybT
+saokHfs20/4ocKV1YgztklMfIWHjUPrvhULBEmzzbrarhfT2hBxeP6kk7rQaJCGr
+JdXt8B5hb+GCuBwZK+PGvmBB/wQEgLN0C3+pUwsn3rFmbdnTIro6tWITdIHvpsfo
+KzMhX9ftvbTGahKHrjY2Az6byfhF8pBmiUH/EjAtFlhTt75MBVA8O/H7QnzfbsgH
+UVZ4AFx4kaHC5CjGJwpKNiy9CIWB7g0bx+z1orhfMDjNaO7l20wiitqM9BtPMBCT
+TK8SeBOVMrgEc5RnwWN+VcSLmr5W1y7gmfX3sVQ2zLUNviLSfQIDAQABoyEwHzAd
+BgNVHQ4EFgQU3r89ROspr1HK5orJoacqPDvqXMEwDQYJKoZIhvcNAQELBQADggEB
+AJSb7Y6b/O9ofZ+Xma6w7LE3U3nrq7IRvKKw+Iv36DZoUyanZaitknX9lA1XIuRe
+qmJAsa2S+9kb0AG5UkqcTjQpGUovKK3GbKFPZbZrRW6ZqEAfYHG7yKhlS4CH338l
+t/S6Q/5i6gtymKRjvkyjQGHoBQWTRt+kHvRFN5pXUAsJ5jQWUAe/2TOvM9zndrDx
+ZCGgLsn4egHCS/VVBnAO5FNMA8WpzFN869he5wLWiyadKk1c5aIiMqb8cCrUC1WP
+LLMPlqgihVUWynTaOw6OWgNSGW4uEAlYyHQxQxRWKOCqxNsB+NxKcA4g9nPBVK6w
+A88CpqiBZeELNyjgkWsWjuo=
+-----END CERTIFICATE-----
+

@@ -1,0 +1,66 @@
+{
+  "name": "com.vlab.dailyyoga.excercise",
+  "fileSize": "8.5 MB",
+  "VTmd5": "17b3d5def28483caa59e53efeebae316",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/1458e151997e326c203c53418b6364708716df52d84f00ad5ba3f6a0b618f6ad/detection/f-1458e151997e326c203c53418b6364708716df52d84f00ad5ba3f6a0b618f6ad-1595770813",
+  "VTresource": "1458e151997e326c203c53418b6364708716df52d84f00ad5ba3f6a0b618f6ad",
+  "VTresponsecode": 1,
+  "VTscanID": "1458e151997e326c203c53418b6364708716df52d84f00ad5ba3f6a0b618f6ad-1595770813",
+  "VTsha1": "5bd7c0e2022ccc849f8641ed26d9a4c8ad2e94e8",
+  "VTsha256": "1458e151997e326c203c53418b6364708716df52d84f00ad5ba3f6a0b618f6ad",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "17 June 2020",
+    "Size": "8.7M",
+    "Installs": "50000",
+    "Current Version": "1.1",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Visionary Labs",
+    "Developer": "visionarylabs19@gmail.com Privacy Policy"
+  },
+  "rating": "4.5",
+  "description": "Daily Yoga Exercise - Yoga Workout Plan  is a complete guide of yoga exercises for beginners. Yoga exercises contains all basic yoga asanas and yoga poses with detail instructions that helps to keep you fit, healthy and loose weight. Daily Yoga Exercise - Yoga Workout Plan  contains daily Yoga fitness workout plan for 30 days. You can also create your own yoga workout plan by adding your trainings. Yoga is a practice that connects the body, breath, and mind. It uses physical postures, breathing exercises, and meditation to improve overall health. Yoga was developed as a spiritual practice thousands of years ago.  Yoga can improve your overall fitness level and improve your posture and flexibility. It may also: -  Lower your blood pressure and heart rate -  Help you relax -  Improve your self-confidence -  Reduce stress -  Improve your coordination -  Improve your concentration -  Help you sleep better -  Aid with digestion In addition, practicing yoga may also help with the following conditions: -  Anxiety -  Back pain -  Depression   Daily Yoga Exercise - Yoga Workout Plan special features:  *  Simple and easy to use. *  Complete yoga exercise guide for beginners. *  Daily yoga fitness workout plan for 30 days. *  You can create your own yoga workout plan. *  You can share your daily yoga workout results. *  You can check your Body Mass Index (BMI) by adding current your height and weight. *  It contains tips for better yoga exercise. *  You can set daily reminder for yoga exercise.",
+  "privacyText": "https://sites.google.com/view/vlabprivacypolicy",
+  "numInstalls": 50000,
+  "developer": "Visionary Labs",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://sites.google.com/view/vlabprivacypolicy",
+    "Developer Email": "visionarylabs19@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/vlabprivacypolicy"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Google Ads",
+    "Intuit"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

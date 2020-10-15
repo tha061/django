@@ -1,0 +1,72 @@
+{
+  "name": "com.saagara.relaxlite",
+  "fileSize": "28.1 MB",
+  "VTmd5": "e7d0144759fc72408cca35c6e9df202f",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/028b79b28a045561040e456e60b63f2582ee89f1ecdaa8b826c89e636ad0a024/detection/f-028b79b28a045561040e456e60b63f2582ee89f1ecdaa8b826c89e636ad0a024-1589503633",
+  "VTresource": "028b79b28a045561040e456e60b63f2582ee89f1ecdaa8b826c89e636ad0a024",
+  "VTresponsecode": 1,
+  "VTscanID": "028b79b28a045561040e456e60b63f2582ee89f1ecdaa8b826c89e636ad0a024-1589503633",
+  "VTsha1": "8aca3a063a933b76438fe7fd1c0f28aa5cc47336",
+  "VTsha256": "028b79b28a045561040e456e60b63f2582ee89f1ecdaa8b826c89e636ad0a024",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.saagara.relax.scheduler.SchedulingService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "28 July 2016",
+    "Size": "28M",
+    "Installs": "500000",
+    "Current Version": "4.9.1-lite",
+    "Requires Android": "3.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$2.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Saagara",
+    "Developer": "Visit website info@saagara.com Privacy Policy Saagara LLC\n2750 Carpenter RD\nSuite 6\nAnn Arbor\nMI, 48108"
+  },
+  "rating": "4.5",
+  "description": "** Voted Top Mind & Body App of 2014 by Leading Doctors ** Effective and rapid stress relief in 5 minutes.  De-stress with our guided breathing and meditation exercises that use calming music to promote relaxation. It\u00e2\u20ac\u2122s an ideal stress management tool, being simple and intuitive. Finding time to relax can be very difficult for most people. Our app can be easily integrated into your daily life. \"\"Relax\"\" by \"\"Saagara\"\" enhances the way you feel and leaves you with more energy, stamina, and focus. The more you use it, the better and more effective the results. UNIQUE FEATURES - Music cues that use distinct tones for each phase of breathing. - A structured course that gradually reduces your breathing rate as you progress through the sessions. - Guided Meditation features an 8 minute session that focuses on different parts of the body. - Beautiful graphics  - Quick start feature - In-app purchase opens up even more features including Intermediate and Advanced Breathing Sessions, and a 12 minute Guided Meditation Session. HEALTH BENEFITS Practicing deep breathing for only 5 minutes a day can reduce stress and stress-related illnesses. Practicing deep breathing has the following benefits: 1) Has an almost immediate relaxing effect. 2) Improves focus and reduces anxiety. 3) Lowers blood pressure and heart rate naturally. 4) Improves stamina and fitness by optimizing the usage of your lung capacity. 5) Works as a sleep aid for people affected with Insomnia. 6) Helps in pain management. 7) Helps in managing Headaches and Migraines. WHO WOULD FIND THIS APP USEFUL A) People interested in Meditation:  The guided breathing exercises are not only a great form of breath meditation, but also extremely useful in regulating your breathing during other mediation techniques. The guided meditation is based on Yoga Nidra. Yoga Nidra is a systematic multistage set of relaxation techniques designed to induce deep meditative state. Yoga Nidra techniques have been extensively studied and are used to treat PTSD, anxiety, depression and insomnia. B) If you have Panic Attacks: Our guided breathing when used with the quick start function is an extremely rapid and effective technique to help you manage your panic attack and it can used anywhere. When used with headphones you can discretely handle your panic attack almost in any setting from the office, coffee shop, in the park, on a bus, or while flying in a Plane. C) If you suffer from Insomnia: The guided breathing technique is very effective in dealing with insomnia. Alway use the same music style to guide the breathing when using the app for insomnia. the more you use the app the more effective it will be. A guide to how to use this app for insomnia can be found at: http://www.saagara.com/learning-center/guide-to-better-sleep D) If you have a stressful lifestyle or job: Both the guide breathing and guided meditation will quickly help re-center and relax you. **Available in English, French, and Chinese Languages **Classic Mode is available in the Settings for the classic breathing exercise view.  Visit our website for more information: http://saagara.com Make sure you check our our learning center for tips on yoga, diet, and being mindful: http://saagara.com/learning-center Recommended by Leading Doctors https://www.healthtap.com/apps/2279",
+  "privacyText": "http://saagara.com/privacy#apps",
+  "numInstalls": 500000,
+  "developer": "Saagara",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.saagara.com/",
+    "Developer Email": "info@saagara.com",
+    "Privacy Policy": "http://saagara.com/privacy#apps"
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,75 @@
+{
+  "name": "com.gtm.pause",
+  "fileSize": "20.1 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.stansassets.android.app.notifications.AN_AlarmNotificationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "24 July 2020",
+    "Size": "20M",
+    "Installs": "100000",
+    "Current Version": "3.5",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$5.99 \u2013 $234.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Ultimate Party Apps",
+    "Developer": "Visit website contact@pause-app.org Privacy Policy 305 moo 1, The Resort 101, T. Chang Puak, Muang Chiang Mai 50300"
+  },
+  "rating": "4.4",
+  "description": "With hundreds of guided meditations, Pause introduces you to mindfulness, various forms of meditation, stress management, deep relaxation and better sleep. Pause is suited to beginning or advanced meditators, and was designed by an innovative team of experienced meditators, psychologists and cognitive scientists! \u2022\u2022\u2022 PAUSE - GUIDED MEDITATION \u2022\u2022\u2022   Learn to meditate for free with our \"Foundation\" series, which helps you develop your own understanding and practice of meditation. You will learn all the ways meditation can support you in your life, with many helpful tips. Our many Series focus on specific issues, such as Stress, Anxiety, Self-Esteem, Compassion, Emotions, etc... Our Basic Skill series guide you through the core of the meditative process - simply sitting down and focusing on your breath. Our SOS session is designed to help you deal with a rising panic attack. When you feel confident enough to meditate by yourself, you can use our timer Pause has many other gifts to give! So click Play and start to breathe. Let Eleonore\u2019s soft voice guide you, and dive into our powerful meditation sessions \u2022\u2022\u2022 PAUSE - MEDITATION AND SLEEP \u2022\u2022\u2022       Problems with insomnia? Trouble getting to sleep? Our \"sleep story\" and relaxing sounds will guide you to deep, restorative sleep. Our stories designed to help you drift off will finally take you to the healing sleep you've been searching for. Take our relaxation melodies, mix in some sleep-inducing sounds such as white noise, add a meditation sound effect and enjoy long nights of deep sleep. Sweeten your dreams with Pause - Meditation and sleep \u2022\u2022\u2022 PAUSE - THE BENEFITS OF MEDITATION \u2022\u2022\u2022 According to numerous scientific studies, meditation can have a direct effect on our brain and body. Within this greater sphere, the practice of mindfulness can help to manage or combat: stress, general anxiety, mental distress, insomnia, social anxiety, depression, insomnia, burnout, diabetes, hypertension, lack of concentration, self-esteem issues, etc. Meditating for ten minutes a day can help you feel better within your body and mind. Why wait? If you suffer from stress, anxiety, distress, insomnia, use Pause and its guided mindfullness meditation exercises every day. You will see positive results in your health, personal fulfilment and happiness Make friends with your inner self, and cultivate a state of calm and serenity. Find the most comfortable spot and position, away from distraction Enjoy hundreds of hours of smart meditations, and our regularly updated content. Hit play and start breathing! \u2022\u2022\u2022 MORE ABOUT THE APP AND THE SUBSCRIPTION \u2022\u2022\u2022 The app is available in english, spanish, german and french. Download Pause, sign up and get started on our  Foundation series. Then sign up for the Pro version in order to access more guided meditations and series. Download our sessions so you can access them offline. Pause offers two auto-renewing subscription options, choose the length of your subscription:  \u2022 1 month : \u00a37.99 (\u00a32/week) \u2022 6 months : \u00a334.99 (\u00a31.35/week) Once you've chosen your subscription and confirmed your order, the payment will be charged to your account, with the right price for your country. The subscription will automatically renew at its end date, and your Google Play-linked bank account will be charged. You can stop the automatic renewal any time. To avoid the renewal, cancel it at least 24h before the end date of your subscription. No refund is available for unused time.  Terms and conditions: http://pause-app.org/terms/ Follow Pause - Meditation on Facebook for some advice and content about mindfulness meditation Any more questions about our app? Write us at contact@pause-app.org",
+  "privacyText": "https://pause-app.org/en/private-policy-2/",
+  "numInstalls": 100000,
+  "developer": "Ultimate Party Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://pause-app.org/en/",
+    "Developer Email": "contact@pause-app.org",
+    "Privacy Policy": "https://pause-app.org/en/private-policy-2/"
+  },
+  "smali_Directories": [
+    "Appsflyer",
+    "Facebook",
+    "Unity3d"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

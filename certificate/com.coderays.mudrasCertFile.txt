@@ -1,0 +1,76 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 475747852 (0x1c5b560c)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=IN, ST=Tamil Nadu, L=chennai, O=CodeRays Technologies, OU=CodeRays Technologies, CN=CodeRays Technologies
+        Validity
+            Not Before: Oct  3 07:02:43 2013 GMT
+            Not After : Feb 18 07:02:43 2041 GMT
+        Subject: C=IN, ST=Tamil Nadu, L=chennai, O=CodeRays Technologies, OU=CodeRays Technologies, CN=CodeRays Technologies
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:86:69:1e:cf:84:6b:ee:ed:35:6d:c2:0c:2d:95:
+                    94:fa:e9:47:0f:90:cb:3a:de:42:1e:12:5c:08:9a:
+                    af:72:88:b0:6a:1c:1e:3b:cc:45:8f:2e:83:ba:56:
+                    58:5e:0a:cf:88:aa:fd:01:bf:3d:8e:44:d7:da:03:
+                    6c:f8:dd:ec:7d:7e:ee:ed:6e:f1:89:28:62:eb:fe:
+                    11:e5:eb:ef:71:f8:4a:b1:a6:f7:9f:6b:92:2b:0a:
+                    b9:01:49:25:34:0b:7c:a5:ad:64:2b:ec:41:ba:25:
+                    33:bb:a5:60:83:81:2d:e8:61:23:d0:ed:c8:5a:0c:
+                    80:12:7a:e0:53:e3:95:0d:d0:de:64:55:91:bd:c8:
+                    ea:0c:56:18:4a:58:67:b4:e8:0b:13:0c:a8:fd:89:
+                    0b:ce:a9:a1:8e:4f:49:56:ac:e6:29:9b:37:6a:1a:
+                    16:f7:db:7c:3f:8d:8e:f2:56:80:f2:1a:ec:49:bf:
+                    81:44:f0:33:3d:5e:9a:68:02:8d:e3:94:ed:69:df:
+                    e4:9e:b4:bc:a3:6c:5b:cf:35:7f:57:03:aa:14:07:
+                    bd:d7:7d:46:3e:8f:86:d8:48:a4:58:22:59:ed:9c:
+                    35:36:17:50:16:8c:19:d9:b6:06:54:65:7f:13:23:
+                    bb:16:9f:e7:96:91:66:b2:9d:f7:b9:db:ac:70:fd:
+                    a0:6d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                3C:E1:DD:A1:E3:9B:F8:8B:C1:A0:F8:5B:72:E5:57:02:BB:22:67:00
+    Signature Algorithm: sha256WithRSAEncryption
+         3a:6d:98:73:da:9c:fc:5c:14:ac:79:ff:6d:c3:2b:8e:9e:ec:
+         6a:13:87:9d:ab:26:74:90:d0:11:b3:d9:75:ab:b0:ff:07:7d:
+         33:88:7f:9d:08:09:21:c4:91:9b:b5:20:63:4b:24:4d:b4:a1:
+         c2:52:1e:45:44:79:22:62:59:d8:17:a4:4c:f6:19:56:df:e1:
+         34:67:dd:f7:60:6b:0d:80:d9:71:ef:01:ac:2d:ce:ad:e9:cc:
+         d5:a4:34:35:0d:59:a9:81:c1:e4:80:8b:37:a7:a8:e7:87:b3:
+         53:34:e6:35:e8:99:57:78:29:0b:1b:10:29:69:19:45:ce:d8:
+         7f:85:bb:87:0e:6a:d2:a9:d9:93:69:92:e5:4d:e2:09:5d:30:
+         61:e0:4e:a6:5a:8a:d9:16:6a:31:6d:d6:29:89:11:15:cb:5a:
+         23:08:9c:7f:f1:fb:f1:83:1b:bd:e5:88:48:8e:b5:5b:46:3c:
+         37:9a:e2:5d:5f:94:8d:31:bf:5d:e2:ac:e7:01:dd:69:28:1a:
+         05:e8:fd:6a:6d:1c:eb:7c:57:ad:44:2d:d7:1a:dc:b3:bd:74:
+         4a:0a:85:99:6e:dd:c8:08:63:43:b5:3b:e7:1a:b2:a9:66:bf:
+         be:d4:28:7f:67:a9:c3:0e:13:8e:a4:79:40:54:5b:2f:9c:a7:
+         e5:91:c1:d7
+-----BEGIN CERTIFICATE-----
+MIIDyTCCArGgAwIBAgIEHFtWDDANBgkqhkiG9w0BAQsFADCBlDELMAkGA1UEBhMC
+SU4xEzARBgNVBAgTClRhbWlsIE5hZHUxEDAOBgNVBAcTB2NoZW5uYWkxHjAcBgNV
+BAoTFUNvZGVSYXlzIFRlY2hub2xvZ2llczEeMBwGA1UECxMVQ29kZVJheXMgVGVj
+aG5vbG9naWVzMR4wHAYDVQQDExVDb2RlUmF5cyBUZWNobm9sb2dpZXMwHhcNMTMx
+MDAzMDcwMjQzWhcNNDEwMjE4MDcwMjQzWjCBlDELMAkGA1UEBhMCSU4xEzARBgNV
+BAgTClRhbWlsIE5hZHUxEDAOBgNVBAcTB2NoZW5uYWkxHjAcBgNVBAoTFUNvZGVS
+YXlzIFRlY2hub2xvZ2llczEeMBwGA1UECxMVQ29kZVJheXMgVGVjaG5vbG9naWVz
+MR4wHAYDVQQDExVDb2RlUmF5cyBUZWNobm9sb2dpZXMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCGaR7PhGvu7TVtwgwtlZT66UcPkMs63kIeElwImq9y
+iLBqHB47zEWPLoO6VlheCs+Iqv0Bvz2ORNfaA2z43ex9fu7tbvGJKGLr/hHl6+9x
++Eqxpvefa5IrCrkBSSU0C3ylrWQr7EG6JTO7pWCDgS3oYSPQ7chaDIASeuBT45UN
+0N5kVZG9yOoMVhhKWGe06AsTDKj9iQvOqaGOT0lWrOYpmzdqGhb323w/jY7yVoDy
+GuxJv4FE8DM9XppoAo3jlO1p3+SetLyjbFvPNX9XA6oUB73XfUY+j4bYSKRYIlnt
+nDU2F1AWjBnZtgZUZX8TI7sWn+eWkWaynfe526xw/aBtAgMBAAGjITAfMB0GA1Ud
+DgQWBBQ84d2h45v4i8Gg+Fty5VcCuyJnADANBgkqhkiG9w0BAQsFAAOCAQEAOm2Y
+c9qc/FwUrHn/bcMrjp7sahOHnasmdJDQEbPZdauw/wd9M4h/nQgJIcSRm7UgY0sk
+TbShwlIeRUR5ImJZ2BekTPYZVt/hNGfd92BrDYDZce8BrC3OrenM1aQ0NQ1ZqYHB
+5ICLN6eo54ezUzTmNeiZV3gpCxsQKWkZRc7Yf4W7hw5q0qnZk2mS5U3iCV0wYeBO
+plqK2RZqMW3WKYkRFctaIwicf/H78YMbveWISI61W0Y8N5riXV+UjTG/XeKs5wHd
+aSgaBej9am0c63xXrUQt1xrcs710SgqFmW7dyAhjQ7U75xqyqWa/vtQof2epww4T
+jqR5QFRbL5yn5ZHB1w==
+-----END CERTIFICATE-----
+

@@ -1,0 +1,69 @@
+{
+  "name": "com.samantharoobol.jumprope",
+  "fileSize": "11.9 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.MODIFY_AUDIO_SETTINGS Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "10 October 2020",
+    "Size": "12M",
+    "Installs": "100000",
+    "Current Version": "1.4",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.49 \u2013 $4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Stay Fit With Samantha",
+    "Developer": "Visit website samantharoobol@gmail.com Privacy Policy Laurierhof 23, Papendrecht"
+  },
+  "rating": "3.6",
+  "description": "If you're looking to push your calorie burning, fat-busting HIIT workouts to the next level, you should start skipping. Not days in the gym, of course. Just skip out on the weights in favor of one of the most efficient pieces of equipment you probably laying around: the jump rope. Jump Rope HIIT Workout Routines to Burn Fat and Train Cardio At-home cardio workouts can be easier than you think\u2014especially if you have a jump rope. A jump rope workout can be a fun and challenging way to get in your cardio when you have to stay in one place. Jumping rope can help maximize your workout, even if you only have a few minutes. It seriously challenges the cardiovascular system while also helping to improve coordination and muscle strength. Can't muster the motivation to make it to the gym? Skip it! Jumping rope burns more than 10 calories a minute while strengthening your legs, butt, shoulders, and arms. And it doesn't take long to reap great rewards. You can burn more than 200 calories in two 10-minute sessions each day (yep... that's 1000 calories a week). Jumping rope (also referred to as rope skipping) is a staple in a boxer's conditioning program.  Jumping rope is also a great way to fit in an effective cardio session when you're on the go\u2014just toss your jump rope in your carry-on! You'll probably feel completely energized after jumping rope too. Try adding our workout routines to your existing strength plan, or do it alone as a cardio workout. Add a jump rope to high intensity interval training (HIIT), and you're in for a hell of a workout. Jumping rope is a great way to burn off those extra calories while getting in a full body workout.  Jump Rope Weight Loss Routine - Home Cardio HIIT Program One of the best methods to get in a fast, efficient workout is to use jump rope for your HIIT endurance routine. And while running is a popular choice when it comes to HIIT workouts, there are several reasons to pick up a jump rope instead. What are you waiting for? Hop to it! We offer short, intense home workouts that combines intervals of cardio, using a jump rope, with bodyweight strength training moves.",
+  "privacyText": "http://fm.stefanroobol.com/privacy-policy/jumprope",
+  "numInstalls": 100000,
+  "developer": "Stay Fit With Samantha",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://samantha.steveloper.nl",
+    "Developer Email": "samantharoobol@gmail.com",
+    "Privacy Policy": "http://fm.stefanroobol.com/privacy-policy/jumprope"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

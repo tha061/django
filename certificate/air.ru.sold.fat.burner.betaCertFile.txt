@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            2d:32:64:36:34:66:61:64:38:3a:31:35:33:61:39:32:34:37:61:30:66:3a:2d:38:30:30:30
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=RU, O=, OU=, CN=Konstantin Kovalchuk
+        Validity
+            Not Before: Mar 23 15:00:53 2016 GMT
+            Not After : Mar 24 15:00:53 2041 GMT
+        Subject: C=RU, O=, OU=, CN=Konstantin Kovalchuk
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a8:99:b9:26:bb:04:ef:63:40:7c:19:6f:8d:82:
+                    e6:ec:df:20:fd:6f:cb:cb:81:cb:87:85:85:7b:61:
+                    21:7a:e1:08:05:f9:f9:3e:6b:ce:16:26:a4:2e:88:
+                    4f:e1:bd:90:80:46:64:1a:01:bd:42:8e:6f:d1:03:
+                    00:9f:d7:e1:22:d2:3b:c6:22:b4:19:bc:f6:99:01:
+                    2f:ca:42:f6:3a:4b:92:eb:bc:8f:78:43:a0:3d:72:
+                    d6:17:39:91:cb:e2:70:17:ed:2b:8e:a3:8d:c6:bb:
+                    d8:87:75:64:00:6c:7f:cb:dc:44:6f:17:31:39:68:
+                    cc:13:4b:6c:02:e7:a8:9e:05:3b:c6:80:52:00:88:
+                    49:ac:a0:db:47:6a:9f:93:07:c6:96:6f:66:5e:02:
+                    8f:4c:bf:99:26:dc:81:6a:db:c6:78:a9:69:a8:06:
+                    ff:22:f2:7a:bb:46:65:a6:72:dd:d3:d9:6e:6b:85:
+                    10:04:66:8b:30:c2:9b:99:f2:9e:a2:37:2f:03:8a:
+                    6a:a4:04:6b:b4:bb:6a:2e:15:9b:5c:f0:7a:11:e2:
+                    30:e5:36:2b:29:26:8c:72:eb:d8:3b:35:c2:fc:b0:
+                    b6:04:75:c2:26:7f:c5:de:6d:b9:23:a4:82:07:6b:
+                    6d:b5:df:56:bb:36:d4:61:fd:73:7b:9f:c8:a8:a2:
+                    74:6b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Extended Key Usage: 
+                Code Signing
+    Signature Algorithm: sha1WithRSAEncryption
+         7b:18:7c:e8:d0:3c:db:44:4e:08:09:e3:94:45:ba:b2:e6:53:
+         e5:68:06:cd:bf:40:74:56:a8:7c:9b:aa:c2:fd:67:62:a2:0f:
+         a9:c6:db:2e:7d:6d:4f:f8:7f:39:c2:f4:5b:bc:c0:8b:f4:59:
+         eb:90:90:00:8e:49:3b:40:57:1e:24:e4:02:13:e8:4d:d7:50:
+         2a:fc:2c:d2:af:cd:1e:64:bc:c2:6a:fe:93:0e:bc:dd:2b:88:
+         a8:e7:76:13:84:01:b8:8b:8b:e7:12:6e:84:c8:f3:57:a4:31:
+         c7:51:1a:27:c3:2e:f9:22:fd:ab:93:fb:86:02:d3:ec:a6:83:
+         38:56:9b:29:56:8f:da:75:37:4f:06:ca:a6:0b:31:fc:55:cf:
+         3b:18:20:58:23:0f:bd:c6:13:cd:ef:41:9e:15:b3:cc:42:6b:
+         bd:c1:f5:19:57:0a:6f:1d:fc:d3:63:d9:bd:79:73:37:9e:f2:
+         dc:3c:11:97:36:92:18:99:59:46:d1:a4:a1:c1:ee:28:ca:73:
+         d6:ef:20:0b:f2:6d:e9:ec:35:b4:9d:64:60:08:f6:cb:d1:f9:
+         e7:1a:bb:44:26:3b:14:cc:2c:67:7f:d2:8b:f2:f4:aa:1e:ce:
+         90:be:33:10:5b:84:0e:c2:19:6e:dd:37:e0:71:d2:a4:f0:69:
+         3b:f2:44:a3
+-----BEGIN CERTIFICATE-----
+MIIDMDCCAhigAwIBAgIbLTJkNjRmYWQ4OjE1M2E5MjQ3YTBmOi04MDAwMA0GCSqG
+SIb3DQEBBQUAMEIxCzAJBgNVBAYTAlJVMQkwBwYDVQQKEwAxCTAHBgNVBAsTADEd
+MBsGA1UEAxMUS29uc3RhbnRpbiBLb3ZhbGNodWswHhcNMTYwMzIzMTUwMDUzWhcN
+NDEwMzI0MTUwMDUzWjBCMQswCQYDVQQGEwJSVTEJMAcGA1UEChMAMQkwBwYDVQQL
+EwAxHTAbBgNVBAMTFEtvbnN0YW50aW4gS292YWxjaHVrMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAqJm5JrsE72NAfBlvjYLm7N8g/W/Ly4HLh4WFe2Eh
+euEIBfn5PmvOFiakLohP4b2QgEZkGgG9Qo5v0QMAn9fhItI7xiK0Gbz2mQEvykL2
+OkuS67yPeEOgPXLWFzmRy+JwF+0rjqONxrvYh3VkAGx/y9xEbxcxOWjME0tsAueo
+ngU7xoBSAIhJrKDbR2qfkwfGlm9mXgKPTL+ZJtyBatvGeKlpqAb/IvJ6u0ZlpnLd
+09lua4UQBGaLMMKbmfKeojcvA4pqpARrtLtqLhWbXPB6EeIw5TYrKSaMcuvYOzXC
+/LC2BHXCJn/F3m25I6SCB2tttd9WuzbUYf1ze5/IqKJ0awIDAQABoxcwFTATBgNV
+HSUEDDAKBggrBgEFBQcDAzANBgkqhkiG9w0BAQUFAAOCAQEAexh86NA820ROCAnj
+lEW6suZT5WgGzb9AdFaofJuqwv1nYqIPqcbbLn1tT/h/OcL0W7zAi/RZ65CQAI5J
+O0BXHiTkAhPoTddQKvws0q/NHmS8wmr+kw683SuIqOd2E4QBuIuL5xJuhMjzV6Qx
+x1EaJ8Mu+SL9q5P7hgLT7KaDOFabKVaP2nU3TwbKpgsx/FXPOxggWCMPvcYTze9B
+nhWzzEJrvcH1GVcKbx3802PZvXlzN57y3DwRlzaSGJlZRtGkocHuKMpz1u8gC/Jt
+6ew1tJ1kYAj2y9H55xq7RCY7FMwsZ3/Si/L0qh7OkL4zEFuEDsIZbt034HHSpPBp
+O/JEow==
+-----END CERTIFICATE-----
+

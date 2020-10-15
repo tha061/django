@@ -1,0 +1,88 @@
+{
+  "name": "com.mds.plankchallenge",
+  "fileSize": "10.0 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "com.android.alarm.permission.SET_ALARM Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.mds.plankchallenge.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.mds.plankchallenge.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.mds.plankchallenge.service.MyFcmListenerService  permission: ",
+      "name: com.mds.plankchallenge.service.MyInstanceIDListenerService  permission: ",
+      "name: com.google.android.gms.cast.framework.media.MediaNotificationService  permission: ",
+      "name: com.google.android.gms.cast.framework.ReconnectionService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.tagmanager.TagManagerService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "14 January 2020",
+    "Size": "10M",
+    "Installs": "10000",
+    "Current Version": "1.0.1",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "DREAM SOFT",
+    "Developer": "Visit website mail@mydreamsoft.com Privacy Policy"
+  },
+  "rating": "4.7",
+  "description": "No time go to gym ? Now you can train at home by using 30 Days Plank Challenge. Features: \u2022 30 Days Plank Challenge \u2022 30 Days Full Plank Challenge \u2022 30 Days Side Plank Challenge Advanced: \u2022 Keep track of your training progress \u2022 Increase exercise intensity step by step \u2022 Daily reminder Benefits of plank exercise: \u2022 A toned belly \u2022 Reduce back pain \u2022 Flexibility \u2022 Improve your mood \u2022 Improve your balance and posture",
+  "privacyText": "https://mydreamsoft.com/privacy-policy/",
+  "numInstalls": 10000,
+  "developer": "DREAM SOFT",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://mydreamsoft.com",
+    "Developer Email": "mail@mydreamsoft.com",
+    "Privacy Policy": "https://mydreamsoft.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Github",
+    "Google Ads",
+    "Google Analytics",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

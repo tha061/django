@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1387641260 (0x52b5b9ac)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=NL, ST=Drenthe, L=Gasselternijveen, O=Yoeri.me, CN=Yoeri Boven
+        Validity
+            Not Before: Dec 21 15:54:20 2013 GMT
+            Not After : Apr 23 15:54:20 3012 GMT
+        Subject: C=NL, ST=Drenthe, L=Gasselternijveen, O=Yoeri.me, CN=Yoeri Boven
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:ac:10:0f:04:06:97:7d:30:d4:3f:d8:5f:42:a6:
+                    1e:96:56:7a:37:3d:38:1c:18:62:1d:04:aa:fd:8d:
+                    d6:48:1a:9c:0c:63:ae:5b:46:be:8a:c2:44:86:ce:
+                    fd:65:e0:1e:96:f7:b0:83:31:57:f7:a1:54:29:32:
+                    d1:c6:f1:31:56:de:bd:82:d7:cb:8f:a8:50:56:67:
+                    cb:a0:18:3d:3c:a0:9a:c8:aa:9a:f1:94:aa:f5:84:
+                    07:cc:4c:c9:f5:02:ab:87:0a:ed:a0:e4:af:f1:76:
+                    38:03:69:3b:d6:c0:2d:e7:36:d9:c4:1d:15:1c:d0:
+                    ef:fa:bf:0c:d0:ea:92:82:95
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         35:1d:0c:43:40:40:bd:d0:76:b1:54:34:c9:8c:b9:34:93:cb:
+         45:1c:38:c0:97:d1:e1:03:f0:d3:5a:0c:fc:b4:f2:ed:77:c3:
+         56:eb:bb:48:90:e8:19:a1:fa:6d:09:b1:08:64:df:44:a0:fa:
+         36:0e:59:16:12:db:64:79:7f:75:fd:31:98:3f:17:71:2d:94:
+         04:cf:d9:33:6b:db:6e:c1:4f:a6:2e:d4:ac:82:79:86:83:d9:
+         2e:42:31:5e:5d:18:54:ae:c3:9d:a2:5b:ce:67:28:c6:83:50:
+         67:6a:3f:80:62:9c:01:22:ab:09:09:82:c0:ad:03:66:65:db:
+         f5:76
+-----BEGIN CERTIFICATE-----
+MIICPzCCAaigAwIBAgIEUrW5rDANBgkqhkiG9w0BAQUFADBjMQswCQYDVQQGEwJO
+TDEQMA4GA1UECBMHRHJlbnRoZTEZMBcGA1UEBxMQR2Fzc2VsdGVybmlqdmVlbjER
+MA8GA1UEChMIWW9lcmkubWUxFDASBgNVBAMTC1lvZXJpIEJvdmVuMCAXDTEzMTIy
+MTE1NTQyMFoYDzMwMTIwNDIzMTU1NDIwWjBjMQswCQYDVQQGEwJOTDEQMA4GA1UE
+CBMHRHJlbnRoZTEZMBcGA1UEBxMQR2Fzc2VsdGVybmlqdmVlbjERMA8GA1UEChMI
+WW9lcmkubWUxFDASBgNVBAMTC1lvZXJpIEJvdmVuMIGfMA0GCSqGSIb3DQEBAQUA
+A4GNADCBiQKBgQCsEA8EBpd9MNQ/2F9Cph6WVno3PTgcGGIdBKr9jdZIGpwMY65b
+Rr6KwkSGzv1l4B6W97CDMVf3oVQpMtHG8TFW3r2C18uPqFBWZ8ugGD08oJrIqprx
+lKr1hAfMTMn1AquHCu2g5K/xdjgDaTvWwC3nNtnEHRUc0O/6vwzQ6pKClQIDAQAB
+MA0GCSqGSIb3DQEBBQUAA4GBADUdDENAQL3QdrFUNMmMuTSTy0UcOMCX0eED8NNa
+DPy08u13w1bru0iQ6Bmh+m0JsQhk30Sg+jYOWRYS22R5f3X9MZg/F3EtlATP2TNr
+227BT6Yu1KyCeYaD2S5CMV5dGFSuw52iW85nKMaDUGdqP4BinAEiqwkJgsCtA2Zl
+2/V2
+-----END CERTIFICATE-----
+

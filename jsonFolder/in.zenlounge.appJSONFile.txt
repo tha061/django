@@ -1,0 +1,77 @@
+{
+  "name": "in.zenlounge.app",
+  "fileSize": "36.6 MB",
+  "VTmd5": "edb4014534f630544a2216088ee9bdcf",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/1f8735bbd12f37c2c1be237c49be52953952e9d6cefba0488adcd8188c459c73/detection/f-1f8735bbd12f37c2c1be237c49be52953952e9d6cefba0488adcd8188c459c73-1592054252",
+  "VTresource": "1f8735bbd12f37c2c1be237c49be52953952e9d6cefba0488adcd8188c459c73",
+  "VTresponsecode": 1,
+  "VTscanID": "1f8735bbd12f37c2c1be237c49be52953952e9d6cefba0488adcd8188c459c73-1592054252",
+  "VTsha1": "daef8766d36dffeb2de3d99a0222cba063b1e6a3",
+  "VTsha256": "1f8735bbd12f37c2c1be237c49be52953952e9d6cefba0488adcd8188c459c73",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: in.zenlounge.app.service.MusicPlayerService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "4 June 2020",
+    "Size": "37M",
+    "Installs": "100000",
+    "Current Version": "2.02",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.99 \u2013 $3.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Debashis Dey",
+    "Developer": "Visit website mediaplus.in@gmail.com Privacy Policy 174/20 B. L Saha Road\nKolkata, West Bengal.\nIndia 700053"
+  },
+  "rating": "4.1",
+  "description": "Are you struggling with anxiety and feelings of loneliness due to isolation? Or are you generally fighting with a lack of motivation, stress, depression, insomnia? Listen to atmosphere relaxing sounds & soothing music curated for depression, feelings of loneliness, despair, and anxiety. Improve your mental health by using peaceful sounds and relaxing music that takes your mind to a different state. Zen Lounge \u2013 Stress Relief Relaxing Sounds app  is here to help you in getting the self-help and anxiety relief you seek. Have zen meditation soothing sounds available quick & easy anywhere, at any time, and supercharge your mental wellbeing in your conditions.  \u25c9  EMBRACE POSITIVITY WITH MENTAL WELLBEING SOUNDS Filled with a myriad of guided anxiety relief activities and anti stress music, the mindfulness zen app is created to assist you in getting rid of negativity from your life and achieve mental wellbeing. Unlock new levels of self-awareness, focus, and stress relief with our relaxing music for stress relief app. \u25c9  DEPRESSION HELP Do you want to get rid of depressive thoughts using atmosphere relaxing sounds & zen meditation music? The mental health & wellbeing app offers a special depression help sounds section in which you can play tons of relaxing sounds and get rid of depression and stressful thoughts. This access to anti stress sounds & depression meditation music will also give you a sense of calmness. \u25c9  ANTI STRESS APP The useful anti-stress relaxing music app helps you stay sane and connected. Use the guided rounds in our relax stress and anxiety relief sounds app, to pick what best fits your stress relief profile and track your performance to maintain good mental wellbeing. \u25c9  ENTER INTO A REALM OF RELAXING SOUNDS! Access a huge library of anti-depression sounds and white noise sleep music to get rid of malicious vibes and find relief from anxiety and insomnia. Combat the feelings of loneliness and depression by playing white noise in the background or pick from a variety of soothing atmosphere relaxing sounds. \u25c9  ANXIETY AND STRESS RELIEF Let go of your troubles with this incredible stress relief app featuring proven anti stress sounds! Save yourself from down the abyss of depression, anxiety stress, and despair by using this app. Choose from different mental health categories including: .. healing .. relaxation .. sleep music .. depression help, .. mindfulness .. anxiety meditation .. Zen music  .. soothing sounds of forest, mountains! \u25c9  INTUITIVE UI Mix and match mental health melody with your selected sounds and set the timer manually to adjust the meditation duration. No matter if you need oriental relaxing sounds or zen melodies, everything is easily accessible & adjustable. \u25c9  TRACK YOUR MENTAL WELLBEING Rank your way up in Zen levels with zen meditation sounds! Track your mental health performance and record your daily progress. Attain better levels of relaxation and calm using the innovative performance tracker and reward system. \u25c9 HOW TO USE ZEN LOUNGE \u2013 STRESS RELIEF RELAXING SOUNDS: \u2022 Choose a Zen activity from the wide collection of mental health sounds \u2022 Mix and match nature sounds into the zen app \u2022 Set the duration and play the relaxing sounds \u2022 Mediate every day with zen music & soothing sounds to maintain your streak \u2022 Unlock new Zen levels with consistency \u25c9 FEATURES OF ZEN LOUNGE \u2013 STRESS RELIEF RELAXING SOUNDS: \u2022 Life-changing anti stress activities \u2022 Relaxing sounds featuring anxiety relief melody and white noise \u2022 Manually adjustable timer for playback duration \u2022 Mix and match anxiety relief melody with different sounds \u2022 Keep daily Zen streak  \u2022 Track daily mental health progress \u2022 Sleep better with white noise \u2022 Zen mindfulness app for anyone \u2022 Wide assortment of Zen sounds and zen melodies Step onto a journey of unlocking a better lifestyle with Zen Lounge: relaxing sounds.  Calm down & get to a state of zen NOW!",
+  "privacyText": "https://zenlounge.in/privacy-policy-2/",
+  "numInstalls": 100000,
+  "developer": "Debashis Dey",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://zenlounge.in/",
+    "Developer Email": "mediaplus.in@gmail.com",
+    "Privacy Policy": "https://zenlounge.in/privacy-policy-2/"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

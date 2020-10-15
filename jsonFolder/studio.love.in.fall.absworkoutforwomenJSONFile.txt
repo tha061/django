@@ -1,0 +1,67 @@
+{
+  "name": "studio.love.in.fall.absworkoutforwomen",
+  "fileSize": "6.2 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.ads.AdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "17 September 2020",
+    "Size": "6.6M",
+    "Installs": "10000",
+    "Current Version": "2.1",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fall in Love Studio",
+    "Developer": "fallinlove.studio@gmail.com Privacy Policy King James st, London, UK"
+  },
+  "rating": "4.5",
+  "description": "In the faster-is-better world we live in, carving out 30 to 45 minutes a day for a good workout can seem like a major challenge\u2014and that can totally mess with your quest for a strong core. Enter: the 7-minute workout. Impressive features of this ABS Workout - 7 minute workout - Supported by science - No equipment - 3 Levels: Beginner, Intermediate and Advanced - Each level has different exercise speed, depends on the level - Counting repetitions to keep track of your progress with voice and text - Daily Inspirational Quotes - Total calories burned - 2 languages: English and German - Beauty and Cool illustration This strategic, super-effective form of high-intensity circuit training is supported by science. To complement the original\u2014and give you even more 7-minute options, we asked Yusuf Jeffers, certified personal trainer and Head Coach at Tone House in New York City, to create a companion abs workout that requires only your body weight. A killer combo of core-strengthening moves and cardio, this circuit\u2019s designed to \u201cattack\u201d not only your abs and obliques, but also the muscles in your back, pelvic floor, and even your shoulders, says Jeffers. And, truth be told, it beats doing hundreds of crunches. \u201cIf you\u2019re training for a sport\u2014or just for everyday life\u2014you usually don\u2019t use any one muscle in isolation,\u201d he says. \u201cThis correlates closer to actual, functional movements.\u201d And that\u2019s a good thing: While crunches certainly strengthen your abs, the body benefits more\u2014by torching more calories, for example\u2014from movements that recruit more than one muscle group. Though it\u2019s important to remember that high-intensity interval training isn\u2019t meant to be a daily workout, it\u2019s a great tool to have in your exercise arsenal, particularly on days when all you\u2019ve got is 7 minutes to spare. How to use this list: Perform each move below for 30 seconds, resting 5 to 10 seconds in-between. With this circuit, the goal is to go big or go home\u2014meaning, working at the highest possible intensity for as many reps as you can without sacrificing form. Expect to perform anywhere from 15 to 20 reps, though remember that quality always tops quantity, says Jeffers. (So don\u2019t stress if your rep count is on the lower end the first couple of times you try this\u2014there\u2019s always time to improve.) If time allows, you can repeat the circuit 2 to 3 times.",
+  "privacyText": "https://sites.google.com/view/fallinlovestudio/home",
+  "numInstalls": 10000,
+  "developer": "Fall in Love Studio",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://sites.google.com/view/fallinlovestudio/home",
+    "Developer Email": "fallinlove.studio@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/fallinlovestudio/home"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

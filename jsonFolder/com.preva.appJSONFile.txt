@@ -1,0 +1,68 @@
+{
+  "name": "com.preva.app",
+  "fileSize": "17.1 MB",
+  "VTmd5": "cfc69349d3286018fbf5a7f673d9476b",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/fbbacb2b36c288d04637c03ad6ab95400e61eeca4cbaf6413cb91178f92e398a/detection/f-fbbacb2b36c288d04637c03ad6ab95400e61eeca4cbaf6413cb91178f92e398a-1575938403",
+  "VTresource": "fbbacb2b36c288d04637c03ad6ab95400e61eeca4cbaf6413cb91178f92e398a",
+  "VTresponsecode": 1,
+  "VTscanID": "fbbacb2b36c288d04637c03ad6ab95400e61eeca4cbaf6413cb91178f92e398a-1575938403",
+  "VTsha1": "7c4c0f711ce2c4131078968a3bcf665acc3b2841",
+  "VTsha256": "fbbacb2b36c288d04637c03ad6ab95400e61eeca4cbaf6413cb91178f92e398a",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.GET_TASKS Protection Level: N/A",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.CAMERA Protection Level: dangerous"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.preva.app.services.WeeklyReminderService  permission: ",
+      "name: com.preva.app.services.AccountEventListenerService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "7 February 2014",
+    "Size": "17M",
+    "Installs": "100000",
+    "Current Version": "1.0",
+    "Requires Android": "2.3.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Precor Inc",
+    "Developer": "Visit website support@precor.com Privacy Policy 20031 142nd Ave NE\nP.O. Box 7202\nWoodinville, WA 98072-4002"
+  },
+  "rating": "2.5",
+  "description": "Preva\u00ae is a fitness tracking app specifically designed to help you reach your fitness goals.  Preva is brought to you by Precor\u00ae, the manufacturer of premium fitness equipment and networked fitness leader. Preva is best used for fitness tracking in conjunction with Precor fitness equipment but can also be used to track other activities in and outside the gym.  With Preva, you\u2019ll earn fun badges while tracking distance, duration and calories for all your fitness activities, including: \u2022 Workouts on Precor cardio equipment \u2022 Group classes \u2022 Sports and recreational activities \u2022 Outdoor fitness Preva will help you get: \u2022 FOCUSED: Set a weekly fitness goal. Preva tracks your progress as duration, distance or calories. \u2022 ACTIVE: Stay on track and capture all of your other fitness activities on the go. Every workout counts.  \u2022 CONNECTED: Your workouts with Preva are stored in the cloud. You can track your progress on Precor fitness equipment and the Preva mobile app. \u2022 MOTIVATED:  As your lifetime totals add up, Preva will challenge you to achieve the next level. \u2022 RECOGNIZED:  Preva acknowledges your hard work with badges, points, and bonuses. With Preva, making it yours\u2026 works!\u2122  Preva is currently available in these languages: \u2022 Deutsch  \u2022 English \u2022 Espa\u00f1ol \u2022 Fran\u00e7ais \u2022 Italiano \u2022 Nederlands \u2022 Portugu\u00eas  \u2022 P\u0443\u0301\u0441\u0441\u043a\u0438\u0439 \u2022 \u4e2d\u6587 \u2022 \u65e5\u672c\u8a9e \u2022 \ud55c\uad6d\uc5b4",
+  "privacyText": "https://my.preva.com/privacyPolicy/index",
+  "numInstalls": 100000,
+  "developer": "Precor Inc",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.preva.com/en-us/exercisers/mobile/faq",
+    "Developer Email": "support@precor.com",
+    "Privacy Policy": "https://my.preva.com/privacyPolicy/index"
+  },
+  "smali_Directories": [
+    "Actionbarsherlock",
+    "Viewpagerindicator"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

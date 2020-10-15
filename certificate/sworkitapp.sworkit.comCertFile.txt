@@ -1,0 +1,47 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1333590687 (0x4f7cfa9f)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=VA, L=Arlington, CN=Ryan Hanna
+        Validity
+            Not Before: Apr  5 01:51:27 2012 GMT
+            Not After : Mar 30 01:51:27 2037 GMT
+        Subject: C=US, ST=VA, L=Arlington, CN=Ryan Hanna
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a6:e5:60:31:a8:54:ff:57:f1:19:e7:43:9e:6b:
+                    cc:e3:ea:a0:68:a9:21:a2:f9:45:f7:ed:f5:9a:73:
+                    4c:f6:d0:c2:02:9b:7e:e0:b6:0e:47:05:7d:3b:d3:
+                    2c:b7:79:32:12:9b:34:f4:ac:05:7b:18:bc:38:a3:
+                    14:85:b4:85:b6:fd:53:2f:4c:32:bb:03:d0:bf:1b:
+                    13:7d:d3:19:3a:32:81:0d:4a:c4:16:dc:d6:2e:15:
+                    58:07:1b:3b:f1:4f:09:5f:b1:37:40:ae:39:b8:ee:
+                    71:8b:cd:57:47:ac:11:bd:0f:6d:af:95:f9:d3:32:
+                    96:5f:b0:96:ea:63:5a:0a:b7
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         78:f9:9c:24:91:dc:94:82:f7:b8:f8:8f:dd:1f:fc:df:1b:e2:
+         57:20:27:e1:df:40:c4:8f:b5:e6:61:47:7e:0b:d8:87:7d:b1:
+         16:1a:3c:b5:41:2f:6c:05:ed:4a:c0:31:1b:8a:72:09:26:02:
+         61:de:ed:f9:20:35:44:e9:04:ad:f1:ac:0d:81:7d:e8:af:53:
+         3c:ef:6c:01:50:e6:ab:e3:7e:93:3b:e9:bd:9e:c7:c8:e1:8f:
+         be:55:06:66:ab:6d:9b:8e:d7:1a:3c:5f:4c:e7:c9:4e:95:02:
+         a9:75:5a:1b:ac:ad:55:70:74:ed:f9:d5:f9:9c:50:02:1e:97:
+         a4:55
+-----BEGIN CERTIFICATE-----
+MIIB/TCCAWagAwIBAgIET3z6nzANBgkqhkiG9w0BAQUFADBDMQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCVkExEjAQBgNVBAcTCUFybGluZ3RvbjETMBEGA1UEAxMKUnlh
+biBIYW5uYTAeFw0xMjA0MDUwMTUxMjdaFw0zNzAzMzAwMTUxMjdaMEMxCzAJBgNV
+BAYTAlVTMQswCQYDVQQIEwJWQTESMBAGA1UEBxMJQXJsaW5ndG9uMRMwEQYDVQQD
+EwpSeWFuIEhhbm5hMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCm5WAxqFT/
+V/EZ50Oea8zj6qBoqSGi+UX37fWac0z20MICm37gtg5HBX070yy3eTISmzT0rAV7
+GLw4oxSFtIW2/VMvTDK7A9C/GxN90xk6MoENSsQW3NYuFVgHGzvxTwlfsTdArjm4
+7nGLzVdHrBG9D22vlfnTMpZfsJbqY1oKtwIDAQABMA0GCSqGSIb3DQEBBQUAA4GB
+AHj5nCSR3JSC97j4j90f/N8b4lcgJ+HfQMSPteZhR34L2Id9sRYaPLVBL2wF7UrA
+MRuKcgkmAmHe7fkgNUTpBK3xrA2BfeivUzzvbAFQ5qvjfpM76b2ex8jhj75VBmar
+bZuO1xo8X0znyU6VAql1WhusrVVwdO351fmcUAIel6RV
+-----END CERTIFICATE-----
+

@@ -1,0 +1,75 @@
+{
+  "name": "com.riseapps.myperiod.tracker",
+  "fileSize": "10.0 MB",
+  "VTmd5": "da5b4e2127e75e2f3002644c3dacab7d",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/77c4ef560f1d5f658187f902c5bba0c78cfcecd6809ff8742d511069110a8bdd/detection/f-77c4ef560f1d5f658187f902c5bba0c78cfcecd6809ff8742d511069110a8bdd-1584052220",
+  "VTresource": "77c4ef560f1d5f658187f902c5bba0c78cfcecd6809ff8742d511069110a8bdd",
+  "VTresponsecode": 1,
+  "VTscanID": "77c4ef560f1d5f658187f902c5bba0c78cfcecd6809ff8742d511069110a8bdd-1584052220",
+  "VTsha1": "6eca68e81415d135e3b8d1697c51a3283a8fa511",
+  "VTsha256": "77c4ef560f1d5f658187f902c5bba0c78cfcecd6809ff8742d511069110a8bdd",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.MANAGE_ACCOUNTS Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+    ]
+  },
+  "metaData": {
+    "Updated": "11 February 2020",
+    "Size": "10.0M",
+    "Installs": "100000",
+    "Current Version": "1.3",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Rising Apps",
+    "Developer": "rising.studioapps89@gmail.com Privacy Policy"
+  },
+  "rating": "4.4",
+  "description": "Can\u2019t remember the date of your last period? Then this app will help to know when your next period is coming and best chance of pregnancy?  MyPeriod : Period Tracker & Ovulation Calendar is a simple & elegant way to view past and predict future periods days & length, cycle length, ovulation days and fertile days. App is very useful, when you have irregular periods or regular periods or predict your period. It can track your chance of pregnancy every day. Set security lock from settings to make it completely privately. **Track your health : - Monthly calendar tells you your daily chance of getting pregnant, normal day, ovulation day and fertility day - Track your weight, temperature, mood, symptoms, intercourse, flow etc. - Record your ovulation and see best chance of pregnancy dates **Features of MyPeriod : Period Tracker & Ovulation Calendar app - Set your period length and cycle length from settings - Keep track of your menstrual cycles with Period Calendar  - App helps both women looking to conceive and those trying to birth control - It tracks your periods, cycles, ovulation and the chance of conception - Helps birth control in a natural way - Filter you\u2019re your all reading with parameters - Graphical view of period chart, weight and temperature reports - Statistic of average cycle length and period length - Track your Fertility and ovulation calendar - Settings for weight unit, temperature unit and date formats - My Cycle Period, Cycle Calendar - Period Tracker & Period Calendar - Ovulation Calendar, Ovulation Tracker - Fertility Tracker, Fertile Days and see Pregnancy chances - Period Tracker for women, My Periods and Ovulation Tracker",
+  "privacyText": "https://sites.google.com/view/rising-apps-privacy-policy",
+  "numInstalls": 100000,
+  "developer": "Rising Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://sites.google.com/view/rising-apps-privacy-policy",
+    "Developer Email": "rising.studioapps89@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/rising-apps-privacy-policy"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Fasterxml",
+    "Github",
+    "Google Ads",
+    "Intuit"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

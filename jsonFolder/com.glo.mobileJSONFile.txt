@@ -1,0 +1,75 @@
+{
+  "name": "com.glo.mobile",
+  "fileSize": "7.0 MB",
+  "VTmd5": "06ccdde49cd306562d6795d6b2b800e1",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/225e31fce8af679aa2fcd98518a8012d0bfa2079cdaefdaaef10fbb90cbec2b0/detection/f-225e31fce8af679aa2fcd98518a8012d0bfa2079cdaefdaaef10fbb90cbec2b0-1580045021",
+  "VTresource": "225e31fce8af679aa2fcd98518a8012d0bfa2079cdaefdaaef10fbb90cbec2b0",
+  "VTresponsecode": 1,
+  "VTscanID": "225e31fce8af679aa2fcd98518a8012d0bfa2079cdaefdaaef10fbb90cbec2b0-1580045021",
+  "VTsha1": "b941c013e50604cca0d3b8e30acf1e2f316c60b8",
+  "VTsha256": "225e31fce8af679aa2fcd98518a8012d0bfa2079cdaefdaaef10fbb90cbec2b0",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.STORAGE Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.CHANGE_NETWORK_STATE Protection Level: normal",
+    "android.permission.CHANGE_WIFI_STATE Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.cast.framework.media.MediaNotificationService  permission: ",
+      "name: com.google.android.gms.cast.framework.ReconnectionService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "9 January 2020",
+    "Size": "7.0M",
+    "Installs": "10000",
+    "Current Version": "1.0.1",
+    "Requires Android": "5.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$22.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "YogaGlo Inc.",
+    "Developer": "Visit website support@glo.com Privacy Policy 1740 Stanford St.\nSanta Monica, CA 90404"
+  },
+  "rating": "2.4",
+  "description": "YOGA: Explore 3,000 yoga classes across twelve different styles. Learn at home or on the go with the world\u2019s best yoga app. PILATES: Get the ultimate Pilates workout wherever you are, with online classes led by expert instructors. MEDITATION: Explore over 500 meditation classes taught by the world\u2019s best teachers. MORE: Glo is designed to help you feel better in mind and body. Get unlimited access to the best daily workouts and meditation techniques. Glo is a health and fitness app featuring yoga, Pilates, and meditation classes designed to help you feel better in mind and body. Practice yoga poses at home or on the go with the world\u2019s best teachers. With classes for every life stage, level, and need, we\u2019ll help you create a workout or mindfulness practice that\u2019s uniquely your own. YOGA THAT FITS YOUR LIFE Glo is a yoga app designed for real people\u2014whether you\u2019re a busy mom in need of a quick morning workout, or a traveler looking to relax with a yoga nidra before sleep. Work up a sweat with an advanced vinyasa flow or brush up on the basics in our accessible beginner yoga classes. Whatever your level of experience, life stage, and aspirations\u2014from pregnancy workouts for prenatal strength to mid-workday meditations for calm\u2014you\u2019ll find just what you need to feel your best in the moment. PERSONALIZED CLASS RECOMMENDATIONS For You is your own unique corner on Glo. Here you can find class suggestions designed for you, easily access your go-to practices, view curated class collections inspired by your interests, and stay up to date on our latest classes and community favorites. The best part is, the more you practice, the more personalized this page becomes. EASY-TO-USE SEARCH TOOLS Head to Search to find a class that supports how you feel in the moment\u2014whether you\u2019re looking for stress-reducing breathwork, a calming guided meditation, an energizing yoga flow, or a sweat-inducing cardio fusion workout. You can search by keyword and use the filters to narrow your results by practice, duration, focus, teacher, level, body part, and much more. LEARN FROM THE BEST TEACHERS Our world-class teachers provide the perfect mix of knowledge and support to help you progress in mind, body, and heart. They are globally renowned for their expertise in yoga, Pilates, meditation, and beyond. JOIN A GUIDED CLASS SERIES Our programs are guided class series designed to take you on a journey over time. From lifting into an inversion to inviting deeper sleep and mindfulness basics to core-strengthening mat workouts\u2014choose a program that aligns with your current goals or inspires a new one. Immerse yourself in the journey, with plenty of support along the way. FILL YOUR LIBRARY WITH YOUR FAVORITES Your Library contains all your practice essentials. Find your saved, favorite, and scheduled classes; all organized and all in one place. CREATE YOUR OWN COLLECTIONS From \u201cmorning energy\u201d to \u201clower back love\u201d\u2014 create your own collections to organize your favorite classes by theme. Name your collection and add as many classes as you\u2019d like, we\u2019ll even make some suggestions based on your title. You\u2019ll also find collections curated by Glo that you can save to your Library when you feel inspired. DOWNLOAD CLASSES TO TAKE ON THE GO Download your favorite classes so you can practice offline. From Vinyasa and Hatha to pregnancy workouts and beginners yoga\u2014enjoy the freedom to practice anywhere. Downloading the app is completely free. To continue your practice, you\u2019ll need to subscribe to Glo for only $22.99 USD/month purchased within the Glo Android App. You can cancel or edit your subscription in your Google Play Store Subscription settings if you go to settings, subscription, Glo subscription, cancel subscription. For more information on our terms and conditions and privacy policy, please visit https://www.glo.com/termsandconditions/ios.",
+  "privacyText": "https://www.glo.com/privacy",
+  "numInstalls": 10000,
+  "developer": "YogaGlo Inc.",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://glo.com",
+    "Developer Email": "support@glo.com",
+    "Privacy Policy": "https://www.glo.com/privacy"
+  },
+  "smali_Directories": [
+    "Github"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

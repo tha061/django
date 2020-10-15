@@ -1,0 +1,46 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1379971863 (0x5240b317)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=DE, O=Freeletics
+        Validity
+            Not Before: Sep 23 21:31:03 2013 GMT
+            Not After : Aug 30 21:31:03 2113 GMT
+        Subject: C=DE, O=Freeletics
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:9f:97:a9:10:f4:fa:77:a0:de:86:95:3e:9c:c2:
+                    f6:8f:54:06:14:9f:46:41:f9:f4:59:ac:7a:cb:61:
+                    6a:b5:3a:74:f9:4a:91:0d:8a:19:12:e3:28:1d:a7:
+                    df:d9:27:70:6d:fb:1d:9b:8e:db:00:70:cb:bf:cb:
+                    37:61:e5:b8:96:03:c0:5b:b3:89:d9:5f:9a:48:bc:
+                    02:f1:c1:0b:76:40:bc:4a:0c:99:dc:f6:d5:07:d2:
+                    15:77:be:14:45:a4:0e:b6:16:0a:8d:37:95:27:a3:
+                    fc:31:47:c9:c9:37:8a:79:22:b8:de:c7:4c:05:ae:
+                    84:f8:5a:29:44:5a:93:5a:9d
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         34:7f:4e:b1:03:3f:57:d3:2c:51:7a:b7:d3:37:cc:2f:10:25:
+         b0:09:dd:a8:a1:68:57:07:47:e8:02:62:9b:9a:79:f6:29:0e:
+         46:27:b9:ea:47:53:84:9c:38:7d:6e:92:f7:c5:21:a3:29:e2:
+         64:6e:aa:d4:50:b4:d3:35:ee:42:5a:07:4d:9f:89:a4:dc:80:
+         2d:42:b8:ca:8a:da:c3:8e:b6:99:d7:62:18:3b:ae:e3:f0:33:
+         65:3c:4c:b0:44:19:98:16:3e:d1:06:88:da:fd:4d:d2:ca:cb:
+         d9:ad:c3:d1:98:84:1b:5d:7e:3d:92:bd:f6:c7:8c:11:e6:0b:
+         e9:d9
+-----BEGIN CERTIFICATE-----
+MIIBvTCCASagAwIBAgIEUkCzFzANBgkqhkiG9w0BAQUFADAiMQswCQYDVQQGEwJE
+RTETMBEGA1UEChMKRnJlZWxldGljczAgFw0xMzA5MjMyMTMxMDNaGA8yMTEzMDgz
+MDIxMzEwM1owIjELMAkGA1UEBhMCREUxEzARBgNVBAoTCkZyZWVsZXRpY3MwgZ8w
+DQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ+XqRD0+neg3oaVPpzC9o9UBhSfRkH5
+9FmsestharU6dPlKkQ2KGRLjKB2n39kncG37HZuO2wBwy7/LN2HluJYDwFuzidlf
+mki8AvHBC3ZAvEoMmdz21QfSFXe+FEWkDrYWCo03lSej/DFHyck3inkiuN7HTAWu
+hPhaKURak1qdAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEANH9OsQM/V9MsUXq30zfM
+LxAlsAndqKFoVwdH6AJim5p59ikORie56kdThJw4fW6S98UhoyniZG6q1FC00zXu
+QloHTZ+JpNyALUK4yoraw462mddiGDuu4/AzZTxMsEQZmBY+0QaI2v1N0srL2a3D
+0ZiEG11+PZK99seMEeYL6dk=
+-----END CERTIFICATE-----
+

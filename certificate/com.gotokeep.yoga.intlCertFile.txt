@@ -1,0 +1,46 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1416975884 (0x5475560c)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=keep, OU=keep, CN=keep
+        Validity
+            Not Before: Nov 26 04:24:44 2014 GMT
+            Not After : Nov 20 04:24:44 2039 GMT
+        Subject: O=keep, OU=keep, CN=keep
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b8:be:39:c7:65:99:d9:70:07:b8:d8:e5:eb:3b:
+                    0d:a2:79:4d:bc:e0:30:9f:67:f1:39:1e:2b:ba:7a:
+                    e3:a8:d0:4f:6b:62:00:e9:27:dc:a4:40:04:70:e5:
+                    80:3f:b0:28:15:bf:c9:db:a0:58:d3:58:12:23:b8:
+                    90:d5:a9:55:0c:32:6b:32:61:6d:a7:64:95:67:6e:
+                    c1:f6:fb:0c:59:80:bf:5b:97:50:5b:f9:8a:31:33:
+                    09:0e:d0:dd:71:12:e9:40:3a:5f:ed:01:f6:fe:b1:
+                    89:41:4f:bc:e2:37:5d:08:33:37:94:be:36:81:14:
+                    a2:fa:86:c5:e5:c8:30:68:f7
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         99:a1:c4:7f:a3:72:41:96:4c:68:82:62:a6:63:15:76:cc:3d:
+         e1:68:92:36:d3:2f:4d:64:3b:53:74:a0:0d:63:80:21:f4:d6:
+         28:a2:bc:31:c1:60:a6:86:91:a8:60:5a:f7:b8:bc:0f:c0:08:
+         df:80:4f:95:df:64:35:91:7a:7d:0d:c2:d8:c0:50:77:13:d6:
+         54:e2:09:2f:f3:55:e2:02:ca:b3:6f:83:84:b5:e4:06:fd:9a:
+         db:f3:a7:a2:96:70:3f:05:08:b2:83:1a:bb:d2:fc:a3:3e:91:
+         b2:af:79:c0:4b:ad:3e:a5:69:78:17:e1:72:07:64:1b:88:b4:
+         ad:3e
+-----BEGIN CERTIFICATE-----
+MIIB0TCCATqgAwIBAgIEVHVWDDANBgkqhkiG9w0BAQUFADAtMQ0wCwYDVQQKEwRr
+ZWVwMQ0wCwYDVQQLEwRrZWVwMQ0wCwYDVQQDEwRrZWVwMB4XDTE0MTEyNjA0MjQ0
+NFoXDTM5MTEyMDA0MjQ0NFowLTENMAsGA1UEChMEa2VlcDENMAsGA1UECxMEa2Vl
+cDENMAsGA1UEAxMEa2VlcDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuL45
+x2WZ2XAHuNjl6zsNonlNvOAwn2fxOR4runrjqNBPa2IA6SfcpEAEcOWAP7AoFb/J
+26BY01gSI7iQ1alVDDJrMmFtp2SVZ27B9vsMWYC/W5dQW/mKMTMJDtDdcRLpQDpf
+7QH2/rGJQU+84jddCDM3lL42gRSi+obF5cgwaPcCAwEAATANBgkqhkiG9w0BAQUF
+AAOBgQCZocR/o3JBlkxogmKmYxV2zD3haJI20y9NZDtTdKANY4Ah9NYoorwxwWCm
+hpGoYFr3uLwPwAjfgE+V32Q1kXp9DcLYwFB3E9ZU4gkv81XiAsqzb4OEteQG/Zrb
+86eilnA/BQiygxq70vyjPpGyr3nAS60+pWl4F+FyB2QbiLStPg==
+-----END CERTIFICATE-----
+

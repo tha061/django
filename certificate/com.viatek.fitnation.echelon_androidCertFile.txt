@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 462464404 (0x1b90a594)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=TN, L=Chattanooga, O=Viatek Products, CN=Josh Bovarnick
+        Validity
+            Not Before: Dec 31 11:58:03 2017 GMT
+            Not After : Dec 25 11:58:03 2042 GMT
+        Subject: C=US, ST=TN, L=Chattanooga, O=Viatek Products, CN=Josh Bovarnick
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:82:78:80:1d:86:96:e9:4f:66:0a:be:14:22:f6:
+                    f5:07:77:01:cc:1d:db:e9:9e:e8:00:c0:64:7b:80:
+                    44:40:cc:95:91:c7:76:2b:d0:24:1c:46:06:10:54:
+                    ba:d6:52:31:f3:99:7e:18:d2:86:f1:51:96:0a:93:
+                    57:04:42:ae:aa:91:be:aa:aa:9c:70:3f:aa:ce:34:
+                    7f:2d:90:e8:55:c0:9a:96:9b:d2:0b:3c:cf:4f:f9:
+                    9b:51:b9:d2:5b:5e:bc:5b:d9:a2:7d:2f:4d:2c:9c:
+                    c1:98:c8:bf:70:c9:6a:44:d3:07:73:47:9f:a4:15:
+                    28:cd:96:b0:cf:b1:a0:ca:a3:1d:c6:bf:e5:24:27:
+                    6c:20:50:80:cb:ad:d0:36:95:f5:4e:ae:97:21:be:
+                    23:91:ec:ec:31:6e:c8:e8:13:0f:85:04:ba:07:5c:
+                    f0:44:3e:1c:91:79:ed:cb:ce:94:4c:9e:64:06:ce:
+                    a1:11:08:d2:fa:b0:dc:b0:2c:78:18:81:a6:b5:d6:
+                    75:5e:1d:a4:c1:58:db:2f:f9:a5:30:a1:54:4a:ee:
+                    79:67:be:1e:67:6b:d6:f4:0f:4a:3e:48:c1:fd:57:
+                    a6:5b:88:40:5b:02:8c:6c:5a:de:ed:1d:67:7b:3f:
+                    7c:29:80:e7:bf:4c:83:16:bb:79:18:41:63:2c:69:
+                    37:8f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                23:FE:F5:2E:26:46:F7:C0:AF:68:32:E1:8B:51:FF:3C:0B:55:56:A6
+    Signature Algorithm: sha256WithRSAEncryption
+         44:e4:7d:0f:e5:d3:37:f5:8d:96:62:eb:69:32:4e:35:25:8d:
+         e4:9d:fe:2c:5a:15:f2:cd:01:22:25:c1:37:93:97:ca:1f:ef:
+         5a:e4:b1:18:b7:f9:d7:1d:9a:80:2f:44:dd:22:91:8c:60:f4:
+         82:eb:ae:3c:62:f4:f8:24:2a:fd:1f:87:62:60:e9:b8:5d:4b:
+         9a:fe:d1:59:00:5a:72:f7:a6:17:6a:71:e1:f0:fa:f1:dc:e2:
+         3e:07:fa:08:1f:fb:92:88:56:77:ac:65:d6:90:93:2d:1e:5f:
+         ef:43:c0:40:a2:8a:92:1e:29:f5:ad:4c:01:eb:ac:92:fb:82:
+         71:b7:36:65:c7:e4:a3:81:c7:75:2a:7d:e4:d8:5b:2a:00:a5:
+         25:91:76:3e:70:58:3e:76:49:d7:2e:24:d9:c0:63:6b:ca:12:
+         b4:81:72:45:5a:9f:1a:8a:fe:b0:1e:a6:ad:c3:57:13:44:08:
+         f3:34:df:1a:18:17:65:0d:19:3c:80:7b:6a:be:0f:b1:65:aa:
+         55:f9:0d:dd:89:c9:ed:95:85:ca:f8:3b:48:bf:b2:ad:ce:88:
+         9d:6b:a2:d5:4f:21:71:8f:ff:3f:b2:e7:86:3c:6e:e9:02:73:
+         0f:c1:c2:5d:60:49:f4:0a:28:f9:8c:0e:df:be:f5:52:a1:c0:
+         a3:13:61:3d
+-----BEGIN CERTIFICATE-----
+MIIDZTCCAk2gAwIBAgIEG5CllDANBgkqhkiG9w0BAQsFADBjMQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCVE4xFDASBgNVBAcTC0NoYXR0YW5vb2dhMRgwFgYDVQQKEw9W
+aWF0ZWsgUHJvZHVjdHMxFzAVBgNVBAMTDkpvc2ggQm92YXJuaWNrMB4XDTE3MTIz
+MTExNTgwM1oXDTQyMTIyNTExNTgwM1owYzELMAkGA1UEBhMCVVMxCzAJBgNVBAgT
+AlROMRQwEgYDVQQHEwtDaGF0dGFub29nYTEYMBYGA1UEChMPVmlhdGVrIFByb2R1
+Y3RzMRcwFQYDVQQDEw5Kb3NoIEJvdmFybmljazCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAIJ4gB2GlulPZgq+FCL29Qd3Acwd2+me6ADAZHuAREDMlZHH
+divQJBxGBhBUutZSMfOZfhjShvFRlgqTVwRCrqqRvqqqnHA/qs40fy2Q6FXAmpab
+0gs8z0/5m1G50ltevFvZon0vTSycwZjIv3DJakTTB3NHn6QVKM2WsM+xoMqjHca/
+5SQnbCBQgMut0DaV9U6ulyG+I5Hs7DFuyOgTD4UEugdc8EQ+HJF57cvOlEyeZAbO
+oREI0vqw3LAseBiBprXWdV4dpMFY2y/5pTChVErueWe+Hmdr1vQPSj5Iwf1XpluI
+QFsCjGxa3u0dZ3s/fCmA579Mgxa7eRhBYyxpN48CAwEAAaMhMB8wHQYDVR0OBBYE
+FCP+9S4mRvfAr2gy4YtR/zwLVVamMA0GCSqGSIb3DQEBCwUAA4IBAQBE5H0P5dM3
+9Y2WYutpMk41JY3knf4sWhXyzQEiJcE3k5fKH+9a5LEYt/nXHZqAL0TdIpGMYPSC
+6648YvT4JCr9H4diYOm4XUua/tFZAFpy96YXanHh8Prx3OI+B/oIH/uSiFZ3rGXW
+kJMtHl/vQ8BAooqSHin1rUwB66yS+4JxtzZlx+Sjgcd1Kn3k2FsqAKUlkXY+cFg+
+dknXLiTZwGNryhK0gXJFWp8aiv6wHqatw1cTRAjzNN8aGBdlDRk8gHtqvg+xZapV
++Q3dicntlYXK+DtIv7Ktzoida6LVTyFxj/8/sueGPG7pAnMPwcJdYEn0Cij5jA7f
+vvVSocCjE2E9
+-----END CERTIFICATE-----
+

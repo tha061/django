@@ -1,0 +1,47 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1346996138 (0x504987aa)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=RU, L=Tomsk, O=Axidep, CN=Vladimir Mihalko
+        Validity
+            Not Before: Sep  7 05:35:38 2012 GMT
+            Not After : Sep  1 05:35:38 2037 GMT
+        Subject: C=RU, L=Tomsk, O=Axidep, CN=Vladimir Mihalko
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d7:b7:7f:a8:d2:e8:03:97:48:33:88:af:98:0b:
+                    ff:e0:78:f4:30:ff:f4:31:5b:03:b9:63:74:12:68:
+                    66:8f:87:3e:d8:cb:16:5c:19:28:63:62:0f:9b:a6:
+                    7b:94:79:34:83:00:d1:f8:c0:5a:4e:75:e4:53:28:
+                    44:72:33:73:b2:9d:16:79:69:4e:fb:d3:5b:db:88:
+                    80:2e:ef:8b:a8:fc:4f:4b:ff:9a:c9:e1:a5:e3:71:
+                    aa:58:2f:1b:89:da:ad:49:9b:5c:1a:d6:b7:67:76:
+                    05:06:b1:26:ea:c4:91:f9:dc:6d:85:90:12:74:11:
+                    bd:78:7a:6c:f4:d9:50:b0:7f
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         6c:ac:ad:34:89:cd:c9:ab:64:1e:d9:f7:97:ca:55:ae:b0:a9:
+         ba:da:be:f2:4f:40:3a:22:0d:c1:d0:45:ce:6b:89:14:10:6c:
+         a3:31:0f:e1:ca:d3:c3:b9:0e:fa:bc:d0:56:e6:e3:d1:03:96:
+         2b:93:10:f0:52:de:5b:4f:0b:fb:aa:00:27:0b:90:c5:85:c2:
+         79:e7:9d:70:e1:1e:2a:a5:b5:55:09:43:93:77:d5:45:97:d3:
+         52:04:37:0e:b0:b8:b2:c9:41:a7:f2:52:ef:d3:49:df:a5:8b:
+         9c:f8:b2:e1:a0:61:0b:45:d8:1e:9c:0d:5e:a4:35:83:fb:01:
+         01:d6
+-----BEGIN CERTIFICATE-----
+MIICCTCCAXKgAwIBAgIEUEmHqjANBgkqhkiG9w0BAQUFADBJMQswCQYDVQQGEwJS
+VTEOMAwGA1UEBxMFVG9tc2sxDzANBgNVBAoTBkF4aWRlcDEZMBcGA1UEAxMQVmxh
+ZGltaXIgTWloYWxrbzAeFw0xMjA5MDcwNTM1MzhaFw0zNzA5MDEwNTM1MzhaMEkx
+CzAJBgNVBAYTAlJVMQ4wDAYDVQQHEwVUb21zazEPMA0GA1UEChMGQXhpZGVwMRkw
+FwYDVQQDExBWbGFkaW1pciBNaWhhbGtvMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCB
+iQKBgQDXt3+o0ugDl0gziK+YC//gePQw//QxWwO5Y3QSaGaPhz7YyxZcGShjYg+b
+pnuUeTSDANH4wFpOdeRTKERyM3OynRZ5aU7701vbiIAu74uo/E9L/5rJ4aXjcapY
+LxuJ2q1Jm1wa1rdndgUGsSbqxJH53G2FkBJ0Eb14emz02VCwfwIDAQABMA0GCSqG
+SIb3DQEBBQUAA4GBAGysrTSJzcmrZB7Z95fKVa6wqbravvJPQDoiDcHQRc5riRQQ
+bKMxD+HK08O5Dvq80Fbm49EDliuTEPBS3ltPC/uqACcLkMWFwnnnnXDhHiqltVUJ
+Q5N31UWX01IENw6wuLLJQafyUu/TSd+li5z4suGgYQtF2B6cDV6kNYP7AQHW
+-----END CERTIFICATE-----
+

@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1872196589 (0x6f9773ed)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: O=MyBrainSolutions
+        Validity
+            Not Before: Dec 11 23:39:34 2016 GMT
+            Not After : Nov 29 23:39:34 2066 GMT
+        Subject: O=MyBrainSolutions
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:99:cf:84:ff:81:3f:db:15:17:9e:ba:df:ea:83:
+                    54:ea:09:2a:59:ca:19:fa:3e:39:cf:80:64:0b:9b:
+                    d1:62:41:76:bc:f0:f2:c4:4a:a9:14:f5:3e:de:bc:
+                    7c:64:e6:98:02:60:c2:85:11:0b:39:b0:d4:7b:51:
+                    d2:2a:65:d4:1b:05:21:76:24:96:e7:82:18:5d:14:
+                    d0:b0:47:06:79:d8:7b:e7:71:68:20:d6:e0:c3:d4:
+                    38:e5:57:d1:c5:a8:2a:7d:69:22:eb:a9:b9:1b:d9:
+                    46:3a:75:da:61:ae:75:e0:1c:27:ae:64:e3:2b:96:
+                    ed:2f:b5:2b:88:13:0c:6f:a6:3f:f9:88:83:af:66:
+                    c4:19:43:22:4e:cf:fc:58:c2:06:fd:cc:02:27:28:
+                    76:d2:90:ef:67:0a:ea:15:6b:05:cc:7a:8b:f9:94:
+                    1d:ab:ac:8a:c0:bc:d0:93:e7:1c:fb:c6:ce:99:37:
+                    f6:08:fc:53:10:55:66:8a:79:2a:6d:56:c8:cd:41:
+                    3a:4e:c7:01:b5:b1:9f:5b:5b:8e:ab:fc:4a:e1:93:
+                    53:e5:0d:93:c4:76:ba:c2:4f:c5:f3:70:6a:5b:93:
+                    a0:aa:a0:88:e4:a8:8e:9c:0f:18:3b:68:56:88:d9:
+                    b0:51:4f:cb:e5:3a:3b:47:a6:61:5d:5d:22:91:af:
+                    36:2b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                E4:FE:7A:B6:E8:36:F3:C3:FD:79:F3:A8:DC:CA:CC:83:BB:46:91:E1
+    Signature Algorithm: sha256WithRSAEncryption
+         2b:8f:18:e8:94:d0:51:3f:b2:66:fd:82:e5:00:87:3b:d5:a8:
+         3b:3e:c3:91:c3:29:49:0b:ce:c6:ad:ec:7a:73:5a:8c:99:f1:
+         d9:da:fe:fd:fd:e6:a1:e4:18:a0:fe:d8:4f:38:e3:3e:5b:1b:
+         de:83:e4:54:86:e1:56:be:d0:1a:de:b8:fe:51:d4:47:0b:d2:
+         76:ab:4f:5d:f6:2f:f1:5a:89:be:97:c4:38:3f:97:93:c8:25:
+         ce:80:d7:c9:8a:4c:dc:2f:ae:ee:b1:a6:ab:78:de:8b:fe:ad:
+         db:49:d5:19:a2:80:10:37:68:fe:cf:b7:7e:a3:f6:0f:eb:09:
+         42:49:5e:bc:80:42:92:e8:8c:65:36:d4:e2:34:00:86:bb:8b:
+         9b:c3:67:be:e8:c9:f1:d1:dc:c5:56:b8:9b:27:32:b8:34:85:
+         00:cb:18:d5:eb:91:76:b9:d6:ca:17:c0:1e:16:3c:b8:46:98:
+         f4:47:e0:85:75:ad:d2:f1:ce:55:bf:cc:39:27:8a:29:14:f2:
+         de:85:27:d8:e5:38:e5:48:c6:b7:0d:b6:77:96:49:bc:5e:4e:
+         f0:89:36:16:f4:59:a1:e6:3f:61:6c:92:f9:c3:04:16:24:31:
+         8e:07:46:cb:51:42:f9:a1:39:18:05:bd:90:5f:f4:a5:9f:bd:
+         3b:43:37:ae
+-----BEGIN CERTIFICATE-----
+MIIC1zCCAb+gAwIBAgIEb5dz7TANBgkqhkiG9w0BAQsFADAbMRkwFwYDVQQKExBN
+eUJyYWluU29sdXRpb25zMCAXDTE2MTIxMTIzMzkzNFoYDzIwNjYxMTI5MjMzOTM0
+WjAbMRkwFwYDVQQKExBNeUJyYWluU29sdXRpb25zMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAmc+E/4E/2xUXnrrf6oNU6gkqWcoZ+j45z4BkC5vRYkF2
+vPDyxEqpFPU+3rx8ZOaYAmDChRELObDUe1HSKmXUGwUhdiSW54IYXRTQsEcGedh7
+53FoINbgw9Q45VfRxagqfWki66m5G9lGOnXaYa514BwnrmTjK5btL7UriBMMb6Y/
++YiDr2bEGUMiTs/8WMIG/cwCJyh20pDvZwrqFWsFzHqL+ZQdq6yKwLzQk+cc+8bO
+mTf2CPxTEFVminkqbVbIzUE6TscBtbGfW1uOq/xK4ZNT5Q2TxHa6wk/F83BqW5Og
+qqCI5KiOnA8YO2hWiNmwUU/L5To7R6ZhXV0ika82KwIDAQABoyEwHzAdBgNVHQ4E
+FgQU5P56tug288P9efOo3MrMg7tGkeEwDQYJKoZIhvcNAQELBQADggEBACuPGOiU
+0FE/smb9guUAhzvVqDs+w5HDKUkLzsat7HpzWoyZ8dna/v395qHkGKD+2E844z5b
+G96D5FSG4Va+0BreuP5R1EcL0narT132L/Faib6XxDg/l5PIJc6A18mKTNwvru6x
+pqt43ov+rdtJ1RmigBA3aP7Pt36j9g/rCUJJXryAQpLojGU21OI0AIa7i5vDZ77o
+yfHR3MVWuJsnMrg0hQDLGNXrkXa51soXwB4WPLhGmPRH4IV1rdLxzlW/zDkniikU
+8t6FJ9jlOOVIxrcNtneWSbxeTvCJNhb0WaHmP2FskvnDBBYkMY4HRstRQvmhORgF
+vZBf9KWfvTtDN64=
+-----END CERTIFICATE-----
+

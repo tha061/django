@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 892686743 (0x35355197)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: O=FitOn LLC
+        Validity
+            Not Before: Aug 21 06:36:38 2018 GMT
+            Not After : Dec 22 06:36:38 3016 GMT
+        Subject: O=FitOn LLC
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a2:02:fb:4e:4a:3d:69:cd:e5:5e:ef:e0:4a:c2:
+                    63:ef:88:f7:09:7e:f7:9e:5b:4c:e7:cd:56:bf:71:
+                    6f:6d:dc:4c:84:b9:1c:14:d3:0c:c1:81:aa:79:cd:
+                    80:2d:87:7d:9b:e6:f4:38:f7:71:37:cb:a1:6f:22:
+                    62:06:2e:92:ad:3d:6b:06:1c:93:49:4a:20:40:1d:
+                    67:e1:a0:c0:79:bc:ec:21:fe:73:29:5d:40:19:b3:
+                    c8:7f:18:e9:93:f3:0c:01:a7:27:18:25:94:01:5a:
+                    92:a6:d4:ff:2d:d3:24:d6:54:50:cd:d9:2a:93:a2:
+                    01:80:e3:1c:26:ea:c5:d2:07:80:eb:f1:5a:09:34:
+                    72:9f:15:02:00:0e:dd:de:2b:fb:49:ab:08:76:c2:
+                    27:0a:dd:80:b4:ee:50:4f:dc:db:66:00:b2:66:59:
+                    78:55:d1:3d:0d:ab:1a:10:4b:9a:53:eb:55:ed:ab:
+                    c2:c5:35:5f:45:4c:b5:8f:41:be:c9:bf:ec:fa:86:
+                    2d:7b:5b:af:ec:85:53:a1:d8:35:5b:0a:bf:69:e9:
+                    dd:a3:9f:a6:91:7a:c9:f9:f9:fd:a0:3e:67:62:4f:
+                    21:00:e5:f3:69:82:33:5f:6c:7c:96:d5:cd:41:b1:
+                    a0:ad:85:96:13:05:11:df:b0:ac:da:28:72:c1:cc:
+                    96:bb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                57:B8:F3:F1:CC:95:78:CD:C5:12:E2:58:60:33:74:55:83:13:90:B6
+    Signature Algorithm: sha256WithRSAEncryption
+         80:7e:c0:af:1e:3b:23:60:f0:bb:95:1d:38:09:72:2d:72:f1:
+         20:70:30:3c:42:50:80:6e:07:49:74:7d:62:ed:23:b4:b3:76:
+         ec:5a:1e:08:56:26:c9:e3:30:1a:d8:42:c1:14:3b:42:12:66:
+         80:52:da:3c:0b:4e:82:b4:65:bb:d6:fe:16:bd:60:52:66:b8:
+         3b:14:10:c9:4e:6b:5e:7b:cd:dc:09:7a:e9:dd:a1:1c:82:f0:
+         32:d5:81:14:ad:89:6d:d6:2f:77:49:42:ad:de:54:db:b0:04:
+         2a:fb:3a:7a:75:c2:9e:58:14:3d:79:7b:b5:95:80:d4:d2:fc:
+         ef:f2:63:8a:88:b6:31:ae:75:49:ff:0a:fa:62:dd:d4:b6:85:
+         b1:31:dd:d7:2e:2a:5c:c6:f6:a0:b1:98:94:f0:08:ea:e7:6d:
+         c6:3a:7b:e3:99:19:91:39:f5:2a:92:2f:47:2c:c1:6b:79:2b:
+         d2:d6:5e:12:e2:f5:79:62:d9:8e:0e:ac:6e:b8:fc:0a:6a:fe:
+         9f:22:76:e5:d5:e0:65:36:95:16:29:d1:cc:51:db:f5:3c:2c:
+         a5:a0:de:67:f9:ae:50:48:98:f6:b0:a6:ac:c2:79:0f:e9:f7:
+         11:49:db:e3:74:81:5a:6b:28:d2:38:3d:30:f2:5e:50:5f:3b:
+         21:9d:bd:5d
+-----BEGIN CERTIFICATE-----
+MIICyTCCAbGgAwIBAgIENTVRlzANBgkqhkiG9w0BAQsFADAUMRIwEAYDVQQKEwlG
+aXRPbiBMTEMwIBcNMTgwODIxMDYzNjM4WhgPMzAxNjEyMjIwNjM2MzhaMBQxEjAQ
+BgNVBAoTCUZpdE9uIExMQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AKIC+05KPWnN5V7v4ErCY++I9wl+955bTOfNVr9xb23cTIS5HBTTDMGBqnnNgC2H
+fZvm9Dj3cTfLoW8iYgYukq09awYck0lKIEAdZ+GgwHm87CH+cyldQBmzyH8Y6ZPz
+DAGnJxgllAFakqbU/y3TJNZUUM3ZKpOiAYDjHCbqxdIHgOvxWgk0cp8VAgAO3d4r
++0mrCHbCJwrdgLTuUE/c22YAsmZZeFXRPQ2rGhBLmlPrVe2rwsU1X0VMtY9Bvsm/
+7PqGLXtbr+yFU6HYNVsKv2np3aOfppF6yfn5/aA+Z2JPIQDl82mCM19sfJbVzUGx
+oK2FlhMFEd+wrNoocsHMlrsCAwEAAaMhMB8wHQYDVR0OBBYEFFe48/HMlXjNxRLi
+WGAzdFWDE5C2MA0GCSqGSIb3DQEBCwUAA4IBAQCAfsCvHjsjYPC7lR04CXItcvEg
+cDA8QlCAbgdJdH1i7SO0s3bsWh4IVibJ4zAa2ELBFDtCEmaAUto8C06CtGW71v4W
+vWBSZrg7FBDJTmtee83cCXrp3aEcgvAy1YEUrYlt1i93SUKt3lTbsAQq+zp6dcKe
+WBQ9eXu1lYDU0vzv8mOKiLYxrnVJ/wr6Yt3UtoWxMd3XLipcxvagsZiU8Ajq523G
+OnvjmRmROfUqki9HLMFreSvS1l4S4vV5YtmODqxuuPwKav6fInbl1eBlNpUWKdHM
+Udv1PCyloN5n+a5QSJj2sKaswnkP6fcRSdvjdIFaayjSOD0w8l5QXzshnb1d
+-----END CERTIFICATE-----
+

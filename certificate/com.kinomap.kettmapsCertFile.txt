@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1268399232 (0x4b9a3c80)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=fr, ST=France, L=Douai, O=ExcelLance, OU=ExcelLance, CN=Laurent Desmons
+        Validity
+            Not Before: Mar 12 13:07:12 2010 GMT
+            Not After : Mar  6 13:07:12 2035 GMT
+        Subject: C=fr, ST=France, L=Douai, O=ExcelLance, OU=ExcelLance, CN=Laurent Desmons
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:98:d0:33:6e:1c:65:6f:bd:51:b3:af:3a:e9:44:
+                    0f:57:b3:73:e3:a3:c2:13:ed:7f:2c:30:d1:75:e2:
+                    bf:d4:22:09:41:bc:6f:5d:38:a8:73:fe:aa:62:16:
+                    f7:3e:1e:b9:76:28:a8:a2:74:0f:49:25:9f:77:14:
+                    9d:46:fe:10:e1:1e:4c:4b:96:0e:88:f5:1f:fd:57:
+                    5c:f0:23:19:1e:f0:c3:90:51:00:d8:54:d1:f9:a8:
+                    9d:cf:1e:59:63:f1:e5:17:b8:cc:eb:71:fa:77:21:
+                    75:ec:15:21:67:45:79:df:24:61:1d:72:b1:40:aa:
+                    ff:6c:6f:f4:3c:3f:6c:ea:29
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         49:75:ee:e4:f9:5b:2b:61:d6:df:56:eb:cf:d0:53:fd:fa:f4:
+         86:cf:a9:99:e8:f6:a4:a6:5d:ab:8f:9e:04:e7:56:cd:1e:8c:
+         92:77:72:ae:4e:ce:fb:24:70:2d:ef:28:93:f9:20:49:ec:5d:
+         78:1f:1d:70:7e:b1:51:6e:86:69:e1:51:56:42:3b:c1:bb:90:
+         dd:b3:ad:e7:d8:01:15:18:03:29:37:fe:80:23:4e:c4:2a:e6:
+         82:d1:55:70:62:54:3b:c8:05:5b:a6:20:e0:48:d3:a2:91:6a:
+         b1:2b:f0:0d:09:88:3c:46:34:e5:d4:0d:ae:a1:eb:4a:3b:06:
+         46:9f
+-----BEGIN CERTIFICATE-----
+MIICWzCCAcSgAwIBAgIES5o8gDANBgkqhkiG9w0BAQUFADByMQswCQYDVQQGEwJm
+cjEPMA0GA1UECBMGRnJhbmNlMQ4wDAYDVQQHEwVEb3VhaTETMBEGA1UEChMKRXhj
+ZWxMYW5jZTETMBEGA1UECxMKRXhjZWxMYW5jZTEYMBYGA1UEAxMPTGF1cmVudCBE
+ZXNtb25zMB4XDTEwMDMxMjEzMDcxMloXDTM1MDMwNjEzMDcxMlowcjELMAkGA1UE
+BhMCZnIxDzANBgNVBAgTBkZyYW5jZTEOMAwGA1UEBxMFRG91YWkxEzARBgNVBAoT
+CkV4Y2VsTGFuY2UxEzARBgNVBAsTCkV4Y2VsTGFuY2UxGDAWBgNVBAMTD0xhdXJl
+bnQgRGVzbW9uczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAmNAzbhxlb71R
+s6866UQPV7Nz46PCE+1/LDDRdeK/1CIJQbxvXTioc/6qYhb3Ph65diioonQPSSWf
+dxSdRv4Q4R5MS5YOiPUf/Vdc8CMZHvDDkFEA2FTR+aidzx5ZY/HlF7jM63H6dyF1
+7BUhZ0V53yRhHXKxQKr/bG/0PD9s6ikCAwEAATANBgkqhkiG9w0BAQUFAAOBgQBJ
+de7k+VsrYdbfVuvP0FP9+vSGz6mZ6Pakpl2rj54E51bNHoySd3KuTs77JHAt7yiT
++SBJ7F14Hx1wfrFRboZp4VFWQjvBu5Dds63n2AEVGAMpN/6AI07EKuaC0VVwYlQ7
+yAVbpiDgSNOikWqxK/ANCYg8RjTl1A2uoetKOwZGnw==
+-----END CERTIFICATE-----
+

@@ -1,0 +1,80 @@
+{
+  "name": "com.fitifyapps.medicineball",
+  "fileSize": "20.4 MB",
+  "VTmd5": "add7e8d8fa6353772a98efa9b9cfc9ac",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/07a4d83f93830d3c05e96debd2ea6c9e6ce9ac2e0fb9d794c35d921c9619ecfb/detection/f-07a4d83f93830d3c05e96debd2ea6c9e6ce9ac2e0fb9d794c35d921c9619ecfb-1586928937",
+  "VTresource": "07a4d83f93830d3c05e96debd2ea6c9e6ce9ac2e0fb9d794c35d921c9619ecfb",
+  "VTresponsecode": 1,
+  "VTscanID": "07a4d83f93830d3c05e96debd2ea6c9e6ce9ac2e0fb9d794c35d921c9619ecfb-1586928937",
+  "VTsha1": "0bf73f441f2772fbb1464e4335b56c9cd5e75935",
+  "VTsha256": "07a4d83f93830d3c05e96debd2ea6c9e6ce9ac2e0fb9d794c35d921c9619ecfb",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "10 March 2020",
+    "Size": "Varies with device",
+    "Installs": "10000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$3.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fitify Apps",
+    "Developer": "Visit website support@fitifyapps.com Privacy Policy Podhurecka 558 Klatovy 33901 Czech Republic"
+  },
+  "rating": "4.7",
+  "description": "Medicine Ball Workouts by Fitify is a video coaching app, which gives you full workout sessions with Medicine Ball (a.k.a Exercise ball, Med ball, or a Fitness ball).  Increase muscular strength, posture and balance as well.  Features \u2022 over 65 exercises \u2022 6 unique workout programs \u2022 voice coach \u2022 clear HD video demonstrations \u2022 works offline Custom Workouts Create your own workouts from our exercise library. Adaptable difficulty We adjust your training level up or down based on your feedback. Be stronger, leaner, healthier with Fitify \u2013 your very own personal trainer. Check other Fitify apps with different fitness tools (such as TRX, Kettlebell, Swiss Ball, Bosu or Foam Roller).",
+  "privacyText": "https://fitifyapps.com/privacy-policy.html",
+  "numInstalls": 10000,
+  "developer": "Fitify Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://fitifyapps.com",
+    "Developer Email": "support@fitifyapps.com",
+    "Privacy Policy": "https://fitifyapps.com/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

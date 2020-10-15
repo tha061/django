@@ -1,0 +1,77 @@
+{
+  "name": "com.center.healthclub",
+  "fileSize": "28.9 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.center.healthclub.core.MyFirebaseMessagingService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: ",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "1 October 2020",
+    "Size": "29M",
+    "Installs": "10000",
+    "Current Version": "1.3.1",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Health Club Group",
+    "Developer": "Visit website support@healthclub.center Privacy Policy"
+  },
+  "rating": "4.5",
+  "description": "Stay in shape from the comfort of your home! keep your body healthy and strong.     A  FREE  health and fitness app for Men and Women\u2019s personal fitness needs.   Read more   Step1: Muscle targeting   covering all major muscle groups.   Step2: Difficulty Level     Choose from beginner, intermediate and advanced levels.   Step3: SWEAT IT OUT!     3D modeling for each exercise with timed sets and motivational musics.     All workouts and exercises are  effective and 100% FREE  for users,  no locked features.   Reduce stress and  boost  your immune system through exercise.   All exercises are designed by  3D modeling  to make sure you exercise in a scientific way.   Train  wherever  in gym, street or home.   Our workout programs contain detailed information of  Sets, Reps and Rest   to help you reach your fitness goal.   You can choose your focus area. And  different levels  of workout plan are available to choose.   Works offline.   Acts as your own personal trainer.   Improving your  balance, posture, agility and flexibility.     At the moment, new features are under development that will appear in the near future:     1.Using the calories table you can define the energy value of the most popular food items and foods.     2.Set notifications for starting workouts.     3.Set notifications for drinking water.     4.Records training progress automatically.     5.Customize your workout reminders.     6.set profile for users.     7.Detailed statistics including calories burned and completed results.     8.Access health information such as ideal weight, and current weight.     9.Various challenges that keep you motivated.     10.New collections for different tastes.     We are constantly upgrading our app in order to provide the best possible service to our users. We will continue to keep our app completely FREE with NO HIDDEN FEES.     For questions or suggestions, send us an email:   support@healthclub.center     For privacy details, please refer to :   https://www.healthclub.center     Instagram:   https://www.instagram.com/healthclub.center/     Wish you have a toned and healthy body\u2026",
+  "privacyText": "https://healthclub.center/privacy-policy.html",
+  "numInstalls": 10000,
+  "developer": "Health Club Group",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://healthclub.center",
+    "Developer Email": "support@healthclub.center",
+    "Privacy Policy": "https://healthclub.center/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Facebook"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

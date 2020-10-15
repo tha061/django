@@ -1,0 +1,70 @@
+{
+  "name": "com.thunkable.android.ilyastepanov1.ConcentrationMeditation",
+  "fileSize": "13.5 MB",
+  "VTmd5": "0167183efbf59975067d89638f3f4fab",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/1ced7adfcc4ab4860b438a99f7eb48e8cd5e418e81f9f915996f87d0a4ed047a/detection/f-1ced7adfcc4ab4860b438a99f7eb48e8cd5e418e81f9f915996f87d0a4ed047a-1575973646",
+  "VTresource": "1ced7adfcc4ab4860b438a99f7eb48e8cd5e418e81f9f915996f87d0a4ed047a",
+  "VTresponsecode": 1,
+  "VTscanID": "1ced7adfcc4ab4860b438a99f7eb48e8cd5e418e81f9f915996f87d0a4ed047a-1575973646",
+  "VTsha1": "f250a9dff3a8c7921538e241b98e5ab2a0d16ea4",
+  "VTsha256": "1ced7adfcc4ab4860b438a99f7eb48e8cd5e418e81f9f915996f87d0a4ed047a",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "28 October 2019",
+    "Size": "14M",
+    "Installs": "1000000",
+    "Current Version": "2.26",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$0.99 \u2013 $11.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Meditation & Concentration apps",
+    "Developer": "ilyastepanov1@gmail.com Privacy Policy Russian Federation, Korolev, Kominterna st., 14"
+  },
+  "rating": "4.4",
+  "description": "This application is for self-meditation. Inside: \ud83d\udcac Step-by-step instructions on meditation techniques. \ud83d\udccc Collected the most necessary to enter the highest state: \u2981 point on the screen \u2981 burning candle \u2981 sacred symbols \u2981 mandalas and yantras \u2981 illusions \u2981 images \u2981 breath control \u2981 meditative drawing \ud83c\udfb9 Specially selected music and sounds: \u2981 singing bowls \u2981 nature sounds \u2981 water and fire \u2981 flute, gong, bells \u2981 buddhist prayer drum \u2981 mantras: Om, Maha mantra, Om Namah Shiavya \u2981 and 26 more tunes \ud83d\udd14 Reminder - repeating signal, helps to concentrate. \ud83c\udfc6 Achievements - motivate to continue to meditate. \ud83d\udca1 A simple and impressive system of settings will allow you to fine tune meditation for you. The convenience of the application is suitable for beginners starting to learn meditation and for experienced practitioners. You can choose an object for concentration image or take the word written in large letters. So is the meditation of forgiveness, gratitude, awareness. \ud83c\udf4f What brings the practice of meditation? \u2981 the pleasure of being thoughtless \u2981 deep relaxation and rest \u2981 memory, attention, ability to concentrate will improve \u2981 reduced anxiety \u2981 improve the quality of sleep \u2981 increase resistance to stress \u2981 self-awareness \u2981 you\u2019ll become calmer and more confident \ud83c\udfaf What is the purpose of meditation? The goal of meditation is the purification of the mind from restless and obsessive thoughts. There are two ways to meditate: meditation on the void and meditation through concentration. As an object of attention take a point on the wall, the fire of a candle or a painted image. It is important that attention is not distracted. When you feel fully focused, your thoughts will melt and you will enter a state of meditation. The problem of beginners is that attention is difficult to keep at one point. You have to constantly remind yourself \u201cdo not get distracted!\u201d And the state of meditation is lost. This application allows you to set a sound reminder, so as not to be distracted. When you hear it, you will return to the point of concentration and the state of meditation will not be interrupted. In the practice of meditation by concentration it is not necessary to sit in a particular position or in a particular place. This may be lying, standing, in bed or in transport. You can set the duration of the meditation yourself. Even 5, 10 minute meditation will increase awareness and give strength. Morning, daytime, evening (before bedtime) or even night meditation - the choice is yours! There is no need to take meditation lessons - become a guru for yourself, and the application will be like a good helper. The application is suitable for practitioners: Pranayama, Kundalini Yoga, Hatha, Kriya, Tantra, Bhakti, Karma, Jnana, Raja, Japa, Dhyana, Sahaja, Samadhi, Chakra Meditation, Transcendental Meditation, Vipassana, Qigong, Affirmation, Zen. loving kindness (metta), meditation on the opening of the third eye, trataka, nada, visualization, presence meditation, sarguna, nirguna, fitness meditation. \ud83d\udc8e Start meditating and you will see how your consciousness changes for the better! \ud83c\udf1f  2076 already people gave the application 5 stars. Thanks you!",
+  "privacyText": "https://meditcon.wordpress.com/privacy-policy-for-meditationconcentration-app/",
+  "numInstalls": 1000000,
+  "developer": "Meditation & Concentration apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://meditcon.wordpress.com/privacy-policy-for-meditationconcentration-app/",
+    "Developer Email": "ilyastepanov1@gmail.com",
+    "Privacy Policy": "https://meditcon.wordpress.com/privacy-policy-for-meditationconcentration-app/"
+  },
+  "smali_Directories": [
+    "Crashlytics"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1226744962 (0x491ea482)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=SE, L=Stockholm, O=Diet Doctor Sweden AB
+        Validity
+            Not Before: Mar 13 12:20:00 2020 GMT
+            Not After : Mar  3 12:20:00 2060 GMT
+        Subject: C=SE, L=Stockholm, O=Diet Doctor Sweden AB
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b0:bc:b3:25:16:14:2d:09:c8:e2:c3:fc:cc:b9:
+                    4d:27:b9:02:0b:04:b4:b3:04:84:95:1e:b8:56:1e:
+                    48:31:ff:8e:80:14:18:bd:91:4e:c7:9b:13:0e:f2:
+                    d0:13:47:72:1e:81:91:0e:14:52:4a:93:1b:18:be:
+                    2e:7d:e0:68:c8:a6:07:c9:cb:f2:47:28:b4:5d:b0:
+                    6e:c5:18:3c:dc:1e:fd:53:42:0e:03:b9:4a:47:90:
+                    8e:74:ab:7f:c2:ba:68:8e:ec:1c:2b:3f:b7:2b:9d:
+                    3a:a5:96:66:a7:c0:0e:87:28:b2:c3:a9:4a:28:0f:
+                    60:f4:9f:53:0a:ae:64:0b:f7:63:a9:fa:cc:34:8f:
+                    da:ae:0a:1d:ad:3f:74:fa:f7:be:8f:b2:e6:11:8d:
+                    67:f8:b3:15:0d:1f:72:b8:23:44:f8:a1:35:3d:98:
+                    52:72:95:85:2e:7c:1c:74:b9:9f:58:e4:87:6a:a7:
+                    18:3e:aa:c9:71:71:a1:d6:65:8a:a0:00:39:80:9b:
+                    d1:03:de:b4:48:49:6a:0e:85:c6:a9:6f:41:d9:d3:
+                    51:76:a4:69:c9:34:13:4c:02:d2:ba:03:34:e2:a0:
+                    7c:0b:fa:56:6a:66:d9:4c:61:f7:f5:c9:04:0d:d3:
+                    46:7b:ed:da:bb:53:fe:4c:46:72:50:28:fb:c6:4b:
+                    09:4b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                19:B3:0D:87:34:30:D1:6F:4C:7D:7F:CC:A5:40:60:78:06:E5:DC:E9
+    Signature Algorithm: sha256WithRSAEncryption
+         13:62:db:9a:ff:4c:46:7c:dc:06:88:54:51:68:4e:71:bb:8d:
+         cf:4b:65:33:c0:3a:b2:0d:b7:97:aa:fe:60:e4:17:65:b2:ab:
+         f7:4a:9e:ac:5c:56:eb:2e:04:71:e3:5e:78:c1:f5:5f:d3:32:
+         b2:19:56:c7:35:8e:07:07:b9:78:71:ef:1e:9d:e8:ed:61:d0:
+         14:9b:5e:71:eb:82:eb:0e:49:de:d3:1d:62:51:37:f1:80:47:
+         5c:5f:e2:f7:5e:27:b7:fc:15:f5:d4:ef:f7:f5:28:c1:71:b1:
+         51:78:f1:7f:e3:1a:e9:4d:c6:85:90:0d:f6:4b:f4:5e:0f:ab:
+         9f:52:40:ea:25:c4:86:b1:b3:b1:8f:7f:ea:86:4d:b7:60:d1:
+         e8:c2:4d:e7:1e:78:c5:94:4f:bf:88:fb:a3:39:58:4e:37:ab:
+         2f:e3:8c:cd:18:42:00:c4:d4:a3:c7:7d:a2:f0:26:5d:11:21:
+         1f:0d:04:7e:4f:e0:44:01:a1:6e:8e:f2:eb:f5:87:2e:e7:cc:
+         cb:1b:02:09:ff:e7:5a:cb:f3:ca:8d:60:03:65:b4:9d:8a:bc:
+         6c:a2:f7:af:ce:74:30:88:bb:04:41:2c:42:22:c4:d9:34:20:
+         0c:cd:26:56:7c:d0:29:17:37:04:16:50:0a:0b:b5:b8:41:56:
+         ea:4a:10:93
+-----BEGIN CERTIFICATE-----
+MIIDIzCCAgugAwIBAgIESR6kgjANBgkqhkiG9w0BAQsFADBBMQswCQYDVQQGEwJT
+RTESMBAGA1UEBxMJU3RvY2tob2xtMR4wHAYDVQQKExVEaWV0IERvY3RvciBTd2Vk
+ZW4gQUIwIBcNMjAwMzEzMTIyMDAwWhgPMjA2MDAzMDMxMjIwMDBaMEExCzAJBgNV
+BAYTAlNFMRIwEAYDVQQHEwlTdG9ja2hvbG0xHjAcBgNVBAoTFURpZXQgRG9jdG9y
+IFN3ZWRlbiBBQjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALC8syUW
+FC0JyOLD/My5TSe5AgsEtLMEhJUeuFYeSDH/joAUGL2RTsebEw7y0BNHch6BkQ4U
+UkqTGxi+Ln3gaMimB8nL8kcotF2wbsUYPNwe/VNCDgO5SkeQjnSrf8K6aI7sHCs/
+tyudOqWWZqfADocossOpSigPYPSfUwquZAv3Y6n6zDSP2q4KHa0/dPr3vo+y5hGN
+Z/izFQ0fcrgjRPihNT2YUnKVhS58HHS5n1jkh2qnGD6qyXFxodZliqAAOYCb0QPe
+tEhJag6FxqlvQdnTUXakack0E0wC0roDNOKgfAv6Vmpm2Uxh9/XJBA3TRnvt2rtT
+/kxGclAo+8ZLCUsCAwEAAaMhMB8wHQYDVR0OBBYEFBmzDYc0MNFvTH1/zKVAYHgG
+5dzpMA0GCSqGSIb3DQEBCwUAA4IBAQATYtua/0xGfNwGiFRRaE5xu43PS2UzwDqy
+DbeXqv5g5Bdlsqv3Sp6sXFbrLgRx4154wfVf0zKyGVbHNY4HB7l4ce8enejtYdAU
+m15x64LrDkne0x1iUTfxgEdcX+L3Xie3/BX11O/39SjBcbFRePF/4xrpTcaFkA32
+S/ReD6ufUkDqJcSGsbOxj3/qhk23YNHowk3nHnjFlE+/iPujOVhON6sv44zNGEIA
+xNSjx32i8CZdESEfDQR+T+BEAaFujvLr9Ycu58zLGwIJ/+day/PKjWADZbSdirxs
+ovevznQwiLsEQSxCIsTZNCAMzSZWfNApFzcEFlAKC7W4QVbqShCT
+-----END CERTIFICATE-----
+

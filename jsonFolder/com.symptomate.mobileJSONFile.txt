@@ -1,0 +1,67 @@
+{
+  "name": "com.symptomate.mobile",
+  "fileSize": "6.9 MB",
+  "VTmd5": "45a496ad66b335d9febf5fd3ee7650f4",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/c2cfdfceb0b5a6d512d3fe1e69df7636d1abe1b788e8265591d17401d584dc4e/detection/f-c2cfdfceb0b5a6d512d3fe1e69df7636d1abe1b788e8265591d17401d584dc4e-1601933314",
+  "VTresource": "c2cfdfceb0b5a6d512d3fe1e69df7636d1abe1b788e8265591d17401d584dc4e",
+  "VTresponsecode": 1,
+  "VTscanID": "c2cfdfceb0b5a6d512d3fe1e69df7636d1abe1b788e8265591d17401d584dc4e-1601933314",
+  "VTsha1": "a7b00cfb5942780c5cbcb9925b99ea0ea3954407",
+  "VTsha256": "c2cfdfceb0b5a6d512d3fe1e69df7636d1abe1b788e8265591d17401d584dc4e",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.play.core.assetpacks.AssetPackExtractionService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "5 October 2020",
+    "Size": "Varies with device",
+    "Installs": "100000",
+    "Current Version": "2.2",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Infermedica",
+    "Developer": "Visit website contact@symptomate.com Privacy Policy"
+  },
+  "rating": "3.8",
+  "description": "What concerns you about your health today? Check your symptoms and find out what could be causing them. It's fast, free and anonymous. Symptomate is the most advanced symptom checker that uses artificial intelligence to evaluate your symptoms. Developed and validated by doctors, Symptomate knows more than 700 conditions and will help you to check your health status instantly. HOW IT WORKS Enter symptoms Symptomate will ask you to enter basic information about yourself and your symptoms.  Answer a few questions Symptomate will start looking for the cause of your symptoms. It will ask you a few carefully selected follow-up questions.  Done! Check your results Symptomate will analyze all your answers using advanced artificial intelligence technology. As a result, you will receive information on the following: how serious your symptoms are possible causes of your symptoms actions to take suggested lab tests THE APP AT A GLANCE AI-powered symptom checker Learns and evolves every day Verified by physicians and data scientists (34,000+ hours of review) 100,000+ assessments performed each month 700+ conditions and 1,300+ symptoms in the database Available in many languages, including English, Spanish, Chinese, German, French, Portuguese, Arabic, Dutch, Czech, Turkish, Russian, Ukrainian, Polish and Slovak No login required ... and more! 1,300+ SYMPTOMS Ask Symptomate about: Feeling weak, tired or sick Headache Abdominal pain Nausea Shortness of breath Fever, sore throat, cough Dizziness Weight loss Bloating Back pain Diarrhea Chest pain Dermatological changes, rash ... and many more FEEDBACK  Have you noticed a problem or have a suggestion? Drop us a line at support@infermedica.com. We\u00e2\u20ac\u2122d love to hear from you! LEGAL NOTICE The Checkup is not a diagnosis. It is for informational purposes only and is not a qualified medical opinion. Do not use in emergencies. In case of a health emergency, call your local emergency number immediately. Your data is safe. The information you provide is anonymous and not shared with anyone. Read more in our Terms of Service, Privacy Policy and Cookies Policy.",
+  "privacyText": "https://symptomate.com/site/privacy-policy/",
+  "numInstalls": 100000,
+  "developer": "Infermedica",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://symptomate.com",
+    "Developer Email": "contact@symptomate.com",
+    "Privacy Policy": "https://symptomate.com/site/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Facebook"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

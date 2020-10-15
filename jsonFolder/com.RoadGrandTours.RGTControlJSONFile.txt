@@ -1,0 +1,89 @@
+{
+  "name": "com.RoadGrandTours.RGTControl",
+  "fileSize": "57.0 MB",
+  "VTmd5": "cf3ff933ef6fa2c2dcda56a8f3f9b9bf",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/c71b00e4709026ccd5b778f45d06ae57beb7ef0ba0d39c9b4a923d948f33459b/detection/f-c71b00e4709026ccd5b778f45d06ae57beb7ef0ba0d39c9b4a923d948f33459b-1602234454",
+  "VTresource": "c71b00e4709026ccd5b778f45d06ae57beb7ef0ba0d39c9b4a923d948f33459b",
+  "VTresponsecode": 1,
+  "VTscanID": "c71b00e4709026ccd5b778f45d06ae57beb7ef0ba0d39c9b4a923d948f33459b-1602234454",
+  "VTsha1": "f6da78cf1236f1f4b7ed71da33c32cd85c5a914e",
+  "VTsha256": "c71b00e4709026ccd5b778f45d06ae57beb7ef0ba0d39c9b4a923d948f33459b",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "android.permission.BLUETOOTH_ADMIN Protection Level: normal",
+    "android.permission.BLUETOOTH Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.CHANGE_WIFI_MULTICAST_STATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.RoadGrandTours.RGTControl.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.RoadGrandTours.RGTControl.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.shatalmic.unityandroidbluetoothlelib.RGTRide  permission: ",
+      "name: com.google.firebase.messaging.MessageForwardingService  permission: ",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.messaging.cpp.ListenerService  permission: ",
+      "name: com.google.firebase.messaging.cpp.RegistrationIntentService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "13 October 2020",
+    "Size": "56M",
+    "Installs": "50000",
+    "Current Version": "2020.10.12",
+    "Requires Android": "7.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact, Digital purchases",
+    "In-app Products": "$9.99 \u2013 $13.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Road Grand Tours",
+    "Developer": "Visit website support@rgtcycling.com Privacy Policy Romania, Bucharest, sec. 4, Splaiul Unirii, nr. 160"
+  },
+  "rating": "3.6",
+  "description": "RGT Cycling - #ridefree Change your game and get connected to the power of virtual cycling; for free.  Discover a new world of possibility and freedom, organize your own social events and races, ride any road in the world (virtually) and experience the benefits of a growing, forward thinking community one RGT Cycling. Join the movement of cyclists, coaches and event organizers creating their rides, their way. The RGT Cycling platform allows you to pair your BLE and ANT+ Smart Trainer or Power Meter (no speed or cadence sensors, sorry) to the ultimate indoor cycling experience.  Real Freedom Magic Roads has been transformed! Experience any road, anytime, anywhere, with other riders or on your own. All you need to do is upload your GPX file and our Magic Road system will do the rest.  Do you want to ride the climbs of the Grand Tours, pre ride your next race challenge or simply ride anywhere? Do it all on Magic Roads  Real Roads Choose from a selection of ultra-realistic Real Roads. Take on the stunning Cap de Formentor climb, challenge yourself on the Paterberg, and go for a spin on an authentic Italian white road. Real Organization RGT enables you to create private group rides and races exactly how you want. Invite friends to ride along or go solo, just like you would in the real world. Real Physics Simulated braking ensures hairpin corners are not taken at 70kph and riders do not pass through each other all the time.  Unlike other virtual cycling platforms, all riders on RGT see the same thing at the same time. Real Training It\u2019s about quality, not quantity. The plans and workouts you can access as a premium member have been put together to give you real training gains! Combine this with access to the world\u2019s best coaches through TrainingPeaks, and your event preparation reaches a new level. Real Events Ride with your friends and make new ones by joining group rides and events. Go Beyond your limits as you push harder than ever in thrilling action-packed races. Features FREE - No hassle, no subscription, ride and race whenever you want for free RIDE WITH OTHERS FROM AROUND THE WORLD and join our global community of game changers RIDE ANY ROAD IN THE WORLD by recreating any ride or route using a .GPX file ORGANIZE YOUR OWN RIDES AND RACES on our Real Roads and Magic Roads (GPX based roads) GET FITTER, FASTER, STRONGER, complete training plans and workouts produced by the world\u2019s best coaches TAKE ON THE WORLD\u2019S MOST ICONIC CLIMBS, including the Stelvio Pass and the Cap de Formentor CHALLENGE YOUR FRIENDS to a race or ask them to join you for a ride CUSTOMIZE YOUR RIDE and choose your bike and equipment STAY IN TOUCH AND CHAT with others using the in-game chat# EXPERIENCE REALISTIC PHYSICS including drafting and braking CROSS-PLATFORM AVAILABILITY LINK YOUR TRAININGPEAKS CALENDAR so you never miss another workout ANALYZE YOUR FITNESS AND RIDE DATA LIKE A PRO using TrainingPeaks and Strava SUPPORTED CONNECTIONS: - Must have power - Speed and Cadence Sensors Alone Do Not Work - ANT+ - Bluetooth Smart (BLE) SUPPORTED HARDWARE: - Any models of trainers, Power Meters, cadence and heart rate sensors that connect via ANT+ and Bluetooth Smart (BLE) - Speed or cadence trainers and/or classic trainers (Virtual Power) are not currently supported* Don\u2019t forget to email our support team for feedback or feature requests at support@rgtcycling.com *RGT Cycling works with a wide range of Bluetooth and ANT+ connected training equipment such as Smart Bikes and Power Meters. The platform will not work with traditional training set-ups that are unable to broadcast power. There is currently no time frame for this work to take place.",
+  "privacyText": "https://www.roadgrandtours.com/docs/RoadGrandTours%20-%20Privacy%20Policy.pdf",
+  "numInstalls": 50000,
+  "developer": "Road Grand Tours",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.rgtcycling.com",
+    "Developer Email": "support@rgtcycling.com",
+    "Privacy Policy": "https://www.roadgrandtours.com/docs/RoadGrandTours%20-%20Privacy%20Policy.pdf"
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Unity3d"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

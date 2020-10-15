@@ -1,0 +1,75 @@
+{
+  "name": "com.jimber.workit",
+  "fileSize": "24.0 MB",
+  "VTmd5": "a8fdbc4a31f092cdb2d02416a8bcd146",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/ffc26cb8451a2f07eab5b1053447a2cdf3b70986346d76736f328ede9531e4d2/detection/f-ffc26cb8451a2f07eab5b1053447a2cdf3b70986346d76736f328ede9531e4d2-1575889746",
+  "VTresource": "ffc26cb8451a2f07eab5b1053447a2cdf3b70986346d76736f328ede9531e4d2",
+  "VTresponsecode": 1,
+  "VTscanID": "ffc26cb8451a2f07eab5b1053447a2cdf3b70986346d76736f328ede9531e4d2-1575889746",
+  "VTsha1": "0dfbb79e8cb854e47e4b1e00aeaaadd610b3281a",
+  "VTsha256": "ffc26cb8451a2f07eab5b1053447a2cdf3b70986346d76736f328ede9531e4d2",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.USE_CREDENTIALS Protection Level: Developer Defined Permission",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.jimber.workit.timer.BroadcastService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "6 July 2019",
+    "Size": "24M",
+    "Installs": "100000",
+    "Current Version": "4.8.6",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$2.49 \u2013 $4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "WorkIt",
+    "Developer": "Visit website workit.feedback@gmail.com 123 Loring ave Salem, MA 01970"
+  },
+  "rating": "4.4",
+  "description": "Workout with WORKIT! A Top rated workout tracker and personal trainer for android. Build muscle, get in shape, and improve your overall fitness with WORKIT the best personal trainer and workout tracker app for you! **New Premium Features Include Bodyweight Tracker and more!*** -Get the bodyweight tracker from the feature store -Log your bodyweight, body fat, and other body stats -Automatic BMI calculation -Bodyweight progress graphs -Take progress pics Workout Tracker WORKIT is a simple to use workout tracker for your weightlifting and cardio training. Use the app for your gym workouts or  home workouts. Perform your daily routine and record each exercise with a simple tap of a button. WORKIT will keep detailed fitness logs of your training and provide personal progress graphs and statistics. Personal Trainer WORKIT will be your personal trainer for gym workouts or home workouts with descriptions and animations to improve your training. Workouts -Create unlimited workout routines! -Create cardio workouts, body weight workouts, and lifting workouts or mix-and-match -Simple to edit and organize your workout routines -Create workout routines for each day of the week by setting training days Exercises -Many muscle building exercises including gym workout machines, dumbbell exercises, barbell exercises and more! -Many cardio exercises including walking, running, swimming, yoga, and more! -Create your own exercises  -Log exercise notes -Rest timer for cardio exercises and weightlifting exercises -Stopwatch for cardio exercises and weightlifting exercises -Weight Plate Racking Calculator Workout Programs -Find the best workout program for you -Default workout programs for beginners, intermediate, and advanced bodybuilders -Programs include Stronglifts, Starting Strength, P.H.U.L, P.H.A.T, PPL, and more! -Create and organize your own workout programs Workout Log -Track weight and reps by adding each set to your workout log. -Track time, distance, and calories burned for each cardio fitness session in your workout log. -View your daily workout logs on the calendar. -Export your workout logs as a spreadsheet (.csv) file to the Google Drive cloud or device storage. Fitness Statistics -Track weightlifting statistics such as maximum and average reps, maximum and average weight etc. -Track your cardio fitness statistics such as time, distance, calories burned etc. -Progress graphs for all exercises -Donut charts of your most worked muscles and body parts -Track data for number of workouts, number of reps, most performed exercise and more! -One Rep Max calculations to improve your strength Backup and Restore  -Be sure that none of your training goes to waste! -Backup and restore all your routines, training data, and custom exercises to the Google Drive cloud or device storage. Premium Features  -Bodyweight Tracker -Theme Bundle Pack (includes 6 dark color themes and 6 light color themes) App Permissions Write External Storage  -Backup your personal workout app data to the device. -Restore your personal workout app data from the device. Vibrate  -Vibrate the timer when finished. Thanks to http://db.everkinetic.com/ for the source images used in this application. Thank you for your interest in WORKIT as your gym trainer and workout tracker application. If you have any feedback, comments, bugs, or suggestions please feel free to email me, the developer at workit.feedback@gmail.com. Or visit our site at http://www.workoutwithworkit.com/",
+  "privacyText": "",
+  "numInstalls": 100000,
+  "developer": "WorkIt",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.workoutwithworkit.com",
+    "Developer Email": "workit.feedback@gmail.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

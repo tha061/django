@@ -1,0 +1,93 @@
+{
+  "name": "com.kinetic.fit",
+  "fileSize": "19.9 MB",
+  "VTmd5": "45554a129ef1d5f533558d23428444a5",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/ff5399a36c8606f947b9537959f6ed0b6601e153a0a3ce6879c806e4d4eb98f9/detection/f-ff5399a36c8606f947b9537959f6ed0b6601e153a0a3ce6879c806e4d4eb98f9-1583092536",
+  "VTresource": "ff5399a36c8606f947b9537959f6ed0b6601e153a0a3ce6879c806e4d4eb98f9",
+  "VTresponsecode": 1,
+  "VTscanID": "ff5399a36c8606f947b9537959f6ed0b6601e153a0a3ce6879c806e4d4eb98f9-1583092536",
+  "VTsha1": "86a98dc841fb7c8ff1b1398730c126a91e49dfd9",
+  "VTsha256": "ff5399a36c8606f947b9537959f6ed0b6601e153a0a3ce6879c806e4d4eb98f9",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.BLUETOOTH Protection Level: normal",
+    "android.permission.BLUETOOTH_ADMIN Protection Level: normal",
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "com.kinetic.fit.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.kinetic.fit.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.kinetic.fit.data.DataSync_  permission: ",
+      "name: com.kinetic.fit.controllers.SessionController_  permission: ",
+      "name: com.kinetic.fit.controllers.FitSubscriptionService  permission: ",
+      "name: com.kinetic.fit.cast.FitCastService_  permission: ",
+      "name: fit.kinetic.kotlinsensors.SensorManager  permission: ",
+      "name: com.kinetic.fit.connectivity.FitDevicesService  permission: ",
+      "name: com.kinetic.fit.kotlinsensors.DfuService  permission: ",
+      "name: com.twitter.sdk.android.tweetcomposer.TweetUploadService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "8 January 2020",
+    "Size": "20M",
+    "Installs": "10000",
+    "Current Version": "1.4.23",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$9.99 \u2013 $43.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Kinetic.Fit",
+    "Developer": "Visit website support@kinetic.fit Privacy Policy 2586 7th Ave E\nSuite 303\nNorth St. Paul MN 55109"
+  },
+  "rating": "2.7",
+  "description": "The Kinetic Fit App pairs with Kinetic's Smart Trainers and other sensors to provide the most comprehensive workout experience for cyclists. Pick from workouts designed by professional coaches for real-time guidance on your target power and cadence or go for a Free Ride! Measure your progress with accurate post-ride analysis and take your workout results to your preferred fitness platform. Real-time monitoring of over 50 data points including: \u2022 Power (Current, Average, Max, Normalized, Rolling Averages, Kilojoules, Zones) \u2022 Cadence, Speed, Distance, Calories \u2022 Heart Rate (Current, Average, % of Reserve and Max, Zones) \u2022 TSS, iFactor, Kcals, nPower \u2022 Time in Power and Heart Rate Zones \u2022 Session and Lap Durations, Averages, Maximums \u2022 \u2026 and more! Features: \u2022 Professional Training Plans \u2022 Power-zone based Workouts \u2022 Interactive real-time graphing \u2022 Automated FTP workout and training zone update \u2022 Automatic laps when doing a designed workout \u2022 Automatically share workouts to popular training and workout-sharing web sites \u2022 Automatically upload workouts to Dropbox \u2022 Export your workout session in .fit format \u2022 Complete workout history with lifetime stats \u2022 Kinetic Pro Flywheel support \u2022 Trainer calibration for the most accurate power measurements The inRide sensor works with Kinetic Road Machine and Kinetic Rock and Roll Trainers.",
+  "privacyText": "https://kurtkinetic.com/privacy-policy/",
+  "numInstalls": 10000,
+  "developer": "Kinetic.Fit",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.kinetic.fit",
+    "Developer Email": "support@kinetic.fit",
+    "Privacy Policy": "https://kurtkinetic.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Dropbox",
+    "Fasterxml",
+    "Jakewharton",
+    "Nostra13",
+    "Squareup",
+    "Twitter"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

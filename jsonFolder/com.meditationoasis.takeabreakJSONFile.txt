@@ -1,0 +1,70 @@
+{
+  "name": "com.meditationoasis.takeabreak",
+  "fileSize": "40.5 MB",
+  "VTmd5": "0392cb67bd53f041419f88916bc1b510",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/3edc73add3e0d717fd27bbf48390572c293d3bff260fc19b6e9193a3673e1b4f/detection/f-3edc73add3e0d717fd27bbf48390572c293d3bff260fc19b6e9193a3673e1b4f-1591124061",
+  "VTresource": "3edc73add3e0d717fd27bbf48390572c293d3bff260fc19b6e9193a3673e1b4f",
+  "VTresponsecode": 1,
+  "VTscanID": "3edc73add3e0d717fd27bbf48390572c293d3bff260fc19b6e9193a3673e1b4f-1591124061",
+  "VTsha1": "d4030eaa52775d6aded16f4cbd01ca61c57b8121",
+  "VTsha256": "3edc73add3e0d717fd27bbf48390572c293d3bff260fc19b6e9193a3673e1b4f",
+  "VTtotal": 58,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "28 October 2019",
+    "Size": "40M",
+    "Installs": "100000",
+    "Current Version": "6.8",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$0.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Meditation Oasis",
+    "Developer": "Visit website app-support@meditationoasis.com Privacy Policy 105 Hermosillo Drive\nSonoma Ca 96576"
+  },
+  "rating": "4.5",
+  "description": "\u2605  Take a break now and let your stress melt away!  \u2605    Medically reviewed and selected for \"Best Meditation Apps of 2014\" by HEALTHLINE.COM. You can enjoy the deep relaxation, stress relief and benefits of meditation now without prior experience. Take a Break has been developed by Richard and Mary Maddux, creators of the popular Meditation Oasis podcast. Featuring two popular meditations from the podcast, the app gives you the option to listen with or without music.  ***************************** WITH THIS APP YOU CAN: \u2713 RELAX EASILY and quickly as you are voice-guided step by step \u2713 CHOOSE from two relaxing audios:           \u2605 Work Break Relaxation (7 min.)             \u2605 Stress Relief Meditation (13 min.)  \u2713 LISTEN with or without MUSIC \u2713 READ instructions to support and enhance your experience \u2713 Get support on the Meditation Oasis website *****************************   Created by Mary Maddux, MS, HTP and Richard Maddux, best known for their popular Meditation Oasis podcast, CDs and smartphone apps.  Mary and Richard bring over 30 years of meditation practice and teaching to the creation of their guided meditations and music. In addition to teaching meditation, Mary has worked in both conventional and alternative settings as a counselor, stress management consultant and healing arts practitioner. Richard has played and composed music all of his life. His music is composed especially for meditation, relaxation and healing.",
+  "privacyText": "http://www.meditationoasis.com/smartphone-apps/mobile-application-privacy-policy/",
+  "numInstalls": 100000,
+  "developer": "Meditation Oasis",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.meditationoasis.com/smartphone-apps/android-application-support/",
+    "Developer Email": "app-support@meditationoasis.com",
+    "Privacy Policy": "http://www.meditationoasis.com/smartphone-apps/mobile-application-privacy-policy/"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

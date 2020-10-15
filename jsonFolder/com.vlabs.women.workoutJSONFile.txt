@@ -1,0 +1,66 @@
+{
+  "name": "com.vlabs.women.workout",
+  "fileSize": "5.1 MB",
+  "VTmd5": "d955a14e74c79c76bf6e34ef436f80b6",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/385d3e1c4869960d52145cc0307300fe956596e92b1a8d52d1dc67a2667d66dd/detection/f-385d3e1c4869960d52145cc0307300fe956596e92b1a8d52d1dc67a2667d66dd-1595751544",
+  "VTresource": "385d3e1c4869960d52145cc0307300fe956596e92b1a8d52d1dc67a2667d66dd",
+  "VTresponsecode": 1,
+  "VTscanID": "385d3e1c4869960d52145cc0307300fe956596e92b1a8d52d1dc67a2667d66dd-1595751544",
+  "VTsha1": "88a6eaccd4677c9b995f2e8093f631603c0878ef",
+  "VTsha256": "385d3e1c4869960d52145cc0307300fe956596e92b1a8d52d1dc67a2667d66dd",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "15 June 2020",
+    "Size": "5.4M",
+    "Installs": "500000",
+    "Current Version": "1.4",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Visionary Labs",
+    "Developer": "visionarylabs19@gmail.com Privacy Policy"
+  },
+  "rating": "4.4",
+  "description": "Lose Weight in 30 days - Home Workout for women helps you tone butt, burn belly fat, slim legs, trim waistline and get in good shape. Follow the home workout sets to feel the burn.  Home Workout for women offers 100% home workout environment where no other equipment is needed to help you keep in good shape. Don't need to go to gym, no equipment needed, just use your body weight and take a few minutes a day, Lose Weight in 30 days - Home Workout for women will greatly help you keep fitness and lose weight effectively.  Lose Weight in 30 days - Home Workout for women App Features : - Suitable for all levels, from beginners to advance training  - Quick and effective workouts maximize fat burning and lose belly fat at home - All in one women specific workout without no equipment - Track you progress with ease, comprehensive workout sessions - You can also create your own training and exercise sets - Sound guide will help you to determine rest and workout timings  - Home Fitness Workout, No Equipment, Daily Home Workout - Customize Workout reminder notification - Butt workouts, Belly fat burning exercises, women fitness Customize your training sets:  Adductor Stretch, Basic Crunches, Bench Dips, Bicycle, Bicycle Crunches, Butt Bridge, Claps Over the Head, Donkey Kick Left, Donkey Kick Right, Flutter Kicks, High Knees, Led Extensions, Leg Raise, Leg Up Crunches, Lunges, Mountain Climbers, Pile Squat, Plank, Plank With Leg Lift, Side Plank, Side leg Lift Right, Side leg Lift left, Straight-Arm Plank, Swimmer and superman, V Crunches and Wall Push Up.",
+  "privacyText": "https://sites.google.com/view/vlabprivacypolicy",
+  "numInstalls": 500000,
+  "developer": "Visionary Labs",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://sites.google.com/view/vlabprivacypolicy",
+    "Developer Email": "visionarylabs19@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/vlabprivacypolicy"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Google Ads",
+    "Intuit"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

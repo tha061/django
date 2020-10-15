@@ -1,0 +1,79 @@
+{
+  "name": "easypedeometer.herzberg.com.stepcounter",
+  "fileSize": "10.3 MB",
+  "VTmd5": "b039893691e7e3cbf58d2af1769cc180",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/388305dc90fa14165943d6ac56fc263272c3578f2857c4da3cb7e8f3f45de417/detection/f-388305dc90fa14165943d6ac56fc263272c3578f2857c4da3cb7e8f3f45de417-1599432245",
+  "VTresource": "388305dc90fa14165943d6ac56fc263272c3578f2857c4da3cb7e8f3f45de417",
+  "VTresponsecode": 1,
+  "VTscanID": "388305dc90fa14165943d6ac56fc263272c3578f2857c4da3cb7e8f3f45de417-1599432245",
+  "VTsha1": "11fe7e3788c98f33c19809c6eb35df57c1f1dd06",
+  "VTsha256": "388305dc90fa14165943d6ac56fc263272c3578f2857c4da3cb7e8f3f45de417",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.android.alarm.permission.SET_ALARM Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.ACTIVITY_RECOGNITION Protection Level: dangerous"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: easypedeometer.herzberg.com.pedometer.SensorListerService_2  permission: ",
+      "name: com.applovin.impl.sdk.utils.AppKilledService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "18 September 2020",
+    "Size": "12M",
+    "Installs": "1000000",
+    "Current Version": "1.7",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Mario Herzberg (Hanna)",
+    "Developer": "Visit website herzberg.developer@gmail.com Privacy Policy G\u00fcnther-Wagner-Allee 13\n30177 Hannover"
+  },
+  "rating": "4.7",
+  "description": "Pedometer App to count your steps with accurate burned calorie calculation, an integrated water tracker, weight loss statistics and motivational badges \u2605 Extremely  low battery usage  even when you run it all day long. Special Power Save mode inside. \u2605  No locked features  to force you to buy the Pro version. \u2605  100% Privacy . No collection or selling of sensitive information like your email or personal name, gender, age, etc. No dangerous permissions to access your contacts or location. All your data is saved on your phone to ensure your privacy. \u2605  28 Motivational badges . \u2605  26 themes  to have a colourful app experience. \u2605  Beautiful design  consistent with google material design, no copycat. All original design ideas. \u2605  Home screen widget  showing your current steps and badge of the day.",
+  "privacyText": "http://easyfit-caloriecounter.de/privacypolicy.html",
+  "numInstalls": 1000000,
+  "developer": "Mario Herzberg (Hanna)",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://easyfit-caloriecounter.de",
+    "Developer Email": "herzberg.developer@gmail.com",
+    "Privacy Policy": "http://easyfit-caloriecounter.de/privacypolicy.html"
+  },
+  "smali_Directories": [
+    "Applovin",
+    "AppLovin",
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Mopub",
+    "MoPub"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1386720919 (0x52a7ae97)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=WA, L=Vancouver, O=Nautilus Inc, CN=Robert Jacobson
+        Validity
+            Not Before: Dec 11 00:15:19 2013 GMT
+            Not After : Dec  5 00:15:19 2038 GMT
+        Subject: C=US, ST=WA, L=Vancouver, O=Nautilus Inc, CN=Robert Jacobson
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:85:26:f7:3d:59:42:25:27:c2:76:93:87:eb:b6:
+                    0f:0f:3e:60:51:cd:72:db:50:d3:da:2e:21:a3:28:
+                    ea:e1:f9:ed:c8:96:fd:99:ff:a4:e3:24:fb:d0:c0:
+                    da:44:e9:36:d7:e6:ac:ee:e0:88:0e:9b:34:a2:77:
+                    5c:87:14:08:0d:82:f1:d8:5f:50:06:14:84:04:75:
+                    f2:96:48:78:01:08:b8:7d:d4:d0:7e:5b:30:49:09:
+                    79:2a:9e:ba:31:b0:dc:3a:36:e3:10:1b:6b:2c:01:
+                    6e:a7:9d:9d:4e:9d:c2:9e:a1:d9:3e:0e:0b:24:d7:
+                    82:15:65:7c:cd:e8:d8:ce:1f
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         78:1b:2a:fe:85:26:ea:78:09:4e:67:5e:95:1d:0b:58:1d:85:
+         06:e3:d5:cb:91:b8:38:af:aa:75:a9:77:ef:5d:be:dd:31:74:
+         9b:82:92:68:cd:cd:a5:39:7f:90:79:22:87:be:c6:08:61:fd:
+         b1:78:e5:9f:ca:23:94:f7:4c:40:51:3a:77:dd:a8:b1:1c:41:
+         f0:ea:61:c6:7e:6e:b6:16:36:66:b9:52:66:1e:15:a8:36:f0:
+         31:ed:1a:e3:7c:17:1f:4a:8d:80:c2:7c:ff:7e:54:e1:c2:5d:
+         42:05:c5:c0:0b:6d:72:08:e3:7c:be:ce:ce:bd:45:16:90:a6:
+         a7:08
+-----BEGIN CERTIFICATE-----
+MIICNTCCAZ6gAwIBAgIEUqeulzANBgkqhkiG9w0BAQUFADBfMQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCV0ExEjAQBgNVBAcTCVZhbmNvdXZlcjEVMBMGA1UEChMMTmF1
+dGlsdXMgSW5jMRgwFgYDVQQDEw9Sb2JlcnQgSmFjb2Jzb24wHhcNMTMxMjExMDAx
+NTE5WhcNMzgxMjA1MDAxNTE5WjBfMQswCQYDVQQGEwJVUzELMAkGA1UECBMCV0Ex
+EjAQBgNVBAcTCVZhbmNvdXZlcjEVMBMGA1UEChMMTmF1dGlsdXMgSW5jMRgwFgYD
+VQQDEw9Sb2JlcnQgSmFjb2Jzb24wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGB
+AIUm9z1ZQiUnwnaTh+u2Dw8+YFHNcttQ09ouIaMo6uH57ciW/Zn/pOMk+9DA2kTp
+NtfmrO7giA6bNKJ3XIcUCA2C8dhfUAYUhAR18pZIeAEIuH3U0H5bMEkJeSqeujGw
+3Do24xAbaywBbqednU6dwp6h2T4OCyTXghVlfM3o2M4fAgMBAAEwDQYJKoZIhvcN
+AQEFBQADgYEAeBsq/oUm6ngJTmdelR0LWB2FBuPVy5G4OK+qdal3712+3TF0m4KS
+aM3NpTl/kHkih77GCGH9sXjln8ojlPdMQFE6d92osRxB8Ophxn5uthY2ZrlSZh4V
+qDbwMe0a43wXH0qNgMJ8/35U4cJdQgXFwAttcgjjfL7Ozr1FFpCmpwg=
+-----END CERTIFICATE-----
+

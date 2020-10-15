@@ -1,0 +1,71 @@
+{
+  "name": "de.janzendevelopment.progressiveWorkouts.mobileApp",
+  "fileSize": "33.2 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: exportPermission   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "28 October 2019",
+    "Size": "33M",
+    "Installs": "10000",
+    "Current Version": "1.9.4",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Dieter Janzen",
+    "Developer": "progressiveworkouts@gmail.com Privacy Policy Neustr.1\n53225 Bonn\nDeutschland"
+  },
+  "rating": "4.5",
+  "description": "Start training with only your bodyweight. You will find a highly effective training program developed by experienced trainers using the newest sports science. The routine is focused on building strength. If your diet is in check you will gain muscle mass and lose fat. Do this three times a week, with at least one rest day. Try to beat your previous numbers every workout. You will start doing simple pull-ups, pushups, and squats and as you get stronger you advance to bodyweight movements like the planche, one arm chin-ups or pistol squats. The exercises will have a description and a short video to ensure you do them with a proper form. After a warm up you will find exercises that can be leveled up. When you hit three sets of eight reps or three sets of 30s holding time, move to the next progression. You can do this workout at home if you have a place for pulling yourself up like a doorway pull-up bar or gymnastic rings. Features:  \u2022 Workout with exercises which can be leveled up  \u2022 Log reps, time or weight depending on the exercise  \u2022 Videos and descriptions  \u2022 View statistics and your last sessions  \u2022 Create and edit your own workouts",
+  "privacyText": "https://sites.google.com/site/pworkoutsprivacypolicy/home",
+  "numInstalls": 10000,
+  "developer": "Dieter Janzen",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://sites.google.com/site/pworkoutsprivacypolicy/home",
+    "Developer Email": "progressiveworkouts@gmail.com",
+    "Privacy Policy": "https://sites.google.com/site/pworkoutsprivacypolicy/home"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

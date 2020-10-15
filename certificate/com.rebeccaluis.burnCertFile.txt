@@ -1,0 +1,76 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 221276765 (0xd306a5d)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=IN, ST=Uttar Pradesh, L=Lucknow, O=Jamtech Technologies Pvt. Ltd., OU=Mobile Development, CN=Rebecca Louice
+        Validity
+            Not Before: Feb 20 10:43:41 2018 GMT
+            Not After : Feb 14 10:43:41 2043 GMT
+        Subject: C=IN, ST=Uttar Pradesh, L=Lucknow, O=Jamtech Technologies Pvt. Ltd., OU=Mobile Development, CN=Rebecca Louice
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c5:3d:a5:db:26:d6:5d:cb:2d:a1:d4:5a:52:cb:
+                    f5:08:85:0d:78:ae:5e:0d:19:22:fa:0d:60:c5:31:
+                    51:88:77:76:0d:94:d9:76:c2:19:94:14:0a:09:89:
+                    04:7f:3b:e1:04:f3:36:8d:cf:bb:11:b6:4e:64:44:
+                    65:93:d2:40:3a:16:1e:1b:70:fb:b1:2d:36:8e:8e:
+                    73:0c:5b:15:f5:86:09:38:3c:a5:81:8d:a0:e7:23:
+                    87:8b:0b:1c:ae:cc:02:dd:3c:b8:84:d8:96:18:a1:
+                    0d:45:c7:91:b3:98:fc:f9:68:1d:72:97:48:65:57:
+                    f4:86:5a:7f:22:f0:10:0c:28:f1:49:e9:3f:1c:43:
+                    a4:12:f4:0a:4e:42:9d:71:8f:e2:84:ca:31:ab:1b:
+                    68:36:bc:b6:fa:1f:79:b3:95:ff:d7:24:ad:9a:af:
+                    d3:85:f4:10:9a:f7:3a:b3:92:9b:9a:75:3f:d9:a4:
+                    b8:d3:f7:6a:b2:1e:de:d9:2c:65:f1:c2:49:16:6b:
+                    f0:2e:01:9f:6b:39:5c:ac:49:07:a3:d0:49:a0:36:
+                    14:42:9e:bc:5b:2e:b5:4c:b1:7a:53:19:43:b2:44:
+                    e0:6b:b3:6c:38:02:a3:57:5f:a2:6d:cf:db:5d:40:
+                    c8:d5:42:49:ec:85:82:26:3a:6d:b0:40:6d:dd:69:
+                    68:4f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                74:91:CB:98:B5:86:74:E6:8A:5B:27:BF:3B:E5:0C:A0:36:98:07:6A
+    Signature Algorithm: sha256WithRSAEncryption
+         42:84:df:4d:2f:db:f5:1f:37:42:c1:43:8c:f5:0b:d0:d9:da:
+         a1:47:1b:b1:66:29:2c:dd:77:9a:ef:b0:ef:21:af:31:19:1c:
+         76:44:84:1a:7c:7d:81:58:f4:19:b3:8d:6f:68:d8:eb:16:2c:
+         3e:04:2d:82:4f:f4:ba:f3:33:5d:6c:0a:2e:5c:81:58:10:f0:
+         73:d8:b0:d1:04:44:e1:8d:05:cd:29:06:6e:bf:0e:a0:e5:ea:
+         f1:38:1c:e7:b7:01:3b:80:c2:77:eb:67:cb:eb:f6:0d:bc:9a:
+         0f:08:29:29:fc:78:a5:a5:6e:59:b6:12:b4:ee:74:32:bc:1f:
+         ac:de:8a:74:df:09:f0:a5:20:16:37:cc:c9:ef:ff:5d:c7:db:
+         f4:06:43:d3:80:24:84:0f:c5:30:d1:2b:b7:12:9d:7f:68:6d:
+         b1:e1:40:93:b7:01:6c:79:42:7b:d8:8a:c0:21:80:74:ef:47:
+         12:3d:98:c0:c3:36:8f:ba:0e:38:76:a6:53:42:82:1b:f0:db:
+         2f:17:7d:76:ea:c0:21:0f:9f:33:61:64:19:40:cb:e5:8f:a2:
+         dc:4a:8a:20:de:85:20:4e:5d:72:35:34:f3:05:b2:a9:d7:af:
+         57:0b:8d:89:de:b1:da:fe:56:95:5b:d6:e4:01:6f:a0:cd:36:
+         25:86:ec:68
+-----BEGIN CERTIFICATE-----
+MIIDzTCCArWgAwIBAgIEDTBqXTANBgkqhkiG9w0BAQsFADCBljELMAkGA1UEBhMC
+SU4xFjAUBgNVBAgTDVV0dGFyIFByYWRlc2gxEDAOBgNVBAcTB0x1Y2tub3cxJzAl
+BgNVBAoTHkphbXRlY2ggVGVjaG5vbG9naWVzIFB2dC4gTHRkLjEbMBkGA1UECxMS
+TW9iaWxlIERldmVsb3BtZW50MRcwFQYDVQQDEw5SZWJlY2NhIExvdWljZTAeFw0x
+ODAyMjAxMDQzNDFaFw00MzAyMTQxMDQzNDFaMIGWMQswCQYDVQQGEwJJTjEWMBQG
+A1UECBMNVXR0YXIgUHJhZGVzaDEQMA4GA1UEBxMHTHVja25vdzEnMCUGA1UEChMe
+SmFtdGVjaCBUZWNobm9sb2dpZXMgUHZ0LiBMdGQuMRswGQYDVQQLExJNb2JpbGUg
+RGV2ZWxvcG1lbnQxFzAVBgNVBAMTDlJlYmVjY2EgTG91aWNlMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxT2l2ybWXcstodRaUsv1CIUNeK5eDRki+g1g
+xTFRiHd2DZTZdsIZlBQKCYkEfzvhBPM2jc+7EbZOZERlk9JAOhYeG3D7sS02jo5z
+DFsV9YYJODylgY2g5yOHiwscrswC3Ty4hNiWGKENRceRs5j8+WgdcpdIZVf0hlp/
+IvAQDCjxSek/HEOkEvQKTkKdcY/ihMoxqxtoNry2+h95s5X/1yStmq/ThfQQmvc6
+s5KbmnU/2aS40/dqsh7e2Sxl8cJJFmvwLgGfazlcrEkHo9BJoDYUQp68Wy61TLF6
+UxlDskTga7NsOAKjV1+ibc/bXUDI1UJJ7IWCJjptsEBt3WloTwIDAQABoyEwHzAd
+BgNVHQ4EFgQUdJHLmLWGdOaKWye/O+UMoDaYB2owDQYJKoZIhvcNAQELBQADggEB
+AEKE300v2/UfN0LBQ4z1C9DZ2qFHG7FmKSzdd5rvsO8hrzEZHHZEhBp8fYFY9Bmz
+jW9o2OsWLD4ELYJP9LrzM11sCi5cgVgQ8HPYsNEEROGNBc0pBm6/DqDl6vE4HOe3
+ATuAwnfrZ8vr9g28mg8IKSn8eKWlblm2ErTudDK8H6zeinTfCfClIBY3zMnv/13H
+2/QGQ9OAJIQPxTDRK7cSnX9obbHhQJO3AWx5QnvYisAhgHTvRxI9mMDDNo+6Djh2
+plNCghvw2y8XfXbqwCEPnzNhZBlAy+WPotxKiiDehSBOXXI1NPMFsqnXr1cLjYne
+sdr+VpVb1uQBb6DNNiWG7Gg=
+-----END CERTIFICATE-----
+

@@ -1,0 +1,80 @@
+{
+  "name": "com.orreco.myfitr.woman",
+  "fileSize": "7.7 MB",
+  "VTmd5": "3bcfca232b7ec913e72e3ed99a9dd65f",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/1f6be2f3668494e868faf9f3e4e04fd0a10644090bb516ad33f4c273475827aa/detection/f-1f6be2f3668494e868faf9f3e4e04fd0a10644090bb516ad33f4c273475827aa-1588386165",
+  "VTresource": "1f6be2f3668494e868faf9f3e4e04fd0a10644090bb516ad33f4c273475827aa",
+  "VTresponsecode": 1,
+  "VTscanID": "1f6be2f3668494e868faf9f3e4e04fd0a10644090bb516ad33f4c273475827aa-1588386165",
+  "VTsha1": "dd75a5a8b331195f9e5260b6f0eaa00425a7f206",
+  "VTsha256": "1f6be2f3668494e868faf9f3e4e04fd0a10644090bb516ad33f4c273475827aa",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "android.permission.BODY_SENSORS Protection Level: dangerous",
+    "com.google.android.providers.gsf.permission.READ_GSERVICES Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: org.apache.cordova.firebase.FirebasePluginMessagingService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.tagmanager.TagManagerService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "1 April 2020",
+    "Size": "7.7M",
+    "Installs": "10000",
+    "Current Version": "2.9.4",
+    "Requires Android": "5.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Orreco Limited",
+    "Developer": "Visit website fitrwoman@orreco.com Privacy Policy Unit 103\nBusiness Innovation Centre\nNUI Galway\nNewcastle Road\nGalway\nIreland\nH91 RW53"
+  },
+  "rating": "3.9",
+  "description": "Track your period and train smarter with free menstrual tracker FitrWoman \u00ae. Learn about how your menstrual cycle affects your workouts and get everyday nutrition tips to help you train better. Connect with Strava to quickly add your daily activities. Eat, Train and Recover smarter every cycle with; - Training tips based on what stage of your menstrual cycle you are in.  - Nutritional suggestions and recipes to help you react to your body\u2019s varying needs. - Learning about the science behind how hormonal changes affect your body. - Regular bite-sized insights into women\u2019s health, exercise, recovery, nutrition and more. FitrWoman connects both your period and training data into one place to help you understand how your menstrual cycle affects your training and nutrition needs.    FitrWoman is evidence-based and research driven, using the latest scientific research to provide simple changes and solutions that women can implement in their daily routine. Hormones changing throughout the month have a huge impact on your body\u2019s exercise ability and nutritional needs including your metabolism, response times, recovery time and your susceptibility to injury and illness. FitrWoman is on a mission to spread awareness of these changes and to empower women to reach their full potential.  \u2022 Track your period, log its\u2019 effects on your body and record exercise intensity on a daily basis. \u2022 Use the interactive period calendar to plan ahead, see when your next period is due, view historical data and notice trends over time. \u2022 Connect with the Health App to include steps in your daily log and view alongside your menstrual cycle. \u2022 View the ideal training suggestions during each phase of your cycle to get the most from your training.  \u2022 View nutritional tips and top foods to help reduce your menstrual cycle symptoms, fuel your training and recover faster. \u2022 Browse healthy snack and meal recipes for each phase of your cycle. \u2022 Find out how changing hormone levels influence your body and impact female performance. \u2022 Manage notifications to get customized alerts of the key times in your cycle. \u2022 Prevent injury and illness by learning about important points in your cycle where you may be more susceptible. \u2022 Access the latest blogs, tips and research from our team of experts. FitrWoman is a \u2018no excuses\u2019 app: women should be able to exercise and train at their best on any given day during the cycle \u2013 we provide tips and ideas to overcome potential barriers that might get in your way.  \u201cTracking your period can give you new insights into your body, health and wellbeing\u2026\u201d The Sunday Times \u201cThis subject should be mandatory for all coaches and trainers of female athletes to understand the effects of the menstrual cycle on performance.\u201d  Judy Murray \u201cAthletes prepare for everything, but they often don\u2019t prepare for their period.\u201d   Dr Georgie Bruinvels All information provided is based on peer-reviewed research. However, there are always physiological variations and exceptions to expected patterns.   We provide training suggestions to offer you the most benefit on a given day, but this does not mean physiological benefit will not be gained, or that performance will be reduced, by doing other types of training. The nutritional information is provided in addition to maintaining a healthy balanced diet. Privacy policy: http://www.fitrwoman.com/privacy-policy/ **Get in touch** We want to hear from you. Send your feedback, questions or suggestions to fitrwoman@orreco.com.  Connect with us to hear about the latest news and top tips: Twitter: @fitrwoman Instagram: @fitrwoman Facebook: https://www.facebook.com/fitrwoman/ Web: https://www.fitrwoman.com",
+  "privacyText": "http://www.fitrwoman.com/privacy-policy/",
+  "numInstalls": 10000,
+  "developer": "Orreco Limited",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.fitrwoman.com",
+    "Developer Email": "fitrwoman@orreco.com",
+    "Privacy Policy": "http://www.fitrwoman.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

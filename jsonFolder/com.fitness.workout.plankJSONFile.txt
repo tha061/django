@@ -1,0 +1,78 @@
+{
+  "name": "com.fitness.workout.plank",
+  "fileSize": "6.7 MB",
+  "VTmd5": "969b48208acef17d4c78efd803d6e74c",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/c5e97c06c6ea25ba50d89ecb5cdb884a2f2812183c222273de80b9d40790d768/detection/f-c5e97c06c6ea25ba50d89ecb5cdb884a2f2812183c222273de80b9d40790d768-1597960847",
+  "VTresource": "c5e97c06c6ea25ba50d89ecb5cdb884a2f2812183c222273de80b9d40790d768",
+  "VTresponsecode": 1,
+  "VTscanID": "c5e97c06c6ea25ba50d89ecb5cdb884a2f2812183c222273de80b9d40790d768-1597960847",
+  "VTsha1": "6d4a67923fd9ff13404f732a6f723a205baf01fd",
+  "VTsha256": "c5e97c06c6ea25ba50d89ecb5cdb884a2f2812183c222273de80b9d40790d768",
+  "VTtotal": 59,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: androidx.work.impl.background.systemalarm.SystemAlarmService  permission: ",
+      "name: androidx.work.impl.background.systemjob.SystemJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.work.impl.foreground.SystemForegroundService  permission: ",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "5 July 2020",
+    "Size": "6.7M",
+    "Installs": "10000",
+    "Current Version": "1.9",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Unreal Dev",
+    "Developer": "Visit website unreal.dev.feedback@gmail.com Privacy Policy"
+  },
+  "rating": "4.6",
+  "description": "The plank exercise is an isometric fitness core exercise that involves maintaining a position similar to a push-up for the maximum possible time. Out fitness app  Plank Workout - 30 Days Challenge  helps to achieve high result, lose weight and gain a steel abs. Benefits of the Plank The plank strengthens and tones an array of muscles found all over your body, including your shoulders, arms, lower back and rump, but the primary target is the abs. How to do a perfect Plank The plank is all about posture. Your weight should be on the balls of your feet and your elbows, with your hands locked together in front. Keep your back and hips aligned so you form a straight line from your shoulders to your ankles. Brace your abdominals, and don\u2019t raise or lower those hips. If even adopting the position for this fitness workout exercise proves impossible, start with your knees on the ground. Once you can hold this bent-knee plank for two minutes, get back on those toes. How long should you hold a Plank? Most people don't use the muscles properly or don't take the right position when they set the goal of standing for as long as possible. If you can hold the plank for only one minute, lowering your hips or lifting them too high, it is best to reduce the fitness exercise time, but do it right. Time goals for the Plank: * 30 sec \u2013 novice * 1 min \u2013 average * 1 min 30 sec \u2013 good * 2 min \u2013 very good * 3 min \u2013 excellent * 5 min \u2013 abs workout master * 8 hr 1 min \u2013 the official Guinness World Record for the Plank Complete all 30 days plank workout challenges Our fitness app  Plank Workout - 30 Days Challenge  has 3 different difficulty levels:  Beginner, Intermediate, and Advanced . After completing a 30 days challenge for a beginner, you can go to the next level and begin to conquer a new peak. At an advanced level, you can challenge your abs. You can also conduct your own plank workout training, choosing the time for yourself. Train and Plank to obey you!",
+  "privacyText": "https://hb.bizmrg.com/privacy/plank_workaut_pp.html",
+  "numInstalls": 10000,
+  "developer": "Unreal Dev",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://d7d9183d0.app-ads-txt.com",
+    "Developer Email": "unreal.dev.feedback@gmail.com",
+    "Privacy Policy": "https://hb.bizmrg.com/privacy/plank_workaut_pp.html"
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

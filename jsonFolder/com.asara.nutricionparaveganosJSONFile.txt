@@ -1,0 +1,60 @@
+{
+  "name": "com.asara.nutricionparaveganos",
+  "fileSize": "4.0 MB",
+  "VTmd5": "d758d13df149ef7c377e0a077437f219",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/89ff353960c2aeabcc4f23206cd8f10f44a634cc3805efdd0a89cdb9349e4b2d/detection/f-89ff353960c2aeabcc4f23206cd8f10f44a634cc3805efdd0a89cdb9349e4b2d-1578110903",
+  "VTresource": "89ff353960c2aeabcc4f23206cd8f10f44a634cc3805efdd0a89cdb9349e4b2d",
+  "VTresponsecode": 1,
+  "VTscanID": "89ff353960c2aeabcc4f23206cd8f10f44a634cc3805efdd0a89cdb9349e4b2d-1578110903",
+  "VTsha1": "3b6226750c6413e036e234ce60691fe3162f91eb",
+  "VTsha256": "89ff353960c2aeabcc4f23206cd8f10f44a634cc3805efdd0a89cdb9349e4b2d",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "16 September 2018",
+    "Size": "4.0M",
+    "Installs": "10000",
+    "Current Version": "1.0",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Asara",
+    "Developer": "Visit website contacto@emiliobongiorno.com"
+  },
+  "rating": "4.5",
+  "description": "La aplicaci\u00c3\u00b3n \"Nutrici\u00c3\u00b3n para Veganos\" de Proyecto Veg, te permite calcular los nutrientes que consumes en tu dieta vegana (prote\u00c3\u00adnas, carbohidratos y grasas), y controlar las cantidades de los mismos acorde a tus requerimientos nutricionales y a tu objetivo. En base a tus datos (peso, altura, edad, masa corporal, actividad f\u00c3\u00adsica, etc) y al objetivo que buscas alcanzar (perder peso, ganar masa muscular, mantener peso), la aplicaci\u00c3\u00b3n calcula un rango aproximado de los nutrientes que deber\u00c3\u00adas ingerir en tu dieta vegana. A su vez, te permite cargar tu propio consumo de alimentos de una forma muy sencilla, ya que se agrupan en base a su aporte nutricional. Con toda esta informaci\u00c3\u00b3n, la aplicaci\u00c3\u00b3n te muestra de forma muy intuitiva si cumples con los requerimientos nutricionales, y te permite ir variando los alimentos cargados para que puedas equiparar los nutrientes que necesitas. Pr\u00c3\u00b3ximamente se a\u00c3\u00b1adir\u00c3\u00a1n recetas con sus valores nutricionales para que puedan ser cargados m\u00c3\u00a1s f\u00c3\u00a1cilmente en la aplicaci\u00c3\u00b3n The application \"Nutrition for Vegans\" of Project Veg, allows you to calculate the nutrients you consume in your vegan diet (proteins, carbohydrates and fats), and control the amounts of them according to your nutritional requirements and your goal. Based on your data (weight, height, age, body mass, physical activity, etc.) and the goal you are looking to achieve (lose weight, gain muscle mass, maintain weight), the application calculates an approximate range of nutrients that you should ingest in your vegan diet. In turn, it allows you to load your own food consumption in a very simple way, since they are grouped based on your nutritional contribution. With all this information, the application shows you in a very intuitive way if you meet the nutritional requirements, and it allows you to vary the loaded foods so you can match the nutrients you need. Soon recipes with their nutritional values \u00e2\u20ac\u2039\u00e2\u20ac\u2039will be added so that they can be loaded more easily in the application",
+  "privacyText": "",
+  "numInstalls": 10000,
+  "developer": "Asara",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://emiliobongiorno.com/",
+    "Developer Email": "contacto@emiliobongiorno.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": false
+}

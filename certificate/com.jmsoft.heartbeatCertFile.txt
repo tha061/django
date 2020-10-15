@@ -1,0 +1,76 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 70047331 (0x42cd663)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=55, ST=MG, L=Santa Rita do Sapuca\xC3\xAD, O=JMSoft Brazil, OU=JMSoft Brazil, CN=Jo\xC3\xA3o Marco de Paula Santana
+        Validity
+            Not Before: Feb 12 22:40:30 2015 GMT
+            Not After : Feb  6 22:40:30 2040 GMT
+        Subject: C=55, ST=MG, L=Santa Rita do Sapuca\xC3\xAD, O=JMSoft Brazil, OU=JMSoft Brazil, CN=Jo\xC3\xA3o Marco de Paula Santana
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9f:5c:f5:59:82:2f:56:1e:f4:ec:79:cb:fb:04:
+                    32:57:9f:50:f1:54:65:6a:9f:e9:16:7b:4f:79:6c:
+                    10:2e:31:d8:0b:5f:07:90:6b:a5:7b:9c:37:92:93:
+                    ee:1d:6a:94:fc:c5:f9:ca:e5:30:24:f3:45:90:71:
+                    1e:73:e7:f0:de:40:9a:20:76:10:5a:72:8c:a1:55:
+                    11:a9:46:f6:87:2d:dd:24:cc:b7:f8:b8:be:d8:c4:
+                    b3:d9:2e:d1:2d:a5:2e:e9:cc:94:88:78:00:aa:12:
+                    7a:b0:01:12:73:4d:ee:21:8f:aa:c8:5e:f8:90:9d:
+                    92:9e:b6:fa:74:73:48:50:36:bd:aa:71:9b:21:70:
+                    f5:93:a9:59:e4:16:18:63:2c:61:e7:d6:35:73:1d:
+                    50:a9:13:a4:97:48:dd:f4:fb:3d:2e:4a:f8:0c:8b:
+                    4f:5b:67:10:c9:0e:a3:ee:ee:82:00:68:41:2f:1b:
+                    04:88:87:29:07:31:4f:24:48:66:16:2d:31:2d:22:
+                    a3:09:f1:d0:9b:66:d9:53:ae:a1:b8:04:0f:ff:c8:
+                    10:8f:bd:35:cb:30:57:9e:1d:f7:3e:83:71:a8:1f:
+                    25:9a:12:3e:2f:97:62:7b:12:62:29:e5:cc:21:32:
+                    0e:69:67:ed:a9:3e:d0:2f:e9:cf:14:81:d0:e1:2f:
+                    91:17
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                62:36:E8:0E:3D:94:0D:AE:FE:90:92:4D:CD:78:B9:43:5D:37:95:F1
+    Signature Algorithm: sha256WithRSAEncryption
+         3a:01:ac:e6:fa:62:76:d2:03:24:18:c9:86:d8:0a:ea:ef:c2:
+         38:d6:35:82:1e:44:a9:17:49:c0:54:7a:45:3e:89:74:cb:fc:
+         37:c7:ff:85:13:ca:a4:85:47:65:56:3c:e7:6f:9d:4e:49:5e:
+         c3:58:c5:9f:d7:56:d7:fd:10:4d:56:16:6f:b9:62:87:dd:1e:
+         0e:83:9a:95:aa:9d:93:6c:d8:72:6c:43:83:b1:1c:43:27:4e:
+         10:55:36:1a:7c:82:0c:76:d8:fa:f3:20:55:a2:f7:c6:4b:48:
+         de:11:7b:94:0a:89:58:ca:0f:39:7a:7e:06:0c:ed:a5:54:47:
+         14:81:ed:f2:da:1e:87:25:18:e1:f4:59:d9:4b:d5:d5:c7:7f:
+         30:61:e2:89:a7:a1:1c:d9:ea:8e:dd:6f:a1:b6:48:e3:d4:3c:
+         3d:f1:3e:83:17:7c:47:0d:91:87:1b:10:a0:8a:6d:01:88:80:
+         a1:31:f7:26:44:2d:aa:96:b7:f7:0b:57:b4:e7:8e:17:41:b4:
+         7d:0e:ba:69:81:f8:0a:15:1e:76:9d:d0:d9:95:38:56:3a:b5:
+         59:50:75:2e:34:79:8c:60:16:e2:e3:82:2b:7e:cf:59:5a:a8:
+         ee:30:6a:b7:23:52:a6:10:87:60:a6:e3:dc:f8:c6:64:bc:9e:
+         cd:aa:c0:1c
+-----BEGIN CERTIFICATE-----
+MIIDxTCCAq2gAwIBAgIEBCzWYzANBgkqhkiG9w0BAQsFADCBkjELMAkGA1UEBhMC
+NTUxCzAJBgNVBAgTAk1HMR8wHQYDVQQHDBZTYW50YSBSaXRhIGRvIFNhcHVjYcOt
+MRYwFAYDVQQKEw1KTVNvZnQgQnJhemlsMRYwFAYDVQQLEw1KTVNvZnQgQnJhemls
+MSUwIwYDVQQDDBxKb8OjbyBNYXJjbyBkZSBQYXVsYSBTYW50YW5hMB4XDTE1MDIx
+MjIyNDAzMFoXDTQwMDIwNjIyNDAzMFowgZIxCzAJBgNVBAYTAjU1MQswCQYDVQQI
+EwJNRzEfMB0GA1UEBwwWU2FudGEgUml0YSBkbyBTYXB1Y2HDrTEWMBQGA1UEChMN
+Sk1Tb2Z0IEJyYXppbDEWMBQGA1UECxMNSk1Tb2Z0IEJyYXppbDElMCMGA1UEAwwc
+Sm/Do28gTWFyY28gZGUgUGF1bGEgU2FudGFuYTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAJ9c9VmCL1Ye9Ox5y/sEMlefUPFUZWqf6RZ7T3lsEC4x2Atf
+B5BrpXucN5KT7h1qlPzF+crlMCTzRZBxHnPn8N5AmiB2EFpyjKFVEalG9oct3STM
+t/i4vtjEs9ku0S2lLunMlIh4AKoSerABEnNN7iGPqshe+JCdkp62+nRzSFA2vapx
+myFw9ZOpWeQWGGMsYefWNXMdUKkTpJdI3fT7PS5K+AyLT1tnEMkOo+7uggBoQS8b
+BIiHKQcxTyRIZhYtMS0iownx0Jtm2VOuobgED//IEI+9NcswV54d9z6DcagfJZoS
+Pi+XYnsSYinlzCEyDmln7ak+0C/pzxSB0OEvkRcCAwEAAaMhMB8wHQYDVR0OBBYE
+FGI26A49lA2u/pCSTc14uUNdN5XxMA0GCSqGSIb3DQEBCwUAA4IBAQA6Aazm+mJ2
+0gMkGMmG2Arq78I41jWCHkSpF0nAVHpFPol0y/w3x/+FE8qkhUdlVjznb51OSV7D
+WMWf11bX/RBNVhZvuWKH3R4Og5qVqp2TbNhybEODsRxDJ04QVTYafIIMdtj68yBV
+ovfGS0jeEXuUColYyg85en4GDO2lVEcUge3y2h6HJRjh9FnZS9XVx38wYeKJp6Ec
+2eqO3W+htkjj1Dw98T6DF3xHDZGHGxCgim0BiIChMfcmRC2qlrf3C1e0544XQbR9
+DrppgfgKFR52ndDZlThWOrVZUHUuNHmMYBbi44Irfs9ZWqjuMGq3I1KmEIdgpuPc
++MZkvJ7NqsAc
+-----END CERTIFICATE-----
+

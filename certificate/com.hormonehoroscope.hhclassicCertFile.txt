@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 428488999 (0x198a3927)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: O=Hormonology LLC, CN=Gabrielle Lichterman
+        Validity
+            Not Before: Sep 21 21:05:26 2013 GMT
+            Not After : Jan 22 21:05:26 3013 GMT
+        Subject: O=Hormonology LLC, CN=Gabrielle Lichterman
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8f:95:bc:3d:bb:fd:4b:6f:14:0f:c2:bf:2f:fe:
+                    12:08:f9:85:7d:03:23:26:41:ee:f5:ee:8b:03:76:
+                    4d:25:13:a2:e3:c7:80:dc:c5:6e:67:c0:73:b5:b5:
+                    2c:a7:f2:21:26:6f:41:60:f2:70:e5:84:7f:7c:32:
+                    09:58:e2:a5:2b:69:c0:a6:c4:dc:09:83:24:16:85:
+                    f3:79:6c:03:79:a7:7c:8f:b0:0a:3b:18:2d:ed:fc:
+                    a3:96:a0:e5:57:8b:1a:6a:bc:63:93:ec:54:ac:48:
+                    63:af:f6:7d:9b:90:6e:86:e1:bb:35:03:e5:46:f4:
+                    c6:de:8f:c4:d4:7a:2c:87:e2:d4:8f:22:48:46:38:
+                    24:bc:54:29:aa:e8:fe:49:30:7c:be:d9:28:0c:6f:
+                    24:5b:e7:7b:d0:57:d5:aa:b9:f3:96:52:61:1a:c4:
+                    85:95:7e:d8:86:06:90:8b:d3:2a:01:90:2a:20:ab:
+                    70:3e:bc:5e:8a:c5:8a:4e:62:6e:31:81:85:b3:9f:
+                    2f:9a:09:61:b9:13:be:78:e1:ed:6d:2d:ea:eb:ac:
+                    c2:ad:79:94:12:74:ff:40:88:ae:8e:b4:18:0b:94:
+                    a0:08:9d:89:d1:67:ce:68:6d:81:e1:3a:c1:12:77:
+                    29:03:cb:8b:ab:ef:9c:6d:a8:12:c7:b0:65:57:80:
+                    e6:ff
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                3D:BD:7C:54:87:F5:4D:13:FB:2F:5D:BF:5C:8A:42:B7:6D:88:9C:0A
+    Signature Algorithm: sha256WithRSAEncryption
+         11:13:fc:c4:b2:65:5d:00:9d:dc:a9:a9:59:98:a9:e8:92:62:
+         44:14:f3:01:da:cd:54:13:dc:43:08:12:d2:c3:5f:ef:73:4f:
+         10:d8:e8:f8:37:35:ab:07:f3:6c:70:79:71:36:59:e8:7c:0d:
+         a1:1f:58:03:1d:f5:24:cd:9f:3f:dd:4a:d4:69:38:de:39:59:
+         c9:c8:1a:07:00:fc:fd:74:cd:7a:34:e2:0f:38:8e:9d:1c:0a:
+         2a:c5:7a:86:cc:43:47:85:09:3d:fa:32:e7:85:19:c1:e4:ca:
+         01:21:be:7f:d0:1d:7c:ad:6f:8e:a4:95:06:97:30:5f:f1:6b:
+         21:d5:f9:f0:5b:53:ed:f0:bb:f4:ce:8e:17:69:ff:6c:d7:f0:
+         b3:c0:c7:db:46:6a:a2:85:7b:02:13:65:b0:a5:07:80:19:37:
+         90:7e:b0:44:01:fa:46:ee:ec:61:f3:28:ec:46:32:56:b1:09:
+         c3:c5:6c:b5:02:29:2f:d2:42:b9:ab:ae:07:47:c7:1e:5b:ed:
+         dd:a3:8f:37:20:80:b2:0f:27:cb:c6:65:f9:be:0b:a5:18:39:
+         9b:cb:ce:ca:25:e7:76:f9:21:ab:20:07:a7:ea:e0:02:0d:ff:
+         9c:fc:b9:00:c0:ce:ac:4e:a8:b8:2d:94:b4:c2:dd:b1:22:7c:
+         20:ef:b5:5c
+-----BEGIN CERTIFICATE-----
+MIIDEzCCAfugAwIBAgIEGYo5JzANBgkqhkiG9w0BAQsFADA5MRgwFgYDVQQKEw9I
+b3Jtb25vbG9neSBMTEMxHTAbBgNVBAMTFEdhYnJpZWxsZSBMaWNodGVybWFuMCAX
+DTEzMDkyMTIxMDUyNloYDzMwMTMwMTIyMjEwNTI2WjA5MRgwFgYDVQQKEw9Ib3Jt
+b25vbG9neSBMTEMxHTAbBgNVBAMTFEdhYnJpZWxsZSBMaWNodGVybWFuMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj5W8Pbv9S28UD8K/L/4SCPmFfQMj
+JkHu9e6LA3ZNJROi48eA3MVuZ8BztbUsp/IhJm9BYPJw5YR/fDIJWOKlK2nApsTc
+CYMkFoXzeWwDead8j7AKOxgt7fyjlqDlV4saarxjk+xUrEhjr/Z9m5BuhuG7NQPl
+RvTG3o/E1Hosh+LUjyJIRjgkvFQpquj+STB8vtkoDG8kW+d70FfVqrnzllJhGsSF
+lX7YhgaQi9MqAZAqIKtwPrxeisWKTmJuMYGFs58vmglhuRO+eOHtbS3q66zCrXmU
+EnT/QIiujrQYC5SgCJ2J0WfOaG2B4TrBEncpA8uLq++cbagSx7BlV4Dm/wIDAQAB
+oyEwHzAdBgNVHQ4EFgQUPb18VIf1TRP7L12/XIpCt22InAowDQYJKoZIhvcNAQEL
+BQADggEBABET/MSyZV0AndypqVmYqeiSYkQU8wHazVQT3EMIEtLDX+9zTxDY6Pg3
+NasH82xweXE2Weh8DaEfWAMd9STNnz/dStRpON45WcnIGgcA/P10zXo04g84jp0c
+CirFeobMQ0eFCT36MueFGcHkygEhvn/QHXytb46klQaXMF/xayHV+fBbU+3wu/TO
+jhdp/2zX8LPAx9tGaqKFewITZbClB4AZN5B+sEQB+kbu7GHzKOxGMlaxCcPFbLUC
+KS/SQrmrrgdHxx5b7d2jjzcggLIPJ8vGZfm+C6UYOZvLzsol53b5IasgB6fq4AIN
+/5z8uQDAzqxOqLgtlLTC3bEifCDvtVw=
+-----END CERTIFICATE-----
+

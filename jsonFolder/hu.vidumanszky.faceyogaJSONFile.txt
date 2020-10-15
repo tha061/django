@@ -1,0 +1,82 @@
+{
+  "name": "hu.vidumanszky.faceyoga",
+  "fileSize": "98.1 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: hu.vidumanszky.faceyoga.notification.push.CloudMessagingService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "20 September 2020",
+    "Size": "98M",
+    "Installs": "100000",
+    "Current Version": "2.11.2",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$0.99 \u2013 $2.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Midinvest Kft.",
+    "Developer": "Visit website midinvestkft@gmail.com Privacy Policy Csinszka utca 56. Budapest 1165 Hungary"
+  },
+  "rating": "4.2",
+  "description": "FaceYoga - the world\u2019s No.1 app for facial yoga and fitness.  A yoga studio in your pocket. FaceYoga is the perfect tool to beat aging and regain your youth. Our exercises are an effective and natural alternative for cosmetic products.  Features of FaceYoga: -\tA wide range of carefully selected face yoga exercises  -\tHandcrafted daily workouts that kickstart your face yoga journey -\tProgress tracking functionality that helps you stay on track -\tPersonalized training functionality that tailors your experience -\tDaily tips that that help you see results faster -\tNo equipment required -\tNo internet required Why use FaceYoga? Our exercises strengthen muscles, increase blood circulation, improve skin condition and relieve stress.  They serve as an anti-aging routine against crow's feet and other unwanted wrinkles, helping to diminish dark shadows beneath the eyes, toning muscles, reducing double chin and lifting up flabby cheeks. Start your anti-aging routine today!",
+  "privacyText": "https://dtomi99hun.wixsite.com/faceyoga",
+  "numInstalls": 100000,
+  "developer": "Midinvest Kft.",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://appfaceyoga.com",
+    "Developer Email": "midinvestkft@gmail.com",
+    "Privacy Policy": "https://dtomi99hun.wixsite.com/faceyoga"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

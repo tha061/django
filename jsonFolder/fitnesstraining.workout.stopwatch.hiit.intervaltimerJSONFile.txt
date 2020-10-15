@@ -1,0 +1,77 @@
+{
+  "name": "fitnesstraining.workout.stopwatch.hiit.intervaltimer",
+  "fileSize": "4.0 MB",
+  "VTmd5": "3cec856cf3e5ddd42f8e7b0e3ccb92c2",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/f5b05e82d6988c2108d5e5b1f9bf9537430bdb74cb3d271b808cc5f8ea3b3c48/detection/f-f5b05e82d6988c2108d5e5b1f9bf9537430bdb74cb3d271b808cc5f8ea3b3c48-1602234036",
+  "VTresource": "f5b05e82d6988c2108d5e5b1f9bf9537430bdb74cb3d271b808cc5f8ea3b3c48",
+  "VTresponsecode": 1,
+  "VTscanID": "f5b05e82d6988c2108d5e5b1f9bf9537430bdb74cb3d271b808cc5f8ea3b3c48-1602234036",
+  "VTsha1": "7406835018b051c87b1af069ac6bc162c619749e",
+  "VTsha256": "f5b05e82d6988c2108d5e5b1f9bf9537430bdb74cb3d271b808cc5f8ea3b3c48",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "25 Protection Level: Developer Defined Permission",
+    "com.android.launcher.permission.INSTALL_SHORTCUT Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.lengos.intervaltimer.timer.TimerService  permission: ",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: ",
+      "name: com.google.android.gms.ads.AdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "8 October 2020",
+    "Size": "5.0M",
+    "Installs": "100000",
+    "Current Version": "1.83",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$3.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "LenGo Apps",
+    "Developer": "Visit website lengo.apps@gmail.com Privacy Policy Carmerstr. 66\n45147 Essen, Germany"
+  },
+  "rating": "4.6",
+  "description": "The Interval Timer is a  simple  and  easy to use  workout interval timer (hiit timer, stopwatch) for your daily fitness training and workout with or without equipment at home, at the gym and everywhere else. This workout timer is suitable for  fitness interval training HIIT/Tabata, interval running (jogging)  and other time dependent activities  (boxing, circuit training, meditation, breathing exercises, yoga...) . \u231a\ufe0f JUST WHAT YOU NEED FOR FITNESS INTERVAL TRAINING The Interval Timer makes it possible to carry out training sessions with preparation time, exercise time, pause time and number of repetitions. Its also possible to create your own custom intervals. Each training phase is easy to distinguish by a different color and is initiated by an individually adjustable signal (sound, vibration, voice). With the time always in view, you will be able to time your workout and fitness training perfectly. The ideal complement for your fitness training schedule. Features \u2605 Intuitive and clear user interface in material design \u2605 Configure exercises with preparation time, exercise time, pause and number of repetitions \u2605 Create your own custom intervalls \u2605 Group multiple exercises as a plan \u2605 Save, load and edit workouts \u2605 Share your workouts with friends \u2605 Create and load backups of your workouts \u2605 Create shortcuts of your workouts \u2605 Track your progress with the workout statistics \u2605 Works in background and shows a status notification \u2605 Perfect timer for high intensity interval training (hiit, tabata) Advanced Customization \u2605 Configurable signal for each trainings phase \u2605 Selectable foreground and background color \u2605 Selectable notification sound \u2605 Use your own audio files as a notification sound \u2605 Sound as: system, media, notification or alarm \u2605 Notification by vibration \u2605 Voice assistant \u2605 Languages: English, German, Spanish, French, Italian, Portuguese, Russian So if you are looking for a simple, yet highly practical workout interval training clock and fitness hiit timer, you are at the right place and at the right time.  Enjoy your workout and achieve your fitness goals with the interval timer \ud83d\udcaa\ud83d\ude0a",
+  "privacyText": "https://sites.google.com/view/lengo-it-privacypolicy",
+  "numInstalls": 100000,
+  "developer": "LenGo Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://m5975c13b.app-ads-txt.com",
+    "Developer Email": "lengo.apps@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/lengo-it-privacypolicy"
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,91 @@
+{
+  "name": "com.gymdone.gymworkouttrainer",
+  "fileSize": "15.2 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: android.permission.INTERACT_ACROSS_USERS_FULL   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.gymdone.gymworkouttrainer.firebasenotifications.MyFirebaseMessagingService  permission: ",
+      "name: com.gymdone.gymworkouttrainer.services.OngoingWorkoutNotificationService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.play.core.assetpacks.AssetPackExtractionService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "3 October 2020",
+    "Size": "16M",
+    "Installs": "100000",
+    "Current Version": "7.2.9",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$0.99 \u2013 $59.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "BALANCED",
+    "Developer": "Visit website support@gymdone.com Privacy Policy H Kochar 12"
+  },
+  "rating": "4.7",
+  "description": "A personal training app designed to help you do fitness and gym workouts, lose weight or gain mass and live a happier, healthier, and more fulfilled life. Gym Done is your perfect digital personal trainer that will help you do your full body workout including the chest and shoulders, traps and neck, back, abs, glutes, legs, and more.  Use Gym Done to:        \u2022 Create your own set of workout routines       \u2022 Track and analyze your gym workouts       \u2022 Keep fit by following the instructions       \u2022 Get quick results in 30 days  Gym Done is your ultimate fitness tracker and gym helper.  \u2605 Exercises based on muscle groups  What is your workout plan? Do you want to do a full-body workout or focus only on a specific part of your body? With Gym Done you can do either a full-body workout or a gym workout for a particular muscle group such as your abs or chest or lats or anything else that you want.  \u2605  Detailed explanations  Once you choose a specific muscle group, you get a ton of exercises designed to help you build those muscles. Each exercise box includes the following:   \u2022 A detailed description of how and why you should do the exercise   \u2022 A gif illustrating how you should do the exercise   \u2022 A video showing how you should do the exercise  \u2605  Workout plans  You have a vast variety of workout plans to choose from. If you pick a full body workout plan, you will be offered a specific set of gym and fitness exercises that will help you achieve the desired goal. You can also unlock more advanced workout plans such as those for your back & shoulders or chest & triceps or legs & chest etc.  \u2605  Custom workout plans If the existing workout plans are not enough for you, feel free to experiment with the exercises to create your custom workout plan. Move the exercises around, pick the ones that you think will be more effective for you, add and remove exercises to get the perfect workout plan for you.  \u2605  Healthy meal plans  Keeping fit and staying healthy is not only about attending the gym and following your personal training app\u2019s instructions. You need to also take into account what you eat. Healthy food is a must. That\u2019s why you can use the healthy meal plans that we have prepared for you. Choose your goal and start cooking!  \u2605  Getting ready for your gym workout  It is easy to forget to take your towel or your socks or something else with you while you hurry to the gym. But with the \u201cPack my bag\u201d section of the app, you can make sure that everything you need during your fitness workout is in your bag. Simply tap the checkboxes while you are packing your bag not to miss anything.  \u2605  Tracking workout history and body stats  Doing the fitness and gym workout is one thing, tracking progress and measuring the results is another thing. Make sure to view your workout history frequently. Also, tap on the \u201cbody stats\u201d section to track your measurements and see what results your workout is bringing.  Keep fit. Stay motivated. Be inspired.  Come to say hi to our active Gym Done community on Instagram (https://www.instagram.com/gym_done/).  If you have got any questions or suggestions to us, let us know by dropping us a line at support@gymdone.com. Terms of use: http://gymdone.com/terms Privacy policy: http://gymdone.com/privacy-policy",
+  "privacyText": "http://gymdone.com/privacy-policy",
+  "numInstalls": 100000,
+  "developer": "BALANCED",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://gymdone.com",
+    "Developer Email": "support@gymdone.com",
+    "Privacy Policy": "http://gymdone.com/privacy-policy"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Jakewharton",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

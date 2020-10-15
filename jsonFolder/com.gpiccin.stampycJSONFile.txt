@@ -1,0 +1,72 @@
+{
+  "name": "com.gpiccin.stampyc",
+  "fileSize": "3.8 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "8 May 2020",
+    "Size": "3.8M",
+    "Installs": "10000",
+    "Current Version": "2.4.3.1",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Stampyc",
+    "Developer": "Visit website support@stampyc.com Privacy Policy"
+  },
+  "rating": "4.3",
+  "description": "Only with Stampyc you can put the time and distance of your runs or exercise bike and have the pace or speed information automatically calculated. In a few steps you apply beautiful filters to your photos! In addition to running or biking, several other activities are available for you to create beautiful images and share on Instagram, Facebook, Twitter and Snapchat, if you prefer, you can also save your photos. Use the #stampyc in their publications and we will add in all our social networks, check out our Instagram @StampycApp. For new versions planned: - New filters. Do you have any suggestions? Be a beta tester and collaborate!",
+  "privacyText": "https://www.stampyc.com",
+  "numInstalls": 10000,
+  "developer": "Stampyc",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.stampyc.com",
+    "Developer Email": "support@stampyc.com",
+    "Privacy Policy": "https://www.stampyc.com"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

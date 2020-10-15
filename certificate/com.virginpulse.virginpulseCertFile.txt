@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1391027323 (0x52e9647b)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=Virgin Pulse
+        Validity
+            Not Before: Jan 29 20:28:43 2014 GMT
+            Not After : Jan  5 20:28:43 2114 GMT
+        Subject: O=Virgin Pulse
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:ba:ac:01:71:a9:04:c4:a6:4e:ee:d7:69:1a:b8:
+                    ad:c3:74:a7:47:53:2b:6f:5d:3c:63:f6:2a:1f:c0:
+                    4c:61:c0:8e:05:35:fb:31:e1:55:b8:d3:26:2d:c5:
+                    98:7e:f2:62:27:43:0a:4e:3f:0a:83:10:cb:4f:88:
+                    7e:92:93:50:21:f5:de:5b:e4:69:27:7f:b9:19:9c:
+                    d0:32:3a:6e:66:83:79:d9:ef:e3:6b:cf:eb:eb:98:
+                    3a:96:1f:07:c2:df:54:a2:b2:b0:90:16:4e:12:98:
+                    c5:32:8a:1c:b7:9a:81:71:37:70:9e:60:6a:40:8c:
+                    3c:43:f9:39:ca:e5:85:72:11
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         68:12:b7:f9:a1:51:bc:02:50:cf:20:d6:3d:42:f4:af:1b:91:
+         5f:c2:3b:35:4f:7e:94:32:89:ad:bb:59:61:e9:43:8c:b4:23:
+         23:9f:cf:b0:eb:9c:52:81:53:c9:35:95:d9:93:df:e3:62:6e:
+         f2:06:f6:72:b0:c5:fd:76:07:a4:76:4c:d8:8e:28:d8:2e:be:
+         76:d3:bd:99:84:fb:a8:29:55:7a:16:b4:ce:e7:5a:b1:70:5a:
+         53:90:f0:08:53:44:d8:2a:8a:c6:a9:f7:c5:5e:b0:04:b1:57:
+         b6:b6:15:1b:fc:4d:3b:95:22:19:e6:76:01:3a:c6:2c:7f:15:
+         4a:62
+-----BEGIN CERTIFICATE-----
+MIIBpzCCARCgAwIBAgIEUulkezANBgkqhkiG9w0BAQUFADAXMRUwEwYDVQQKEwxW
+aXJnaW4gUHVsc2UwIBcNMTQwMTI5MjAyODQzWhgPMjExNDAxMDUyMDI4NDNaMBcx
+FTATBgNVBAoTDFZpcmdpbiBQdWxzZTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkC
+gYEAuqwBcakExKZO7tdpGritw3SnR1Mrb108Y/YqH8BMYcCOBTX7MeFVuNMmLcWY
+fvJiJ0MKTj8KgxDLT4h+kpNQIfXeW+RpJ3+5GZzQMjpuZoN52e/ja8/r65g6lh8H
+wt9UorKwkBZOEpjFMooct5qBcTdwnmBqQIw8Q/k5yuWFchECAwEAATANBgkqhkiG
+9w0BAQUFAAOBgQBoErf5oVG8AlDPINY9QvSvG5Ffwjs1T36UMomtu1lh6UOMtCMj
+n8+w65xSgVPJNZXZk9/jYm7yBvZysMX9dgekdkzYjijYLr52072ZhPuoKVV6FrTO
+51qxcFpTkPAIU0TYKorGqffFXrAEsVe2thUb/E07lSIZ5nYBOsYsfxVKYg==
+-----END CERTIFICATE-----
+

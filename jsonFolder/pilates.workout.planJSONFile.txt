@@ -1,0 +1,69 @@
+{
+  "name": "pilates.workout.plan",
+  "fileSize": "8.4 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.MODIFY_AUDIO_SETTINGS Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "10 October 2020",
+    "Size": "8.6M",
+    "Installs": "10000",
+    "Current Version": "1.4",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.49 \u2013 $4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Stay Fit With Samantha",
+    "Developer": "Visit website samantharoobol@gmail.com Privacy Policy Laurierhof 23, Papendrecht"
+  },
+  "rating": "3.1",
+  "description": "Daily Pilates exercises to do each day that incorporate your entire body, engage your muscles, and promote good posture and alignment. Pilates is a form of exercise that uses controlled movements designed to improve physical strength, flexibility, and posture. Here are the best Pilates moves for strengthening and sculpting your core. Looking to get a strong, lean body without spending countless hours doing exercises in the gym? A strong, toned body doesn\u2019t always have to come from lifting weights. You can just as easily get a greatfull body strength workout at home with just your yoga mat and a Pilates routine. Pilates not only tightens and tones your muscles, it also strengthens your body and increases your core flexibility. It involves workouts with precise moves and specific breathing techniques. The best moves were selected because of the way the moves incorporate your entire body, engage your muscles, and promote good posture and alignment. This set of Pilates exercises is designed to provide you with an at-home routine and help you build familiarity with Pilates mat exercises, whether you are new or experienced. These exercises develop the core strength, stability, and flexibility for which Pilates is famous. Pilates for Beginners: Moves for abs, toning, and more Pilates can be done by anyone \u2013 man, woman, young or old. No matter your age or physical ability, you can do Pilates. There are thousands of possible exercises and modifications, so it can be adapted to fit an individual\u2019s needs \u2013 from the absolute beginner to the seasoned athlete. Please keep in mind that almost all Pilates exercises engage the core abdominal muscles.  Flat abs are one highly prized result of a Pilates workout.",
+  "privacyText": "http://fm.stefanroobol.com/privacy-policy/pilates",
+  "numInstalls": 10000,
+  "developer": "Stay Fit With Samantha",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://samantha.steveloper.nl",
+    "Developer Email": "samantharoobol@gmail.com",
+    "Privacy Policy": "http://fm.stefanroobol.com/privacy-policy/pilates"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

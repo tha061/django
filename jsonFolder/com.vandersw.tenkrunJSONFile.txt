@@ -1,0 +1,91 @@
+{
+  "name": "com.vandersw.tenkrun",
+  "fileSize": "29.9 MB",
+  "VTmd5": "a01b157e59d36a8937a287b9cc7c7ac8",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/14af4690fa50b523a3dc1aaaa12abee025e981ba5d5c69f22b7dae0a6973ec5c/detection/f-14af4690fa50b523a3dc1aaaa12abee025e981ba5d5c69f22b7dae0a6973ec5c-1599037346",
+  "VTresource": "14af4690fa50b523a3dc1aaaa12abee025e981ba5d5c69f22b7dae0a6973ec5c",
+  "VTresponsecode": 1,
+  "VTscanID": "14af4690fa50b523a3dc1aaaa12abee025e981ba5d5c69f22b7dae0a6973ec5c-1599037346",
+  "VTsha1": "7a17f69849129d0e850f85dcb536b9f6d0062c8e",
+  "VTsha256": "14af4690fa50b523a3dc1aaaa12abee025e981ba5d5c69f22b7dae0a6973ec5c",
+  "VTtotal": 59,
+  "VTpositives": 1,
+  "VTratio": "0.01694915254237288",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "android.permission.USE_CREDENTIALS Protection Level: Developer Defined Permission",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.RECORD_AUDIO Protection Level: dangerous",
+    "android.permission.MODIFY_AUDIO_SETTINGS Protection Level: normal",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.vandersw.tenkrun.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.vandersw.tenkrun.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: de.appplant.cordova.plugin.background.ForegroundService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.CampaignTrackingService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+    ]
+  },
+  "metaData": {
+    "Updated": "24 May 2017",
+    "Size": "Varies with device",
+    "Installs": "50000",
+    "Current Version": "34.9.7",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Vandersoft",
+    "Developer": "Visit website vandersoftware@gmail.com Privacy Policy 13408 188th Ave E Bonney Lake, WA 98391"
+  },
+  "rating": "4.1",
+  "description": "Use the 10K Run app to improve your stamina, endurance, and health to help you run a 10K! Your body's strength will gradually increase over time with interval training. Over the next 14 weeks your running will be steadily improved. You will start with 1 minute jogging intervals in-between 1.5 minute walks. As you complete runs your body will be strengthened and the program will slowly become more challenging. Take your device with you on your runs! Listen to your favorite music and get prompted over your headphones to run or walk. Your entire run will be directed through your headphones or speakers. Glancing at the app while on your run will show you: \u2714 How long you have been running \u2714 How much time you have left on your run \u2714 How much time you have left on your current interval Need to stop and tie your shoe? Pause the run! Or, press Back/Next to go to different intervals. 10K Run Features: \u2714 Use outside or on a treadmill \u2714 Play your music while running - the coach will chime in over your music \u2714 Use with any music app \u2714 Running plan overview - look ahead and see future runs \u2714 Run / walk interval controls 10K Run Training app is simple, easy and gets results: \u2714 Nothing to learn. Just press start! The walk and run intervals make it simple \u2714 The best way to prepare for your 10K run \u2714 Start with 5k and then run 10K (simple 5k to 10k) \u2714 Excellent for weight loss \u2714 The best & most effective 10K training app",
+  "privacyText": "http://vandersoft.co/privacy-policy/",
+  "numInstalls": 50000,
+  "developer": "Vandersoft",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://vandersoft.co",
+    "Developer Email": "vandersoftware@gmail.com",
+    "Privacy Policy": "http://vandersoft.co/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

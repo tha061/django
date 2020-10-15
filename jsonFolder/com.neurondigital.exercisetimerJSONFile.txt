@@ -1,0 +1,82 @@
+{
+  "name": "com.neurondigital.exercisetimer",
+  "fileSize": "11.7 MB",
+  "VTmd5": "0a18e714fc81b94e686b01f84ee9fd59",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/7b50b98e1e4f93746b27c4fd911413593c3f1457535e5e1b646939e604824680/detection/f-7b50b98e1e4f93746b27c4fd911413593c3f1457535e5e1b646939e604824680-1589659551",
+  "VTresource": "7b50b98e1e4f93746b27c4fd911413593c3f1457535e5e1b646939e604824680",
+  "VTresponsecode": 1,
+  "VTscanID": "7b50b98e1e4f93746b27c4fd911413593c3f1457535e5e1b646939e604824680-1589659551",
+  "VTsha1": "40c2ea373f411cc5359f1cd3096effbf7862ea9c",
+  "VTsha256": "7b50b98e1e4f93746b27c4fd911413593c3f1457535e5e1b646939e604824680",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.neurondigital.exercisetimer.ForegroundService  permission: ",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "15 May 2020",
+    "Size": "Varies with device",
+    "Installs": "1000000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$3.99 \u2013 $33.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "NeuronDigital",
+    "Developer": "Visit website melvin@neurondigital.com Privacy Policy 8, Maranatha,\nTriq Tal-Fieres,\nKirkop\nKKP 1502"
+  },
+  "rating": "4.6",
+  "description": "Exercise Timer is a highly customizable interval timer used globally for interval training, HIIT training, Tabata and even yoga. This workout timer makes it easier than ever to create your custom workout routines. Use it as your amrap stopwatch or your plank timer. Exercise timer is the best interval timer online!  Complex Workout Routines Customize your workout to include: + Warm-up + Workout + Group exercises + Interval period You can add as many exercises & intervals as you wish to your workout routines unlike most interval training timers. For example, to your workout you can add a 10 seconds Rest period, or even 10 seconds Rest + 5 seconds Interval to give you enough time to get ready for your next exercise. Designed mainly as a tabata timer / HIIT timer, Exercise Timer gives you the flexibility to create the most complex hiit tabata workouts.  Reps. Exercises \u2013 Press next During interval training you may wish to perform 30 Push Ups or 50 Jumping Jacks with a 10 seconds rest. With the reps feature you can take your time to perform your workout and when you're done press next. Your workout can have a mixture of reps and timed exercises. Online workout creator If you prefer to create your workout routines on your desktop, you can do so from our  Interval Timer online creator:   https://exercisetimer.net/createworkout On your Smartwatch Take HIIT training to the next level with Exercise Timer on your Android Wear smartwatch. Exercise Timer will effortlessly sync to your smartwatch and enables you to track your workout routines directly from your wrist. Exercise Timer has recently partnered with CASIO and is optimized for the highly durable PRO TREK Smart watch developed by CASIO. It is now conveniently located among the featured apps on the Smart watch. Uses of Exercise Timer * HIIT Interval Training Timer * Stopwatch for emom (every minute on the minute) workouts. * Amrap stopwatch to perform a set of exercises as many times as you can in a set amount of time. * Crossfit clock to keep track of your crossfit exercises * As a Plank Timer * Gym Workout Tracker \u2013 Exercise Timer keeps a history of your workouts * As a 7 minute workout timer Interval training has been proven by recent studies to be the most efficient way of exercising.  In the fast paced time of today tabata and hiit training are the preferred ways to workout.  Download this tabata timer now to get that interval training under way with smart workout routines.  Exercise timer acts as an Amrap Stopwatch, a crossfit clock, a hiit interval training timer and an emom timer.  You will not find a better interval timer. Download Exercise Timer Now and get moving!  Website:  https://exercisetimer.net",
+  "privacyText": "https://exercisetimer.net/privacypolicy",
+  "numInstalls": 1000000,
+  "developer": "NeuronDigital",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.exercisetimer.net",
+    "Developer Email": "melvin@neurondigital.com",
+    "Privacy Policy": "https://exercisetimer.net/privacypolicy"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

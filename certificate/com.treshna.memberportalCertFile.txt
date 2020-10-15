@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2076032102 (0x7bbdbc66)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=NZ, ST=South Island, L=Christchurch, O=Treshna Enterprises Ltd, CN=Jayden Jemison
+        Validity
+            Not Before: Nov  2 18:50:23 2017 GMT
+            Not After : Oct 27 18:50:23 2042 GMT
+        Subject: C=NZ, ST=South Island, L=Christchurch, O=Treshna Enterprises Ltd, CN=Jayden Jemison
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:84:15:2b:8d:12:0a:53:ff:1c:fd:ec:4a:eb:11:
+                    0f:4e:14:43:88:89:0b:49:34:ef:4b:6a:7e:80:52:
+                    5e:52:4e:4b:6b:64:9b:9e:de:d5:f7:29:36:07:89:
+                    dd:2e:31:aa:71:3c:f0:62:8f:7e:a2:5e:5f:6c:64:
+                    c8:87:eb:35:e1:a0:d5:81:66:f9:f1:bf:13:be:e7:
+                    4d:4c:2e:03:25:b4:d7:c6:72:f3:0c:07:02:78:94:
+                    97:1b:95:e5:22:98:e3:a6:dc:1a:37:d6:ee:4c:d6:
+                    a9:be:80:60:c8:9f:1e:f4:d9:49:5a:8b:12:d5:c0:
+                    56:a8:c1:f3:e1:8e:65:81:46:d0:37:16:3c:db:39:
+                    12:7c:8f:38:3c:19:2b:34:1d:3e:59:4b:5d:20:47:
+                    c3:d7:27:e9:5c:0b:98:4d:16:6c:d7:1c:fb:ab:8d:
+                    27:43:06:6e:b5:67:be:e2:31:1f:7d:02:46:68:a1:
+                    4d:32:3b:6e:cb:9c:fb:5c:b8:92:f0:5d:a4:c5:4e:
+                    0f:be:b5:e7:63:82:2d:d3:a3:41:34:5b:72:98:96:
+                    35:ed:88:4b:11:44:9f:c6:fe:20:b7:24:ad:73:6c:
+                    97:e6:36:79:65:94:7b:7b:fd:a3:f6:84:fa:97:ce:
+                    55:ff:84:8f:04:94:ee:be:0d:41:40:dd:74:5f:04:
+                    31:3b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                B1:E4:5F:E0:3B:3D:89:A0:59:1A:FE:27:FC:C6:1D:40:5F:75:D0:13
+    Signature Algorithm: sha256WithRSAEncryption
+         4c:c7:89:31:ae:46:b6:9b:52:c6:de:16:1e:04:a5:55:60:b6:
+         01:cb:c9:2d:a9:a0:37:d3:3f:be:1e:c6:ec:63:8b:67:6e:37:
+         d3:8f:0a:0e:4a:ea:d6:9b:49:f1:bf:b6:27:8d:f1:f2:3e:ff:
+         fb:46:6a:8b:26:ae:46:5e:0c:be:4d:d5:57:b9:86:b4:07:d1:
+         56:d5:db:3b:be:fd:d8:57:63:f4:59:74:e2:07:e8:d8:06:58:
+         34:dc:20:4e:d0:1b:e3:b0:26:53:9c:3e:5c:3e:0b:65:e9:cf:
+         52:46:51:99:fc:14:70:d0:3b:d2:69:e6:3a:6b:f5:89:a7:e4:
+         0f:b5:3c:89:cc:01:05:a5:3c:5d:75:9d:e4:9f:12:a3:ab:0a:
+         1f:c8:bc:c9:46:8b:84:05:b5:51:cf:75:53:ca:1e:86:91:d3:
+         33:4b:10:bd:3f:64:b3:4a:b9:04:6f:8e:1b:8e:f2:30:57:48:
+         3d:c9:8d:0f:7c:45:3f:04:37:91:7a:0a:2c:ef:b5:1f:af:ba:
+         35:21:29:20:b0:7b:00:db:a5:3b:6f:03:78:99:7a:d0:95:f8:
+         06:38:ca:e5:08:8b:ab:9d:90:08:89:3c:75:6c:66:47:a0:f9:
+         49:4f:3c:d2:4b:12:14:44:e1:96:dd:81:59:05:5d:32:b2:fd:
+         d0:fc:6b:f7
+-----BEGIN CERTIFICATE-----
+MIIDizCCAnOgAwIBAgIEe728ZjANBgkqhkiG9w0BAQsFADB2MQswCQYDVQQGEwJO
+WjEVMBMGA1UECBMMU291dGggSXNsYW5kMRUwEwYDVQQHEwxDaHJpc3RjaHVyY2gx
+IDAeBgNVBAoTF1RyZXNobmEgRW50ZXJwcmlzZXMgTHRkMRcwFQYDVQQDEw5KYXlk
+ZW4gSmVtaXNvbjAeFw0xNzExMDIxODUwMjNaFw00MjEwMjcxODUwMjNaMHYxCzAJ
+BgNVBAYTAk5aMRUwEwYDVQQIEwxTb3V0aCBJc2xhbmQxFTATBgNVBAcTDENocmlz
+dGNodXJjaDEgMB4GA1UEChMXVHJlc2huYSBFbnRlcnByaXNlcyBMdGQxFzAVBgNV
+BAMTDkpheWRlbiBKZW1pc29uMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAhBUrjRIKU/8c/exK6xEPThRDiIkLSTTvS2p+gFJeUk5La2Sbnt7V9yk2B4nd
+LjGqcTzwYo9+ol5fbGTIh+s14aDVgWb58b8TvudNTC4DJbTXxnLzDAcCeJSXG5Xl
+IpjjptwaN9buTNapvoBgyJ8e9NlJWosS1cBWqMHz4Y5lgUbQNxY82zkSfI84PBkr
+NB0+WUtdIEfD1yfpXAuYTRZs1xz7q40nQwZutWe+4jEffQJGaKFNMjtuy5z7XLiS
+8F2kxU4PvrXnY4It06NBNFtymJY17YhLEUSfxv4gtyStc2yX5jZ5ZZR7e/2j9oT6
+l85V/4SPBJTuvg1BQN10XwQxOwIDAQABoyEwHzAdBgNVHQ4EFgQUseRf4Ds9iaBZ
+Gv4n/MYdQF910BMwDQYJKoZIhvcNAQELBQADggEBAEzHiTGuRrabUsbeFh4EpVVg
+tgHLyS2poDfTP74exuxji2duN9OPCg5K6tabSfG/tieN8fI+//tGaosmrkZeDL5N
+1Ve5hrQH0VbV2zu+/dhXY/RZdOIH6NgGWDTcIE7QG+OwJlOcPlw+C2Xpz1JGUZn8
+FHDQO9Jp5jpr9Ymn5A+1PInMAQWlPF11neSfEqOrCh/IvMlGi4QFtVHPdVPKHoaR
+0zNLEL0/ZLNKuQRvjhuO8jBXSD3JjQ98RT8EN5F6CizvtR+vujUhKSCwewDbpTtv
+A3iZetCV+AY4yuUIi6udkAiJPHVsZkeg+UlPPNJLEhRE4ZbdgVkFXTKy/dD8a/c=
+-----END CERTIFICATE-----
+

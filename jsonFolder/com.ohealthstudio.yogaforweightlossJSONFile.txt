@@ -1,0 +1,80 @@
+{
+  "name": "com.ohealthstudio.yogaforweightloss",
+  "fileSize": "12.0 MB",
+  "VTmd5": "a0fe0c333e0e3f98eb9d1214cb0aff31",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/f2e9202e81ebde500cd634b050df616451dc5b2b3159685a502cf3507c959a16/detection/f-f2e9202e81ebde500cd634b050df616451dc5b2b3159685a502cf3507c959a16-1600080609",
+  "VTresource": "f2e9202e81ebde500cd634b050df616451dc5b2b3159685a502cf3507c959a16",
+  "VTresponsecode": 1,
+  "VTscanID": "f2e9202e81ebde500cd634b050df616451dc5b2b3159685a502cf3507c959a16-1600080609",
+  "VTsha1": "84eabb2cd41aa3e5c4fd8f7a86852f0a2c85fbb1",
+  "VTsha256": "f2e9202e81ebde500cd634b050df616451dc5b2b3159685a502cf3507c959a16",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.ohealthstudio.yogaforweightloss.fcm.MyFirebaseMessagingService  permission: ",
+      "name: com.ohealthstudio.yogaforweightloss.fcm.MyJobService  permission: ",
+      "name: com.facebook.ads.internal.ipc.AdsProcessPriorityService  permission: ",
+      "name: com.facebook.ads.internal.ipc.AdsMessengerService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.firebase.jobdispatcher.GooglePlayReceiver  permission: com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "18 September 2020",
+    "Size": "13M",
+    "Installs": "1000000",
+    "Current Version": "1.8",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$4.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "OHealthApps Studio",
+    "Developer": "Visit website ohealthappsstudio@gmail.com Privacy Policy"
+  },
+  "rating": "4.3",
+  "description": "Yoga for Weight Loss \u2013 Fat Burning yoga workouts and the yoga poses to lose weight  Yoga asanas for Weight Loss. Begin your yoga exercise with yoga for weight loss beginner\u2019s app, try this yoga posture to lose weight easily for both women and men - beginners and advanced. Yoga for weight loss program at home contains the free yoga exercise plans to reach their weight loss goals. Weight loss yoga \u2013 Here are yoga postures for weight loss that will help you to get in shape and burn fat, practicing yoga poses regularly with proper guidance will help you to lose belly fat from your entire body and take off unwanted pounds. Yoga for Weight Loss Poses An easy way to practice yoga for weight loss with the assistance of perfect yoga exercises, poses and asanas. Reduce your weight out of yoga, especially yoga for Weight Loss before and after the meal to help one lose extra body weight and get abs. Weight Loss App Features  Yoga for weight loss for beginners\u2013  Yoga increase your chances of\u00a0weight loss  and flexible to tone your body and relieve pains. Yoga for weight loss - This  Few minutes fat burning yoga workouts  are the\u00a0ways to\u00a0lose weight\u00a0and\u00a0burn fat. Yoga for weight loss workout\u2013 Are you ready to\u00a0lose weight? Efficient  yoga workouts  for total body toning and fat loss. Lose weight program at home -  Burn more calories  during every yoga\u00a0workout program with experiencing all the traditional benefits of\u00a0yoga. Flexibility and Strength- Get easy  step-by-step\u00a0yoga \u00a0for weight loss plan to improve your strength to get core Abs and butt.\u00a0  Yoga for weight loss for women is a free app and it can be use offline. Yoga for weight loss app can be followed by men. Quick start yoga for weight loss. Yoga for women at home This yoga workout for women app contains recommended daily asanas for\u00a0women\u00a0to lose weight and strengthening weak muscles in their own\u00a0home yoga, bring body to balance with great yoga tips for\u00a0women. Yoga exercises for flat belly Looking for yoga\u00a0asanas for\u00a0belly fat? 20 Yoga Asanas in few minutes that will help to give You a Flat Tummy, follow this gymnastics yoga challenge to burn that extra\u00a0belly\u00a0fat with just few minutes in a day. Download the yoga for weight loss app free for android, daily\u00a0lose weight program at home - personalized yoga workout plan for women to lose weight.",
+  "privacyText": "https://ohealthapps.blogspot.com/p/privacy-policy.html",
+  "numInstalls": 1000000,
+  "developer": "OHealthApps Studio",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://ohealthapps.blogspot.com/",
+    "Developer Email": "ohealthappsstudio@gmail.com",
+    "Privacy Policy": "https://ohealthapps.blogspot.com/p/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

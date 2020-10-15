@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1860674342 (0x6ee7a326)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Mark Wagner
+        Validity
+            Not Before: Mar  6 13:33:31 2018 GMT
+            Not After : Feb 28 13:33:31 2043 GMT
+        Subject: CN=Mark Wagner
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ce:39:21:b4:c8:f3:24:d8:59:ad:18:8c:1d:aa:
+                    0c:ec:c9:3d:68:cb:28:88:d4:e0:12:99:ef:96:74:
+                    bc:8d:51:ed:c8:9e:8a:5e:dc:00:89:c3:72:24:f4:
+                    7c:9b:36:a2:ed:e2:5f:9f:5c:26:6d:b5:4e:12:80:
+                    37:3c:92:81:d0:32:12:1e:58:24:ac:11:46:f2:5d:
+                    d2:ee:6f:a1:13:47:66:14:4a:04:e1:be:c6:f1:24:
+                    09:be:e3:cb:87:62:9f:1d:fa:63:5b:38:fd:ac:86:
+                    5d:c3:1f:0f:b7:15:89:48:e8:00:71:bc:05:11:87:
+                    b6:2c:6f:aa:f0:be:19:d0:62:28:ad:a1:b1:ce:64:
+                    8e:01:2d:ef:c6:bc:70:0c:db:74:24:08:6c:a8:28:
+                    fb:71:71:1f:e3:7a:e9:7e:1e:63:01:a2:69:f6:d7:
+                    fc:ed:2c:37:4b:a5:04:01:53:4e:d7:3a:c0:6e:9b:
+                    24:89:07:11:11:8e:ae:c7:91:5c:c8:ed:7f:eb:8d:
+                    00:4c:09:b9:8e:41:76:cd:fc:70:8b:c5:2c:e7:94:
+                    90:71:15:fd:29:44:26:97:66:4a:50:f7:2d:67:e1:
+                    d4:93:4c:6f:0f:5a:b3:af:bd:b2:06:ff:93:30:c7:
+                    07:7d:64:5e:02:11:30:ed:63:31:24:6d:2d:43:ec:
+                    47:71
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                F0:9E:79:86:0A:54:45:9F:24:CA:60:39:49:57:7E:A6:4B:CA:A9:36
+    Signature Algorithm: sha256WithRSAEncryption
+         47:a3:44:2b:97:6f:26:1e:63:0b:00:36:e0:33:e7:ce:73:0b:
+         60:f6:be:f1:ec:2c:e3:d5:7b:d6:dd:40:96:17:cc:f3:32:02:
+         ee:29:73:ba:c1:e2:91:0f:52:2d:d4:bd:cd:ec:38:50:2c:c2:
+         4c:5d:a5:7f:db:4c:56:65:a3:ce:a0:89:c7:c0:fe:f2:d3:d1:
+         76:12:38:b8:37:25:57:65:7f:f7:d4:8c:a5:3d:3a:7c:8f:3d:
+         e1:10:6f:34:fa:e1:5b:20:6a:c9:e3:be:9b:63:84:ba:ab:5d:
+         04:14:72:2f:0b:85:1e:e2:37:32:40:8d:a0:41:ac:6a:ad:54:
+         d6:9e:f4:ae:ed:0c:97:01:c3:7c:2f:a8:08:74:90:3a:f6:7c:
+         b8:22:b4:95:c8:d0:bf:b0:f6:92:7e:b5:17:16:00:6e:89:33:
+         90:f6:91:5a:d1:23:13:99:e7:e1:94:ca:7f:c5:f7:75:33:48:
+         cb:2c:16:f8:3b:e4:ee:f3:66:cc:b6:dd:be:3f:f5:5a:76:0c:
+         49:b5:b7:78:fc:44:11:07:ca:26:44:a1:ce:92:f7:49:ba:63:
+         31:ef:bd:2d:2e:8a:2b:2d:2d:61:e9:39:e4:89:7b:04:77:5e:
+         26:07:f1:4b:9e:82:03:eb:bb:f3:05:a5:46:67:47:ce:08:75:
+         79:2b:9b:3e
+-----BEGIN CERTIFICATE-----
+MIICyzCCAbOgAwIBAgIEbuejJjANBgkqhkiG9w0BAQsFADAWMRQwEgYDVQQDEwtN
+YXJrIFdhZ25lcjAeFw0xODAzMDYxMzMzMzFaFw00MzAyMjgxMzMzMzFaMBYxFDAS
+BgNVBAMTC01hcmsgV2FnbmVyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAzjkhtMjzJNhZrRiMHaoM7Mk9aMsoiNTgEpnvlnS8jVHtyJ6KXtwAicNyJPR8
+mzai7eJfn1wmbbVOEoA3PJKB0DISHlgkrBFG8l3S7m+hE0dmFEoE4b7G8SQJvuPL
+h2KfHfpjWzj9rIZdwx8PtxWJSOgAcbwFEYe2LG+q8L4Z0GIoraGxzmSOAS3vxrxw
+DNt0JAhsqCj7cXEf43rpfh5jAaJp9tf87Sw3S6UEAVNO1zrAbpskiQcREY6ux5Fc
+yO1/640ATAm5jkF2zfxwi8Us55SQcRX9KUQml2ZKUPctZ+HUk0xvD1qzr72yBv+T
+MMcHfWReAhEw7WMxJG0tQ+xHcQIDAQABoyEwHzAdBgNVHQ4EFgQU8J55hgpURZ8k
+ymA5SVd+pkvKqTYwDQYJKoZIhvcNAQELBQADggEBAEejRCuXbyYeYwsANuAz585z
+C2D2vvHsLOPVe9bdQJYXzPMyAu4pc7rB4pEPUi3Uvc3sOFAswkxdpX/bTFZlo86g
+icfA/vLT0XYSOLg3JVdlf/fUjKU9OnyPPeEQbzT64VsgasnjvptjhLqrXQQUci8L
+hR7iNzJAjaBBrGqtVNae9K7tDJcBw3wvqAh0kDr2fLgitJXI0L+w9pJ+tRcWAG6J
+M5D2kVrRIxOZ5+GUyn/F93UzSMssFvg75O7zZsy23b4/9Vp2DEm1t3j8RBEHyiZE
+oc6S90m6YzHvvS0uiistLWHpOeSJewR3XiYH8UueggPru/MFpUZnR84IdXkrmz4=
+-----END CERTIFICATE-----
+

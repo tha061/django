@@ -1,0 +1,80 @@
+{
+  "name": "com.zenlabs.sevenminuteworkout",
+  "fileSize": "21.1 MB",
+  "VTmd5": "ffc63c540b022200aaed4455edd455aa",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/e7f8c7fed0fda142c35d46f259fe81913562342ac620816a923f897124eac3b3/detection/f-e7f8c7fed0fda142c35d46f259fe81913562342ac620816a923f897124eac3b3-1590539488",
+  "VTresource": "e7f8c7fed0fda142c35d46f259fe81913562342ac620816a923f897124eac3b3",
+  "VTresponsecode": 1,
+  "VTscanID": "e7f8c7fed0fda142c35d46f259fe81913562342ac620816a923f897124eac3b3-1590539488",
+  "VTsha1": "0ba7b83ba8fbadaf7d2d144aeb1f3d47ad392745",
+  "VTsha256": "e7f8c7fed0fda142c35d46f259fe81913562342ac620816a923f897124eac3b3",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.sec.android.provider.badge.permission.READ Protection Level: Developer Defined Permission",
+    "com.sec.android.provider.badge.permission.WRITE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.zenlabs.sevenminuteworkout.utils.AudioPlayer  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "31 March 2020",
+    "Size": "21M",
+    "Installs": "100000",
+    "Current Version": "5.17",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u2013 $49.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Zen Labs Fitness",
+    "Developer": "Visit website admin@zenlabsllc.com Privacy Policy 8895 Towne Centre Dr. STE 105-547\nSan Diego, CA 92122"
+  },
+  "rating": "4.6",
+  "description": "\u201cNot enough time\u201d is no longer a valid excuse! Put your body into ultimate fat burning mode in just 7 minutes! Made by the same people who created the #1 C25K\u00ae (Couch to 5K) app on iTunes and Google Play! \u2022 Based on the scientifically proven program published in ACSM\u2019s Health & Fitness Journal. \u2022 These 12 high-intensity exercises requires no equipment, which means you can do it anywhere!  \u2022 HIIT (High Intensity Interval Training) has many of the same benefits as Crossfit workouts!  \u2022 7 Minute Workout is perfect for all fitness levels, whether you\u2019re just starting out or a workout veteran.  \u2022 Earn and unlock fun achievements as you perform each workout! Clear instructional videos help you perform each exercise correctly and safely.  \u2022 Over 8,000,000 people have joined this health and fitness community! \u2605 Features \u2605 \u2022 Easy intuitive stunning design. All you have to do is \u201cSlide to Start\u201d! \u2022 Helpful instructional videos for all exercises. \u2022 Voice coach so you don\u2019t have to keep an eye on the screen, and can focus all your energy on the exercise.  \u2022 Countdown voice cues so you know how much time is left! \u2022 Awards and fun achievements to keep you motivated!  \u2022 Optional additional workouts to change up the routine and keep things fresh and exciting. \u2022 There is even a specific workout created and tailored for runners, that helps with flexibility, injury prevention, and core strengthening.  \u2605 PRO UPGRADE \u2605 \u2022 See your Workout Log so you can look back on all your progress. \u2022 Adjust rest time and workout length for added difficulty!  \u2022 Add more circuits for the extra burn!  \u2605 ULTIMATE WARRIOR UPGRADE \u2605 \u2022 Get ALL the Workouts \u2022 Get ALL the PRO Upgrade settings  \u2605 Love this app? We have a complete suite of health and fitness apps that covers all your fitness needs. C25K (Couch to 5K) Trainer: https://goo.gl/NCe703 10K Trainer - https://goo.gl/FyvmKs 0-100 Pushups Trainer - https://goo.gl/IfCFCh 0-200 Situps Trainer - https://goo.gl/W1502W \u2605 Join the community for help, tips, and advice!  http://www.facebook.com/zenlabsfitness  http://twitter.com/zenlabsfitness  \u2605 The Forums are a great place to ask all your fitness questions! http://forums.zenlabsfitness.com \u2605 Read our blog for great health tips! http://www.zenlabsfitness.com/blog/ Questions/comments regarding the app? Please email us at contactus@zenlabsfitness.com, or visit us at www.zenlabsfitness.com.  Zen Labs is a proud supporter of the National Breast Cancer Coalition. We are passionate about finding a cure for breast cancer and proudly donate to their cause. www.breastcancerdeadline2020.org \u201cNever doubt that a small group of thoughtful committed citizens can change the world. Indeed, it is the only thing that ever has.\u201d ~ Margaret Mead Legal Disclaimer This app and any information given by it or by Zen Labs LLC are for educational purposes only. They are not intended nor implied to be a substitute for professional medical advice. You should always consult your healthcare provider before beginning any fitness program.",
+  "privacyText": "http://www.zenlabsfitness.com/privacy-policy/",
+  "numInstalls": 100000,
+  "developer": "Zen Labs Fitness",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.zenlabsllc.com",
+    "Developer Email": "admin@zenlabsllc.com",
+    "Privacy Policy": "http://www.zenlabsfitness.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Flurry",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

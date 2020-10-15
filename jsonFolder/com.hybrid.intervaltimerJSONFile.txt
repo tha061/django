@@ -1,0 +1,66 @@
+{
+  "name": "com.hybrid.intervaltimer",
+  "fileSize": "3.8 MB",
+  "VTmd5": "7c6090784d0df2146772da6da0f9a526",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/3266ff0f3796fc7d36f687cda2ae4d0ea5d3c87717aa72596ddb75e86f77dea8/detection/f-3266ff0f3796fc7d36f687cda2ae4d0ea5d3c87717aa72596ddb75e86f77dea8-1602636608",
+  "VTresource": "3266ff0f3796fc7d36f687cda2ae4d0ea5d3c87717aa72596ddb75e86f77dea8",
+  "VTresponsecode": 1,
+  "VTscanID": "3266ff0f3796fc7d36f687cda2ae4d0ea5d3c87717aa72596ddb75e86f77dea8-1602636608",
+  "VTsha1": "49147d134274c61d520ca17e7dc390f94b84541c",
+  "VTsha256": "3266ff0f3796fc7d36f687cda2ae4d0ea5d3c87717aa72596ddb75e86f77dea8",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.hybrid.intervaltimer.HybridService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "5 August 2017",
+    "Size": "3.8M",
+    "Installs": "500000",
+    "Current Version": "1.1.6.1",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Javier Salmona",
+    "Developer": "Visit website javiersalmona@gmail.com Privacy Policy Antupir\u00e9n 9098\nPe\u00f1alol\u00e9n\nSantiago\nChile"
+  },
+  "rating": "4.5",
+  "description": "Hybrid Interval Timer is very useful for tabata, HIIT (High-intensity interval training), crossfit, weightlifting, cycling, running, yoga, or for any interval workout you can imagine. Features: \u2022 Customizable colors and exercise icons \u2022 Display total and interval remaining time \u2022 Display custom interval icon and name \u2022 Interval name with voice feedback \u2022 Countdown beep \u2022 Play sound on interval finish. (Sound customizable) \u2022 Display stopwatch when timer is paused \u2022 Editable warm up and cooldown times \u2022 Works in background \u2022 Nice material design with animations If you find any bug, or get a Force Close please email me at javiersalmona@gmail.com with android version, app version and device. Suggestions are welcome too ;) Enjoy the app and  NEVER GIVE UP  with your training!",
+  "privacyText": "https://sites.google.com/view/hybrid-interval-timer-privacy-/home",
+  "numInstalls": 500000,
+  "developer": "Javier Salmona",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://ad04e8780.app-ads-txt.com",
+    "Developer Email": "javiersalmona@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/hybrid-interval-timer-privacy-/home"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

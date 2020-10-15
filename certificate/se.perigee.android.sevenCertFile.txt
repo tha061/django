@@ -1,0 +1,46 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1393617044 (0x5310e894)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=SE, O=Perigee
+        Validity
+            Not Before: Feb 28 19:50:44 2014 GMT
+            Not After : Feb 22 19:50:44 2039 GMT
+        Subject: C=SE, O=Perigee
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:8c:8e:4c:b1:22:be:29:82:01:c9:90:f3:be:22:
+                    e0:63:eb:67:07:fa:7a:cf:30:7e:0e:0a:45:80:c7:
+                    84:a2:ec:29:56:88:eb:38:bb:9e:25:ed:f6:97:b8:
+                    2e:cb:c6:41:5b:6d:68:3e:ba:f1:82:e4:96:d5:f5:
+                    1b:2c:62:4d:87:fb:a5:b1:ee:a1:30:db:fa:75:d0:
+                    7c:52:8a:f8:0f:44:f0:71:58:6a:e5:23:1a:66:44:
+                    17:5c:48:c0:7a:b3:db:2d:50:ba:6b:17:2b:3e:4b:
+                    f9:89:1b:f4:57:e7:19:6b:97:45:c2:9b:2d:0b:71:
+                    f6:70:3d:1a:ec:01:d9:5e:7b
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         73:06:e0:41:63:a8:f9:06:1b:db:c7:92:49:0d:60:cd:d7:dc:
+         90:af:4a:d7:a2:c1:40:c2:34:2c:61:31:7c:f4:3c:75:63:b0:
+         76:e3:84:3d:84:9c:0a:af:f2:f8:96:c6:5c:01:c7:25:db:05:
+         f9:77:9a:6b:9b:49:49:62:e1:ae:b9:8e:93:df:01:cb:39:a4:
+         b5:4b:f4:64:18:6b:0a:fb:4c:a6:70:34:21:2f:e2:96:18:3b:
+         fe:0f:4d:46:a1:39:d8:95:0a:74:3d:5f:68:3b:ac:60:cc:d1:
+         9d:2a:c3:98:6c:b0:bc:41:8a:68:13:9d:e5:3d:91:a8:e5:01:
+         82:0d
+-----BEGIN CERTIFICATE-----
+MIIBtTCCAR6gAwIBAgIEUxDolDANBgkqhkiG9w0BAQUFADAfMQswCQYDVQQGEwJT
+RTEQMA4GA1UEChMHUGVyaWdlZTAeFw0xNDAyMjgxOTUwNDRaFw0zOTAyMjIxOTUw
+NDRaMB8xCzAJBgNVBAYTAlNFMRAwDgYDVQQKEwdQZXJpZ2VlMIGfMA0GCSqGSIb3
+DQEBAQUAA4GNADCBiQKBgQCMjkyxIr4pggHJkPO+IuBj62cH+nrPMH4OCkWAx4Si
+7ClWiOs4u54l7faXuC7LxkFbbWg+uvGC5JbV9RssYk2H+6Wx7qEw2/p10HxSivgP
+RPBxWGrlIxpmRBdcSMB6s9stULprFys+S/mJG/RX5xlrl0XCmy0LcfZwPRrsAdle
+ewIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAHMG4EFjqPkGG9vHkkkNYM3X3JCvStei
+wUDCNCxhMXz0PHVjsHbjhD2EnAqv8viWxlwBxyXbBfl3mmubSUli4a65jpPfAcs5
+pLVL9GQYawr7TKZwNCEv4pYYO/4PTUahOdiVCnQ9X2g7rGDM0Z0qw5hssLxBimgT
+neU9kajlAYIN
+-----END CERTIFICATE-----
+

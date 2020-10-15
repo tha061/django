@@ -1,0 +1,76 @@
+{
+  "name": "com.venninteractive.ssketo",
+  "fileSize": "11.0 MB",
+  "VTmd5": "5d4273295e1ed79c40acf7811441c38e",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/3944120cdf7cf0c0e0a653abc67e55ae98452a2326f6cc33d876ddfebff732e0/detection/f-3944120cdf7cf0c0e0a653abc67e55ae98452a2326f6cc33d876ddfebff732e0-1594122953",
+  "VTresource": "3944120cdf7cf0c0e0a653abc67e55ae98452a2326f6cc33d876ddfebff732e0",
+  "VTresponsecode": 1,
+  "VTscanID": "3944120cdf7cf0c0e0a653abc67e55ae98452a2326f6cc33d876ddfebff732e0-1594122953",
+  "VTsha1": "1db482cf8f89780549945981f1c7c846579cf255",
+  "VTsha256": "3944120cdf7cf0c0e0a653abc67e55ae98452a2326f6cc33d876ddfebff732e0",
+  "VTtotal": 61,
+  "VTpositives": 1,
+  "VTratio": "0.01639344262295082",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.stansassets.android.app.notifications.AN_AlarmNotificationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "12 October 2020",
+    "Size": "21M",
+    "Installs": "500000",
+    "Current Version": "6.4.3",
+    "Requires Android": "4.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$4.99 \u2013 $299.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Venn Interactive Inc.",
+    "Developer": "Visit website support@venninteractive.com Privacy Policy 1267 Willis St.\nSTE 200\nRedding, CA 96001"
+  },
+  "rating": "4.3",
+  "description": "Lose weight and keep it off with Stupid Simple Keto, the easiest-to-use carb and macros counter for people on the ketogenic diet or for those looking to lose weight. Why count carbs instead of calories? Most people fail on low carbohydrate diets due to cheat meals that ruin their progress.  Stupid Simple Keto helps you avoid problematic carbohydrates so that you can finally succeed.  With the right foods, you can lose weight, feel great, and remain full all day long! The diet itself is similar to an Atkins diet, but based heavily on human biology. FEATURES: \u2022\u2003Simple food icons for logging your daily carbs and calories. \u2022\u2003Track your progress over time and set daily goals. \u2022\u2003Tracks all of your food macros, fat, protein, as well as carbs. \u2022\u2003Take secure selfies and visually track your progress! \u2022\u2003The barcode scanner lets you add food in a snap. \u2022\u2003Sync between devices for free. \u2022\u2003Food bank conserves calories for special events.   \u2022\u2003Add custom foods. \u2022\u2003Helpful warnings when you approach your daily carb/fat/protein limit. \u2022\u2003Change portion sizes on the fly. \u2022\u2003Easily review your daily foods.     \u2022\u2003Helps you learn new habits, eat right, and ultimately keep the weight off. \u2022\u2003Track your daily water intake too! Try it today, it's free! You have nothing to lose but the fat.",
+  "privacyText": "http://www.mystupidsimpleapp.com/privacy",
+  "numInstalls": 500000,
+  "developer": "Venn Interactive Inc.",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.mystupidsimpleapp.com",
+    "Developer Email": "support@venninteractive.com",
+    "Privacy Policy": "http://www.mystupidsimpleapp.com/privacy"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Unity3d",
+    "Unity Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,78 @@
+{
+  "name": "com.fitness22.meditation",
+  "fileSize": "43.4 MB",
+  "VTmd5": "88d0eea86c0869d5427a94cd2f0c5ccd",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/6e4ed5d5e96291a87eab58d6f06528f6320117293e3ab330aa23109d695b126d/detection/f-6e4ed5d5e96291a87eab58d6f06528f6320117293e3ab330aa23109d695b126d-1573527049",
+  "VTresource": "6e4ed5d5e96291a87eab58d6f06528f6320117293e3ab330aa23109d695b126d",
+  "VTresponsecode": 1,
+  "VTscanID": "6e4ed5d5e96291a87eab58d6f06528f6320117293e3ab330aa23109d695b126d-1573527049",
+  "VTsha1": "2061d725870d574bf1b065ab7144ce1b0557f1e9",
+  "VTsha256": "6e4ed5d5e96291a87eab58d6f06528f6320117293e3ab330aa23109d695b126d",
+  "VTtotal": 49,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.fitness22.meditation.manager.sound.SoundService  permission: ",
+      "name: com.fitness22.meditation.manager.download.DownloadManager  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.CampaignTrackingService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "16 October 2018",
+    "Size": "Varies with device",
+    "Installs": "1000000",
+    "Current Version": "3.620",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u2013 $39.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fitness22",
+    "Developer": "Visit website support@fitness22.com Privacy Policy 20 HaMagshimim St Petach Tikvah, 4934829, Israel"
+  },
+  "rating": "4.7",
+  "description": "Learn to meditate and get amazing results: relax, calm and center yourself, focus easily, sleep better, and live an overall happier life. In 7 days, we will teach you to meditate using the simplest and most effective meditation & mindfulness techniques. Meditation has been proven to help relieve anxiety & stress, sleep better, focus more easily and increase self esteem & happiness. Most importantly - meditation will significantly improve your quality of life. Meditation Programs: \u25cf 7 Days meditation for beginners \u25cf 14 Day advanced meditation  \u25cf 7 Days to stress relief \u25cf 7 Days to focus \u25cf 7 Days to better sleep \u25cf 7 Days to self esteem \u25cf 7 Days to happiness Meditation Sessions of varying length for: \u25cf Sleeping Better \u25cf Concentration & Focus \u25cf Loving yourself & Others \u25cf Forgiveness \u25cf Calm  \u25cf Body Scans \u25cf Get inspired with real life success stories  https://www.facebook.com/fitness22.apps  https://www.fitness22.com ----- CONTACT US ----- Dear customers, we are here for you!  Got Questions? Comments? Ideas?  support@fitness22.com",
+  "privacyText": "https://www.fitness22.com/privacy-policy",
+  "numInstalls": 1000000,
+  "developer": "Fitness22",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://fitness22.com",
+    "Developer Email": "support@fitness22.com",
+    "Privacy Policy": "https://www.fitness22.com/privacy-policy"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Facebook",
+    "Google Ads",
+    "Google Analytics",
+    "Mixpanel"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

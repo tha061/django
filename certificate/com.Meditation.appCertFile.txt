@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1447269433 (0x56439439)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CA, ST=Quebec, L=Montreal, O=OMG I Can Meditate, CN=Pierre Lelann
+        Validity
+            Not Before: Nov 11 19:17:13 2015 GMT
+            Not After : Nov  4 19:17:13 2040 GMT
+        Subject: C=CA, ST=Quebec, L=Montreal, O=OMG I Can Meditate, CN=Pierre Lelann
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:90:fd:b6:5b:c9:57:7b:3a:ef:0c:8c:2e:24:ad:
+                    af:13:aa:4e:71:91:3e:51:c8:bd:10:84:a0:c7:0b:
+                    2f:6e:d2:f9:59:84:85:67:e2:1f:e2:b6:03:62:bf:
+                    d1:0b:4b:18:b2:5a:9d:95:31:aa:22:14:d3:d5:bd:
+                    02:e2:08:d4:15:f0:26:a2:60:fd:e5:0d:b9:33:c6:
+                    f7:b1:23:8c:05:e2:83:dd:b6:e0:c0:de:66:cf:67:
+                    58:d7:e9:cc:73:ec:55:49:84:43:e8:8b:9e:a7:98:
+                    4e:81:85:f7:3c:45:ce:5f:5a:3d:e0:a8:36:21:45:
+                    6a:af:8a:fb:62:4d:f1:41:13
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         0d:ef:b1:9e:7c:9b:dd:e3:65:d2:75:f3:5e:aa:d3:e1:02:c9:
+         92:83:eb:73:d4:da:9b:97:f0:0e:f9:ff:b3:56:79:7d:91:cc:
+         f6:b5:ba:25:c1:a6:23:e1:c1:4e:61:64:93:0c:07:e4:6b:a3:
+         74:28:51:12:88:8c:0f:a9:23:bf:fa:a0:93:44:8c:70:15:42:
+         e9:6d:49:b5:61:33:d2:16:4b:87:02:a3:af:11:a0:b5:6c:70:
+         da:4f:83:f3:32:47:e9:28:f7:7f:20:a9:42:d5:97:59:80:c1:
+         48:81:41:ac:fb:7c:05:6f:b8:69:5b:e2:64:98:d3:e0:24:de:
+         98:4a
+-----BEGIN CERTIFICATE-----
+MIICQzCCAaygAwIBAgIEVkOUOTANBgkqhkiG9w0BAQUFADBmMQswCQYDVQQGEwJD
+QTEPMA0GA1UECBMGUXVlYmVjMREwDwYDVQQHEwhNb250cmVhbDEbMBkGA1UEChMS
+T01HIEkgQ2FuIE1lZGl0YXRlMRYwFAYDVQQDEw1QaWVycmUgTGVsYW5uMB4XDTE1
+MTExMTE5MTcxM1oXDTQwMTEwNDE5MTcxM1owZjELMAkGA1UEBhMCQ0ExDzANBgNV
+BAgTBlF1ZWJlYzERMA8GA1UEBxMITW9udHJlYWwxGzAZBgNVBAoTEk9NRyBJIENh
+biBNZWRpdGF0ZTEWMBQGA1UEAxMNUGllcnJlIExlbGFubjCBnzANBgkqhkiG9w0B
+AQEFAAOBjQAwgYkCgYEAkP22W8lXezrvDIwuJK2vE6pOcZE+Uci9EISgxwsvbtL5
+WYSFZ+If4rYDYr/RC0sYslqdlTGqIhTT1b0C4gjUFfAmomD95Q25M8b3sSOMBeKD
+3bbgwN5mz2dY1+nMc+xVSYRD6Iuep5hOgYX3PEXOX1o94Kg2IUVqr4r7Yk3xQRMC
+AwEAATANBgkqhkiG9w0BAQUFAAOBgQAN77GefJvd42XSdfNeqtPhAsmSg+tz1Nqb
+l/AO+f+zVnl9kcz2tbolwaYj4cFOYWSTDAfka6N0KFESiIwPqSO/+qCTRIxwFULp
+bUm1YTPSFkuHAqOvEaC1bHDaT4PzMkfpKPd/IKlC1ZdZgMFIgUGs+3wFb7hpW+Jk
+mNPgJN6YSg==
+-----END CERTIFICATE-----
+

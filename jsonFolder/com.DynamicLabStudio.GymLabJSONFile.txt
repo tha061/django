@@ -1,0 +1,74 @@
+{
+  "name": "com.DynamicLabStudio.GymLab",
+  "fileSize": "68.6 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "31 August 2020",
+    "Size": "68M",
+    "Installs": "10000",
+    "Current Version": "0.21",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$1.49 \u2013 $3.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Dynamic Lab",
+    "Developer": "Visit website info@dynamic-lab.ru Privacy Policy Utrennyaya 2/51, 111394"
+  },
+  "rating": "4.3",
+  "description": "We have created a convenient and universal application for athletes of any gender, age and level of training. This tool will help in achieving the goals men and women who want to develop strength, gain muscle mass, lose weight or just keep their muscles in good shape through independent workouts in the gym or at home. What is a Gym Lab? \u2022 This is a convenient  3D exercise base . Now you have an amazing opportunity to learn the technique of doing the exercises as effectively as possible using the example of a 3D human model. All animations are created using the technology  Motion Caption  with the participation of existing athletes. \u2022 A smart  personal training plan  algorithm based on the experience of professional  WORLD CLASS  trainers. It does not matter whether you want to develop strength, gain muscle mass or lose weight, all you need to do is specify a few parameters. \u2022 Convenient  diary for keeping records of your workouts  with extensive functionality. Export your training plans to your diary and create new trainings with the click of a button. \u2022  Calorie Calculator  will help you make the right diet. Get valuable nutritional advice, following which you will greatly increase the effectiveness of your workouts. Thank you for your interest in our application! Regards,  Dynamic Lab Studio \u00a9 .",
+  "privacyText": "http://dynamic-lab.ru/gym_lab_privacy_policy",
+  "numInstalls": 10000,
+  "developer": "Dynamic Lab",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://dynamic-lab.ru",
+    "Developer Email": "info@dynamic-lab.ru",
+    "Privacy Policy": "http://dynamic-lab.ru/gym_lab_privacy_policy"
+  },
+  "smali_Directories": [
+    "Admob",
+    "Google Ads",
+    "Unity3d"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

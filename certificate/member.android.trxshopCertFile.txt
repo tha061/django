@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2029215443 (0x78f35ed3)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=California, L=San Francisco, O=Fitness Anywhere, LLC, OU=Unknown, CN=Dan Gross
+        Validity
+            Not Before: Aug 27 11:16:31 2015 GMT
+            Not After : Jan 12 11:16:31 2043 GMT
+        Subject: C=US, ST=California, L=San Francisco, O=Fitness Anywhere, LLC, OU=Unknown, CN=Dan Gross
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9d:22:39:43:6a:3c:cb:75:fa:73:92:36:cb:1e:
+                    94:c7:6d:7e:25:a7:90:a6:cb:17:f1:17:76:e3:3a:
+                    5f:ca:cc:7b:65:64:60:30:73:34:86:28:fc:2d:25:
+                    07:ec:c8:4d:90:d2:f4:a9:f0:21:c3:1d:e1:fb:ad:
+                    36:8c:1e:24:0d:a0:f8:1a:cc:65:06:92:21:bd:52:
+                    96:f5:b9:92:ce:01:81:a5:30:0e:8a:7e:85:48:f6:
+                    5c:86:3c:54:33:61:3b:46:82:91:0c:28:eb:99:ce:
+                    5b:7e:40:80:b8:1f:61:f1:f9:b0:fd:06:b0:f0:99:
+                    0d:8e:93:fd:9c:3b:58:e7:d8:7f:af:79:73:43:b4:
+                    4d:09:b5:2d:c3:38:5d:96:9f:64:c1:7b:8c:41:2f:
+                    28:f5:a2:91:4b:77:4f:42:53:5e:f1:0e:25:8b:77:
+                    f0:15:96:bc:72:7c:1d:fd:7f:53:ef:c2:6b:a8:59:
+                    44:c6:19:05:5f:56:38:c9:7c:d0:56:3b:0e:76:20:
+                    ea:10:9e:1d:fe:2e:11:8c:3d:3d:24:ed:2b:32:d1:
+                    13:e2:90:90:a0:08:6e:16:3b:87:72:b6:22:ae:32:
+                    00:eb:63:7b:49:66:e7:07:7d:c0:71:bf:21:ce:3f:
+                    5b:b8:5a:68:ca:ee:1d:7a:14:f7:e6:a8:19:ca:f7:
+                    9d:79
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                AC:62:15:98:DE:B3:5D:9A:02:D3:37:4F:85:F2:9B:66:20:F5:EF:85
+    Signature Algorithm: sha256WithRSAEncryption
+         85:01:f8:d6:21:ca:b3:ca:66:38:9f:0a:b8:90:59:06:f4:6b:
+         fe:7c:b3:d2:2a:16:9c:5d:b1:e8:33:57:a5:c2:b0:25:76:49:
+         90:55:7f:bc:91:f6:78:d0:d9:a2:7c:3e:6f:84:59:43:03:32:
+         77:c2:96:f3:17:1c:0c:c9:3d:2d:8e:07:3b:1f:51:6f:bb:10:
+         09:c1:d4:3c:1e:80:00:f8:8d:c4:79:59:37:83:6c:40:fb:34:
+         7c:69:95:b4:25:9f:79:c9:bb:88:4b:4b:38:bc:5e:13:3c:f8:
+         14:e4:34:86:02:8a:a8:ac:61:87:05:0f:44:f6:46:bd:c3:17:
+         82:81:4a:4f:86:19:42:a9:43:12:1b:d9:5c:ea:dc:94:d6:56:
+         59:86:2d:98:ec:db:e2:fa:13:a4:11:da:dc:b5:24:36:1b:2c:
+         f7:8a:af:a7:48:c1:06:bb:f2:e6:24:54:a5:c2:12:e9:df:30:
+         6a:00:4a:1c:02:ea:03:9d:b4:bd:c3:30:50:be:5a:24:f4:d7:
+         b8:dc:1a:b2:c9:1b:ee:30:85:5a:df:24:b8:14:a6:b1:7e:0b:
+         1d:be:d5:38:d6:2a:83:56:83:df:d5:72:8c:b8:b6:99:31:0b:
+         00:26:9c:00:b1:94:11:cf:74:34:aa:0e:1b:3e:48:c9:03:1c:
+         bb:b6:87:fe
+-----BEGIN CERTIFICATE-----
+MIIDoTCCAomgAwIBAgIEePNe0zANBgkqhkiG9w0BAQsFADCBgDELMAkGA1UEBhMC
+VVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNhbiBGcmFuY2lzY28x
+HjAcBgNVBAoTFUZpdG5lc3MgQW55d2hlcmUsIExMQzEQMA4GA1UECxMHVW5rbm93
+bjESMBAGA1UEAxMJRGFuIEdyb3NzMB4XDTE1MDgyNzExMTYzMVoXDTQzMDExMjEx
+MTYzMVowgYAxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYD
+VQQHEw1TYW4gRnJhbmNpc2NvMR4wHAYDVQQKExVGaXRuZXNzIEFueXdoZXJlLCBM
+TEMxEDAOBgNVBAsTB1Vua25vd24xEjAQBgNVBAMTCURhbiBHcm9zczCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ0iOUNqPMt1+nOSNsselMdtfiWnkKbL
+F/EXduM6X8rMe2VkYDBzNIYo/C0lB+zITZDS9KnwIcMd4futNoweJA2g+BrMZQaS
+Ib1SlvW5ks4BgaUwDop+hUj2XIY8VDNhO0aCkQwo65nOW35AgLgfYfH5sP0GsPCZ
+DY6T/Zw7WOfYf695c0O0TQm1LcM4XZafZMF7jEEvKPWikUt3T0JTXvEOJYt38BWW
+vHJ8Hf1/U+/Ca6hZRMYZBV9WOMl80FY7DnYg6hCeHf4uEYw9PSTtKzLRE+KQkKAI
+bhY7h3K2Iq4yAOtje0lm5wd9wHG/Ic4/W7haaMruHXoU9+aoGcr3nXkCAwEAAaMh
+MB8wHQYDVR0OBBYEFKxiFZjes12aAtM3T4Xym2Yg9e+FMA0GCSqGSIb3DQEBCwUA
+A4IBAQCFAfjWIcqzymY4nwq4kFkG9Gv+fLPSKhacXbHoM1elwrAldkmQVX+8kfZ4
+0NmifD5vhFlDAzJ3wpbzFxwMyT0tjgc7H1FvuxAJwdQ8HoAA+I3EeVk3g2xA+zR8
+aZW0JZ95ybuIS0s4vF4TPPgU5DSGAoqorGGHBQ9E9ka9wxeCgUpPhhlCqUMSG9lc
+6tyU1lZZhi2Y7Nvi+hOkEdrctSQ2Gyz3iq+nSMEGu/LmJFSlwhLp3zBqAEocAuoD
+nbS9wzBQvlok9Ne43BqyyRvuMIVa3yS4FKaxfgsdvtU41iqDVoPf1XKMuLaZMQsA
+JpwAsZQRz3Q0qg4bPkjJAxy7tof+
+-----END CERTIFICATE-----
+

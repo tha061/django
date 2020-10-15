@@ -1,0 +1,75 @@
+{
+  "name": "com.period.tracker.menstrual.calendar",
+  "fileSize": "6.4 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.period.tracker.menstrual.calendar.service.NotificationService  permission: ",
+      "name: com.period.tracker.menstrual.calendar.service.KeepLiveService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.carmelo.library.KeepLiveManager$GrayInnerService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "10 January 2020",
+    "Size": "6.4M",
+    "Installs": "10000",
+    "Current Version": "1.2.3.1",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "ApaulG",
+    "Developer": "zhengxiaojun2333@gmail.com Privacy Policy"
+  },
+  "rating": "4.6",
+  "description": "Minna Period Calendar is a free menstrual tracker to help track and record your menstruation and ovulation. \ud83c\udfa8Free, simple & smart\u00a0Period Tracker & Calendar for feminine care, easily track your period and give you the professional health report.\u00a0 Use Minna to remind of your period, PMS, ovulation and fertility. - \ud83d\udc57Menstrual tracker\ud83d\udc57 Tracking the start and end of menstruation, Minna will help you better understand your body. - \ud83c\udf70Accurate analysis\ud83c\udf70 Want to know your pregnancy chance during menstruation? Minna can tell you the exact chance of pregnancy through a powerful calculator, whether you want to get pregnant or not. - \ud83d\udcc8Personal health diary\ud83d\udcc8 Record your menstrual flow and pain status during menstruation and create your private menstrual notes. - \u2744\ufe0fPhysical condition recorder\u2744\ufe0f With a click, you can record your weight and mood. Never lose control of your figure. - \u23f0Next menstrual reminder\u23f0 Inform you of the next time of menstruation and ovulation, so that you are fully prepared.",
+  "privacyText": "https://docs.google.com/document/d/1F5nuc1e3nwvTl9qc2-k44QW6yd-RkIA50HA8_0GNkTQ/edit",
+  "numInstalls": 10000,
+  "developer": "ApaulG",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://docs.google.com/document/d/1F5nuc1e3nwvTl9qc2-k44QW6yd-RkIA50HA8_0GNkTQ/edit",
+    "Developer Email": "zhengxiaojun2333@gmail.com",
+    "Privacy Policy": "https://docs.google.com/document/d/1F5nuc1e3nwvTl9qc2-k44QW6yd-RkIA50HA8_0GNkTQ/edit"
+  },
+  "smali_Directories": [
+    "Perk",
+    "Tencent"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

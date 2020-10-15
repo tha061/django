@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1310890811 (0x4e229b3b)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=Konrad Thiering, O=Summfit GmbH, L=Munich, ST=Bavaria, C=DE
+        Validity
+            Not Before: Nov 14 09:05:35 2016 GMT
+            Not After : Mar 17 09:05:35 3016 GMT
+        Subject: CN=Konrad Thiering, O=Summfit GmbH, L=Munich, ST=Bavaria, C=DE
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a0:fb:0c:d9:ab:24:aa:29:73:a9:b2:29:d9:3f:
+                    64:d2:eb:91:ba:a7:db:f2:ab:bd:10:93:39:de:14:
+                    f6:43:c2:da:5c:ce:a3:16:8d:ff:64:f4:14:05:ce:
+                    e4:ab:b0:39:a8:91:a9:80:d8:a3:8e:6c:08:ac:3f:
+                    bb:a4:ff:72:d6:86:12:cf:e3:e3:49:bd:bf:79:9b:
+                    bd:ba:85:55:c7:53:a3:87:4c:b7:93:cd:70:9d:02:
+                    af:41:6e:21:5c:b7:dd:17:f5:e5:b2:bb:3d:13:7c:
+                    68:e4:b3:ae:34:f5:bb:68:77:8b:0b:91:82:8e:0e:
+                    b5:49:7e:d3:95:02:52:56:ad
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         8a:fa:e4:82:fd:9d:3f:61:6a:21:90:a2:ab:dd:14:33:92:6a:
+         62:f2:4e:d1:1a:91:48:2b:72:5b:af:db:12:e7:a0:73:df:4a:
+         00:c8:55:ba:8a:8f:7a:74:8f:d2:32:07:8a:b6:3b:a9:37:72:
+         19:26:ef:88:af:99:1f:e7:75:da:f4:1a:35:ae:0d:58:e0:63:
+         f7:63:12:20:c2:2c:16:89:8d:55:05:ce:4a:b8:00:d4:f4:e4:
+         38:f8:0f:1a:7d:11:2b:25:ff:e5:d9:98:f2:c1:c8:23:d2:f8:
+         06:0f:37:a1:3a:2d:eb:89:91:0d:9d:ab:31:0b:a5:12:9a:b8:
+         6a:61
+-----BEGIN CERTIFICATE-----
+MIICOzCCAaSgAwIBAgIETiKbOzANBgkqhkiG9w0BAQUFADBhMRgwFgYDVQQDDA9L
+b25yYWQgVGhpZXJpbmcxFTATBgNVBAoMDFN1bW1maXQgR21iSDEPMA0GA1UEBwwG
+TXVuaWNoMRAwDgYDVQQIDAdCYXZhcmlhMQswCQYDVQQGEwJERTAgFw0xNjExMTQw
+OTA1MzVaGA8zMDE2MDMxNzA5MDUzNVowYTEYMBYGA1UEAwwPS29ucmFkIFRoaWVy
+aW5nMRUwEwYDVQQKDAxTdW1tZml0IEdtYkgxDzANBgNVBAcMBk11bmljaDEQMA4G
+A1UECAwHQmF2YXJpYTELMAkGA1UEBhMCREUwgZ8wDQYJKoZIhvcNAQEBBQADgY0A
+MIGJAoGBAKD7DNmrJKopc6myKdk/ZNLrkbqn2/KrvRCTOd4U9kPC2lzOoxaN/2T0
+FAXO5KuwOaiRqYDYo45sCKw/u6T/ctaGEs/j40m9v3mbvbqFVcdTo4dMt5PNcJ0C
+r0FuIVy33Rf15bK7PRN8aOSzrjT1u2h3iwuRgo4OtUl+05UCUlatAgMBAAEwDQYJ
+KoZIhvcNAQEFBQADgYEAivrkgv2dP2FqIZCiq90UM5JqYvJO0RqRSCtyW6/bEueg
+c99KAMhVuoqPenSP0jIHirY7qTdyGSbviK+ZH+d12vQaNa4NWOBj92MSIMIsFomN
+VQXOSrgA1PTkOPgPGn0RKyX/5dmY8sHII9L4Bg83oTot64mRDZ2rMQulEpq4amE=
+-----END CERTIFICATE-----
+

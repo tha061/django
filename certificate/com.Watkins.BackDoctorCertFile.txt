@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1194475316 (0x47323f34)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=Robert Watkins, O=Robert Watkins, L=Marina Del Rey, ST=CA, C=90292
+        Validity
+            Not Before: Feb 19 04:49:25 2017 GMT
+            Not After : Feb  7 04:49:25 2067 GMT
+        Subject: CN=Robert Watkins, O=Robert Watkins, L=Marina Del Rey, ST=CA, C=90292
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c3:9b:3e:29:9c:47:71:c0:b7:a1:8b:98:94:06:
+                    af:aa:6e:2c:63:32:be:00:12:d3:c2:10:55:fa:73:
+                    e6:9b:f4:18:98:1f:31:b5:79:7d:13:e7:3d:2a:cd:
+                    ea:12:5d:a5:c3:85:65:21:96:e1:a5:b2:b0:95:00:
+                    fb:78:c3:8f:7d:84:7e:3c:84:f0:c6:6d:d9:94:8c:
+                    2d:bc:5c:29:df:6d:bb:a2:e1:ac:89:6e:20:d7:bc:
+                    7e:08:04:b1:ec:d3:f0:bc:7d:03:0d:08:12:1c:be:
+                    4f:0e:02:80:55:a6:9a:1e:c2:da:df:a7:26:b4:6f:
+                    53:d6:65:99:aa:84:62:c8:9f
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         22:c4:a2:9a:c1:1a:24:9f:87:b6:44:77:74:01:3b:79:9a:b8:
+         8b:91:58:11:39:58:82:56:f8:d1:e0:dd:0d:c1:c7:7c:d9:90:
+         9b:a9:29:00:6f:73:27:f2:e3:05:16:ca:40:c2:68:09:7d:4e:
+         e4:57:73:a6:33:c0:46:cf:d8:0f:d6:80:be:b0:3e:41:63:59:
+         ae:15:db:3c:ec:78:02:7b:44:4a:91:e1:22:42:76:2e:f5:96:
+         a4:b5:06:6c:0f:a9:ec:f6:5a:ad:43:06:4f:36:84:e9:84:35:
+         13:64:44:d6:b7:0b:b1:37:a4:dc:db:07:f9:67:de:a6:29:5c:
+         68:1c
+-----BEGIN CERTIFICATE-----
+MIICSTCCAbKgAwIBAgIERzI/NDANBgkqhkiG9w0BAQUFADBoMRcwFQYDVQQDDA5S
+b2JlcnQgV2F0a2luczEXMBUGA1UECgwOUm9iZXJ0IFdhdGtpbnMxFzAVBgNVBAcM
+Dk1hcmluYSBEZWwgUmV5MQswCQYDVQQIDAJDQTEOMAwGA1UEBhMFOTAyOTIwIBcN
+MTcwMjE5MDQ0OTI1WhgPMjA2NzAyMDcwNDQ5MjVaMGgxFzAVBgNVBAMMDlJvYmVy
+dCBXYXRraW5zMRcwFQYDVQQKDA5Sb2JlcnQgV2F0a2luczEXMBUGA1UEBwwOTWFy
+aW5hIERlbCBSZXkxCzAJBgNVBAgMAkNBMQ4wDAYDVQQGEwU5MDI5MjCBnzANBgkq
+hkiG9w0BAQEFAAOBjQAwgYkCgYEAw5s+KZxHccC3oYuYlAavqm4sYzK+ABLTwhBV
++nPmm/QYmB8xtXl9E+c9Ks3qEl2lw4VlIZbhpbKwlQD7eMOPfYR+PITwxm3ZlIwt
+vFwp3227ouGsiW4g17x+CASx7NPwvH0DDQgSHL5PDgKAVaaaHsLa36cmtG9T1mWZ
+qoRiyJ8CAwEAATANBgkqhkiG9w0BAQUFAAOBgQAixKKawRokn4e2RHd0ATt5mriL
+kVgROViCVvjR4N0Nwcd82ZCbqSkAb3Mn8uMFFspAwmgJfU7kV3OmM8BGz9gP1oC+
+sD5BY1muFds87HgCe0RKkeEiQnYu9ZaktQZsD6ns9lqtQwZPNoTphDUTZETWtwux
+N6Tc2wf5Z96mKVxoHA==
+-----END CERTIFICATE-----
+

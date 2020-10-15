@@ -1,0 +1,51 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1372430027 (0x51cd9ecb)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=IT, ST=FC, L=via Calcinaro 2861 \xE2\x80\x93 47522 Cesena (FC), O=Technogym S.p.A., OU=Dep. Technogym Network, CN=Fabrizio Giudici
+        Validity
+            Not Before: Jun 28 14:33:47 2013 GMT
+            Not After : Jun 16 14:33:47 2063 GMT
+        Subject: C=IT, ST=FC, L=via Calcinaro 2861 \xE2\x80\x93 47522 Cesena (FC), O=Technogym S.p.A., OU=Dep. Technogym Network, CN=Fabrizio Giudici
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:bd:42:62:ae:74:25:92:ad:25:0e:c1:79:1a:30:
+                    58:1c:02:29:af:fe:35:22:88:de:c2:4c:6d:43:2c:
+                    fe:5c:6c:77:e3:e8:5a:f9:2e:6c:e5:19:bc:0d:f9:
+                    fc:72:98:38:cd:a7:47:e3:0b:1d:96:eb:62:5b:95:
+                    01:1e:9a:3d:7e:2d:d7:91:25:e5:5b:b3:5d:78:f1:
+                    62:c1:5e:73:cf:c1:26:d3:32:6a:30:4a:a3:1d:4c:
+                    98:f5:21:6e:60:23:4e:98:c3:ee:73:d1:de:b3:14:
+                    32:81:07:c7:b8:c5:1b:4a:ee:dc:39:5f:53:f6:d3:
+                    f4:1c:33:85:2d:f7:48:59:bb
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         90:92:23:d4:30:db:a5:cf:a9:5f:80:c5:2c:92:e5:79:eb:31:
+         de:73:3b:01:5f:d1:d4:08:02:20:74:73:f3:3b:04:46:28:1d:
+         74:f0:ea:41:13:9c:32:86:bd:ee:fe:55:2d:36:00:6e:2e:36:
+         8f:2b:30:53:27:71:88:c9:1e:c4:8e:d2:89:b0:63:02:d1:da:
+         f9:61:69:cf:6b:4d:59:09:4f:d2:93:00:4d:f0:7a:fa:0e:3a:
+         62:31:66:68:3f:cb:f8:b4:0b:28:30:f0:0c:8a:93:fb:c6:37:
+         6c:e8:04:9e:7d:58:35:bd:ff:37:b6:ff:c2:2e:dc:04:32:3f:
+         a6:43
+-----BEGIN CERTIFICATE-----
+MIICwzCCAiygAwIBAgIEUc2eyzANBgkqhkiG9w0BAQUFADCBpDELMAkGA1UEBhMC
+SVQxCzAJBgNVBAgTAkZDMTEwLwYDVQQHDCh2aWEgQ2FsY2luYXJvIDI4NjEg4oCT
+IDQ3NTIyIENlc2VuYSAoRkMpMRkwFwYDVQQKExBUZWNobm9neW0gUy5wLkEuMR8w
+HQYDVQQLExZEZXAuIFRlY2hub2d5bSBOZXR3b3JrMRkwFwYDVQQDExBGYWJyaXpp
+byBHaXVkaWNpMCAXDTEzMDYyODE0MzM0N1oYDzIwNjMwNjE2MTQzMzQ3WjCBpDEL
+MAkGA1UEBhMCSVQxCzAJBgNVBAgTAkZDMTEwLwYDVQQHDCh2aWEgQ2FsY2luYXJv
+IDI4NjEg4oCTIDQ3NTIyIENlc2VuYSAoRkMpMRkwFwYDVQQKExBUZWNobm9neW0g
+Uy5wLkEuMR8wHQYDVQQLExZEZXAuIFRlY2hub2d5bSBOZXR3b3JrMRkwFwYDVQQD
+ExBGYWJyaXppbyBHaXVkaWNpMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9
+QmKudCWSrSUOwXkaMFgcAimv/jUiiN7CTG1DLP5cbHfj6Fr5LmzlGbwN+fxymDjN
+p0fjCx2W62JblQEemj1+LdeRJeVbs1148WLBXnPPwSbTMmowSqMdTJj1IW5gI06Y
+w+5z0d6zFDKBB8e4xRtK7tw5X1P20/QcM4Ut90hZuwIDAQABMA0GCSqGSIb3DQEB
+BQUAA4GBAJCSI9Qw26XPqV+AxSyS5XnrMd5zOwFf0dQIAiB0c/M7BEYoHXTw6kET
+nDKGve7+VS02AG4uNo8rMFMncYjJHsSO0omwYwLR2vlhac9rTVkJT9KTAE3wevoO
+OmIxZmg/y/i0Cygw8AyKk/vGN2zoBJ59WDW9/ze2/8Iu3AQyP6ZD
+-----END CERTIFICATE-----
+

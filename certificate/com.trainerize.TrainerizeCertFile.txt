@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1395200642 (0x53291282)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CA, ST=BC, L=Vancouver, O=Trainerize, OU=Trainerize, CN=John La
+        Validity
+            Not Before: Mar 19 03:44:02 2014 GMT
+            Not After : Aug  4 03:44:02 2041 GMT
+        Subject: C=CA, ST=BC, L=Vancouver, O=Trainerize, OU=Trainerize, CN=John La
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:99:ba:4c:b9:46:80:83:5c:57:ee:39:f2:2b:07:
+                    22:23:e2:d4:37:2c:2b:36:bf:81:54:df:95:62:d7:
+                    30:b6:33:ae:10:7a:17:05:5a:de:fe:87:89:d4:4f:
+                    9a:da:a9:1d:24:a0:4b:97:d1:0f:32:cc:94:ea:94:
+                    76:db:fc:70:bb:4b:01:d8:8f:90:97:56:20:60:69:
+                    57:51:b1:fc:5b:e4:8a:f5:5f:57:78:1f:76:0b:e6:
+                    80:db:3f:b4:bd:63:75:1a:2e:f5:44:46:16:b3:15:
+                    65:19:f6:f7:c4:28:93:68:8c:5f:d2:53:88:58:68:
+                    b1:c5:a5:7e:c0:42:a4:4d:91
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         14:92:49:f7:81:ea:4e:a2:55:e4:fa:72:9d:2b:53:75:c5:dc:
+         9c:a7:3f:ab:45:c2:39:28:b9:63:6d:62:85:9b:64:0c:20:9d:
+         ef:06:a9:c0:c5:d3:18:e4:24:23:36:59:98:f9:5e:31:40:c6:
+         e3:51:f8:19:15:c6:99:cf:e8:03:12:d3:6f:12:4d:5c:b7:66:
+         53:36:e9:fb:cf:41:9b:56:54:8a:35:b4:5e:71:dc:5d:03:30:
+         db:96:41:45:a3:a5:93:fb:58:35:42:6c:91:d2:c0:3a:93:77:
+         d4:b3:db:41:f0:19:33:d5:20:15:cc:8e:f8:7f:77:2b:7e:ee:
+         c3:5d
+-----BEGIN CERTIFICATE-----
+MIICSzCCAbSgAwIBAgIEUykSgjANBgkqhkiG9w0BAQUFADBqMQswCQYDVQQGEwJD
+QTELMAkGA1UECBMCQkMxEjAQBgNVBAcTCVZhbmNvdXZlcjETMBEGA1UEChMKVHJh
+aW5lcml6ZTETMBEGA1UECxMKVHJhaW5lcml6ZTEQMA4GA1UEAxMHSm9obiBMYTAe
+Fw0xNDAzMTkwMzQ0MDJaFw00MTA4MDQwMzQ0MDJaMGoxCzAJBgNVBAYTAkNBMQsw
+CQYDVQQIEwJCQzESMBAGA1UEBxMJVmFuY291dmVyMRMwEQYDVQQKEwpUcmFpbmVy
+aXplMRMwEQYDVQQLEwpUcmFpbmVyaXplMRAwDgYDVQQDEwdKb2huIExhMIGfMA0G
+CSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZuky5RoCDXFfuOfIrByIj4tQ3LCs2v4FU
+35Vi1zC2M64QehcFWt7+h4nUT5raqR0koEuX0Q8yzJTqlHbb/HC7SwHYj5CXViBg
+aVdRsfxb5Ir1X1d4H3YL5oDbP7S9Y3UaLvVERhazFWUZ9vfEKJNojF/SU4hYaLHF
+pX7AQqRNkQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBABSSSfeB6k6iVeT6cp0rU3XF
+3JynP6tFwjkouWNtYoWbZAwgne8GqcDF0xjkJCM2WZj5XjFAxuNR+BkVxpnP6AMS
+028STVy3ZlM26fvPQZtWVIo1tF5x3F0DMNuWQUWjpZP7WDVCbJHSwDqTd9Sz20Hw
+GTPVIBXMjvh/dyt+7sNd
+-----END CERTIFICATE-----
+

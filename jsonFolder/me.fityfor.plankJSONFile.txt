@@ -1,0 +1,83 @@
+{
+  "name": "me.fityfor.plank",
+  "fileSize": "12.0 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.RECORD_AUDIO Protection Level: dangerous",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.play.core.assetpacks.AssetPackExtractionService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "20 August 2020",
+    "Size": "12M",
+    "Installs": "1000000",
+    "Current Version": "7.2.3",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.49 \u2013 $21.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "fitfit.am",
+    "Developer": "Visit website support@fitfit.am Privacy Policy \u0423\u043b\u0438\u0446\u0430 \u041c\u0438\u043a\u043b\u0443\u0445\u043e-\u041c\u0430\u043a\u043b\u0430\u044f \u0434\u043e\u043c 21"
+  },
+  "rating": "4.8",
+  "description": "By maintaining a push-up position for several minutes with some variations you can find your way to perfectly flat abs and a strong core. Plank app will guide you through 10 increasing levels, that will train your body to gain strength.  No other physical exercise is needed when you can have different types of planks, as plank makes every single muscle in your bodywork. Learn the correct technique and get your challenge. Plank will improve your all muscle groups arms, abdominals, back, chest, butt & legs also it can be used for abs workout, arm workout, biceps exercises & triceps exercises 7-minute workout a day and you six-pack abs you will see soon. Start now 7 minutes a day it very little investment to your body with a great result.",
+  "privacyText": "http://plank.am/privacy",
+  "numInstalls": 1000000,
+  "developer": "fitfit.am",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://fitfit.am",
+    "Developer Email": "support@fitfit.am",
+    "Privacy Policy": "http://plank.am/privacy"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

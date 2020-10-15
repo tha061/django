@@ -1,0 +1,81 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1467110792 (0x57725588)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=RU, ST=\xE2\x80\x93\xC2\xB0\xE2\x80\x93\xE2\x89\xA4\xE2\x80\x93\xC2\xB5\xE2\x80\x94\xD0\x90\xE2\x80\x93\xD1\x96\xE2\x80\x93\xD1\x97\xE2\x80\x93\xD0\x8A\xE2\x80\x93\xE2\x89\xA4\xE2\x80\x94\xD0\x91\xE2\x80\x93\xD0\x87\xE2\x80\x93\xE2\x88\x9E\xE2\x80\x94\xD0\x9F, L=\xE2\x80\x93\xD0\xA5\xE2\x80\x93\xD0\x87\xE2\x80\x93\xE2\x88\x9E\xE2\x80\x94\xD0\x92\xE2\x80\x93\xC2\xB5\xE2\x80\x94\xD0\x90\xE2\x80\x93\xD0\x84\xE2\x80\x93\xD1\x99\xE2\x80\x93\xC2\xB1\xE2\x80\x94\xD0\x93\xE2\x80\x94\xD0\x90\xE2\x80\x93\xE2\x89\xA5, O=TopTen, OU=\xE2\x80\x93\xD0\xAC\xE2\x80\x93\xD0\x8A\xE2\x80\x93\xC2\xB1\xE2\x80\x93\xD0\x84\xE2\x80\x93\xD1\x97\xE2\x80\x94\xD0\x9C\xE2\x80\x93\xD1\x99\xE2\x80\x93\xE2\x88\x9E\xE2\x80\x94\xD0\x9F \xE2\x80\x93\xE2\x80\xA0\xE2\x80\x93\xE2\x88\x9E\xE2\x80\x93\xD0\x88\xE2\x80\x94\xD0\x90\xE2\x80\x93\xE2\x88\x9E\xE2\x80\x93\xC2\xB1\xE2\x80\x93\xD0\x8A\xE2\x80\x94\xD0\x92\xE2\x80\x93\xD0\x87\xE2\x80\x93\xE2\x88\x9E, CN= \xE2\x80\x93\xD0\xA0\xE2\x80\x94\xD0\x90\xE2\x80\x94\xD0\x92\xE2\x80\x94\xD0\xA1\xE2\x80\x93\xD0\x89 \xE2\x80\x93\xD0\xAA\xE2\x80\x94\xD0\x93\xE2\x80\x93\xD0\x88\xE2\x80\x93\xE2\x89\xA4\xE2\x80\x93\xC2\xB5\xE2\x80\x94\xD0\x91\xE2\x80\x93\xD0\x8A\xE2\x80\x93\xE2\x89\xA4
+        Validity
+            Not Before: Jun 28 10:46:32 2016 GMT
+            Not After : Nov 14 10:46:32 2043 GMT
+        Subject: C=RU, ST=\xE2\x80\x93\xC2\xB0\xE2\x80\x93\xE2\x89\xA4\xE2\x80\x93\xC2\xB5\xE2\x80\x94\xD0\x90\xE2\x80\x93\xD1\x96\xE2\x80\x93\xD1\x97\xE2\x80\x93\xD0\x8A\xE2\x80\x93\xE2\x89\xA4\xE2\x80\x94\xD0\x91\xE2\x80\x93\xD0\x87\xE2\x80\x93\xE2\x88\x9E\xE2\x80\x94\xD0\x9F, L=\xE2\x80\x93\xD0\xA5\xE2\x80\x93\xD0\x87\xE2\x80\x93\xE2\x88\x9E\xE2\x80\x94\xD0\x92\xE2\x80\x93\xC2\xB5\xE2\x80\x94\xD0\x90\xE2\x80\x93\xD0\x84\xE2\x80\x93\xD1\x99\xE2\x80\x93\xC2\xB1\xE2\x80\x94\xD0\x93\xE2\x80\x94\xD0\x90\xE2\x80\x93\xE2\x89\xA5, O=TopTen, OU=\xE2\x80\x93\xD0\xAC\xE2\x80\x93\xD0\x8A\xE2\x80\x93\xC2\xB1\xE2\x80\x93\xD0\x84\xE2\x80\x93\xD1\x97\xE2\x80\x94\xD0\x9C\xE2\x80\x93\xD1\x99\xE2\x80\x93\xE2\x88\x9E\xE2\x80\x94\xD0\x9F \xE2\x80\x93\xE2\x80\xA0\xE2\x80\x93\xE2\x88\x9E\xE2\x80\x93\xD0\x88\xE2\x80\x94\xD0\x90\xE2\x80\x93\xE2\x88\x9E\xE2\x80\x93\xC2\xB1\xE2\x80\x93\xD0\x8A\xE2\x80\x94\xD0\x92\xE2\x80\x93\xD0\x87\xE2\x80\x93\xE2\x88\x9E, CN= \xE2\x80\x93\xD0\xA0\xE2\x80\x94\xD0\x90\xE2\x80\x94\xD0\x92\xE2\x80\x94\xD0\xA1\xE2\x80\x93\xD0\x89 \xE2\x80\x93\xD0\xAA\xE2\x80\x94\xD0\x93\xE2\x80\x93\xD0\x88\xE2\x80\x93\xE2\x89\xA4\xE2\x80\x93\xC2\xB5\xE2\x80\x94\xD0\x91\xE2\x80\x93\xD0\x8A\xE2\x80\x93\xE2\x89\xA4
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:87:cb:b9:14:a5:19:16:c5:9c:c4:6d:80:9e:66:
+                    9c:bd:78:a2:90:a0:2d:cd:71:9e:6a:ba:81:ac:a0:
+                    25:7c:36:32:40:c7:a6:fe:34:8c:d6:21:36:d7:9d:
+                    0a:1f:bd:5e:b3:d5:40:61:ce:fe:12:4b:d3:05:30:
+                    04:75:e8:ac:03:95:00:18:ed:09:24:37:af:5a:44:
+                    c7:02:89:b6:2a:39:4a:e6:b1:ba:89:66:e9:b6:12:
+                    d2:d4:8b:27:89:00:7b:34:b2:a7:4e:4c:fd:04:73:
+                    8c:7f:22:c1:d9:2f:bf:03:57:7a:23:08:6a:3f:d8:
+                    4a:01:84:6a:a2:aa:1b:50:91:7f:56:bf:76:08:3d:
+                    88:a6:85:e0:86:b3:53:ee:12:10:c1:a8:5b:f1:5c:
+                    8e:2a:24:06:0d:3d:28:98:2f:46:3a:5e:36:fe:03:
+                    dd:19:fd:ee:4b:0a:07:e3:43:4c:57:87:63:42:bc:
+                    99:e8:16:17:4d:86:5a:3c:ce:3e:7f:a4:48:b0:ba:
+                    50:fb:34:a4:cb:cc:0c:8a:cd:b7:1b:0d:29:2a:d6:
+                    51:30:20:cd:5b:a3:ba:7e:0b:36:d0:7c:81:14:ad:
+                    6c:ea:17:63:9c:ae:aa:40:ab:23:e3:3c:ce:fc:58:
+                    ab:5d:fc:99:da:a5:86:f5:56:cb:b4:a7:d5:54:c5:
+                    d8:fb
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         75:f2:c5:e1:dc:17:56:73:97:e3:78:85:9c:59:c1:af:b8:0a:
+         95:35:8f:ab:15:ae:64:3a:a5:ac:cc:4c:e5:05:a5:02:fd:c1:
+         36:93:f9:ea:d7:4b:53:7d:e3:1a:ee:fe:52:5b:97:5c:c4:41:
+         5b:26:ff:2b:9c:c3:be:7e:d3:e3:08:2f:9c:0f:8b:b9:b9:a3:
+         37:1a:f7:13:96:4d:ba:c6:a5:b0:6a:83:87:e7:3b:4d:e0:4c:
+         5f:80:07:18:42:2e:a9:7a:ae:3e:8f:58:a6:ae:44:a6:fb:d1:
+         f1:65:99:3a:46:12:13:3a:7c:c1:02:e8:ad:ad:1c:f7:76:c2:
+         d8:ac:1c:dd:fd:6e:61:4c:1f:10:2e:e9:1d:3b:a4:09:ea:55:
+         3d:3f:8f:8e:73:76:78:f4:cd:34:d8:ac:cc:5e:6c:18:8b:ab:
+         eb:be:e8:04:1f:d8:16:bd:31:6c:e2:fc:91:8f:7f:90:7c:0c:
+         bf:bf:05:09:28:16:a1:5b:8a:1f:ae:ab:30:1a:da:4f:29:ae:
+         a0:d7:e8:07:cb:33:31:2b:5d:1e:77:06:f7:15:11:cd:19:19:
+         c9:ae:03:93:fe:03:7d:aa:d9:f3:40:a7:14:77:d2:04:82:17:
+         13:31:69:d3:28:de:c9:86:ea:42:d5:35:85:b4:99:6e:25:7a:
+         83:f1:c8:b7
+-----BEGIN CERTIFICATE-----
+MIIFYjCCBEqgAwIBAgIEV3JViDANBgkqhkiG9w0BAQUFADCCAXExCzAJBgNVBAYT
+AlJVMUgwRgYDVQQIDD/igJPCsOKAk+KJpOKAk8K14oCU0JDigJPRluKAk9GX4oCT
+0IrigJPiiaTigJTQkeKAk9CH4oCT4oie4oCU0J8xRzBFBgNVBAcMPuKAk9Cl4oCT
+0IfigJPiiJ7igJTQkuKAk8K14oCU0JDigJPQhOKAk9GZ4oCTwrHigJTQk+KAlNCQ
+4oCT4omlMQ8wDQYDVQQKEwZUb3BUZW4xbjBsBgNVBAsMZeKAk9Cs4oCT0IrigJPC
+seKAk9CE4oCT0ZfigJTQnOKAk9GZ4oCT4oie4oCU0J8g4oCT4oCg4oCT4oie4oCT
+0IjigJTQkOKAk+KInuKAk8Kx4oCT0IrigJTQkuKAk9CH4oCT4oieMU4wTAYDVQQD
+DEUg4oCT0KDigJTQkOKAlNCS4oCU0KHigJPQiSDigJPQquKAlNCT4oCT0IjigJPi
+iaTigJPCteKAlNCR4oCT0IrigJPiiaQwHhcNMTYwNjI4MTA0NjMyWhcNNDMxMTE0
+MTA0NjMyWjCCAXExCzAJBgNVBAYTAlJVMUgwRgYDVQQIDD/igJPCsOKAk+KJpOKA
+k8K14oCU0JDigJPRluKAk9GX4oCT0IrigJPiiaTigJTQkeKAk9CH4oCT4oie4oCU
+0J8xRzBFBgNVBAcMPuKAk9Cl4oCT0IfigJPiiJ7igJTQkuKAk8K14oCU0JDigJPQ
+hOKAk9GZ4oCTwrHigJTQk+KAlNCQ4oCT4omlMQ8wDQYDVQQKEwZUb3BUZW4xbjBs
+BgNVBAsMZeKAk9Cs4oCT0IrigJPCseKAk9CE4oCT0ZfigJTQnOKAk9GZ4oCT4oie
+4oCU0J8g4oCT4oCg4oCT4oie4oCT0IjigJTQkOKAk+KInuKAk8Kx4oCT0IrigJTQ
+kuKAk9CH4oCT4oieMU4wTAYDVQQDDEUg4oCT0KDigJTQkOKAlNCS4oCU0KHigJPQ
+iSDigJPQquKAlNCT4oCT0IjigJPiiaTigJPCteKAlNCR4oCT0IrigJPiiaQwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCHy7kUpRkWxZzEbYCeZpy9eKKQ
+oC3NcZ5quoGsoCV8NjJAx6b+NIzWITbXnQofvV6z1UBhzv4SS9MFMAR16KwDlQAY
+7QkkN69aRMcCibYqOUrmsbqJZum2EtLUiyeJAHs0sqdOTP0Ec4x/IsHZL78DV3oj
+CGo/2EoBhGqiqhtQkX9Wv3YIPYimheCGs1PuEhDBqFvxXI4qJAYNPSiYL0Y6Xjb+
+A90Z/e5LCgfjQ0xXh2NCvJnoFhdNhlo8zj5/pEiwulD7NKTLzAyKzbcbDSkq1lEw
+IM1bo7p+CzbQfIEUrWzqF2OcrqpAqyPjPM78WKtd/JnapYb1Vsu0p9VUxdj7AgMB
+AAEwDQYJKoZIhvcNAQEFBQADggEBAHXyxeHcF1Zzl+N4hZxZwa+4CpU1j6sVrmQ6
+pazMTOUFpQL9wTaT+erXS1N94xru/lJbl1zEQVsm/yucw75+0+MIL5wPi7m5ozca
+9xOWTbrGpbBqg4fnO03gTF+ABxhCLql6rj6PWKauRKb70fFlmTpGEhM6fMEC6K2t
+HPd2wtisHN39bmFMHxAu6R07pAnqVT0/j45zdnj0zTTYrMxebBiLq+u+6AQf2Ba9
+MWzi/JGPf5B8DL+/BQkoFqFbih+uqzAa2k8prqDX6AfLMzErXR53BvcVEc0ZGcmu
+A5P+A32q2fNApxR30gSCFxMxadMo3smG6kLVNYW0mW4leoPxyLc=
+-----END CERTIFICATE-----
+

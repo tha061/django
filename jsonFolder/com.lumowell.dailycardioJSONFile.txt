@@ -1,0 +1,80 @@
+{
+  "name": "com.lumowell.dailycardio",
+  "fileSize": "38.9 MB",
+  "VTmd5": "4316d35f0821d98523f81e3793be21e5",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/13ab09c2e5b7635c41becbe88ccd569c5c1473914d09809a0ec2a3adca2b9fc8/detection/f-13ab09c2e5b7635c41becbe88ccd569c5c1473914d09809a0ec2a3adca2b9fc8-1597850861",
+  "VTresource": "13ab09c2e5b7635c41becbe88ccd569c5c1473914d09809a0ec2a3adca2b9fc8",
+  "VTresponsecode": 1,
+  "VTscanID": "13ab09c2e5b7635c41becbe88ccd569c5c1473914d09809a0ec2a3adca2b9fc8-1597850861",
+  "VTsha1": "c305209539961cc5ef459ff11e52cafac199ea89",
+  "VTsha256": "13ab09c2e5b7635c41becbe88ccd569c5c1473914d09809a0ec2a3adca2b9fc8",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.lumowell.dailycardio.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.lumowell.dailycardio.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.lumowell.dailycardio.GcmIntentService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "22 February 2018",
+    "Size": "39M",
+    "Installs": "500000",
+    "Current Version": "1.1.11",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Lumowell - Ego360",
+    "Developer": "Visit website service.ego360@gmail.com Privacy Policy Via Cimarosa, 65 - 80127 Napoli"
+  },
+  "rating": "4.7",
+  "description": "Daily full body cardio workouts to lose weight, tone muscles and improve health, training exercises to burn fat and calories you can do at home without equipment or weights. The cardio routines are suitable for women and men and can be done everyday in order to get a slim toned body as soon as possible. The app shows a low impact variation of each cardio exercise for beginners. If you want to maximize the fat burning effect you can unlock the advanced 6-week training program, 5 full body cardio workouts a week to get a slim body as soon as possible. The intensity of the cardio exercises increases weekly in order to maximize the effectiveness of the program.  To lose weight fast it's important to follow a healthy diet. Unlocking the premium version of the app you'll have a meal planner to maximize the fat burning effect. The advanced version offers you a specific routine to cool down after the workouts and healthy tips to get a fit body. Ego360 - Lumowell - Lumofit",
+  "privacyText": "http://www.lumowell.com/privacy.php",
+  "numInstalls": 500000,
+  "developer": "Lumowell - Ego360",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.lumowell.com/",
+    "Developer Email": "service.ego360@gmail.com",
+    "Privacy Policy": "http://www.lumowell.com/privacy.php"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Google Analytics",
+    "YOC"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

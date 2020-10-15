@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1371063478 (0x51b8c4b6)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=DK, ST=Denmark, L=Denmark, O=Redy Apps, OU=Redy Apps, CN=Thomas Heath
+        Validity
+            Not Before: Jun 12 18:57:58 2013 GMT
+            Not After : Dec 18 18:57:58 2122 GMT
+        Subject: C=DK, ST=Denmark, L=Denmark, O=Redy Apps, OU=Redy Apps, CN=Thomas Heath
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8e:5b:87:f8:36:0f:73:fa:f8:a7:d0:25:02:dc:
+                    49:6e:c1:8c:56:8d:b5:81:b3:d6:c6:63:75:8d:5c:
+                    d0:d5:49:19:40:59:49:2c:a6:54:e0:e6:23:1e:05:
+                    70:f2:82:ca:49:ed:cf:c9:90:63:9a:11:c2:db:ca:
+                    4f:77:f3:7b:d7:67:68:10:eb:53:ec:0b:f1:4e:9b:
+                    dc:ac:ce:af:ac:7a:cc:23:86:f7:15:a8:3c:c4:57:
+                    34:5c:ec:db:2d:8f:2d:05:5a:3f:72:93:85:67:26:
+                    6a:75:2b:1d:5a:11:69:63:39:43:61:72:ee:61:00:
+                    01:d0:78:7c:1b:09:93:0d:a9:bc:6e:e9:a8:54:c4:
+                    b3:52:c2:a8:ee:2c:c0:01:63:89:3a:56:cf:4a:ce:
+                    21:d3:1e:f2:b7:4b:73:19:33:0b:df:61:10:dd:9b:
+                    8b:19:e4:76:48:8c:b3:e4:35:2a:dd:9f:4a:f7:76:
+                    1d:56:c9:25:d0:ed:95:8d:06:a0:6a:8a:29:5b:a5:
+                    ac:2e:f6:7b:e4:e5:a7:7b:d1:79:ea:cb:2f:3f:14:
+                    65:79:8e:c7:51:46:89:4e:7e:a4:7d:f2:8f:ef:8e:
+                    95:43:5a:e3:37:ab:e5:a7:2c:bc:38:5e:73:22:b6:
+                    81:c0:5c:20:46:c4:66:e5:1d:2e:2b:c4:d9:29:3a:
+                    7a:95
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         85:25:9c:23:c1:44:58:86:95:7f:09:44:33:00:80:4a:24:2a:
+         f8:b7:7e:96:37:b2:38:0b:f8:a9:15:36:1b:a9:2c:f8:6c:8f:
+         4a:e9:a4:7f:c7:14:e5:37:9e:25:c8:24:56:d3:e0:08:07:d6:
+         6f:ca:26:ed:83:1d:33:9d:b6:10:b0:6d:bd:3e:27:06:11:e8:
+         f6:7d:dd:2f:1c:2d:b3:82:c8:ef:c6:c3:41:1c:0a:66:d7:ed:
+         c2:39:6c:36:07:31:41:6b:29:44:e5:84:1e:1d:70:49:a7:73:
+         1b:a6:48:8d:5c:4f:81:b0:f0:1c:a1:fe:a3:be:9a:de:b2:21:
+         50:69:96:ea:1a:74:65:4c:51:2f:b2:fc:83:07:9e:7e:3f:b4:
+         53:25:50:56:b3:0d:6d:62:3c:67:bd:2e:05:05:df:ec:38:4e:
+         ac:d6:e5:c0:99:64:5d:56:b5:7e:5d:20:09:ac:96:20:66:12:
+         70:87:85:12:88:89:d9:3e:31:bb:d5:11:60:d1:33:c5:a3:bd:
+         20:49:1f:56:53:1f:ab:e4:74:83:0a:d2:52:36:40:d3:11:32:
+         32:f2:e7:61:5f:79:5f:2b:92:b3:d4:1b:15:ae:d5:3e:2e:95:
+         53:42:90:ce:ff:e4:c7:e4:2e:e9:09:86:0e:15:8b:8b:d4:e7:
+         c8:91:7d:55
+-----BEGIN CERTIFICATE-----
+MIIDXjCCAkagAwIBAgIEUbjEtjANBgkqhkiG9w0BAQUFADBwMQswCQYDVQQGEwJE
+SzEQMA4GA1UECBMHRGVubWFyazEQMA4GA1UEBxMHRGVubWFyazESMBAGA1UEChMJ
+UmVkeSBBcHBzMRIwEAYDVQQLEwlSZWR5IEFwcHMxFTATBgNVBAMTDFRob21hcyBI
+ZWF0aDAgFw0xMzA2MTIxODU3NThaGA8yMTIyMTIxODE4NTc1OFowcDELMAkGA1UE
+BhMCREsxEDAOBgNVBAgTB0Rlbm1hcmsxEDAOBgNVBAcTB0Rlbm1hcmsxEjAQBgNV
+BAoTCVJlZHkgQXBwczESMBAGA1UECxMJUmVkeSBBcHBzMRUwEwYDVQQDEwxUaG9t
+YXMgSGVhdGgwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCOW4f4Ng9z
++vin0CUC3EluwYxWjbWBs9bGY3WNXNDVSRlAWUksplTg5iMeBXDygspJ7c/JkGOa
+EcLbyk9383vXZ2gQ61PsC/FOm9yszq+seswjhvcVqDzEVzRc7Nstjy0FWj9yk4Vn
+Jmp1Kx1aEWljOUNhcu5hAAHQeHwbCZMNqbxu6ahUxLNSwqjuLMABY4k6Vs9KziHT
+HvK3S3MZMwvfYRDdm4sZ5HZIjLPkNSrdn0r3dh1WySXQ7ZWNBqBqiilbpawu9nvk
+5ad70Xnqyy8/FGV5jsdRRolOfqR98o/vjpVDWuM3q+WnLLw4XnMitoHAXCBGxGbl
+HS4rxNkpOnqVAgMBAAEwDQYJKoZIhvcNAQEFBQADggEBAIUlnCPBRFiGlX8JRDMA
+gEokKvi3fpY3sjgL+KkVNhupLPhsj0rppH/HFOU3niXIJFbT4AgH1m/KJu2DHTOd
+thCwbb0+JwYR6PZ93S8cLbOCyO/Gw0EcCmbX7cI5bDYHMUFrKUTlhB4dcEmncxum
+SI1cT4Gw8Byh/qO+mt6yIVBpluoadGVMUS+y/IMHnn4/tFMlUFazDW1iPGe9LgUF
+3+w4TqzW5cCZZF1WtX5dIAmsliBmEnCHhRKIidk+MbvVEWDRM8WjvSBJH1ZTH6vk
+dIMK0lI2QNMRMjLy52FfeV8rkrPUGxWu1T4ulVNCkM7/5MfkLukJhg4Vi4vU58iR
+fVU=
+-----END CERTIFICATE-----
+

@@ -1,0 +1,72 @@
+{
+  "name": "com.HomeFitness.FullBodyExercises",
+  "fileSize": "5.9 MB",
+  "VTmd5": "be4904ef6f097bceacd3b11eba1d3ce6",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/608d777c052022d508e7beaf0c279474bac2b4f6902d56ef6311e37b6449fc6e/detection/f-608d777c052022d508e7beaf0c279474bac2b4f6902d56ef6311e37b6449fc6e-1598442217",
+  "VTresource": "608d777c052022d508e7beaf0c279474bac2b4f6902d56ef6311e37b6449fc6e",
+  "VTresponsecode": 1,
+  "VTscanID": "608d777c052022d508e7beaf0c279474bac2b4f6902d56ef6311e37b6449fc6e-1598442217",
+  "VTsha1": "5bfbb112f0e50aaa8642a74118c7ef2a1e3d0229",
+  "VTsha256": "608d777c052022d508e7beaf0c279474bac2b4f6902d56ef6311e37b6449fc6e",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "4 June 2020",
+    "Size": "5.9M",
+    "Installs": "500000",
+    "Current Version": "2.5",
+    "Requires Android": "4.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Home Fitness",
+    "Developer": "Visit website ahmedayoub869@gmail.com Privacy Policy"
+  },
+  "rating": "4.3",
+  "description": "Get in shape faster with 10 Full Body Exercises app. This app includes full-body workout that will help you burn fat, get abs, train your arms and legs and build muscle in much less time. You don\u00e2\u20ac\u2122t need any machines or an expensive gym membership, All you need is 10 minutes. Start to improve fitness and health with this fitness exercises and get in shape, defined figure you've always wanted with this exercise routine, designed to improve fitness and build lean muscle. The Virtual personal trainer will guide you during the workouts by showing you how to perform the exercises correctly. 10 Full Body Exercises app combines all exercises: Squat, Abdominal crunch, Bodyweight Exercises, Plank, Push-up, ARM, BUTT, CARDIO, LEG and full body workouts. BENEFITS \u00e2\u0153\u201c This exercise helps to get in shape. \u00e2\u0153\u201c Training your abs, arms, butt and leg at home with our exercise and you see a change after a few lessons. \u00e2\u0153\u201c Make your body strong and healthy using this workout. FEATURES \u00e2\u0153\u201c Free and Simple. \u00e2\u0153\u201c 10 daily exercises. \u00e2\u0153\u201c Workout Log. \u00e2\u0153\u201c Set Reminder. \u00e2\u0153\u201c 3 Difficulty levels (Easy, Normal, Hard). \u00e2\u0153\u201c We collected the best exercise for you. \u00e2\u0153\u201c full body workouts: abs, arms, legs, butt, and chest. \u00e2\u0153\u201c Animation showing how to do each exercise. \u00e2\u0153\u201c This app helps you to burn fat and get in shape. \u00e2\u0153\u201c The app contains abs, butt and leg exercises everyone can do. \u00e2\u0153\u201c Take up the full body Workout Challenge with our app for FREE. \u00e2\u0153\u201c You don't need any equipment for the full body workout. \u00e2\u0153\u201c Complete daily full body workout with log. Remember: If you have diabetes, heart condition or any kind of medical condition please ask your doctor before performing any routine. For best results do this fitness workout at least 4 times a week and you will be amazed with the results.",
+  "privacyText": "https://sites.google.com/view/10-full-body-exercises/home",
+  "numInstalls": 500000,
+  "developer": "Home Fitness",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://h-fitness.fit",
+    "Developer Email": "ahmedayoub869@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/10-full-body-exercises/home"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

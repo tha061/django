@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1228666314 (0x493bf5ca)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=KG, L=Bishkek, O=Spalmalo, OU=Mobile, CN=Spalmalo
+        Validity
+            Not Before: May 14 05:47:05 2019 GMT
+            Not After : May  7 05:47:05 2044 GMT
+        Subject: C=KG, L=Bishkek, O=Spalmalo, OU=Mobile, CN=Spalmalo
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ae:bf:0e:6f:ab:63:70:28:3a:c8:9a:c9:27:16:
+                    12:94:c9:73:a7:35:56:c1:a9:24:58:dd:1b:c0:63:
+                    48:9c:12:9c:ba:01:bd:a6:00:8d:30:63:1c:b0:a8:
+                    5a:90:9c:eb:4e:81:a1:e4:43:eb:69:02:d9:18:56:
+                    bd:23:95:b8:34:e5:83:e8:01:4f:d2:a9:f9:90:24:
+                    68:1a:c1:60:3a:e6:2c:f1:ba:a2:ec:4a:10:f4:d6:
+                    f6:8d:fd:84:ca:74:db:82:8c:5d:e9:0a:72:37:92:
+                    6a:49:49:27:cb:03:14:ca:ce:bd:4a:50:04:58:52:
+                    8a:b4:08:cd:7d:84:c4:88:8e:a0:a7:ff:53:d8:bb:
+                    c4:0a:2a:fe:58:e8:d1:31:86:df:9b:14:58:a8:14:
+                    08:74:e4:a1:34:b7:10:7a:3b:7b:a5:bb:8b:05:cf:
+                    5f:90:f1:f3:dc:01:fb:53:37:42:c6:70:b7:0a:35:
+                    b6:a8:2f:41:33:d3:9c:36:00:49:06:c6:99:2a:3d:
+                    56:9e:c5:10:07:88:32:d2:a0:3c:50:72:d4:34:ab:
+                    64:2e:a4:88:74:64:e9:0c:4c:72:db:12:89:3d:1e:
+                    c2:a3:eb:26:14:09:8d:a5:f3:5c:f0:ea:9a:95:d5:
+                    39:85:c7:0e:53:68:ea:da:8f:70:a1:7f:4f:d4:68:
+                    7d:a1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                E4:FF:34:6B:6A:EA:70:C2:A7:77:D2:C0:20:07:D1:30:FE:FD:E1:30
+    Signature Algorithm: sha256WithRSAEncryption
+         23:41:4c:94:59:46:63:92:45:3c:47:b6:57:a9:d5:dc:ff:f5:
+         9e:12:51:a1:e4:69:27:7a:5c:d2:49:49:c2:34:e6:ac:e2:20:
+         11:bb:bf:0e:e9:2a:52:4e:84:ad:cd:31:ec:ed:d8:7e:75:25:
+         1c:12:f1:97:bf:3b:d5:1d:3c:61:1a:a0:45:ce:90:7b:fa:59:
+         f7:5c:e9:b4:2e:7e:90:b1:3a:cc:c5:18:7b:2b:6d:6e:f7:7b:
+         3c:8f:b4:38:19:f7:cc:8f:1a:22:94:70:67:ac:53:bd:c8:e3:
+         7e:20:a7:7b:9d:30:2c:90:d6:7b:a1:e1:43:3d:c8:91:99:1a:
+         af:1a:cc:09:91:a7:48:48:71:29:8b:83:55:39:8a:6c:89:45:
+         97:d6:ea:4d:64:4f:b7:24:83:53:b8:d9:27:35:96:0a:ee:d0:
+         9b:1a:a0:ef:b4:39:aa:de:2e:2d:81:72:0d:3f:e8:e3:2e:08:
+         84:14:00:8c:99:c0:6d:a8:3f:75:98:21:af:39:f0:e1:0a:ed:
+         b9:e8:8f:0e:8e:12:13:dc:9d:36:15:eb:7f:37:35:a4:b8:7d:
+         de:bc:17:cc:32:89:77:cc:08:65:66:4f:39:f3:c4:24:df:69:
+         97:8d:6a:4b:99:fb:ad:43:93:c4:fc:d9:a2:d8:ab:93:bf:b2:
+         a8:46:71:a4
+-----BEGIN CERTIFICATE-----
+MIIDSzCCAjOgAwIBAgIESTv1yjANBgkqhkiG9w0BAQsFADBWMQswCQYDVQQGEwJL
+RzEQMA4GA1UEBxMHQmlzaGtlazERMA8GA1UEChMIU3BhbG1hbG8xDzANBgNVBAsT
+Bk1vYmlsZTERMA8GA1UEAxMIU3BhbG1hbG8wHhcNMTkwNTE0MDU0NzA1WhcNNDQw
+NTA3MDU0NzA1WjBWMQswCQYDVQQGEwJLRzEQMA4GA1UEBxMHQmlzaGtlazERMA8G
+A1UEChMIU3BhbG1hbG8xDzANBgNVBAsTBk1vYmlsZTERMA8GA1UEAxMIU3BhbG1h
+bG8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCuvw5vq2NwKDrImskn
+FhKUyXOnNVbBqSRY3RvAY0icEpy6Ab2mAI0wYxywqFqQnOtOgaHkQ+tpAtkYVr0j
+lbg05YPoAU/SqfmQJGgawWA65izxuqLsShD01vaN/YTKdNuCjF3pCnI3kmpJSSfL
+AxTKzr1KUARYUoq0CM19hMSIjqCn/1PYu8QKKv5Y6NExht+bFFioFAh05KE0txB6
+O3ulu4sFz1+Q8fPcAftTN0LGcLcKNbaoL0Ez05w2AEkGxpkqPVaexRAHiDLSoDxQ
+ctQ0q2QupIh0ZOkMTHLbEok9HsKj6yYUCY2l81zw6pqV1TmFxw5TaOraj3Chf0/U
+aH2hAgMBAAGjITAfMB0GA1UdDgQWBBTk/zRraupwwqd30sAgB9Ew/v3hMDANBgkq
+hkiG9w0BAQsFAAOCAQEAI0FMlFlGY5JFPEe2V6nV3P/1nhJRoeRpJ3pc0klJwjTm
+rOIgEbu/DukqUk6Erc0x7O3YfnUlHBLxl7871R08YRqgRc6Qe/pZ91zptC5+kLE6
+zMUYeyttbvd7PI+0OBn3zI8aIpRwZ6xTvcjjfiCne50wLJDWe6HhQz3IkZkarxrM
+CZGnSEhxKYuDVTmKbIlFl9bqTWRPtySDU7jZJzWWCu7Qmxqg77Q5qt4uLYFyDT/o
+4y4IhBQAjJnAbag/dZghrznw4QrtueiPDo4SE9ydNhXrfzc1pLh93rwXzDKJd8wI
+ZWZPOfPEJN9pl41qS5n7rUOTxPzZotirk7+yqEZxpA==
+-----END CERTIFICATE-----
+

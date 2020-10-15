@@ -1,0 +1,74 @@
+{
+  "name": "com.axiommobile.sportsman",
+  "fileSize": "2.5 MB",
+  "VTmd5": "fd0dcb74866f99d82915a102228de304",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/26916eb7913ffc33fd2aedc13f9bf9698708abeebca672d08cdfd01155c012b9/detection/f-26916eb7913ffc33fd2aedc13f9bf9698708abeebca672d08cdfd01155c012b9-1601111266",
+  "VTresource": "26916eb7913ffc33fd2aedc13f9bf9698708abeebca672d08cdfd01155c012b9",
+  "VTresponsecode": 1,
+  "VTscanID": "26916eb7913ffc33fd2aedc13f9bf9698708abeebca672d08cdfd01155c012b9-1601111266",
+  "VTsha1": "5d02d0ab3edf248d67ebd5907f2fe15d2c94e607",
+  "VTsha256": "26916eb7913ffc33fd2aedc13f9bf9698708abeebca672d08cdfd01155c012b9",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.play.core.assetpacks.AssetPackExtractionService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "26 August 2020",
+    "Size": "3.8M",
+    "Installs": "1000000",
+    "Current Version": "3.14",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact, Shares info",
+    "In-app Products": "$2.99 \u2013 $19.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "AxiomMobile",
+    "Developer": "Visit website info@axiommobile.ru Privacy Policy Axiom Mobile Ltd\n22/59 F.Munnikha st.\nTomsk\nRussia\n634059"
+  },
+  "rating": "4.7",
+  "description": "Build an ideal body with a bodyweight workout. Strength Workouts (Challenges): \u2022 50 pull-ups \u2022 50 hanging leg raises \u2022 100 dips \u2022 100 burpees \u2022 150 push-ups \u2022 150 bench dips  \u2022 200 sit-ups \u2022 150 lying leg raises \u2022 250 squats \u2022 plank for 500 seconds \u2022 1000 jumping ropes + You can create your custom exercise Each workout routine is designed for training 3 times a week for a year. Circuit Training: \u2022 Upper Body \u2022 Abs Workout \u2022 Lower Body \u2022 Street Workout + You can create an individual circuit training Train at home, on the street or go to the gym. Make the phone your fitness trainer. Features: \u2022 automatic choice of the training program according to your level \u2022 flexible workout schedule \u2022 reminders won't allow you to miss the workout \u2022 detailed statistics of your achievements \u2022 calorie counter \u2022 the interface is simple and easy-to-understand \u2022 adjust the internal timer to have a rest between sets and exercises \u2022 input your results manually \u2022 sync with Google Fit \u2022 choose your color theme  \u2022 optimized for blind and visually impaired people that use Talkback It's time to train!",
+  "privacyText": "http://axiomrun.com/privacy-policy/",
+  "numInstalls": 1000000,
+  "developer": "AxiomMobile",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://axiomrun.com/bodyweight-workout/",
+    "Developer Email": "info@axiommobile.ru",
+    "Privacy Policy": "http://axiomrun.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Bumptech"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,77 @@
+{
+  "name": "com.fitness.sport",
+  "fileSize": "16.5 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "28 September 2020",
+    "Size": "17M",
+    "Installs": "500000",
+    "Current Version": "2.2",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$0.99 \u2013 $29.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "fitness reps inc",
+    "Developer": "fitnesscrp@gmail.com Belarus, Minsk st.,  Pobeditely 7A"
+  },
+  "rating": "4.4",
+  "description": "\"Lose weight at home\" - is an application designed specifically for you to train at home, and quickly lose weight. Women's training has never been so easy, just follow the animation on the screen, performing the commands of the voice assistant, and in a week your body will be noticeably transformed. If the animation does not give a complete picture of the exercise, you can always watch the video with the implementation of this exercise. Performing workouts, you will definitely bring your body in order. The application implements a nutrition plan with which your workouts will be effective.  In addition , there are statistics so you can monitor your progress. The workout in the app is designed for 30 days, however you can continue to use as much as you need. To make it more enjoyable to train, there are achievements that will motivate you.  It should be remembered that home fitness has a number of positive aspects. The first and most important is a good way to keep yourself in good shape, especially relevant for those who find it difficult to find time for a gym or gym. Exercises are simple and the strength of everyone who has the desire to look good. And most importantly, it's a great and safe way to burn calories. Many girls who have successfully lost excess weight, began to be engaged at home. To do this, it was enough to repeatedly perform their own squats, push-UPS, bends, following a certain plan. Most of the simple but effective exercises that require nothing but a Mat, a free part of the room 2 by 2 meters and diligence. Home training is quite useful and effective. In addition, the application allows you to save a lot of time on trips to the gym, thus having the opportunity to save. Looking for a weight loss app? Want to lose weight fast? \"Lose weight at home\" will help you lose weight quickly. We advise you to try it now, and you will be satisfied with the result.",
+  "privacyText": "",
+  "numInstalls": 500000,
+  "developer": "fitness reps inc",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "",
+    "Developer Email": "fitnesscrp@gmail.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

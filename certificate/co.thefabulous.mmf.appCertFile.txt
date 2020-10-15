@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1365569697 (0x5164f0a1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=FR, O=The Fabulous, OU=The Fabulous, CN=Amine Laadhari
+        Validity
+            Not Before: Apr 10 04:54:57 2013 GMT
+            Not After : Apr  4 04:54:57 2038 GMT
+        Subject: C=FR, O=The Fabulous, OU=The Fabulous, CN=Amine Laadhari
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:bb:14:b1:47:44:aa:9e:7c:c5:c8:d5:14:39:a1:
+                    9d:db:72:b4:d4:c2:a5:5a:3e:48:67:3e:f2:ae:95:
+                    97:2f:ee:d9:30:44:8b:07:91:df:bb:31:00:d8:85:
+                    15:a1:fd:30:b0:d7:61:6d:07:7a:c6:57:6c:e7:bb:
+                    bf:9d:e7:38:b7:4f:bc:1d:b0:8a:da:e9:dc:81:71:
+                    69:f8:48:64:86:0a:b9:d8:0d:2f:c0:81:3d:e4:a7:
+                    b9:ee:0a:ca:08:02:24:3e:80:3f:38:93:4b:f1:20:
+                    2e:53:85:dc:0f:9e:9d:5e:5a:ce:45:e9:b7:4e:9d:
+                    e0:57:7f:c8:4f:0a:7e:eb:db
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         5a:67:ec:df:03:36:a8:5c:78:f9:43:12:7c:11:55:04:50:7d:
+         97:35:b1:0f:6e:36:64:ab:52:26:d4:13:b7:6d:14:1f:37:be:
+         88:5c:10:2f:d1:71:3b:81:34:19:cc:52:77:41:4a:b9:4c:5c:
+         46:e1:86:51:d9:9b:c6:03:35:1b:39:a5:d2:97:48:22:58:91:
+         26:d1:31:14:ef:05:93:67:03:b5:d0:c5:0d:df:56:a1:f7:9c:
+         1c:bc:c3:d8:96:3e:a4:44:83:c3:b9:7f:37:5f:b3:d2:f4:3a:
+         e8:0b:3b:13:e2:d3:ee:39:2c:44:fe:db:0a:96:82:a3:84:4a:
+         b8:91
+-----BEGIN CERTIFICATE-----
+MIICHzCCAYigAwIBAgIEUWTwoTANBgkqhkiG9w0BAQUFADBUMQswCQYDVQQGEwJG
+UjEVMBMGA1UEChMMVGhlIEZhYnVsb3VzMRUwEwYDVQQLEwxUaGUgRmFidWxvdXMx
+FzAVBgNVBAMTDkFtaW5lIExhYWRoYXJpMB4XDTEzMDQxMDA0NTQ1N1oXDTM4MDQw
+NDA0NTQ1N1owVDELMAkGA1UEBhMCRlIxFTATBgNVBAoTDFRoZSBGYWJ1bG91czEV
+MBMGA1UECxMMVGhlIEZhYnVsb3VzMRcwFQYDVQQDEw5BbWluZSBMYWFkaGFyaTCB
+nzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuxSxR0SqnnzFyNUUOaGd23K01MKl
+Wj5IZz7yrpWXL+7ZMESLB5HfuzEA2IUVof0wsNdhbQd6xlds57u/nec4t0+8HbCK
+2uncgXFp+Ehkhgq52A0vwIE95Ke57grKCAIkPoA/OJNL8SAuU4XcD56dXlrORem3
+Tp3gV3/ITwp+69sCAwEAATANBgkqhkiG9w0BAQUFAAOBgQBaZ+zfAzaoXHj5QxJ8
+EVUEUH2XNbEPbjZkq1Im1BO3bRQfN76IXBAv0XE7gTQZzFJ3QUq5TFxG4YZR2ZvG
+AzUbOaXSl0giWJEm0TEU7wWTZwO10MUN31ah95wcvMPYlj6kRIPDuX83X7PS9Dro
+CzsT4tPuOSxE/tsKloKjhEq4kQ==
+-----END CERTIFICATE-----
+

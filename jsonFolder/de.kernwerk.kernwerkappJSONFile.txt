@@ -1,0 +1,82 @@
+{
+  "name": "de.kernwerk.kernwerkapp",
+  "fileSize": "26.0 MB",
+  "VTmd5": "b7f8ba9a1ef033b9e5871ed435dcacc7",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/187ecd9730ef9e3e6c6ebd3aaeceb0566b8ef55e5f8030330efd81a69abf0513/detection/f-187ecd9730ef9e3e6c6ebd3aaeceb0566b8ef55e5f8030330efd81a69abf0513-1602044600",
+  "VTresource": "187ecd9730ef9e3e6c6ebd3aaeceb0566b8ef55e5f8030330efd81a69abf0513",
+  "VTresponsecode": 1,
+  "VTscanID": "187ecd9730ef9e3e6c6ebd3aaeceb0566b8ef55e5f8030330efd81a69abf0513-1602044600",
+  "VTsha1": "b8d769016c264930e5eb87a911fae927f45a4689",
+  "VTsha256": "187ecd9730ef9e3e6c6ebd3aaeceb0566b8ef55e5f8030330efd81a69abf0513",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "5 October 2020",
+    "Size": "50M",
+    "Installs": "10000",
+    "Current Version": "4.1.1",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact",
+    "In-app Products": "$9.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fitness Trainingsplan by KERNWERK\u00ae",
+    "Developer": "Visit website support@kernwerk.de Privacy Policy K\u00f6lner Str. 28\n57072 Siegen\nDeutschland"
+  },
+  "rating": "4.7",
+  "description": "KERNWERK ist das pers\u00f6nlichste und individuellste Fitness Trainingsplan f\u00fcr zu Hause, dass du in einer App bekommen kannst. Wir sind dein Personal Trainer auf dem Weg zu deinem pers\u00f6nlichen Ziel. Egal ob du auf Home Workouts stehst, nebenbei CrossFit betreibst oder Muskeln aufbauen m\u00f6chtest: Wir geben dir alles, was du f\u00fcr deinen Erfolg im Bereich \"universelle Fitness\" brauchst: ---------------------------------------------------------- --- T\u00c4GLICH VARIIERENDE WORKOUTS --- Du bist CrossFitter und suchst eine Erg\u00e4nzung zu deinem Training? Unser Coaching-Team erstellt f\u00fcr jeden Tag ein komplett neues Workout. Du machst kein Workout doppelt. Du gehst jeden Tag motiviert ins Training \u2013 ohne Langeweile. --- 100% AUF DICH ZUGESCHNITTEN --- Unser R.E.S.T.-Algorithmus passt jede einzelne \u00dcbung in jedem deiner Workouts ganz genau auf dich an. Dank deiner Bewertung nach jedem Workout passt jedes weitere Workout noch ein bisschen besser auf deine pers\u00f6nlichen St\u00e4rken und Schw\u00e4chen. --- SO FLEXIBEL WIE DEIN ALLTAG --- Du kannst komplett ohne Equipment trainieren \u2013 du kannst aber auch alles an Equipment einbeziehen, das du hast. Zus\u00e4tzlich kannst du vor jedem Training neu entscheiden, was du heute zur Verf\u00fcgung hast. --- RIESIGE VIDEODATENBANK --- Du bist dir nicht sicher, wie eine \u00dcbung korrekt ausgef\u00fchrt wird? Du willst endlich wissen worauf du bei Kniebeuge ganz genau achten musst? KERNWERK bietet dir eine der gr\u00f6\u00dften deutschsprachigen Videodatenbanken die es gibt. Kurzvideos zu den einzelnen \u00dcbungen, VLOGs zu aktuellen Themen, Tutorials zu wichtigen Grund\u00fcbungen oder Tipps zur Mobilisierung deines K\u00f6rpers vor dem Workout. Die KERNWERK Videos bringen dich in deinen Workouts noch weiter voran. --- DYNAMISCHER TRAININGSPLAN --- Nicht nur deine Workouts sind bei uns individuell: Du kannst auch jeden Tag selbst entscheiden, was du machen m\u00f6chtest. Workout? Pause? Beweglichkeits-Training? Oder doch Aktive Regeneration? Unser Coach gibt dir t\u00e4glich eine Empfehlung und du entscheidest, was heute f\u00fcr dich passt. --- KURZ- & LANGFRISTIGE ERFOLGE --- Durch unser HIT-Training wirst du sehr kurzfristig enorme Erfolge feiern. Da wir jedoch kein 10-Wochen-Programm sind, bist du mit uns auch noch nach Wochen, Monaten und Jahren motiviert, in deinem Training alles zu geben. So gibt es keinen Jojo-Effekt und du bleibt bis ins hohe Alter gesund, fit und leistungsf\u00e4hig.",
+  "privacyText": "https://www.kernwerk.de/datenschutz",
+  "numInstalls": 10000,
+  "developer": "Fitness Trainingsplan by KERNWERK\u00ae",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.kernwerk.de",
+    "Developer Email": "support@kernwerk.de",
+    "Privacy Policy": "https://www.kernwerk.de/datenschutz"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Facebook",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

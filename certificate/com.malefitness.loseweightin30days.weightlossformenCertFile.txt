@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 298696647 (0x11cdbfc7)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=weight_loss_for_men
+        Validity
+            Not Before: Apr 18 03:49:48 2020 GMT
+            Not After : Mar 25 03:49:48 2120 GMT
+        Subject: CN=weight_loss_for_men
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:97:3c:ff:6a:fd:32:cd:01:87:d2:31:32:5d:bc:
+                    4d:66:bb:52:23:ba:48:3e:e3:92:d6:19:bb:8a:18:
+                    46:0c:c1:96:8e:fe:4e:ce:31:b4:eb:41:fc:89:c6:
+                    ee:91:2a:82:78:4e:fc:c8:f7:7f:46:b7:7f:a5:dc:
+                    a0:99:9c:12:eb:55:24:a5:1d:c5:b3:9f:cf:aa:39:
+                    1f:9c:94:45:96:51:5c:9f:5b:c9:bf:7b:19:ef:7f:
+                    51:80:4e:0f:cd:ae:83:65:3a:d7:55:6a:cf:cb:95:
+                    3a:fa:9e:52:09:50:bd:e7:14:13:c8:a6:0e:cf:d7:
+                    97:cc:44:a6:11:00:92:af:5b:e7:a4:1d:93:f3:1e:
+                    e6:9f:6c:dc:81:32:98:d8:82:43:d0:fb:ae:ec:30:
+                    21:58:d0:37:d2:c3:bf:07:dd:2f:af:7f:b8:43:09:
+                    01:85:2d:e8:73:74:b3:76:7d:10:ec:d1:20:68:35:
+                    16:1f:3a:c9:c2:3c:84:a6:2e:9b:31:42:24:39:77:
+                    1f:ca:62:b8:31:cc:42:60:db:ee:c3:ce:5e:ea:90:
+                    11:f8:92:d1:09:94:c6:78:0d:53:c0:dc:35:5b:85:
+                    37:90:3c:27:44:7b:3a:0c:f8:46:7f:00:89:b1:0a:
+                    5d:31:2e:ba:83:67:99:8f:32:a1:ab:cc:19:52:15:
+                    03:09
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                D3:3A:0E:58:E7:E8:9F:5D:1D:4F:E4:8D:6E:24:40:35:27:B6:F4:A9
+    Signature Algorithm: sha256WithRSAEncryption
+         0e:7d:fa:b2:09:c6:ab:42:db:88:10:b6:0b:d7:5b:85:33:cb:
+         fc:3d:47:63:9f:42:39:79:9f:25:2a:68:27:e8:ae:a7:04:46:
+         dd:8a:53:a8:b4:14:2c:c0:ff:32:8d:71:82:fe:f9:01:b1:05:
+         68:54:6f:d3:29:2b:94:d7:3c:ce:10:bb:9d:ce:f7:9e:d9:5f:
+         de:f8:a5:22:f5:5f:16:dd:8f:e2:e4:8b:c5:40:98:0f:51:45:
+         cb:a2:0b:40:57:0b:a0:83:dc:da:e6:ff:42:2e:df:d0:a2:b7:
+         6d:b4:64:38:86:1a:1a:d3:fd:19:20:f7:65:60:3b:9c:10:4a:
+         38:df:97:e7:7f:89:0e:18:7a:1a:f9:f7:d8:20:81:e2:a1:84:
+         ae:5c:fc:13:52:94:b5:eb:dd:c6:59:c5:f3:c5:d5:cc:ea:c6:
+         d0:8a:32:04:6c:0a:53:16:5d:64:ad:dc:e8:05:ab:79:30:b2:
+         49:9b:0f:a0:23:7a:4f:97:93:87:88:2b:3c:62:95:3d:8b:13:
+         1d:cb:40:e2:7c:9f:49:b7:b5:4a:4b:e5:f0:67:ce:d4:66:89:
+         fa:ae:20:b7:4a:b8:59:ab:b9:ac:0c:b1:20:74:87:34:c3:61:
+         f1:90:48:3c:c8:e0:47:b7:d5:13:9a:21:c2:fc:e4:4e:e5:58:
+         14:c4:6c:3d
+-----BEGIN CERTIFICATE-----
+MIIC3TCCAcWgAwIBAgIEEc2/xzANBgkqhkiG9w0BAQsFADAeMRwwGgYDVQQDDBN3
+ZWlnaHRfbG9zc19mb3JfbWVuMCAXDTIwMDQxODAzNDk0OFoYDzIxMjAwMzI1MDM0
+OTQ4WjAeMRwwGgYDVQQDDBN3ZWlnaHRfbG9zc19mb3JfbWVuMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlzz/av0yzQGH0jEyXbxNZrtSI7pIPuOS1hm7
+ihhGDMGWjv5OzjG060H8icbukSqCeE78yPd/Rrd/pdygmZwS61UkpR3Fs5/Pqjkf
+nJRFllFcn1vJv3sZ739RgE4Pza6DZTrXVWrPy5U6+p5SCVC95xQTyKYOz9eXzESm
+EQCSr1vnpB2T8x7mn2zcgTKY2IJD0Puu7DAhWNA30sO/B90vr3+4QwkBhS3oc3Sz
+dn0Q7NEgaDUWHzrJwjyEpi6bMUIkOXcfymK4McxCYNvuw85e6pAR+JLRCZTGeA1T
+wNw1W4U3kDwnRHs6DPhGfwCJsQpdMS66g2eZjzKhq8wZUhUDCQIDAQABoyEwHzAd
+BgNVHQ4EFgQU0zoOWOfon10dT+SNbiRANSe29KkwDQYJKoZIhvcNAQELBQADggEB
+AA59+rIJxqtC24gQtgvXW4Uzy/w9R2OfQjl5nyUqaCforqcERt2KU6i0FCzA/zKN
+cYL++QGxBWhUb9MpK5TXPM4Qu53O957ZX974pSL1Xxbdj+Lki8VAmA9RRcuiC0BX
+C6CD3Nrm/0Iu39Cit220ZDiGGhrT/Rkg92VgO5wQSjjfl+d/iQ4Yehr599gggeKh
+hK5c/BNSlLXr3cZZxfPF1czqxtCKMgRsClMWXWSt3OgFq3kwskmbD6Ajek+Xk4eI
+KzxilT2LEx3LQOJ8n0m3tUpL5fBnztRmifquILdKuFmruawMsSB0hzTDYfGQSDzI
+4Ee31ROaIcL85E7lWBTEbD0=
+-----END CERTIFICATE-----
+

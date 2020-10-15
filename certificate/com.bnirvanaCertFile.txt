@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 787616790 (0x2ef21416)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=CA, L=Mill Valley, O=bNirvana, OU=Development, CN=Anshul Koka
+        Validity
+            Not Before: Mar 14 20:23:14 2017 GMT
+            Not After : Jul 30 20:23:14 2044 GMT
+        Subject: C=US, ST=CA, L=Mill Valley, O=bNirvana, OU=Development, CN=Anshul Koka
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c9:ac:5a:06:88:46:67:b4:d1:4f:33:69:64:5e:
+                    28:e9:31:c5:c5:fb:13:c8:82:8f:09:35:04:dd:ff:
+                    58:0b:e7:b4:e3:c6:80:17:c5:8f:f5:7a:08:75:62:
+                    52:cf:ed:2c:a2:cb:f8:aa:ff:46:f1:5b:34:fc:c7:
+                    33:2d:d6:4b:5a:92:ff:f5:cc:99:c8:6f:d6:50:c9:
+                    9e:ef:30:c7:b7:1c:77:78:50:55:60:75:4d:3a:42:
+                    09:9d:c8:36:2f:48:eb:4d:4f:f6:b1:6c:e7:64:ab:
+                    a5:c2:f0:17:f8:3d:d3:3a:2b:0f:7f:ca:55:d3:2a:
+                    c8:00:6d:49:77:6e:b8:02:b7:18:d8:84:49:0a:7a:
+                    6e:93:a8:08:7e:bf:3d:a1:75:ca:48:2e:17:8c:ae:
+                    f7:6b:ba:f4:ba:fe:c0:eb:b8:bf:84:bd:db:5f:21:
+                    78:ae:84:b8:15:62:ec:75:50:34:b7:2c:73:06:a9:
+                    89:65:68:ad:15:fc:4b:be:f2:53:c6:32:1c:37:30:
+                    a9:c4:b7:6c:7d:cb:70:24:81:06:38:38:a2:33:ea:
+                    f2:4d:95:02:3d:56:3f:cf:91:1d:21:38:15:7e:5b:
+                    83:84:62:4a:5c:de:5e:cc:2c:26:cd:4e:7d:70:aa:
+                    d8:50:13:ea:97:cc:17:9f:97:4e:13:04:1b:c8:58:
+                    f4:5d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                F9:13:BE:13:4B:4C:4E:20:86:14:48:F6:4D:6A:F0:22:30:52:DF:E0
+    Signature Algorithm: sha256WithRSAEncryption
+         6f:5a:71:a0:1d:15:c0:7e:18:3b:a6:94:14:17:95:99:0e:3c:
+         02:c9:db:27:11:47:da:ad:65:23:52:0c:51:0f:7d:d6:2f:54:
+         2e:0e:3f:6e:01:35:99:be:87:b3:95:3f:a8:12:0f:28:8a:35:
+         60:34:ce:71:fa:98:2e:5f:d9:85:89:3f:e7:89:8c:5c:56:0c:
+         30:3b:a2:f3:42:1e:8a:52:f5:61:4a:dc:4b:2f:00:96:4d:a2:
+         52:ea:09:fb:71:0e:d9:50:cd:16:3b:19:3d:37:28:7b:3e:6e:
+         34:76:31:d3:53:8f:f6:01:68:99:58:5c:50:e3:dd:80:29:01:
+         8c:c8:f6:99:01:7b:4d:e3:c6:3d:5e:a2:51:58:23:3f:41:81:
+         15:3b:91:46:15:7b:00:da:00:21:c2:4a:2b:53:27:91:8a:df:
+         b7:aa:0e:7e:9d:54:51:1b:d9:a4:00:67:8f:67:97:6b:a6:f7:
+         73:51:4a:4d:1b:1e:a4:df:2b:a7:bb:05:63:29:9a:b9:16:99:
+         c5:1c:24:fb:3a:85:db:34:c4:29:5a:2e:a4:31:5a:27:0e:5f:
+         6c:ee:e3:d4:27:c6:6a:f5:77:45:70:e4:01:f4:9d:9e:67:f4:
+         9a:49:dd:6a:5e:e8:1e:4b:25:b8:4c:1a:44:cb:d1:62:e5:a6:
+         27:9c:4e:d9
+-----BEGIN CERTIFICATE-----
+MIIDfTCCAmWgAwIBAgIELvIUFjANBgkqhkiG9w0BAQsFADBvMQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCQ0ExFDASBgNVBAcTC01pbGwgVmFsbGV5MREwDwYDVQQKEwhi
+TmlydmFuYTEUMBIGA1UECxMLRGV2ZWxvcG1lbnQxFDASBgNVBAMTC0Fuc2h1bCBL
+b2thMB4XDTE3MDMxNDIwMjMxNFoXDTQ0MDczMDIwMjMxNFowbzELMAkGA1UEBhMC
+VVMxCzAJBgNVBAgTAkNBMRQwEgYDVQQHEwtNaWxsIFZhbGxleTERMA8GA1UEChMI
+Yk5pcnZhbmExFDASBgNVBAsTC0RldmVsb3BtZW50MRQwEgYDVQQDEwtBbnNodWwg
+S29rYTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMmsWgaIRme00U8z
+aWReKOkxxcX7E8iCjwk1BN3/WAvntOPGgBfFj/V6CHViUs/tLKLL+Kr/RvFbNPzH
+My3WS1qS//XMmchv1lDJnu8wx7ccd3hQVWB1TTpCCZ3INi9I601P9rFs52SrpcLw
+F/g90zorD3/KVdMqyABtSXduuAK3GNiESQp6bpOoCH6/PaF1ykguF4yu92u69Lr+
+wOu4v4S9218heK6EuBVi7HVQNLcscwapiWVorRX8S77yU8YyHDcwqcS3bH3LcCSB
+Bjg4ojPq8k2VAj1WP8+RHSE4FX5bg4RiSlzeXswsJs1OfXCq2FAT6pfMF5+XThME
+G8hY9F0CAwEAAaMhMB8wHQYDVR0OBBYEFPkTvhNLTE4ghhRI9k1q8CIwUt/gMA0G
+CSqGSIb3DQEBCwUAA4IBAQBvWnGgHRXAfhg7ppQUF5WZDjwCydsnEUfarWUjUgxR
+D33WL1QuDj9uATWZvoezlT+oEg8oijVgNM5x+pguX9mFiT/niYxcVgwwO6LzQh6K
+UvVhStxLLwCWTaJS6gn7cQ7ZUM0WOxk9Nyh7Pm40djHTU4/2AWiZWFxQ492AKQGM
+yPaZAXtN48Y9XqJRWCM/QYEVO5FGFXsA2gAhwkorUyeRit+3qg5+nVRRG9mkAGeP
+Z5drpvdzUUpNGx6k3yunuwVjKZq5FpnFHCT7OoXbNMQpWi6kMVonDl9s7uPUJ8Zq
+9XdFcOQB9J2eZ/SaSd1qXugeSyW4TBpEy9Fi5aYnnE7Z
+-----END CERTIFICATE-----
+

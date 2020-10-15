@@ -1,0 +1,81 @@
+{
+  "name": "net.easycreation.w_grapher",
+  "fileSize": "6.0 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.QUICKBOOT_POWERON Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "9 August 2020",
+    "Size": "5.2M",
+    "Installs": "500000",
+    "Current Version": "1.9.3",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$2.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Easy Creation",
+    "Developer": "Visit website easycreation.info@gmail.com Privacy Policy Vasileos Georgiou A, 83, Peyiazis court, office 106, Germasogeia, 4047, Limassol, Cyprus"
+  },
+  "rating": "4.6",
+  "description": "Tired of huge apps with tens of useless functions? So we are!  This app lets you track your body weight and your BMI. Period.  Enjoy minimal and handy interface! Features: \u2022 Enter your body weight easily to the weight diary with a handy numberpicker \u2022 Track your BMI just by specifing your height in profile \u2022 Backup the data of your body weight recorder to SD-card and transfer it to your new smartphone \u2022 Choose how to display your progress - as a graph or a table \u2022 Add a comment for weighing Now you will always have your body weight and BMI diary on hand. Any time you may check your progress in weight loss that will motivate you for future success.  Weight loss is a long term undertaking. For maximum sustainable result in your body weight loss you should lose not more than 1 kilo a week. So you definitely need a good body weight and BMI ( Body Mass Index) diary to track you progress. Knowing you BMI is a pretty useful thing during weight loss process. With your BMI you know exactly how healthy your body weight is.  Your new Weight and BMI tracker holds your progress in the most efficient way \u2013 as a diary and a graphic. Any time you may see all your weight loss progress. Observing you results is the best motivation for further weight loss! Just step on the scale every day, put your body weight into the app and watch your weight going down and your BMI moving towards healthy value.",
+  "privacyText": "https://ads-config.firebaseapp.com/privacy_policy/w_grapher_privacy_policy.html",
+  "numInstalls": 500000,
+  "developer": "Easy Creation",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://easycreation.net",
+    "Developer Email": "easycreation.info@gmail.com",
+    "Privacy Policy": "https://ads-config.firebaseapp.com/privacy_policy/w_grapher_privacy_policy.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Opencv"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

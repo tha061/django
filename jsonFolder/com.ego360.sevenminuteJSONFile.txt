@@ -1,0 +1,81 @@
+{
+  "name": "com.ego360.sevenminute",
+  "fileSize": "54.8 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.ego360.sevenminute.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.ego360.sevenminute.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.ego360.sevenminute.GcmIntentService  permission: ",
+      "name: com.ego360.sevenminute.GcmJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "13 November 2018",
+    "Size": "55M",
+    "Installs": "1000000",
+    "Current Version": "2.1.800019",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$4.96 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Lumowell - Ego360",
+    "Developer": "Visit website service.ego360@gmail.com Privacy Policy Via Cimarosa, 65 - 80127 Napoli"
+  },
+  "rating": "4.8",
+  "description": "High intensity 7 minute workout to lose weight, tone muscles, burn fat and improve cardiovascular health at home based on a study of McMaster University, Hamilton, Ontario.  A fitness personal trainer to motivate and guide you. A specific bodyweight  workout designed to burn fat in the shortest time possible.  Lumowell offers you a great workout for weight loss, toning legs and arms, tone your butt and have a flat stomach  in a short period of time.  ------------------------------------------------ The Scientific 7 Minute Workout Video: https://www.youtube.com/watch?v=r8cexmYOknI ------------------------------------------------ Scientific research has shown that even 7 minutes of HIIT exercise a day provides heart health benefits.  The 7 minute daily exercises plan allow you to train your abdominal muscles, chest muscles, your butt, thighs, and Legs, arms and shoulders.  A fat-burning workout routine to firm up the body.  Unlocking the advanced version of total body 7 Minute Workout (PRO version) you'll get:  - Advanced exercises for more effective results - Weekly meal plans to develop healthy eating habits and lose weight fast - No advertising  - Stretching cool down workout that help you relax and improve the muscle's elasticity - 30 day fitness challenge workout App by Ego360 for Lumowell / Lumofit project",
+  "privacyText": "http://www.lumowell.com/privacy.php",
+  "numInstalls": 1000000,
+  "developer": "Lumowell - Ego360",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.lumowell.com/",
+    "Developer Email": "service.ego360@gmail.com",
+    "Privacy Policy": "http://www.lumowell.com/privacy.php"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Google Analytics",
+    "YOC"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

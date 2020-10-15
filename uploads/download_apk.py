@@ -15,6 +15,8 @@ import requests
 import os
 import shutil
 import zipfile
+from func_timeout import *
+from .filepaths import *
 
 def search(query):
     res = requests.get('https://apkpure.com/search?q={}&region='.format(quote_plus(query)), headers={
@@ -37,14 +39,20 @@ def checkIfXAPK(soupString):
     else:
         return True
 
+@func_set_timeout(90)
 def download(link,app_id):
     print("Split: "+link.split('/')[-1])
     print("App ID: "+app_id)
+
+    proxy = "49.135.46.8"
+
     if link.split('/')[-1] == app_id:
         res = requests.get(link + '/download?from=details', headers={
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.5 (KHTML, like Gecko) '
-                          'Version/9.1.2 Safari/601.7.5 '
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0',
+
         }).text
+
+
         soup = BeautifulSoup(res, "html.parser").find('a', {'id': 'download_link'})
 
 
@@ -78,7 +86,10 @@ def download(link,app_id):
                 print("Extracting APK - Doing chunk stuff")
                 with open(link.split('/')[-1] + '.apk', 'wb') as file:
                     #print("Do we get in the loop")
+                    #count = 0
                     for chunk in r.iter_content(chunk_size=1024):
+                    #    print("chunk: "+str(count))
+                    #    count = count+1
                         #print("Do we get in chunk loop the loop")
                         if chunk:
                             #print("do we get in the if statement")
@@ -89,9 +100,9 @@ def download(link,app_id):
 
 
 def changeXAPKtoZIP(app_id):
-    xapkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", app_id+".xapk")
-    apkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", app_id+".apk")
-    zipPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", app_id+".zip")
+    xapkPATH = returnXAPKZIP(app_id)
+    apkPATH = returnAPKPath(app_id)
+    zipPATH = returnAPKZIP(app_id)
 
     try:
         os.rename(xapkPATH, zipPATH)
@@ -99,13 +110,14 @@ def changeXAPKtoZIP(app_id):
         print("zip file aready exists - in changeXAPKtoZip")
 
 def extractAPK(app_id):
-        xapkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", app_id+".xapk")
-        apkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", app_id+".apk")
-        zipPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", app_id+".zip")
+        xapkPATH = returnXAPKZIP(app_id)
+        apkPATH = returnAPKPath(app_id)
+        zipPATH = returnAPKZIP(app_id)
         with zipfile.ZipFile(zipPATH) as z:
             print(z)
             with z.open(app_id+".apk") as zf, open(apkPATH, 'wb') as f:
                 shutil.copyfileobj(zf, f)
+
 
 def download_apk(app_id):
     download_link = search(app_id)
@@ -123,7 +135,7 @@ def download_apk(app_id):
 
 
 def checkApkDownloaded(apkCode):
-    apkPATH = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads", apkCode+".apk")
+    apkPATH = returnAPKPath(apkCode)
     return os.path.exists(apkPATH)
 
 # Test it

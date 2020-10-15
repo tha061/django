@@ -1,0 +1,82 @@
+{
+  "name": "com.shvagerfm.Kettlebell",
+  "fileSize": "28.5 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: plugin.notifications.v2.CoronaFirebaseMessagingService  permission: ",
+      "name: plugin.notifications.v2.CoronaFirebaseInstanceIdService  permission: ",
+      "name: com.ansca.corona.CoronaService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "13 April 2020",
+    "Size": "28M",
+    "Installs": "100000",
+    "Current Version": "1.2.1",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "ShvagerFM",
+    "Developer": "Visit website shvagerfm@gmail.com Beregovaja str 9\nPreobrazhenka\nZaporizhska obl\nUkraine\n70545"
+  },
+  "rating": "4.4",
+  "description": "The application \"Kettlebell workout\" will suit all sportsmen and amateurs, without exception. This app contain 70 animated exercises. You can set up your workout in two ways, which is more convenient for you. For your convenience, you can save an unlimited number of your workouts. Soon a section with a training plan for kettlebell lifting will be added. Detailed settings will make it possible to customize your occupation as conveniently as possible. A detailed history of trainings with tracking calories and exercises performed. What is the advantage of weight training before other types of physical activity? Training with kettlebells burns more calories. Gears allow you to workout everywhere, either at home or in the gym. Excellent strengthen muscles of the back, hands, legs, shoulders. Exercises with weights allow you to load the entire body. Training with weight is an excellent way to diversify conventional workouts.",
+  "privacyText": "",
+  "numInstalls": 100000,
+  "developer": "ShvagerFM",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://bestronger.club",
+    "Developer Email": "shvagerfm@gmail.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Ansca",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

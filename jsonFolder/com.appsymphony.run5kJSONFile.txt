@@ -1,0 +1,84 @@
+{
+  "name": "com.appsymphony.run5k",
+  "fileSize": "13.9 MB",
+  "VTmd5": "c51e2ad08a056d3415b55a71b35a9e3f",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/9cccdf034fdd8dc604c0e6d2f930d507f99e25fb157b67b03d1cb625105c88ee/detection/f-9cccdf034fdd8dc604c0e6d2f930d507f99e25fb157b67b03d1cb625105c88ee-1600206730",
+  "VTresource": "9cccdf034fdd8dc604c0e6d2f930d507f99e25fb157b67b03d1cb625105c88ee",
+  "VTresponsecode": 1,
+  "VTscanID": "9cccdf034fdd8dc604c0e6d2f930d507f99e25fb157b67b03d1cb625105c88ee-1600206730",
+  "VTsha1": "8f192f9358dd89f0ed35d79ac58e41185f00abe5",
+  "VTsha256": "9cccdf034fdd8dc604c0e6d2f930d507f99e25fb157b67b03d1cb625105c88ee",
+  "VTtotal": 59,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.appsymphony.run5k.permission.MAPS_RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.providers.gsf.permission.READ_GSERVICES Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.appsymphony.run5k.permission.MAPS_RECEIVE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.appsymphony.run5k.Run5kProgramService  permission: ",
+      "name: com.appsymphony.run5k.Run5kProgramService10k  permission: ",
+      "name: com.appsymphony.run5k.Run5kLocationService  permission: ",
+      "name: com.appsymphony.run5k.KillNotificationsService  permission: ",
+      "name: com.google.android.gms.analytics.CampaignTrackingService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "4 December 2017",
+    "Size": "14M",
+    "Installs": "100000",
+    "Current Version": "2.11.0",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$1.99 \u2013 $3.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "App Symphony",
+    "Developer": "Visit website appsymphony@gmail.com Privacy Policy 8 Impasse des Ors\n44650 Touvois\nFrance"
+  },
+  "rating": "4.3",
+  "description": "Today is a good day to start running and get fit. In just 9 weeks you will be able to run 5 km with Couch to 5k & 10k. Amazing, isn\u2019t it? Couch to 5k & 10k is based on the prestigious fitness program C25K (couch to 5k) especially designed so that anyone can achieve their goal although he has not run in years (if ever!). The app will guide you step by step giving instructions when you have to run and walk. There are 3 workouts per week, each one about 30 minutes. The program will slowly become more challenging. Your body's endurance will gradually increase over time with the interval training method. You need more? Do not worry\u2026 If you've completed your 5k training, congratulations! Couch to 5k & 10k also includes a complete 10k training based on the same principle run/walk so it will be just as easy to move from 5k to 10k. There's no excuse, up from the couch! With Couch to 5k & 10k you will enjoy: \u2713 Simple and intuitive user interface. \u2713 Gentle interval program to prevent injuries. \u2713 Gradually improve your stamina and health. \u2713 Burn calories and lose weight. \u2713 Outside or indoor/treadmill training. \u2713 Ideal for beginners and amateurs. \u2713  Full  and totally  free  training. Couch to 5k & 10k key features: \u25cf An audio coach tell you when you should run, walk, warm-up or cool-down. \u25cf Listen to your favorite music while training with the in-app music player or use your favorite one (Spotify, Play Music, Radio...). \u25cf Pause and skip buttons able you to pause the workout, skip forward or repeat interval and skip warm-up or cool-down . \u25cf Instructions in the notification bar keep you informed while you're outside the application. \u25cf Displays real-time distance, average speed, pace, calories burned, and training duration. \u25cf Live tracking of your route on a interactive map and log your training itineraries. \u25cf Saves automatically a report with statistics of your workouts. \u25cf Statistics include: route, your mood, distance, duration, average speed, max speed, average pace, calories burned, min/max altitude, ascent/descent, local weather, workout snapshot... \u25cf Share your progress on Facebook and Twitter. \u25cf Indoor Mode allows training on a treadmill or indoors ignoring the GPS signal and manual entry of workouts. \u25cf Allows you to keep screen on or screen off during the training. \u25cf Ability to rotate the screen during training. This is especially useful if you train with a bracelet. \u25cf Backup and restore options prevent losing your progress if you change your mobile \u25cf A halfway announce will tell you when to start come back home. \u25cf Visualize in advance the plan of each workout. \u2605 Couch to 5k & 10k is the best app to start running! \u2605 Disclaimer: App Symphony is not responsible in any way for any damage that may occur from the use of this application. Remember to pay attention to the road during your workouts.",
+  "privacyText": "http://appsymphony.bith.net/run5k/privacy_policy/google_play",
+  "numInstalls": 100000,
+  "developer": "App Symphony",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.facebook.com/couchto5kand10k",
+    "Developer Email": "appsymphony@gmail.com",
+    "Privacy Policy": "http://appsymphony.bith.net/run5k/privacy_policy/google_play"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

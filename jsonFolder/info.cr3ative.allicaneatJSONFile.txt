@@ -1,0 +1,69 @@
+{
+  "name": "info.cr3ative.allicaneat",
+  "fileSize": "25.1 MB",
+  "VTmd5": "c9309d12668d0a37b90dc4484cd174b6",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/dd77bcd1baaf5aa3ca9b6f78111b574c608a08889c954f41a1d0d24fc38c0de8/detection/f-dd77bcd1baaf5aa3ca9b6f78111b574c608a08889c954f41a1d0d24fc38c0de8-1576018253",
+  "VTresource": "dd77bcd1baaf5aa3ca9b6f78111b574c608a08889c954f41a1d0d24fc38c0de8",
+  "VTresponsecode": 1,
+  "VTscanID": "dd77bcd1baaf5aa3ca9b6f78111b574c608a08889c954f41a1d0d24fc38c0de8-1576018253",
+  "VTsha1": "55639dfaed31922c3a4d3d226ce8806c0f5ce1dc",
+  "VTsha256": "dd77bcd1baaf5aa3ca9b6f78111b574c608a08889c954f41a1d0d24fc38c0de8",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "18 May 2018",
+    "Size": "Varies with device",
+    "Installs": "100000",
+    "Current Version": "1.0.8",
+    "Requires Android": "4.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$3.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "cr3ative.info Steffen Mauser",
+    "Developer": "Visit website mail@cr3ative.info Berghofring 18\n74538 Rosengarten\nGermany"
+  },
+  "rating": "3.9",
+  "description": "Do you suffer from lactose, fructose, histamine, gluten, sorbitol or salicylic acid intolerance? Or do you even have several of them? No problem! With ALL i CAN EAT you have all your food intolerances under control. ALL i CAN EAT adjusts to your individual intolerances and calculates your compatibility for each food. The compatibilities are displayed in a simple traffic light system, ranging from green (very well tolerated) to yellow and orange up to red (bad idea to eat). If a recommendation does not apply to you, you can easily save your individual tolerance for the food concerned. Search quickly for a specific food, browse certain categories such as beverages, fruits, dairy products, etc. or filter compatibilites by color. In addition, ALL i CAN EAT does also provide many details such as the amounts of lactose, fructose, glucose, histamine, sorbitol, salicylic acid, amines, amino acids, etc. And in case you should miss a food, you can add it easily. You will never have to search various lists again or learn any numbers by heart! With ALL i CAN EAT you manage all your food intolerances in one place.",
+  "privacyText": "",
+  "numInstalls": 100000,
+  "developer": "cr3ative.info Steffen Mauser",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://all-i-can-eat.com",
+    "Developer Email": "mail@cr3ative.info",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Googlecode"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

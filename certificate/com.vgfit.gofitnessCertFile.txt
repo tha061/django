@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1446109145 (0x5631dfd9)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=vgfit
+        Validity
+            Not Before: Oct 29 08:59:05 2015 GMT
+            Not After : Oct  5 08:59:05 2115 GMT
+        Subject: CN=vgfit
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:f0:e0:dd:9b:b6:9e:72:7a:c8:35:ec:84:83:2f:
+                    16:8d:93:ad:fa:94:9d:76:53:af:31:e2:3d:f8:db:
+                    2c:f5:8c:36:91:00:e6:bc:44:2c:ec:e4:78:34:76:
+                    09:d3:b8:97:cb:1a:03:9e:a2:60:2b:c1:ae:cf:2b:
+                    7f:d4:59:d9:2f:1e:3f:7c:6e:76:c7:08:d3:d8:b7:
+                    30:20:d7:1a:52:a4:0f:a7:db:2b:8e:57:a8:8b:c7:
+                    4c:61:7a:4f:53:63:9c:6e:79:3b:90:be:72:2a:01:
+                    97:10:3e:b4:a0:96:5d:be:b5:e4:bc:a7:ea:55:54:
+                    86:7e:03:e0:c3:0d:27:95:79
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         94:47:c2:7c:66:86:27:26:c7:68:90:8b:ae:88:ee:f2:54:38:
+         62:cd:58:47:fd:11:62:33:99:e1:97:8c:ba:26:1b:27:4e:49:
+         9a:15:13:d0:de:25:d3:80:e5:7a:73:9b:35:dd:67:29:26:2f:
+         91:70:6e:ae:81:8c:58:62:9c:0e:6c:0f:1a:ae:b7:75:3f:10:
+         b6:fb:ed:8a:f8:95:7f:ef:5e:ca:2e:26:a5:3c:9f:5e:cf:67:
+         eb:77:75:ce:cc:ec:4f:8f:68:d3:b7:fd:79:bb:31:9e:12:44:
+         48:cd:dc:87:f5:18:1b:85:f1:38:a7:93:94:c0:15:2b:28:88:
+         bd:01
+-----BEGIN CERTIFICATE-----
+MIIBmTCCAQKgAwIBAgIEVjHf2TANBgkqhkiG9w0BAQUFADAQMQ4wDAYDVQQDEwV2
+Z2ZpdDAgFw0xNTEwMjkwODU5MDVaGA8yMTE1MTAwNTA4NTkwNVowEDEOMAwGA1UE
+AxMFdmdmaXQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAPDg3Zu2nnJ6yDXs
+hIMvFo2TrfqUnXZTrzHiPfjbLPWMNpEA5rxELOzkeDR2CdO4l8saA56iYCvBrs8r
+f9RZ2S8eP3xudscI09i3MCDXGlKkD6fbK45XqIvHTGF6T1NjnG55O5C+cioBlxA+
+tKCWXb615Lyn6lVUhn4D4MMNJ5V5AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAlEfC
+fGaGJybHaJCLroju8lQ4Ys1YR/0RYjOZ4ZeMuiYbJ05JmhUT0N4l04DlenObNd1n
+KSYvkXBuroGMWGKcDmwPGq63dT8QtvvtiviVf+9eyi4mpTyfXs9n63d1zszsT49o
+07f9ebsxnhJESM3ch/UYG4XxOKeTlMAVKyiIvQE=
+-----END CERTIFICATE-----
+

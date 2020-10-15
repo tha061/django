@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1455912211 (0x56c77513)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=WA, L=Seattle, O=Yoga Buddhi Co., CN=Benjamin Simon
+        Validity
+            Not Before: Feb 19 20:03:31 2016 GMT
+            Not After : Feb  6 20:03:31 2066 GMT
+        Subject: C=US, ST=WA, L=Seattle, O=Yoga Buddhi Co., CN=Benjamin Simon
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:80:14:fe:4d:52:9f:28:04:49:2c:c3:7b:5d:ba:
+                    88:b4:70:d8:94:5b:b3:03:21:ef:80:ce:8d:fa:75:
+                    7c:6e:5a:17:d9:65:79:46:71:e9:79:16:7c:f7:1c:
+                    89:68:d4:ab:fa:9d:7f:8b:79:97:9c:8e:31:ed:d9:
+                    ea:5b:50:f2:2a:33:66:33:58:19:5c:90:c3:f7:26:
+                    ea:5f:01:2a:20:a6:a2:bf:c6:4d:15:96:7c:e5:cd:
+                    5a:ee:e2:4a:e5:ec:44:9a:5d:14:e8:93:b7:ed:b7:
+                    24:d4:3b:09:6d:9a:43:f1:02:b8:d1:9f:dd:2a:16:
+                    a4:5f:98:27:95:fc:fa:f9:67
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         16:69:a5:6d:98:40:f3:4d:a4:32:33:15:f9:4b:02:ac:07:37:
+         c6:8a:b6:b6:bf:8b:27:bc:ae:79:41:67:3d:ed:9e:6b:f3:7d:
+         13:e0:39:16:9a:0d:cd:11:9d:c1:cd:82:6b:76:1e:e0:87:6d:
+         96:f9:cd:a9:ea:84:fd:b3:31:39:0d:95:50:ad:be:13:d2:50:
+         93:14:70:74:b5:60:5a:7e:0f:9e:41:bc:4c:92:4d:7d:db:24:
+         f2:db:77:53:cc:66:c4:34:ed:ce:bf:f9:f9:d0:aa:45:d0:91:
+         53:88:9c:90:13:e3:ca:69:5e:70:9c:2e:04:76:34:42:41:02:
+         e9:27
+-----BEGIN CERTIFICATE-----
+MIICNzCCAaCgAwIBAgIEVsd1EzANBgkqhkiG9w0BAQUFADBfMQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCV0ExEDAOBgNVBAcTB1NlYXR0bGUxGDAWBgNVBAoTD1lvZ2Eg
+QnVkZGhpIENvLjEXMBUGA1UEAxMOQmVuamFtaW4gU2ltb24wIBcNMTYwMjE5MjAw
+MzMxWhgPMjA2NjAyMDYyMDAzMzFaMF8xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJX
+QTEQMA4GA1UEBxMHU2VhdHRsZTEYMBYGA1UEChMPWW9nYSBCdWRkaGkgQ28uMRcw
+FQYDVQQDEw5CZW5qYW1pbiBTaW1vbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkC
+gYEAgBT+TVKfKARJLMN7XbqItHDYlFuzAyHvgM6N+nV8bloX2WV5RnHpeRZ89xyJ
+aNSr+p1/i3mXnI4x7dnqW1DyKjNmM1gZXJDD9ybqXwEqIKaiv8ZNFZZ85c1a7uJK
+5exEml0U6JO37bck1DsJbZpD8QK40Z/dKhakX5gnlfz6+WcCAwEAATANBgkqhkiG
+9w0BAQUFAAOBgQAWaaVtmEDzTaQyMxX5SwKsBzfGira2v4snvK55QWc97Z5r830T
+4DkWmg3NEZ3BzYJrdh7gh22W+c2p6oT9szE5DZVQrb4T0lCTFHB0tWBafg+eQbxM
+kk192yTy23dTzGbENO3Ov/n50KpF0JFTiJyQE+PKaV5wnC4EdjRCQQLpJw==
+-----END CERTIFICATE-----
+

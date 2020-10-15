@@ -9,7 +9,8 @@ import play_scraper
 import re
 import os
 import csv
-from uploads.functions import getTextFromHTML, makeTrackingHeadersArray,detectTrackersInHeaders
+from uploads.functions import getTextFromHTML, makeTrackingHeadersArray,detectTrackersInHeaders, getAPKHandlesfromThesisList
+from uploads.trackinglibraries import vt_uploadfile
 from  uploads.machineLearningFunctions import *
 
 @login_required(login_url="/account/login")
@@ -99,15 +100,16 @@ def collectHealthList(request):
     file.write("Id," +"\t" + "Category,"+"\t"+"Price"+"\n")
     file.close()
     print("file closed")
+    print(list(getSet()))
 
-    recursiveHealthList('com.dgse.grukoza_body_composition_tracker', list(getSet()), markedList+"\n")
+    recursiveHealthList('com.walgreenshearthealthmobileapp', list(getSet()), markedList)
 
         #print(x.get("app_id"))
     return render(request, 'database/health-list.html')
 
 def recursiveHealthList(startID, list, markedList):
 
-    file = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\thesisList.txt", "a+")#write mode
+    file = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\ThesisStuff\thesisList.txt", "a+")#write mode
     file.write("Id," +"\t" + "Category,"+"\t"+"Price"+"\t"+"Installs"+"\n")
     count = 0
 
@@ -115,14 +117,21 @@ def recursiveHealthList(startID, list, markedList):
         price = play_scraper.details(x.get('app_id')).get('price')
         category = play_scraper.details(x.get('app_id')).get('category')
         installs = play_scraper.details(x.get('app_id')).get('installs')
-        if 'HEALTH_AND_FITNESS' in play_scraper.details(x.get('app_id')).get('category') and price == '0' and checkInstalls(installs):
+        if 'HEALTH_AND_FITNESS' in play_scraper.details(x.get('app_id')).get('category') and price == '0':
             if x.get('app_id') not in list:
-                file = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\thesisList.txt", "a+")
+                file = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\ThesisStuff\thesisList.txt", "a+")
                 file.write(x.get('app_id')+",\t"+ str(category) +",\t"+price+",\t"+installs+"\n")
                 count += 1
 
                 file.close()
                 list.append(x.get('app_id'))
+                print("adding to list")
+            else:
+                #file = open(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\ThesisStuff\thesisList.txt", "a+")
+
+            #    file.write(x.get('app_id')+",\t"+ "already in list \n")
+                print("not adding to list")
+            #    file.close()
                 #file.`write(x.get('app_id')+'\n')
 
 
@@ -251,5 +260,9 @@ def makePPString(request):
     print(data)
 
 def testFunction(request):
-    PPShares3rdParty("We do not share your personal phone number with third parties. These third parties include google analytics and advertisers.")
+    #print(vt_uploadfile("com.tinymission.dailyyogafree"))
+    uploadFileVTHannes("com.tinymission.dailyyogafree")
+    #getAPKHandlesfromThesisList()
+    #print(getTextFromHTML("https://www.bodygrooveondemand.com/privacy")[0])
+    #PPShares3rdParty("We do not share your personal phone number with third parties. These third parties include google analytics and advertisers.")
     return render(request, 'database/health-list.html')

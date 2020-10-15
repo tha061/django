@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 114609736 (0x6d4ce48)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=Unknown, ST=Unknown, L=Unknown, O=SkillYoga, OU=SkillYoga, CN=Unknown
+        Validity
+            Not Before: Aug 26 16:59:19 2019 GMT
+            Not After : Jan 11 16:59:19 2047 GMT
+        Subject: C=Unknown, ST=Unknown, L=Unknown, O=SkillYoga, OU=SkillYoga, CN=Unknown
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:94:a6:3f:ae:1f:d5:72:c6:7f:b3:2a:e2:c2:33:
+                    c6:40:c7:43:c5:2f:45:c6:c6:5f:43:8e:67:d6:c8:
+                    2d:af:b0:10:99:41:ff:5c:04:0e:5e:78:07:70:9a:
+                    76:b1:d8:00:98:dd:92:67:cb:78:ba:1a:0e:06:b6:
+                    11:24:eb:3d:ce:f7:ad:ee:d2:57:a6:82:8b:83:34:
+                    4b:d4:fa:c9:02:97:35:41:d8:02:e8:c0:da:73:be:
+                    34:59:fd:41:0b:76:92:61:95:1f:a3:a9:c9:2e:11:
+                    1b:10:c6:c2:e6:25:48:05:44:ba:20:3b:4d:34:c0:
+                    62:29:9a:0d:20:c8:ad:f8:0c:f8:cc:54:14:6f:7b:
+                    14:94:db:be:38:5d:af:64:03:1d:b3:07:27:10:5b:
+                    fd:3f:36:1c:51:88:c3:bc:45:5e:84:35:4c:7e:fc:
+                    d0:ae:a4:6c:9c:d4:66:ab:22:bb:f8:29:ca:64:e0:
+                    3f:db:29:2a:16:48:28:2c:8a:cd:14:ef:d3:4c:11:
+                    06:e9:5a:71:75:cd:15:ee:39:d0:8b:ff:86:4f:76:
+                    e2:e0:24:59:00:75:e5:e8:db:a7:d9:7f:40:d6:88:
+                    63:d5:30:0c:23:da:46:87:e4:96:69:a1:d8:ca:79:
+                    3d:cd:3b:65:61:60:47:d6:37:29:5c:9e:15:79:b6:
+                    66:e5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                DE:C0:6B:2E:57:37:62:37:F6:16:1F:6A:B2:AA:75:DC:5F:3F:E4:66
+    Signature Algorithm: sha256WithRSAEncryption
+         2d:d2:b6:10:fb:59:82:7a:ec:e5:99:00:42:cf:18:52:61:d2:
+         ab:89:42:ab:82:91:3c:d5:9f:08:a7:e7:26:8e:8d:5e:7e:d0:
+         91:e7:22:c0:de:db:dc:9d:dc:8f:c4:53:ec:4e:1f:75:3b:f9:
+         a3:27:55:2a:08:9b:94:b9:2f:a2:66:2d:ff:26:2c:96:21:c2:
+         29:3b:11:31:82:36:91:6a:dc:dd:4d:81:ab:b5:bb:a7:79:27:
+         a3:7c:30:5e:e5:60:b4:57:cf:1f:8b:ff:a4:46:25:12:2d:56:
+         ea:d8:90:bb:30:7e:f0:23:e7:6e:de:9a:e4:4b:06:bd:47:d1:
+         d6:74:1a:79:e1:1a:6b:46:f5:fa:e5:98:59:58:39:c9:07:34:
+         d9:a0:a9:a7:11:35:27:17:9b:64:50:a2:d3:89:12:0b:a7:e2:
+         fb:2c:66:1c:fe:e8:fb:cd:59:73:9e:3a:33:00:5d:d2:eb:39:
+         90:e3:af:cf:61:dd:db:d8:34:02:32:0d:6f:94:93:df:9d:c2:
+         b2:0b:cc:0d:41:e1:69:09:39:30:b6:39:7a:cc:30:ec:98:fe:
+         de:0f:e5:f9:33:f2:67:81:40:92:13:9d:22:dc:af:00:5a:4e:
+         24:ca:45:e6:c4:15:fe:37:de:a4:a3:a7:8a:30:07:30:36:e8:
+         ef:d0:5d:b7
+-----BEGIN CERTIFICATE-----
+MIIDfzCCAmegAwIBAgIEBtTOSDANBgkqhkiG9w0BAQsFADBwMRAwDgYDVQQGEwdV
+bmtub3duMRAwDgYDVQQIEwdVbmtub3duMRAwDgYDVQQHEwdVbmtub3duMRIwEAYD
+VQQKEwlTa2lsbFlvZ2ExEjAQBgNVBAsTCVNraWxsWW9nYTEQMA4GA1UEAxMHVW5r
+bm93bjAeFw0xOTA4MjYxNjU5MTlaFw00NzAxMTExNjU5MTlaMHAxEDAOBgNVBAYT
+B1Vua25vd24xEDAOBgNVBAgTB1Vua25vd24xEDAOBgNVBAcTB1Vua25vd24xEjAQ
+BgNVBAoTCVNraWxsWW9nYTESMBAGA1UECxMJU2tpbGxZb2dhMRAwDgYDVQQDEwdV
+bmtub3duMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlKY/rh/VcsZ/
+syriwjPGQMdDxS9FxsZfQ45n1sgtr7AQmUH/XAQOXngHcJp2sdgAmN2SZ8t4uhoO
+BrYRJOs9zvet7tJXpoKLgzRL1PrJApc1QdgC6MDac740Wf1BC3aSYZUfo6nJLhEb
+EMbC5iVIBUS6IDtNNMBiKZoNIMit+Az4zFQUb3sUlNu+OF2vZAMdswcnEFv9PzYc
+UYjDvEVehDVMfvzQrqRsnNRmqyK7+CnKZOA/2ykqFkgoLIrNFO/TTBEG6Vpxdc0V
+7jnQi/+GT3bi4CRZAHXl6Nun2X9A1ohj1TAMI9pGh+SWaaHYynk9zTtlYWBH1jcp
+XJ4VebZm5QIDAQABoyEwHzAdBgNVHQ4EFgQU3sBrLlc3Yjf2Fh9qsqp13F8/5GYw
+DQYJKoZIhvcNAQELBQADggEBAC3SthD7WYJ67OWZAELPGFJh0quJQquCkTzVnwin
+5yaOjV5+0JHnIsDe29yd3I/EU+xOH3U7+aMnVSoIm5S5L6JmLf8mLJYhwik7ETGC
+NpFq3N1Ngau1u6d5J6N8MF7lYLRXzx+L/6RGJRItVurYkLswfvAj527emuRLBr1H
+0dZ0GnnhGmtG9frlmFlYOckHNNmgqacRNScXm2RQotOJEgun4vssZhz+6PvNWXOe
+OjMAXdLrOZDjr89h3dvYNAIyDW+Uk9+dwrILzA1B4WkJOTC2OXrMMOyY/t4P5fkz
+8meBQJITnSLcrwBaTiTKRebEFf433qSjp4owBzA26O/QXbc=
+-----END CERTIFICATE-----
+

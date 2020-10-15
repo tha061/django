@@ -1,0 +1,46 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1369412157 (0x519f923d)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=Grinasys Corp., CN=Igor Yudin
+        Validity
+            Not Before: May 24 16:15:57 2013 GMT
+            Not After : May 18 16:15:57 2038 GMT
+        Subject: O=Grinasys Corp., CN=Igor Yudin
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a7:1d:9d:85:cd:ec:82:65:a9:94:6b:27:45:fe:
+                    24:05:46:eb:25:17:07:71:a6:de:bb:09:2c:3f:9e:
+                    8c:62:2b:6f:95:b3:0e:4d:85:9e:5b:fb:03:f4:34:
+                    7c:d5:80:a8:49:4d:10:21:06:c0:e2:a6:a3:d7:0a:
+                    6e:5a:95:db:3b:aa:28:7b:d8:8b:2f:67:61:22:70:
+                    cc:b4:ae:97:46:c1:1e:5d:78:d8:8d:81:c7:95:82:
+                    93:c4:ab:6c:bb:f5:4d:69:a9:dd:7b:50:0d:65:29:
+                    9a:c7:7e:b8:47:85:99:81:52:a1:e0:64:d5:53:a8:
+                    01:57:bd:6d:22:ad:ef:b8:7f
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         75:bc:e9:d2:7b:f6:01:dc:66:20:88:61:39:bc:dc:31:be:56:
+         09:58:5d:f4:c0:a1:03:48:28:74:70:d7:85:0a:9d:f5:3f:bb:
+         85:34:e5:12:02:6c:62:62:2b:5d:ba:7c:6a:15:0e:99:77:5a:
+         97:4c:f8:e0:26:c0:36:7a:c9:9c:08:8c:2d:07:e1:c2:ab:cd:
+         a7:78:17:bb:f1:86:2f:2d:b8:33:9a:23:5e:9a:c7:c8:07:39:
+         8a:21:12:3d:81:50:62:57:9d:42:a2:7d:a1:38:8c:12:0d:a3:
+         88:a2:f9:f9:37:96:5f:3f:bb:af:d1:e9:20:1f:d9:94:a9:5f:
+         08:44
+-----BEGIN CERTIFICATE-----
+MIIB0zCCATygAwIBAgIEUZ+SPTANBgkqhkiG9w0BAQUFADAuMRcwFQYDVQQKEw5H
+cmluYXN5cyBDb3JwLjETMBEGA1UEAxMKSWdvciBZdWRpbjAeFw0xMzA1MjQxNjE1
+NTdaFw0zODA1MTgxNjE1NTdaMC4xFzAVBgNVBAoTDkdyaW5hc3lzIENvcnAuMRMw
+EQYDVQQDEwpJZ29yIFl1ZGluMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCn
+HZ2FzeyCZamUaydF/iQFRuslFwdxpt67CSw/noxiK2+Vsw5NhZ5b+wP0NHzVgKhJ
+TRAhBsDipqPXCm5alds7qih72IsvZ2EicMy0rpdGwR5deNiNgceVgpPEq2y79U1p
+qd17UA1lKZrHfrhHhZmBUqHgZNVTqAFXvW0ire+4fwIDAQABMA0GCSqGSIb3DQEB
+BQUAA4GBAHW86dJ79gHcZiCIYTm83DG+VglYXfTAoQNIKHRw14UKnfU/u4U05RIC
+bGJiK126fGoVDpl3WpdM+OAmwDZ6yZwIjC0H4cKrzad4F7vxhi8tuDOaI16ax8gH
+OYohEj2BUGJXnUKifaE4jBINo4ii+fk3ll8/u6/R6SAf2ZSpXwhE
+-----END CERTIFICATE-----
+

@@ -1,0 +1,69 @@
+{
+  "name": "com.samantharoobol.stretching",
+  "fileSize": "10.4 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.MODIFY_AUDIO_SETTINGS Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "13 October 2020",
+    "Size": "10M",
+    "Installs": "10000",
+    "Current Version": "1.9.1",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.49 \u2013 $4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Stay Fit With Samantha",
+    "Developer": "Visit website samantharoobol@gmail.com Privacy Policy Laurierhof 23, Papendrecht"
+  },
+  "rating": "3.2",
+  "description": "Stretching may not be the most exciting part of working out, but doing flexibility work is just as important for a well-rounded fitness routine as strength and cardio work. Incorporating some stretching exercises into your workout schedule will help you improve flexibility, reduce tightness, and ultimately, make your workouts more efficient and safe. Stretching Exercises: How to Get Flexible Quickly and Safely Most people wish they were more flexible but don\u2019t do anything about it, because most flexibility training feels like a weird form of torture. In this app we'll show you simple steps to rapidly improve your flexibility without having to stretch for hours every day. We created multiple workout programs with stretches for: - Full Body - Lower Body: leg, hip, glute and lower back stretches - Upper Body: upper back, chest, shoulder and neck stretches - Yoga Stretches to Increase Flexibility Beginners can do all the stretching exercises we provide. It's true that stretching is neither glamorous nor hardcore, and it probably won't give you the same rush that a run or HIIT class will. Luckily, improving your flexibility and mobility isn't hard. It just takes a little time. Try adding the stretches for flexibility your workout routine to help relieve muscle tension and increase mobility\u2014so that you can move through both the gym and life more freely. Stretching exercises and workout stretches routines for better flexibility. Stretching is essential for improving flexibility, which is an important component of overall fitness, along with mobility, strength, power, and endurance. At Home Stretching Routine Exercises We added multiple at-home stretches that instantly make you feel less achy. If they\u2019re not already a part of your workout regimen, read on to learn which stretching exercises are best for warming up, cooling down, and improving overall fitness. Stretching is an important part of fitness: It can improve your range of motion, increase circulation, and calm your mind\u2014which may help fend off injuries and illness, as well as bring on a better night\u2019s sleep. Stretches for back pain relief When you're dealing with the aches and oftentimes debilitating soreness of lower-back pain, there's a good chance all you want to do is stay in bed. Yet research found that any kind of exercise\u2014whether it's core strengthening, aerobic exercise, or stretching\u2014is the best way to ease pain and reduce the risk of another back pain attack. The nice thing about gentle stretching is that it's feasible to do when you're in pain\u2014and often provides the fastest relief. Work these simple moves into your routine to loosen muscles and maintain flexibility. We offer the best stretches for warm-up, cooldown, and everyday flexibility.",
+  "privacyText": "http://fm.stefanroobol.com/privacy-policy/stretching",
+  "numInstalls": 10000,
+  "developer": "Stay Fit With Samantha",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://samantha.steveloper.nl",
+    "Developer Email": "samantharoobol@gmail.com",
+    "Privacy Policy": "http://fm.stefanroobol.com/privacy-policy/stretching"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1265011648 (0x4b668bc0)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=iMobLife
+        Validity
+            Not Before: Feb  1 08:07:28 2010 GMT
+            Not After : Jan  8 08:07:28 2110 GMT
+        Subject: CN=iMobLife
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:aa:44:d4:0f:ef:54:78:5a:8a:c5:58:61:25:3d:
+                    df:91:08:89:d7:ce:38:24:26:ee:8b:32:ee:1f:f0:
+                    6b:7a:98:27:9f:7c:43:8c:b3:56:98:ff:e5:02:4c:
+                    a0:7c:0e:ad:90:b8:66:4f:48:d5:18:26:1b:d7:64:
+                    66:6e:88:da:7c:60:d6:0c:3b:50:29:5c:e4:4a:d7:
+                    d9:7f:ac:0f:7d:7c:4f:0a:af:56:29:76:fe:e6:c5:
+                    ff:8e:a1:c3:f2:c0:d2:eb:21:84:b8:32:59:c1:ae:
+                    64:3c:07:d4:74:17:14:08:bc:e8:75:9a:77:38:5d:
+                    e8:cc:26:b5:0d:51:f1:20:2d
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         a1:69:e2:c7:10:e7:31:f7:c5:bc:95:c6:71:da:27:70:04:38:
+         9c:3e:7f:15:ee:42:b0:38:b1:f9:32:4f:b9:07:4a:06:17:15:
+         27:ed:80:01:b2:65:a0:6e:b8:c9:4b:99:32:59:4d:5d:1d:b7:
+         b5:05:6d:bb:c3:46:e3:91:36:dc:03:12:38:a9:29:d3:ad:4a:
+         55:fe:29:96:20:c2:41:44:1e:ea:7d:5f:8c:1c:6a:de:3b:3c:
+         4a:cf:27:b1:2c:7b:16:5a:80:cb:13:bb:29:4e:b7:59:3e:5e:
+         59:49:68:95:6e:58:fe:b4:b2:7a:04:1a:32:bb:d6:cd:a2:63:
+         89:46
+-----BEGIN CERTIFICATE-----
+MIIBnzCCAQigAwIBAgIES2aLwDANBgkqhkiG9w0BAQUFADATMREwDwYDVQQDEwhp
+TW9iTGlmZTAgFw0xMDAyMDEwODA3MjhaGA8yMTEwMDEwODA4MDcyOFowEzERMA8G
+A1UEAxMIaU1vYkxpZmUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKpE1A/v
+VHhaisVYYSU935EIidfOOCQm7osy7h/wa3qYJ598Q4yzVpj/5QJMoHwOrZC4Zk9I
+1RgmG9dkZm6I2nxg1gw7UClc5ErX2X+sD318TwqvVil2/ubF/46hw/LA0ushhLgy
+WcGuZDwH1HQXFAi86HWadzhd6MwmtQ1R8SAtAgMBAAEwDQYJKoZIhvcNAQEFBQAD
+gYEAoWnixxDnMffFvJXGcdoncAQ4nD5/Fe5CsDix+TJPuQdKBhcVJ+2AAbJloG64
+yUuZMllNXR23tQVtu8NG45E23AMSOKkp061KVf4pliDCQUQe6n1fjBxq3js8Ss8n
+sSx7FlqAyxO7KU63WT5eWUlolW5Y/rSyegQaMrvWzaJjiUY=
+-----END CERTIFICATE-----
+

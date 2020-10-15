@@ -2,6 +2,7 @@
 import os
 from os import chdir, system
 from .functions import SaveFiletoDatabase, makeTrackingHeadersArray, detectTrackersInHeaders
+from .filepaths import *
 
 
 def openEmulator(name):
@@ -9,12 +10,12 @@ def openEmulator(name):
     os.system("emulator -avd "+AVD)
 
 def installApp(appID):
-    apkPath = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads"
+    apkPath = filepaths_APKFolder
     os.chdir(apkPath)
     os.system("adb install "+ appID +".apk")
 
 def monkeyCMD(apkHandle, instance):
-    binPath = r"C:\Users\jake_\AppData\Local\Android\Sdk\tools\bin"
+    binPath = filepaths_AndroidMonkeyBin
     os.chdir(binPath)
     cmd = "monkeyrunner script.py "+apkHandle
     print("Executing monkeyCMD")
@@ -25,7 +26,7 @@ def monkeyCMD(apkHandle, instance):
     #os.system()
 
 def mitmdumpDecompile(apkHandle, instance):
-    binPath = r"C:\Users\jake_\AppData\Local\Android\Sdk\tools\bin"
+    binPath = filepaths_AndroidMonkeyBin
     os.chdir(binPath)
     cmd = "py mitmdump_parser.py "+apkHandle
     print("Decompiling MITM Results")
@@ -33,15 +34,15 @@ def mitmdumpDecompile(apkHandle, instance):
     print(cmd)
     os.system(cmd)
 
-    URLSPath = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\mitmdumps results\%s\%s_requested_urls.txt" % (apkHandle, apkHandle)
-    detectTrackersInHeaders(makeTrackingHeadersArray(),URLSPath, apkHandle)
+    URLSPath = returnURLSRequestedPath(apkHandle)
+    #detectTrackersInHeaders(makeTrackingHeadersArray(),URLSPath, apkHandle)
 
     if(os.path.exists(URLSPath)):
         SaveFiletoDatabase(URLSPath, "URLS", instance, apkHandle)
     else:
         print("No Network Traffic at all Detected")
 
-    Sharing_URLS_Path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\requested_urls_sharing\%s.txt" % apkHandle
+    Sharing_URLS_Path = returnURLSRequestedSharingPath(apkHandle)
     if(os.path.exists(Sharing_URLS_Path)):
         SaveFiletoDatabase(Sharing_URLS_Path, "TrackingURLS", instance, apkHandle)
     else:

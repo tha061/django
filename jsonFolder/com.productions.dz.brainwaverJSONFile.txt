@@ -1,0 +1,77 @@
+{
+  "name": "com.productions.dz.brainwaver",
+  "fileSize": "78.7 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.productions.dz.brainwaver.BasicGeneratorService  permission: ",
+      "name: com.productions.dz.brainwaver.AdvancedGeneratorService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "10 October 2020",
+    "Size": "79M",
+    "Installs": "50000",
+    "Current Version": "2.0023",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.99 \u2013 $4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "IoT Switch",
+    "Developer": "Visit website iotswitcher@gmail.com Privacy Policy 1715 17th Ct\nJupiter, FL\n33477"
+  },
+  "rating": "4.5",
+  "description": "Brain Waver allows full control over a Binaural Beats Generator with 18 high-definition relaxing background audio tracks also included for free!  Binaural Beats use a theory called Brainwave Entrainment. Your brainwaves will naturally match the generated beats per second over approximately 15 minutes when using headphones at low to medium volume. This technique allows you to enter many different states of consciousness for Meditation, Sleep, and Concentration. Close your eyes and focus only on your breathing for best results! The second Advanced Binaural Generator, found in the left slide out drawer, can fade between initial and ending Beats Per Second values to gently guide users towards their desired brainwave state. This second Generator can be played on top of the first for interesting multi-Binaural effects. Using the same Center Tone for both Generators (or slightly offset, I.E. 198 Hz for Basic and 200 Hz for Advanced) can also create mind bending Binaural interference patterns. This app can also be used as a White Noise Generator for sleeping  by setting the Binaural Beats volume to low or zero and choosing a background audio. Terms and Conditions: IoT Switch LLC takes no responsibility for any harm, bodily or otherwise, you may cause to yourself or others when using this application. This application integrates many different technologies and therefore has many different potential points of failure. Because of this, we do not guarantee that this app will work 100% of the time. All purchases of in-app products are final and no refunds or exchanges are required from us except for as required by state or federal law. This app gathers some anonymous usage statistics in order to better craft the User Experience.",
+  "privacyText": "http://www.hueswitcher.com/brainwaverprivacy.html",
+  "numInstalls": 50000,
+  "developer": "IoT Switch",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.hueswitcher.com/brainwaver.html",
+    "Developer Email": "iotswitcher@gmail.com",
+    "Privacy Policy": "http://www.hueswitcher.com/brainwaverprivacy.html"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,67 @@
+{
+  "name": "com.marsoc.MarsocFitnessPrep",
+  "fileSize": "3.7 MB",
+  "VTmd5": "6db1a528bbd52923d53492a55ce0f70b",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/b6f461afd70b685338663e4e5d98fc65ba99db8fd29e97f443eee018caef555d/detection/f-b6f461afd70b685338663e4e5d98fc65ba99db8fd29e97f443eee018caef555d-1575904150",
+  "VTresource": "b6f461afd70b685338663e4e5d98fc65ba99db8fd29e97f443eee018caef555d",
+  "VTresponsecode": 1,
+  "VTscanID": "b6f461afd70b685338663e4e5d98fc65ba99db8fd29e97f443eee018caef555d-1575904150",
+  "VTsha1": "62c594a02703aaeaaed205ac4fc21a424c10e4d6",
+  "VTsha256": "b6f461afd70b685338663e4e5d98fc65ba99db8fd29e97f443eee018caef555d",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.GET_TASKS Protection Level: N/A",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "4 October 2017",
+    "Size": "3.7M",
+    "Installs": "100000",
+    "Current Version": "1.0.1",
+    "Requires Android": "2.3.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "SAIC - Science Applications International Corp",
+    "Developer": "Visit website marsocapps@gmail.com"
+  },
+  "rating": "4.7",
+  "description": "U.S. Marine Corps Forces Special Operations Command (MARSOC) is preparing professional combat athletes who are ready to execute missions in the largely unstructured battlefields of today and the future. MARSOC's performance and resilience ideology\u2014which focuses on mind, body, and spirit\u2014is integral to preparation and success.  MARSOC seeks to ensure that Marines are not only physically strong but also possess the mental focus and unconquerable spirit necessary to persevere under the extreme stress of a high operational tempo and through the unknowns of asymmetric warfare. Critical skills operators are trained with renewal in mind, focusing on the resilience of the individual, unit, and family.  This app is focused on the physical fitness portion of this ideology: improving physical performance through training and nutrition. It provides photographs and descriptions of exercises used by MARSOC, and will help prepare candidates for the physical aspects of the Assessment and Selection process. Upon arriving at A&S, candidates are expected to have completed this 10-week program.  Funded by, and developed in cooperation with MARSOC",
+  "privacyText": "",
+  "numInstalls": 100000,
+  "developer": "SAIC - Science Applications International Corp",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.marsoc.com/fitness-prep-app",
+    "Developer Email": "marsocapps@gmail.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Adobe",
+    "Google Analytics",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

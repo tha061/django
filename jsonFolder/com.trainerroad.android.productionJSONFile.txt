@@ -1,0 +1,69 @@
+{
+  "name": "com.trainerroad.android.production",
+  "fileSize": "92.3 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.BATTERY_STATS Protection Level: signature|privileged|development",
+    "android.permission.BLUETOOTH Protection Level: normal",
+    "android.permission.BLUETOOTH_ADMIN Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: md5dcb6eccdc824e0677ffae8ccdde42930.KeepAliveService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "20 January 2020",
+    "Size": "92M",
+    "Installs": "100000",
+    "Current Version": "2020.3.0.92026",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "TrainerRoad",
+    "Developer": "Visit website support@trainerroad.com Privacy Policy"
+  },
+  "rating": "4.3",
+  "description": "Get faster with cycling\u2019s most effective training system.  \u2022  Power-based indoor workouts \u2022  Science-based training plans \u2022  Easy-to-use ride analysis tools  \u201c...TrainerRoad is the best there is.\u201d \u2014 BikeRadar Score: \u2605\u2605\u2605\u2605\u2605 \u201cTrainerRoad quite simply makes every second you spend on the turbo count.\u201d \u2014 Bicycling  \u201cTrainerRoad has completely transformed the [indoor riding] experience.\u201d \u2014 CyclingTips TRAINING \u2022  Choose from a workout library of over 1,000 structured indoor workouts.  \u2022  All workouts are individually calibrated to your personal fitness level.  PLANS \u2022  100+ cycling and triathlon training plans to help you reach your specific fitness goals. \u2022  Plans focus on getting you the most amount of fitness in the shortest amount of time.  \u2022  Each plan takes you through the proper progression of establishing base fitness, building upon that fitness, and finally, specialized training to achieve your unique fitness goals.  \u2022  From road, to cross country marathon, to triathlon \u2014 there\u2019s a plan for every discipline of rider, including those who simply want to maintain their cycling fitness.  \u2022  All plans come in three volumes and accommodate every level of rider from beginner to advanced.  \u2022  Each week of your plan includes training tips and knowledge from Level I USAC & USAT Coach Chad Timmerman.  \u2022  Add your outdoor rides to any structured TrainerRoad plan. Assign them in place of prescribed indoor workouts, or add them to any day as a second workout. ANALYTICS \u2022  Analyze all your indoor and outdoor ride data in one place with easy-to-use cycling analytics tools. \u2022  Track and compare indoor and outdoor training stress \u2022  Analyze progress and personal records on a granular level \u2022  Drill into the details of every ride TrainerRoad memberships are $19.95/month or $189/year. Sign up now at www.trainerroad.com. EQUIPMENT TrainerRoad is compatible with the majority of trainers and training devices on the market.  To check if your equipment is compatible with TrainerRoad, visit the Equipment Checker at https://www.trainerroad.com/equipment-checker. Have a question for us? We\u2019re here to help!  Get in touch with us at support@trainerroad.com. \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 REQUIREMENTS TrainerRoad for Android supports the most popular flagship Android devices OS: Android 5 Lollipop and higher Connection: Bluetooth Smart, ANT+ and ANT+ FE-C NOTES TrainerRoad for Android supports Bluetooth Smart, ANT+ and ANT+ FEC. Some devices are ANT+ compatible on their own, but may require ANT plugins installed from the Google Play store before they\u2019re ready to use. Other devices may require an ANT+ adapter. Fortunately, some of these devices work with existing ANT+ adapters from your computer and an additional USB-C or phone-specific USB adapter. Given the various ways TrainerRoad for Android communicates via ANT+, some devices may have stronger signals than others. If you\u2019re having difficulty using a native ANT+ device, you may need an adapter to train normally.",
+  "privacyText": "https://www.trainerroad.com/privacy-policy",
+  "numInstalls": 100000,
+  "developer": "TrainerRoad",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.trainerroad.com",
+    "Developer Email": "support@trainerroad.com",
+    "Privacy Policy": "https://www.trainerroad.com/privacy-policy"
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": true
+}

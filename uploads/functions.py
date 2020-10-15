@@ -17,6 +17,7 @@ from .trackinglibraries import *
 from . import forms
 from .machineLearningFunctions import PPShares3rdParty
 from .models import Link
+from .filepaths import *
 
 
 def returnZ(str):
@@ -42,15 +43,24 @@ def getTextFromHTML(link):
     PPNoAccess = False
     if link == '':
         print("non existent link")
+        PPNoAccess = True
         return "No Privacy Policy"
     print("link: "+link)
     req = Request(link, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.5 (KHTML, like Gecko) '
                   'Version/9.1.2 Safari/601.7.5 '})
     try:
-        html = urllib.request.urlopen(req).read()
-        return text_from_html(html).replace("\n", " ").replace("\t", " ").replace("     ", " ").replace(",", " ").replace("\"", ""), PPNoAccess
+        print("chcp 1252")
+        # need to do this because: https://stackoverflow.com/questions/50085366/permissionerror-winerror-31-a-device-attached-to-the-system-is-not-functioning
+        os.system("chcp 1252")
+        html = text_from_html(urllib.request.urlopen(req).read())
+        print("Text from HTML File ----------------")
+        print(html)
+        print("end of HTML Text -------------------")
+        return html.replace("\n", " ").replace("\t", " ").replace("     ", " ").replace(",", " ").replace("\"", ""), PPNoAccess
     except Exception as e:
+        print("ERROR TRYING TO GET TEXT FROM HTML--------------")
         html = str(e)
+        print("error: "+html)
         PPNoAccess = True
         return html, PPNoAccess
 
@@ -100,7 +110,7 @@ def getLibrariesDirectories(app_id):
                 shortenedPath = str(root[shortenedPathPosition+6:]).replace(r'\\','/')
                 noSlash = shortenedPath.replace('\\', '/')
                 libraries.append(noSlash)
-           #break        "include the break if you only want the first layer"
+
 
     return libraries
 
@@ -241,8 +251,9 @@ def returnSmaliKey(dict, folderList):
                 possibleLibrary.append(name)
                 alreadyChecked.append(tuple[0][:-1])
                 libraryCategory.append(tuple[1])
-                print(tuple[1])
-                break
+
+                print("Category: "+tuple[1])
+
                 if(tuple[1] == "Targeted ads"):
                     TargetedAds = True
                     AnyTrackingLibrary = True
@@ -252,7 +263,10 @@ def returnSmaliKey(dict, folderList):
                 if(tuple[1] == "Analytics"):
                     Analytics = True
                     AnyTrackingLibrary = True
+                break
 
+    print("Final possibleLibrary")
+    print(possibleLibrary)
     dictionary = {'library':possibleLibrary, 'libraryCategory':libraryCategory, 'TargetedAds':TargetedAds ,
     'MobileAnalytics':MobileAnalytics , 'Analytics':Analytics, 'AnyTrackingLibrary':AnyTrackingLibrary}
 
@@ -260,7 +274,7 @@ def returnSmaliKey(dict, folderList):
 
 
 def getSmaliFolders(app_id):
-    path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s"%app_id
+    path = returnAPKFolder(app_id)
     list = []
 
     os.chdir(path)
@@ -274,7 +288,7 @@ def getSmaliFolders(app_id):
 
 
 def getLibrariesSmali(app_id):
-    path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s\smali"%app_id
+    path = returnAPKSmaliFolder(app_id)
     apps_libraries = {}
     libraries = []
 
@@ -285,7 +299,7 @@ def getLibrariesSmali(app_id):
 
 
 def getLibraries2(app_id):
-    smali_path  = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads\%s"%app_id
+    smali_path  = returnAPKFolder(app_id)
 
     base_path = r"\smali"
 
@@ -479,7 +493,7 @@ def getManifest(path):
    # Get a list of all archived file names from the zip
         listOfFileNames = zipObj.namelist()
 
-        zipObj.extract("AndroidManifest.xml", r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads")
+        zipObj.extract("AndroidManifest.xml", filepaths_APKFolder)
    # Iterate over the file names
         #for fileName in listOfFileNames:
        # Check filename endswith csv
@@ -566,23 +580,30 @@ def getPermissionsDictionary():
     return dictionary
 
 def mergeLists(listA, listB):
+    numInstalls = 0
+    developer = ""
     result = {}
     for a in listA:
         for b in listB:
 
 
             editedString = b.replace(a+" ", "")
+
             if(a == "Installs"):
                 editedString = editedString.replace(",","")
                 editedString = editedString.replace("+","")
+                numInstalls = int(editedString)
 
-            if(a == "Installs" and int(editedString) < 1000001):
-                editedString = editedString + ", Warning: Low amount of users"
+            if(a == "Offered By"):
+                editedString = editedString.replace(",","")
+                developer = editedString
 
             result[a] = editedString
+
             listB.remove(b)
             break
-    return result
+    dict = {'result':result, 'numInstalls':numInstalls, 'developer':developer}
+    return dict
 
 
 def getDeveloperLinks(soup):
@@ -637,17 +658,19 @@ def metaFromWebsite(appID):
     titleForResult = [e.get_text(separator=" ").strip() for e in soup.find_all("div",{"class":"BgcNfc"})]
     result = [e.get_text(separator=" ").strip() for e in soup.find_all("div",{"class":"hAyfc"})]
     rating = soup.find("div",{"class":"BHMmbe"}).get_text(separator=" ").strip()
-    if(float(rating) < 3.0):
-        rating = rating + ", Warning: Low rated application"
     description = soup.find("div",{"class":"DWPxHb"}).get_text(separator=" ").strip()
+
 
     Meta = []
     #Meta.append(titleForResult)
     #Meta.append(result)
-    Meta.append(mergeLists(titleForResult, result))
+    mergedMetaList = mergeLists(titleForResult, result)
+    Meta.append(mergedMetaList.get('result'))
     Meta.append(rating)
     Meta.append(description)
     Meta.append(links)
+    Meta.append(mergedMetaList.get('numInstalls'))
+    Meta.append(mergedMetaList.get('developer'))
 
 
     return Meta
@@ -664,7 +687,7 @@ def getRSAFile(directory):
 
 
 def makeCertificateFile(appID):
-    apkFolder = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads",appID)
+    apkFolder = returnAPKFolder(appID)
     CertFolder = os.path.join(apkFolder,   r"original\META-INF")
     RSAFileName = getRSAFile(CertFolder)
     os.chdir(CertFolder)
@@ -672,7 +695,7 @@ def makeCertificateFile(appID):
 
     CertFile = r"original\META-INF\%sCertFile.txt" %(appID)
     apkCertFile = os.path.join(apkFolder, CertFile)
-    certificateFolder = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\certificate"
+    certificateFolder = filepaths_CERTFolder
 
 
     systemString = "openssl pkcs7 -inform DER -in "+RSAFileName+" -out "+appID+"CertFile.txt  -print_certs -text"
@@ -688,7 +711,7 @@ def makeCertificateFile(appID):
     #os.chdir(apkFolder)
 
 def RSAtoPEM(appID):
-    apkFolder = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads",appID)
+    apkFolder = returnAPKFolder(appID)
     CertFolder = os.path.join(apkFolder,   r"original\META-INF")
     os.chdir(CertFolder)
     systemString = "openssl pkcs7 -inform DER -in CERT.RSA -out "+appID+"CertFile.pem  -print_certs -text"
@@ -698,7 +721,7 @@ def RSAtoPEM(appID):
 
 
 def PemCertificate(appID):
-    apkFolder = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads",appID)
+    apkFolder = returnAPKFolder(appID)
     CertFolder = os.path.join(apkFolder,   r"original\META-INF")
     os.chdir(CertFolder)
     try:
@@ -709,7 +732,7 @@ def PemCertificate(appID):
 
     CertFile = r"original\META-INF\%scert.pem" %(appID)
     apkCertPemFile = os.path.join(apkFolder, CertFile)
-    CertPemFolder = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\Cert Pem Files"
+    CertPemFolder = filepaths_CertPemFolder
     try:
         shutil.copy(apkCertPemFile, CertPemFolder)
         os.remove(apkCertFile)
@@ -717,7 +740,7 @@ def PemCertificate(appID):
         pass
 
 def VerifyCert(appID):
-    apkFolder = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads",appID)
+    apkFolder = returnAPKFolder(appID)
     CertFolder = os.path.join(apkFolder,   r"original\META-INF")
     os.chdir(CertFolder)
     os.system("openssl verify CERT.RSA")
@@ -725,51 +748,53 @@ def VerifyCert(appID):
 
 def VerifyCertificate(appID):
     #Not working
-    apkFolder = os.path.join(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\apkDownloads",appID)
+    apkFolder = returnAPKFolder(appID)
     CertFolder = os.path.join(apkFolder,   r"original\META-INF")
     os.chdir(CertFolder)
     os.system("openssl verify CERT.RSA")
 
 
-    os.chdir(r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\Cert Pem Files")
+    os.chdir(filepaths_CertPemFolder)
     os.system("openssl verify "+appID+"cert.pem")
 
 def SaveFiletoDatabase(filePath, typeOfFile, modelInstance, apkCode):
     #typeOfFile can be "Cert", "VT", "Static"
-    #try:
-    f = open(filePath,'r')
-    if f:
-        file_content = ContentFile(f.read())
-        print(f.read())
-        print(file_content)
-        if typeOfFile == "Static":
-            print("Do we get in to Static")
-            print("model Instance: "+str(modelInstance))
-            print("File content: "+str(file_content))
-            modelInstance.jsonFile.save(apkCode+ " Static and Meta.txt",file_content)
-        if typeOfFile == "VT":
-            print("Do we get in to VT")
-            print("model Instance: "+str(modelInstance))
-            print("File content: "+str(file_content))
-            modelInstance.VTFile.save(apkCode+ " VirusTotal.txt",file_content)
-        if typeOfFile == "CertFile":
-            print("Do we get in to CertFile")
-            print("model Instance: "+str(modelInstance))
-            print("File content: "+str(file_content))
-            modelInstance.certFile.save(apkCode+ " Certificate.txt",file_content)
-        if typeOfFile == "URLS":
-            print("Do we get in to URLS")
-            print("model Instance: "+str(modelInstance))
-            print("File content: "+str(file_content))
-            modelInstance.certFile.save(apkCode+ " URLS.txt",file_content)
-        if typeOfFile == "TrackingURLS":
-            print("Do we get in to TrackingURLS")
-            print("model Instance: "+str(modelInstance))
-            print("File content: "+str(file_content))
-            modelInstance.certFile.save(apkCode+ " TrackingURLS.txt",file_content)
+    if os.path.exists(filePath):
+        f = open(filePath,'r')
+        if f:
+            file_content = ContentFile(f.read())
+            print(f.read())
+            print(file_content)
+            if typeOfFile == "Static":
+                print("Do we get in to Static")
+                print("model Instance: "+str(modelInstance))
+                print("File content: "+str(file_content))
+                modelInstance.jsonFile.save(apkCode+ " Static and Meta.txt",file_content)
+            if typeOfFile == "VT":
+                print("Do we get in to VT")
+                print("model Instance: "+str(modelInstance))
+                print("File content: "+str(file_content))
+                modelInstance.VTFile.save(apkCode+ " VirusTotal.txt",file_content)
+            if typeOfFile == "CertFile":
+                print("Do we get in to CertFile")
+                print("model Instance: "+str(modelInstance))
+                print("File content: "+str(file_content))
+                modelInstance.certFile.save(apkCode+ " Certificate.txt",file_content)
+            if typeOfFile == "URLS":
+                print("Do we get in to URLS")
+                print("model Instance: "+str(modelInstance))
+                print("File content: "+str(file_content))
+                modelInstance.URLSFile.save(apkCode+ " URLS.txt",file_content)
+            if typeOfFile == "TrackingURLS":
+                print("Do we get in to TrackingURLS")
+                print("model Instance: "+str(modelInstance))
+                print("File content: "+str(file_content))
+                modelInstance.TrackingURLSFile.save(apkCode+ " TrackingURLS.txt",file_content)
+            modelInstance.save()
+        f.close()
         modelInstance.save()
-    f.close()
-    modelInstance.save()
+    else:
+        print("Filepath doesnt exist")
     #except Exception as e:
     #    print(e)
 #        print("Could not save file for some reason????")
@@ -783,7 +808,7 @@ def checkListEmpty(checkList):
 
 def makeTrackingHeadersArray():
     list = []
-    filePath = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\urlHeaderTextFiles\GeneralTrackingSystems.txt"
+    filePath = filepaths_GeneralTrackingURLS
     with open(filePath) as f:
         for line in f:
             #print(line)
@@ -834,9 +859,9 @@ def detectTrackersInHeaders(trackersList, requestedListPath, apkCode):
     for req in requestedList:
         for tracker in trackersList:
             if tracker in req:
-                print("LOOOOOK HEEEREERE ------------------------------")
-                print("requested url: "+str(req))
-                print("tracker url: "+str(tracker))
+                #print("LOOOOOK HEEEREERE ------------------------------")
+                #print("requested url: "+str(req))
+                #print("tracker url: "+str(tracker))
                 trackerHeaderList.append(req)
                 requestedTrackersList.append(tracker)
                 networkTrafficTracker = True
@@ -849,24 +874,24 @@ def detectTrackersInHeaders(trackersList, requestedListPath, apkCode):
        writeURLSToFile(trackerHeaderList, requestedTrackersList, apkCode)
         #requestedTrackersList = []
 
-    print("HeaderList")
-    print(trackerHeaderList)
-    print("RequestedTrackerList")
-    print(requestedTrackersList)
+    #print("HeaderList")
+    #print(trackerHeaderList)
+    #print("RequestedTrackerList")
+    #print(requestedTrackersList)
     return trackerHeaderList, requestedTrackersList, networkTraffic, networkTrafficTracker
 
 def writeURLSToFile(trackerHeaderList, requestedTrackersList, apkCode):
-    print("Tracher Header List: ")
-    print(trackerHeaderList)
-    print("-------")
-    print("requestedTrackersList")
-    print(requestedTrackersList)
-    path = r"C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\requested_urls_sharing\%s.txt"%apkCode
+    #print("Tracher Header List: ")
+    #print(trackerHeaderList)
+    #print("-------")
+    #print("requestedTrackersList")
+    #print(requestedTrackersList)
+    path = returnURLSRequestedSharingPath(apkCode)
     with open(path,  'a') as f:
         count = 0
         for tracker in requestedTrackersList:
             #json.dump(x, outfile)
-            print(str(count)+" "+trackerHeaderList[count]+ tracker+"\n")
+            #print(str(count)+" "+trackerHeaderList[count]+ tracker+"\n")
             f.write(trackerHeaderList[count]+", "+tracker+"\n")
             count = count + 1
     f.close()
@@ -901,23 +926,71 @@ def listToStringSemiColon(s):
     return str1
 
 def contradiction(ActualTracking, PolicyTracking):
-    print("Network Tracking: "+str(ActualTracking))
-    print("Policy Tracking: "+str(PolicyTracking))
+    #print("Network Tracking: "+str(ActualTracking))
+    #print("Policy Tracking: "+str(PolicyTracking))
     if ActualTracking == True and PolicyTracking == False:
         return True
     else:
         return False
 
+def arrayThesisListHandles():
+    list = []
+
+def savePrivacyPolicyTextToFile(policyPATH, privacyPolicyText):
+    with open(policyPATH, "w", encoding="utf-8") as f:
+        f.write(privacyPolicyText)
+
+def updateVirusTotalResultsInstance(VirusTotalResults, instance):
+    instance.VT_permallink = VirusTotalResults[0]
+    instance.VT_sha1 = VirusTotalResults[1]
+    instance.VT_resource = VirusTotalResults[2]
+    instance.VT_response = VirusTotalResults[3]
+    instance.VT_scanId  = VirusTotalResults[4]
+    instance.VT_msg  = VirusTotalResults[5]
+    instance.VT_sha256 = VirusTotalResults[6]
+    instance.VT_md5 = VirusTotalResults[7]
+
+def updateVirusTotalResultsJSON(VirusTotalResults, jsonClass):
+    jsonClass.VTtotal = VirusTotalResults[8]
+    jsonClass.VTpositives = VirusTotalResults[9]
+    try:
+        jsonClass.VTratio = str(int(jsonClass.VTpositives)/int(jsonClass.VTtotal))
+    except:
+        jsonClass.VTratio = "error - need to upload file not just hash"
+
+
+
+
+def getAPKHandlesfromThesisList():
+    thesisList = filepaths_thesisList
+    ManyAPKList =filepaths_ManyAPKList
+    manyApkListArray = []
+    with open(thesisList, "r") as a_file:
+        for line in a_file:
+            #print(line)
+            firstComma = line.find(",")
+            apkHandle = line[0:firstComma]
+
+            if apkHandle != "Id" and apkHandle not in manyApkListArray:
+                f = open(ManyAPKList, "a")
+                manyApkListArray.append(apkHandle)
+                f.write(apkHandle+"\n")
+                f.close()
+
+
+
+
 
 class APKAnalysis():
-    def __init__(self, name="", fileSize="", VTmd5="", VTmsg="", VTpermalink="", VTresource="", VTresponsecode="", VTscanID="",
+    def __init__(self, name="", fileSize="",sha256="", VTmd5="", VTmsg="", VTpermalink="", VTresource="", VTresponsecode="", VTscanID="",
     VTsha1="", VTsha256="", VTtotal="", VTpositives="",VTratio="",usesPermissions = "", permissions = "", metaData ="", rating="", description="", service="", privacyText="",
     boolDangerousPerm = False, boolSmali = False, boolPP3rdPartyPP = False, PPClaims3rdPartySharing = False, boolPermissionsDangerous = False, boolPermissionsSignature = False,
     boolPermissionsNormal = False, networkTraffic = False, networkTrafficTracking = False, networkTrafficContradiction=False, libraryContradiction=False, contradiction=False,
-    PPEmpty = False, PPNoContact = False):
+    PPEmpty = False, PPNoContact = False, numInstalls = 0, developer = ""):
 
         self.name = name
         self.fileSize = fileSize
+        self.sha256 = sha256
         self.VTmd5 = VTmd5
         self.VTmsg = VTmsg
         self.VTpermalink = VTpermalink
@@ -936,6 +1009,8 @@ class APKAnalysis():
         self.rating = rating
         self.description = description
         self.privacyText = privacyText
+        self.numInstalls = numInstalls
+        self.developer = developer
         self.boolDangerousPerm = boolDangerousPerm
         self.boolSmali = boolSmali
         self.boolPP3rdPartyPP = boolPP3rdPartyPP

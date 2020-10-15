@@ -1,0 +1,52 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1238587450 (0x49d3583a)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=ro, ST=Sibiu, L=Medias, O=christian-albert-mueller.com, OU=Android Application Research & Development, CN=www.christian-albert-mueller.com
+        Validity
+            Not Before: Apr  1 12:04:10 2009 GMT
+            Not After : Jan  3 12:04:10 2064 GMT
+        Subject: C=ro, ST=Sibiu, L=Medias, O=christian-albert-mueller.com, OU=Android Application Research & Development, CN=www.christian-albert-mueller.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:98:0a:12:a1:00:d5:10:6b:e6:f0:dc:d4:f9:a7:
+                    f6:ac:58:14:8e:02:ea:54:32:0d:c5:ef:bc:44:44:
+                    08:f7:f0:19:b6:c2:7a:7b:f8:fc:38:da:d1:2e:30:
+                    4d:df:fd:8f:f4:dc:6b:06:6a:11:f2:84:75:5d:0c:
+                    5f:3d:8b:bb:c9:73:45:30:d7:67:97:76:ee:24:8b:
+                    01:08:a6:c7:e9:d3:c3:ad:29:b8:f3:af:a1:f7:70:
+                    f8:91:97:fb:2a:40:7e:92:ac:fc:eb:b8:42:e3:42:
+                    ad:85:59:8d:b4:85:fe:9d:e5:7a:8a:55:be:0f:44:
+                    fd:ad:90:af:86:2a:51:3e:2f
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         40:b9:5c:ea:ad:80:a7:fe:6c:5a:78:2b:61:37:15:31:72:7d:
+         67:ea:b5:a5:da:37:4c:80:bd:29:2f:a7:7d:72:0f:34:69:3f:
+         7b:04:6f:92:8a:91:36:cd:cf:82:7b:21:84:d9:e4:c4:07:9d:
+         54:ea:4a:7b:65:5b:5d:dc:84:28:d8:c7:29:96:d5:b2:95:1e:
+         92:df:1d:3a:ce:31:26:2a:32:34:fd:f9:e8:f3:07:04:70:27:
+         58:bc:ae:d8:1d:cb:1c:1b:63:78:b7:a9:dd:6f:54:3f:c4:2f:
+         ae:c4:bb:6f:ce:6d:4e:6d:51:e8:3b:1c:e7:d2:73:13:23:e1:
+         6e:0b
+-----BEGIN CERTIFICATE-----
+MIIC5TCCAk6gAwIBAgIESdNYOjANBgkqhkiG9w0BAQUFADCBtTELMAkGA1UEBhMC
+cm8xDjAMBgNVBAgTBVNpYml1MQ8wDQYDVQQHEwZNZWRpYXMxJTAjBgNVBAoTHGNo
+cmlzdGlhbi1hbGJlcnQtbXVlbGxlci5jb20xMzAxBgNVBAsMKkFuZHJvaWQgQXBw
+bGljYXRpb24gUmVzZWFyY2ggJiBEZXZlbG9wbWVudDEpMCcGA1UEAxMgd3d3LmNo
+cmlzdGlhbi1hbGJlcnQtbXVlbGxlci5jb20wIBcNMDkwNDAxMTIwNDEwWhgPMjA2
+NDAxMDMxMjA0MTBaMIG1MQswCQYDVQQGEwJybzEOMAwGA1UECBMFU2liaXUxDzAN
+BgNVBAcTBk1lZGlhczElMCMGA1UEChMcY2hyaXN0aWFuLWFsYmVydC1tdWVsbGVy
+LmNvbTEzMDEGA1UECwwqQW5kcm9pZCBBcHBsaWNhdGlvbiBSZXNlYXJjaCAmIERl
+dmVsb3BtZW50MSkwJwYDVQQDEyB3d3cuY2hyaXN0aWFuLWFsYmVydC1tdWVsbGVy
+LmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAmAoSoQDVEGvm8NzU+af2
+rFgUjgLqVDINxe+8REQI9/AZtsJ6e/j8ONrRLjBN3/2P9NxrBmoR8oR1XQxfPYu7
+yXNFMNdnl3buJIsBCKbH6dPDrSm486+h93D4kZf7KkB+kqz867hC40KthVmNtIX+
+neV6ilW+D0T9rZCvhipRPi8CAwEAATANBgkqhkiG9w0BAQUFAAOBgQBAuVzqrYCn
+/mxaeCthNxUxcn1n6rWl2jdMgL0pL6d9cg80aT97BG+SipE2zc+CeyGE2eTEB51U
+6kp7ZVtd3IQo2McpltWylR6S3x06zjEmKjI0/fno8wcEcCdYvK7YHcscG2N4t6nd
+b1Q/xC+uxLtvzm1ObVHoOxzn0nMTI+FuCw==
+-----END CERTIFICATE-----
+

@@ -1,0 +1,82 @@
+{
+  "name": "com.rootberz.thirtydayfitchallenges",
+  "fileSize": "15.0 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "18 Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "18 Protection Level: Developer Defined Permission",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.rootberz.thirtydayfitchallenges.MyFirebaseMessagingService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "29 November 2019",
+    "Size": "15M",
+    "Installs": "50000",
+    "Current Version": "2.09",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u2013 $99.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "rootBerz LLC",
+    "Developer": "Visit website rootBerzLLC@gmail.com Privacy Policy 3250 E Donald Dr.\nPhoenix, AZ 85050"
+  },
+  "rating": "4.6",
+  "description": "Workout at home without equipment. Our 30 Day Fit app workout tracker includes 3D animated video instructions. 30 Day Fitness Challenge is based on the Scientific Biorhythm Theory! Any regular recurring motion or rhythm can influence a person's life and affect abilities in the Physical, Emotional, and Intellectual cycles. Free high quality 3D workout challenges:    30 day ab challenge     30 day squat challenge     30 day plank challenge     30 day pushup challenge  Purchasable features to help support us :)    30 day beach physique challenge     Create your own customized challenges   \u2022 Jumping Jacks  \u2022 Abs  \u2022 Wall Sit  \u2022 Squat  \u2022 Burpee  \u2022 Plank  \u2022 Lunge  \u2022 Pushup  \u2022 Side Plank  \u2022 more than 50 exercises... Download this 30 Day Fitness Challenge app now to get motivated, burn fat, lose weight, get fit, and get your biorhythm on track in only 30 days!",
+  "privacyText": "http://www.30DayFitChallenges.com/privacyPolicy",
+  "numInstalls": 50000,
+  "developer": "rootBerz LLC",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.30DayFitChallenges.com",
+    "Developer Email": "rootBerzLLC@gmail.com",
+    "Privacy Policy": "http://www.30DayFitChallenges.com/privacyPolicy"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

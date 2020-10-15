@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1290524429 (0x4cebd70d)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: L=Seattle, O=Qbiki Networks, OU=iOS/Android Development, CN=Andrew Vasiliu
+        Validity
+            Not Before: Nov 23 15:00:29 2010 GMT
+            Not After : Nov 15 15:00:29 2040 GMT
+        Subject: L=Seattle, O=Qbiki Networks, OU=iOS/Android Development, CN=Andrew Vasiliu
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d6:19:8c:6f:46:85:cf:cd:44:35:c0:ef:e9:f0:
+                    bb:13:9e:4f:b4:e8:35:9c:c5:b6:02:d5:04:54:07:
+                    db:14:68:0b:ae:09:85:9c:25:8d:6a:63:de:f4:b9:
+                    45:d6:41:97:21:6d:d9:82:5b:bd:a0:11:2f:43:4e:
+                    41:46:f3:7d:5a:63:0d:db:e8:35:62:9d:c3:99:26:
+                    3f:09:68:8f:0a:30:9f:09:b4:77:46:7d:2e:e7:e6:
+                    b6:f3:00:88:24:22:17:78:f1:f4:f0:01:59:eb:bc:
+                    28:8f:68:a4:fd:39:5d:19:ad:fb:4a:40:93:22:58:
+                    cb:76:38:59:ff:75:ce:1f:47
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         bc:ec:ed:32:ba:c0:ef:14:d7:6a:10:0d:82:e7:9b:73:61:6c:
+         3e:bd:18:c5:11:02:e7:cd:28:81:48:15:74:65:3c:6d:0a:e3:
+         c2:d3:c3:f2:4d:a0:2a:65:ce:ef:df:7f:19:08:73:b6:ee:3c:
+         81:38:c6:24:d5:14:f9:00:9f:f1:fa:b6:52:f5:26:0c:26:72:
+         ac:01:95:76:87:ef:21:57:19:b8:7f:66:76:59:91:6a:45:0b:
+         74:6e:b9:dd:6b:0b:67:d3:45:05:62:5d:e7:1d:d7:44:a4:3e:
+         51:65:8c:75:35:7e:0b:16:bc:f6:92:3e:43:9b:e5:e5:2e:67:
+         1e:80
+-----BEGIN CERTIFICATE-----
+MIICQzCCAaygAwIBAgIETOvXDTANBgkqhkiG9w0BAQUFADBmMRAwDgYDVQQHEwdT
+ZWF0dGxlMRcwFQYDVQQKEw5RYmlraSBOZXR3b3JrczEgMB4GA1UECxMXaU9TL0Fu
+ZHJvaWQgRGV2ZWxvcG1lbnQxFzAVBgNVBAMTDkFuZHJldyBWYXNpbGl1MB4XDTEw
+MTEyMzE1MDAyOVoXDTQwMTExNTE1MDAyOVowZjEQMA4GA1UEBxMHU2VhdHRsZTEX
+MBUGA1UEChMOUWJpa2kgTmV0d29ya3MxIDAeBgNVBAsTF2lPUy9BbmRyb2lkIERl
+dmVsb3BtZW50MRcwFQYDVQQDEw5BbmRyZXcgVmFzaWxpdTCBnzANBgkqhkiG9w0B
+AQEFAAOBjQAwgYkCgYEA1hmMb0aFz81ENcDv6fC7E55PtOg1nMW2AtUEVAfbFGgL
+rgmFnCWNamPe9LlF1kGXIW3Zglu9oBEvQ05BRvN9WmMN2+g1Yp3DmSY/CWiPCjCf
+CbR3Rn0u5+a28wCIJCIXePH08AFZ67woj2ik/TldGa37SkCTIljLdjhZ/3XOH0cC
+AwEAATANBgkqhkiG9w0BAQUFAAOBgQC87O0yusDvFNdqEA2C55tzYWw+vRjFEQLn
+zSiBSBV0ZTxtCuPC08PyTaAqZc7v338ZCHO27jyBOMYk1RT5AJ/x+rZS9SYMJnKs
+AZV2h+8hVxm4f2Z2WZFqRQt0brndawtn00UFYl3nHddEpD5RZYx1NX4LFrz2kj5D
+m+XlLmcegA==
+-----END CERTIFICATE-----
+

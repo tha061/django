@@ -1,0 +1,80 @@
+{
+  "name": "com.chrishopkin.parkrunner",
+  "fileSize": "3.5 MB",
+  "VTmd5": "f58c16128f229b55f5a365a4687e7092",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/4e6de57e2e65be88e98af42c6bfcbd6e215174453773760c742fb7e043803aea/detection/f-4e6de57e2e65be88e98af42c6bfcbd6e215174453773760c742fb7e043803aea-1583583693",
+  "VTresource": "4e6de57e2e65be88e98af42c6bfcbd6e215174453773760c742fb7e043803aea",
+  "VTresponsecode": 1,
+  "VTscanID": "4e6de57e2e65be88e98af42c6bfcbd6e215174453773760c742fb7e043803aea-1583583693",
+  "VTsha1": "25af7e146ebf08d216a8e82712bfd56b5e09906b",
+  "VTsha256": "4e6de57e2e65be88e98af42c6bfcbd6e215174453773760c742fb7e043803aea",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.work.impl.background.systemalarm.SystemAlarmService  permission: ",
+      "name: androidx.work.impl.background.systemjob.SystemJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.work.impl.foreground.SystemForegroundService  permission: ",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "9 October 2020",
+    "Size": "9.0M",
+    "Installs": "10000",
+    "Current Version": "1.5.1",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Chris Hopkin",
+    "Developer": "Visit website parkrunnerapp@gmail.com Privacy Policy"
+  },
+  "rating": "4.7",
+  "description": "Keep track of your weekly 5k run results with parkrunner. Analyse your performance over time with result histories. Follow your friends and family and see all their results plus your own in one place. Check your Runner and Volunteer stats. Track your progress towards those all important milestones - the 10, 50, 100, 250 & 500 runs. Find your nearest parkrun with the event map. parkrunner is a personal project, developed in my spare time and in no way associated with the parkrun organisation. Permissions: * Camera permission is required only if you wish to sign into the app by scanning your barcode. * Location permission is required only if you wish to see your current location on the event map.",
+  "privacyText": "http://www.chrishopkin.com/parkrunner-privacy-policy",
+  "numInstalls": 10000,
+  "developer": "Chris Hopkin",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.facebook.com/parkrunnerapp",
+    "Developer Email": "parkrunnerapp@gmail.com",
+    "Privacy Policy": "http://www.chrishopkin.com/parkrunner-privacy-policy"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

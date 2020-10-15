@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1234706811 (0x4998217b)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=IT, ST=Pavia, L=Bressana Bottarone, O=LostHut, OU=Development Team, CN=LostHut Development
+        Validity
+            Not Before: Feb 14 07:51:50 2015 GMT
+            Not After : Feb  8 07:51:50 2040 GMT
+        Subject: C=IT, ST=Pavia, L=Bressana Bottarone, O=LostHut, OU=Development Team, CN=LostHut Development
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b5:7d:3b:02:14:e6:9d:20:ca:30:38:b1:89:75:
+                    50:cf:cd:f5:34:64:bd:e1:a1:43:77:18:53:c1:7e:
+                    b7:ea:62:0a:33:8e:36:a6:b6:74:2f:88:1b:2a:15:
+                    d0:ba:24:b3:d4:9e:c5:7a:ce:25:6c:2c:f4:5c:14:
+                    48:d1:b8:23:e2:d9:68:66:f2:2c:65:71:64:2c:fd:
+                    39:c7:92:eb:5a:7a:8c:bd:12:27:bb:33:bf:f4:64:
+                    84:92:f2:01:56:33:4b:89:c9:25:3e:ef:22:c8:04:
+                    4c:42:6d:d2:f1:d4:a8:7d:c8:f7:51:28:c5:48:63:
+                    31:82:5b:35:ef:af:de:65:76:c9:fa:6b:25:e2:60:
+                    41:93:7c:dc:12:c9:30:c1:b2:d8:84:c3:92:91:94:
+                    e7:5e:82:c0:88:61:45:16:45:1e:16:d5:84:67:60:
+                    b2:73:62:7f:af:2f:ed:57:a7:3b:5e:f3:f5:20:46:
+                    e0:c5:dc:a9:a2:82:61:41:9f:7a:76:20:20:46:f4:
+                    12:c0:41:11:c5:b8:7f:8a:9f:10:b1:f0:82:77:cd:
+                    71:09:72:be:04:06:22:91:9a:11:f5:c8:61:76:20:
+                    74:92:83:01:17:5f:af:25:00:cb:24:30:36:f0:3a:
+                    97:15:4d:a6:17:95:08:72:be:3a:fe:b4:33:4e:11:
+                    52:2d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                72:88:B8:B7:10:B5:BA:4B:9C:AF:88:38:46:11:BD:28:1A:D4:1C:56
+    Signature Algorithm: sha256WithRSAEncryption
+         84:99:59:17:c5:ce:0c:65:22:be:15:fc:f3:2d:c0:6e:5e:e2:
+         c4:60:e0:5e:71:7b:1f:ff:5e:36:18:82:c2:b0:bd:d3:fa:83:
+         64:10:a1:27:4e:c8:c2:40:a6:a2:a5:09:45:f3:03:85:3e:ad:
+         0d:5c:41:ed:43:0c:37:80:cb:84:0b:2e:71:e0:06:4c:12:fe:
+         ad:ba:47:92:76:39:f3:35:ce:b3:11:fe:25:2c:a9:51:3f:a1:
+         d1:d3:11:07:e1:79:ed:46:25:1d:15:6b:c9:24:23:aa:0d:38:
+         0b:94:52:37:e9:a1:4c:1c:7c:9d:23:9c:d3:fd:10:52:7b:01:
+         aa:f2:56:25:4e:55:76:95:cf:21:c0:cb:b8:df:e5:11:9e:c6:
+         85:47:01:ee:20:3a:f3:3c:cc:aa:76:dc:75:ba:87:e9:19:a4:
+         9d:c9:01:20:25:1e:ae:d2:2b:05:64:dc:d2:68:ca:8e:83:10:
+         51:f7:f3:aa:e7:be:ca:8b:b1:17:94:d8:c8:04:5a:2e:8f:44:
+         a1:1e:3e:4f:32:f5:8d:bd:ee:18:18:67:c2:1d:72:ad:61:16:
+         4f:1f:f5:ac:1f:a6:81:06:03:7b:ac:4d:76:40:ce:22:6d:6a:
+         3c:b3:8d:fb:87:71:ed:18:02:8e:78:73:b8:d0:ce:06:df:c2:
+         80:85:ab:52
+-----BEGIN CERTIFICATE-----
+MIIDqzCCApOgAwIBAgIESZghezANBgkqhkiG9w0BAQsFADCBhTELMAkGA1UEBhMC
+SVQxDjAMBgNVBAgTBVBhdmlhMRswGQYDVQQHExJCcmVzc2FuYSBCb3R0YXJvbmUx
+EDAOBgNVBAoTB0xvc3RIdXQxGTAXBgNVBAsTEERldmVsb3BtZW50IFRlYW0xHDAa
+BgNVBAMTE0xvc3RIdXQgRGV2ZWxvcG1lbnQwHhcNMTUwMjE0MDc1MTUwWhcNNDAw
+MjA4MDc1MTUwWjCBhTELMAkGA1UEBhMCSVQxDjAMBgNVBAgTBVBhdmlhMRswGQYD
+VQQHExJCcmVzc2FuYSBCb3R0YXJvbmUxEDAOBgNVBAoTB0xvc3RIdXQxGTAXBgNV
+BAsTEERldmVsb3BtZW50IFRlYW0xHDAaBgNVBAMTE0xvc3RIdXQgRGV2ZWxvcG1l
+bnQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC1fTsCFOadIMowOLGJ
+dVDPzfU0ZL3hoUN3GFPBfrfqYgozjjamtnQviBsqFdC6JLPUnsV6ziVsLPRcFEjR
+uCPi2Whm8ixlcWQs/TnHkutaeoy9Eie7M7/0ZISS8gFWM0uJySU+7yLIBExCbdLx
+1Kh9yPdRKMVIYzGCWzXvr95ldsn6ayXiYEGTfNwSyTDBstiEw5KRlOdegsCIYUUW
+RR4W1YRnYLJzYn+vL+1Xpzte8/UgRuDF3KmigmFBn3p2ICBG9BLAQRHFuH+KnxCx
+8IJ3zXEJcr4EBiKRmhH1yGF2IHSSgwEXX68lAMskMDbwOpcVTaYXlQhyvjr+tDNO
+EVItAgMBAAGjITAfMB0GA1UdDgQWBBRyiLi3ELW6S5yviDhGEb0oGtQcVjANBgkq
+hkiG9w0BAQsFAAOCAQEAhJlZF8XODGUivhX88y3Abl7ixGDgXnF7H/9eNhiCwrC9
+0/qDZBChJ07IwkCmoqUJRfMDhT6tDVxB7UMMN4DLhAsuceAGTBL+rbpHknY58zXO
+sxH+JSypUT+h0dMRB+F57UYlHRVrySQjqg04C5RSN+mhTBx8nSOc0/0QUnsBqvJW
+JU5VdpXPIcDLuN/lEZ7GhUcB7iA68zzMqnbcdbqH6RmknckBICUertIrBWTc0mjK
+joMQUffzque+youxF5TYyARaLo9EoR4+TzL1jb3uGBhnwh1yrWEWTx/1rB+mgQYD
+e6xNdkDOIm1qPLON+4dx7RgCjnhzuNDOBt/CgIWrUg==
+-----END CERTIFICATE-----
+

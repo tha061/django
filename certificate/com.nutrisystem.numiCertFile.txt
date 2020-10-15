@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1405110120 (0x53c04768)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=Nutrisystem
+        Validity
+            Not Before: Jul 11 20:22:00 2014 GMT
+            Not After : Jul  5 20:22:00 2039 GMT
+        Subject: O=Nutrisystem
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:ac:f4:6f:41:79:ec:4e:4d:3f:d3:a7:f5:4a:d2:
+                    1c:34:e0:0f:a4:f0:ad:29:e4:d7:d6:cb:db:54:d4:
+                    bf:6c:b9:45:49:84:a1:bd:83:8d:09:aa:3f:8d:56:
+                    d8:5c:f8:65:c3:c3:94:f6:7e:bc:59:33:ed:68:90:
+                    d7:fc:74:c0:5b:fa:5b:d1:33:5f:0c:7d:01:a5:22:
+                    b6:aa:bf:f8:e8:fa:24:ec:1b:1a:a1:5d:d7:a1:4a:
+                    a5:06:8f:5d:f9:b5:04:bc:9d:2a:8d:ab:03:f5:cc:
+                    b8:0d:b2:a6:9f:0d:b1:2f:02:9d:73:56:14:8b:df:
+                    e6:5c:da:8c:c4:7c:31:00:21
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         a8:64:cc:5f:e7:00:75:9e:2d:bf:59:bb:60:75:27:1d:39:70:
+         7a:5c:22:6c:f7:08:36:50:96:61:fd:36:c6:da:02:36:cd:ff:
+         98:26:67:6a:69:b0:4b:a0:05:a8:b7:85:20:34:9c:84:73:ae:
+         d3:a2:6f:5a:d0:be:47:aa:3f:b3:75:38:0e:90:7f:b2:11:9c:
+         c0:5a:7e:1d:7a:ea:4c:79:3e:10:ed:48:4b:6d:f3:15:2f:c3:
+         cc:ed:ac:5a:d8:9a:ce:da:63:77:c0:27:30:b7:58:f0:72:98:
+         21:8e:e5:9c:99:51:0d:e0:53:d1:2e:3b:63:da:5f:85:20:f9:
+         6f:3d
+-----BEGIN CERTIFICATE-----
+MIIBozCCAQygAwIBAgIEU8BHaDANBgkqhkiG9w0BAQUFADAWMRQwEgYDVQQKEwtO
+dXRyaXN5c3RlbTAeFw0xNDA3MTEyMDIyMDBaFw0zOTA3MDUyMDIyMDBaMBYxFDAS
+BgNVBAoTC051dHJpc3lzdGVtMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCs
+9G9BeexOTT/Tp/VK0hw04A+k8K0p5NfWy9tU1L9suUVJhKG9g40Jqj+NVthc+GXD
+w5T2frxZM+1okNf8dMBb+lvRM18MfQGlIraqv/jo+iTsGxqhXdehSqUGj135tQS8
+nSqNqwP1zLgNsqafDbEvAp1zVhSL3+Zc2ozEfDEAIQIDAQABMA0GCSqGSIb3DQEB
+BQUAA4GBAKhkzF/nAHWeLb9Zu2B1Jx05cHpcImz3CDZQlmH9NsbaAjbN/5gmZ2pp
+sEugBai3hSA0nIRzrtOib1rQvkeqP7N1OA6Qf7IRnMBafh166kx5PhDtSEtt8xUv
+w8ztrFrYms7aY3fAJzC3WPBymCGO5ZyZUQ3gU9EuO2PaX4Ug+W89
+-----END CERTIFICATE-----
+

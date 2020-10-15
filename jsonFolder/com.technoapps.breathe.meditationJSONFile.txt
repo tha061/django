@@ -1,0 +1,75 @@
+{
+  "name": "com.technoapps.breathe.meditation",
+  "fileSize": "10.2 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "16 March 2020",
+    "Size": "10M",
+    "Installs": "10000",
+    "Current Version": "1.1",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Techno information",
+    "Developer": "technoapps101@gmail.com Privacy Policy"
+  },
+  "rating": "4.6",
+  "description": "Quickly reduce stress, stay calm, stay healthy, reduce anxiety and understand yourself by taking the time to breathe (understand inhale, exhale, sustain and retain). Breathe: Stress Relief Meditation app offers best exercise trainings such as Feel fresh, Relax, Concentration, Calming, Self-Healing, Stress Relief and Peace of mind. You can create your own breathing exercise by setting inhale, retain, exhale and sustain parameters. **default training settings cannot be change and delete. **Advantages of breathe exercises:  - Deep breathing exercise for meditation, self-healing, stress relief, relaxation & better sleep - Improves brain training: memory, attention, concentration by the best breathing trainings - Develops resistance to stress, develops physical endurance, Relieves anxiety - Get peace of mind, stress relief meditation, best mindfulness and relaxation - Helps you relax through a best breathing exercise sets - Breathing log, total time spend on breathe exercise, breathe per minute state progress etc. Breathe to energize, Breathe to dive deep into the inner self, immense power of breathing exercises in Stress Relief Meditation and bring positive energy from inner. **Breathe: Stress Relief Meditation  app offers handpicked collection of HD meditation tracks which very helpful personalized mindfulness coach. + Tibetan Music + Mantra Meditation + Happiness Meditation + Deep Healing Music + Relaxing and Self-healing meditation + Morning meditation + Guided meditation + Slay your Stress+ Breathe Mindfully + Sleep Better meditation + Strengthen Focus + Manage Depression",
+  "privacyText": "https://sites.google.com/view/technoprivacypolicy",
+  "numInstalls": 10000,
+  "developer": "Techno information",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://sites.google.com/view/technoprivacypolicy",
+    "Developer Email": "technoapps101@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/technoprivacypolicy"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Github",
+    "Google Ads",
+    "Intuit"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

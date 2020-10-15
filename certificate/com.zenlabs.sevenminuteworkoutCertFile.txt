@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1448280857 (0x56530319)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=Bradley Duong
+        Validity
+            Not Before: Nov 23 12:14:17 2015 GMT
+            Not After : Nov 10 12:14:17 2065 GMT
+        Subject: CN=Bradley Duong
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:95:01:10:24:b2:33:cb:8f:74:6b:fb:93:5e:ee:
+                    28:d6:fe:32:22:cb:a3:bd:1f:1c:4a:1b:3b:a6:a8:
+                    35:ad:8c:9c:03:18:7f:31:c5:54:da:db:51:a1:f6:
+                    5c:04:42:0a:5b:e8:83:da:b9:e2:14:e5:d7:c1:41:
+                    25:88:98:3b:cd:be:c7:89:b8:4a:83:0e:91:02:cf:
+                    2a:97:77:e7:19:1a:e5:8f:a4:01:94:40:d5:cf:13:
+                    da:0c:c4:68:54:48:2d:37:9d:0d:1d:9b:27:39:1f:
+                    7c:18:cf:52:58:cd:aa:dc:55:60:cb:aa:ca:de:76:
+                    8e:89:85:2b:92:ce:06:13:f7
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         4d:c9:01:2e:bf:51:e3:8f:d8:7f:c5:5b:0f:b9:d5:4f:37:b5:
+         f1:0e:8f:9e:17:52:47:ad:d1:1a:ab:f8:be:fa:7b:2f:39:a0:
+         92:67:be:b7:d8:83:0e:bb:f5:48:3b:d0:4d:57:de:58:98:ce:
+         54:74:6b:90:17:39:3e:bf:95:be:80:c7:9e:49:53:eb:09:e6:
+         0e:8a:2b:7a:e4:99:82:43:10:4f:fd:b9:55:42:6f:27:cf:6b:
+         59:2c:70:0f:b1:a6:ff:37:db:59:09:05:30:af:35:7b:f8:41:
+         6a:fd:a2:0b:fc:65:b1:b9:5e:6b:a1:af:f8:f9:48:51:ae:e8:
+         ba:25
+-----BEGIN CERTIFICATE-----
+MIIBqTCCARKgAwIBAgIEVlMDGTANBgkqhkiG9w0BAQUFADAYMRYwFAYDVQQDEw1C
+cmFkbGV5IER1b25nMCAXDTE1MTEyMzEyMTQxN1oYDzIwNjUxMTEwMTIxNDE3WjAY
+MRYwFAYDVQQDEw1CcmFkbGV5IER1b25nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCB
+iQKBgQCVARAksjPLj3Rr+5Ne7ijW/jIiy6O9HxxKGzumqDWtjJwDGH8xxVTa21Gh
+9lwEQgpb6IPaueIU5dfBQSWImDvNvseJuEqDDpECzyqXd+cZGuWPpAGUQNXPE9oM
+xGhUSC03nQ0dmyc5H3wYz1JYzarcVWDLqsredo6JhSuSzgYT9wIDAQABMA0GCSqG
+SIb3DQEBBQUAA4GBAE3JAS6/UeOP2H/FWw+51U83tfEOj54XUket0Rqr+L76ey85
+oJJnvrfYgw679Ug70E1X3liYzlR0a5AXOT6/lb6Ax55JU+sJ5g6KK3rkmYJDEE/9
+uVVCbyfPa1kscA+xpv8321kJBTCvNXv4QWr9ogv8ZbG5Xmuhr/j5SFGu6Lol
+-----END CERTIFICATE-----
+

@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 60379825 (0x39952b1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=Interaxon, O=InteraXon Inc., L=Toronto, ST=ON, C=CA
+        Validity
+            Not Before: Apr  2 16:34:13 2014 GMT
+            Not After : Mar 20 16:34:13 2064 GMT
+        Subject: CN=Interaxon, O=InteraXon Inc., L=Toronto, ST=ON, C=CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a5:f6:ba:a1:d6:60:42:7f:9b:d2:99:ee:4d:ce:
+                    53:55:1e:08:aa:cf:0b:05:d9:64:6e:f6:a8:30:3a:
+                    ee:37:6b:b3:22:dd:35:01:1b:6c:1f:4d:13:30:c0:
+                    ed:f1:19:dd:a5:93:3a:fc:af:a7:98:1e:56:7c:1d:
+                    33:c6:39:63:a9:72:66:28:67:9e:d6:cb:8c:e4:7c:
+                    41:17:41:01:ec:df:6a:14:5b:05:7a:77:a9:a7:88:
+                    df:37:36:ef:e7:7b:09:1e:67:8c:a9:e8:10:81:5c:
+                    f1:52:dd:ff:fa:c5:82:2a:76:8c:6f:c7:c8:d8:eb:
+                    74:93:e9:ef:ce:8e:b0:38:5b
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         54:30:1c:d8:94:72:eb:34:8c:3c:1a:da:d1:d0:3c:2a:c1:1c:
+         6a:56:64:93:ff:cf:b5:69:68:4a:a6:ea:38:28:0b:cf:1b:4e:
+         0e:78:f7:09:d2:32:d0:31:2f:e0:f4:3f:f5:bd:24:08:88:99:
+         50:28:7a:eb:20:07:e1:17:44:df:1b:19:f3:8e:61:e0:d4:33:
+         5a:ec:8f:4d:d0:1c:c2:71:2d:4b:7b:b0:a5:01:a8:bd:7b:29:
+         3b:9b:ff:46:18:75:c3:5c:77:ca:bc:3c:43:b0:da:bf:1f:82:
+         57:50:d7:ab:f5:f6:bf:75:bf:2b:15:85:dd:09:7f:32:38:a5:
+         6d:12
+-----BEGIN CERTIFICATE-----
+MIICKzCCAZSgAwIBAgIEA5lSsTANBgkqhkiG9w0BAQUFADBZMRIwEAYDVQQDDAlJ
+bnRlcmF4b24xFzAVBgNVBAoMDkludGVyYVhvbiBJbmMuMRAwDgYDVQQHDAdUb3Jv
+bnRvMQswCQYDVQQIDAJPTjELMAkGA1UEBhMCQ0EwIBcNMTQwNDAyMTYzNDEzWhgP
+MjA2NDAzMjAxNjM0MTNaMFkxEjAQBgNVBAMMCUludGVyYXhvbjEXMBUGA1UECgwO
+SW50ZXJhWG9uIEluYy4xEDAOBgNVBAcMB1Rvcm9udG8xCzAJBgNVBAgMAk9OMQsw
+CQYDVQQGEwJDQTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEApfa6odZgQn+b
+0pnuTc5TVR4Iqs8LBdlkbvaoMDruN2uzIt01ARtsH00TMMDt8RndpZM6/K+nmB5W
+fB0zxjljqXJmKGee1suM5HxBF0EB7N9qFFsFenepp4jfNzbv53sJHmeMqegQgVzx
+Ut3/+sWCKnaMb8fI2Ot0k+nvzo6wOFsCAwEAATANBgkqhkiG9w0BAQUFAAOBgQBU
+MBzYlHLrNIw8GtrR0DwqwRxqVmST/8+1aWhKpuo4KAvPG04OePcJ0jLQMS/g9D/1
+vSQIiJlQKHrrIAfhF0TfGxnzjmHg1DNa7I9N0BzCcS1Le7ClAai9eyk7m/9GGHXD
+XHfKvDxDsNq/H4JXUNer9fa/db8rFYXdCX8yOKVtEg==
+-----END CERTIFICATE-----
+

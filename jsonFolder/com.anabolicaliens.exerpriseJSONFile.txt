@@ -1,0 +1,80 @@
+{
+  "name": "com.anabolicaliens.exerprise",
+  "fileSize": "152.4 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.ads.AdService  permission: ",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "13 October 2020",
+    "Size": "153M",
+    "Installs": "100000",
+    "Current Version": "7.03",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$7.99 \u2013 $64.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Anabolic Aliens",
+    "Developer": "Visit website support@exerprise.com Privacy Policy 16 Rumford Road\nLexington, MA 02420\nUnited States"
+  },
+  "rating": "4.8",
+  "description": "EXERPRISE is the World\u2019s first randomized workout and meal plan generator that uses advanced filtering technology to give you the best workout and meal plan possible within seconds completely customized for you to reach your goals & fit your lifestyle! WORKOUT GENERATOR: -Choose the muscle groups you want to work out. -Select the equipment you have accessible to use. -Pick your workout preference of sets/reps or time intervals. -Decide workout length based on your time availability. -Hit Generate My Workout. -Within seconds, you will get a full optimal workout randomly generated for you based off your customized settings! MEAL PLAN GENERATOR: -Input your stats & we will determine your caloric maintenance. -Select your goal to establish your daily total calories. -Choose your macro percentages. -Decide how many meals per day you want to eat. -Hit Generate My Meals. -Within seconds, you will get a full optimal meal plan randomly generated for you based off your customized settings! EXERPRISE will revolutionize the way you exercise & diet. No more excuses, no more wasted time, just results! MUSCLE GROUP OPTIONS: -Dynamic Warm Up Stretching: Upper Body, Lower Body, Low Impact Cardio -Upper Body: Chest, Back, Traps, Shoulders, Triceps, Biceps, Forearms -Lower Body: Legs, Calves, Glutes/Hips -Core: Lower Abs, Middle Abs, Upper Abs, Obliques -Cardio -Static Cool Down Stretching: Upper Body, Lower Body EQUIPMENT OPTIONS: -Main: Bodyweight, Dumbbell, Barbell, Resistance Band, Kettlebell, Cable, Medicine Ball, Machine -Extras: Flat Bench, Incline Bench, Decline Bench, Pull Up Bar WORKOUT SUMMARY: -Overview of exercises with pictures & videos. -Alternative exercise button to switch things up. -Re-order exercises & muscle groups. -Combine muscle groups. -Form compound & supersets. -Change sets, reps, times, & rest periods. -Undo button to backtrack. -Save the workout! WORKOUT SCREEN: -Follow along exercise videos. -Follow along timer. -Follow along vocal cues. -Log your weight. -Skip exercises or go back. -Pause the workout. -Showcase the exercise or set that is up next. -You Did It display at the end of the workout with another option to save! PROGRAMS: -30 day workout plans. -Randomizer button providing all new exercises following the same program frequency. -Built in progression to guarantee result! SMART TIMER: -Stopwatch timer. -Customizable interval timer. -Tabata timer. -Customizable tempo timer. -Save your timers! EXERCISE LIBRARY: -Over 1000 exercises in our database. -Home based exercises. -Gym based exercises. -Videos for every exercise. -Progress tracking graphs with detailed workout statistics. -Navigational scroller by muscle group. -Search function. FOOD LIBRARY: -Recipes & pictures for every meal. -Nutrition info. -Cooking time. -Ingredients. -Step by step meal prep instructions. -Allergen free options. -Navigational scroller by type of meal. -Search function. MEAL SUMMARY: -Overview of meals with pictures & recipes. -Alternative meal button to switch things up. -Displays calories, macros, & serving sizes. -Showcases comparisons between total calories & macros generated with goals. -Save the meal plan!",
+  "privacyText": "https://www.exerprise.com/privacy-policy/",
+  "numInstalls": 100000,
+  "developer": "Anabolic Aliens",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.exerprise.com/",
+    "Developer Email": "support@exerprise.com",
+    "Privacy Policy": "https://www.exerprise.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

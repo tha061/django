@@ -1,0 +1,69 @@
+{
+  "name": "dumbbell.exercises.workout",
+  "fileSize": "5.8 MB",
+  "VTmd5": "4732b4cece1a2a91ef75dca20794993b",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/18efa43c0ad651b9e79edb97a311015d0a8dc8ebe0b9779804ca2dd3851ae339/detection/f-18efa43c0ad651b9e79edb97a311015d0a8dc8ebe0b9779804ca2dd3851ae339-1578205504",
+  "VTresource": "18efa43c0ad651b9e79edb97a311015d0a8dc8ebe0b9779804ca2dd3851ae339",
+  "VTresponsecode": 1,
+  "VTscanID": "18efa43c0ad651b9e79edb97a311015d0a8dc8ebe0b9779804ca2dd3851ae339-1578205504",
+  "VTsha1": "d80032ef7082874b71c754a80511b48a4169a9da",
+  "VTsha256": "18efa43c0ad651b9e79edb97a311015d0a8dc8ebe0b9779804ca2dd3851ae339",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.MODIFY_AUDIO_SETTINGS Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "31 May 2019",
+    "Size": "5.8M",
+    "Installs": "100000",
+    "Current Version": "1.1",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.49 \u2013 $4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Stay Fit With Samantha",
+    "Developer": "Visit website roobol@gmail.com Privacy Policy Laurierhof 23, Papendrecht"
+  },
+  "rating": "2.8",
+  "description": "Dumbbells offer excellent variety for your weight training efforts. If you can't afford an ongoing gym membership, investing in dumbbells you can use at home is a good alternative. You can achieve an excellent workout using your dumbbells and this weight training program at home. Add size to your arms, chest and shoulders with our amazing dumbbell workouts. This workout program only requires dumbbells and has just the right amount of volume to promote muscle growth. These dumbbell-only workouts can be used at home or in the gym for building muscle mass. The dumbbell only home or gym full body workouts focuses on the use of heavy compound lifts, and allows you to maximize muscle gains with minimal equipment. Our workouts can be run for an extended period of time. As long as you are experiencing strength and muscle gains, stick with this routine. You've heard before to lift heavier weights\u2014doing so torches body fat, burns more calories, and helps fend off osteoporosis. This total-body strength routine is designed to help you reap all of those benefits. With a free weight workout routine, there are several options that can be added to the exercise. Plus, you will be using more muscle interaction because the weights will not be supported at all by a machine. Your stabilizer muscles will be firing away, and this will not happen when you use a weight machine. Your exercise routine is severely limited. Compound movement exercises simply mean that you are training more than one muscle group at a time. Working more muscle groups through compound movements will make your muscles grow like never before. Be ready when your sleeves get tighter for the derisive comments about how you only wear small shirts now. More Muscle Less Fat Here is something that you might have forgotten from your high school science class: Muscle burns calories even while resting. There is a reason that bodybuilders can take in 6,000 calories a day and still look good. Their muscle mass is acting like a furnace for the fat and extra calories in their body. They can consume all of that food every day because their muscles use it effectively and burn the rest off. We already established that using a free weight workout routine will allow for greater compound movement exercises. This type of training will then activate more muscles groups, which will lead to an increase of lean muscle mass. Your new found muscle will be burning away those excess calories and will force you to wear a belt when wearing your old jeans because your waist size will be shrinking. This will all happen just because you switched to free weight workouts.",
+  "privacyText": "http://fm.stefanroobol.com/privacy-policy/dumbbell",
+  "numInstalls": 100000,
+  "developer": "Stay Fit With Samantha",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://samantha.steveloper.nl",
+    "Developer Email": "roobol@gmail.com",
+    "Privacy Policy": "http://fm.stefanroobol.com/privacy-policy/dumbbell"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

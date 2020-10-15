@@ -1,0 +1,86 @@
+{
+  "name": "com.css.simplemeditation",
+  "fileSize": "9.8 MB",
+  "VTmd5": "f437d43cab05399f39733f6adb8ab151",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/e6e4db7dc9bc11923f6f252b8c1583b2caec6257bf503ee0f328b965736acea4/detection/f-e6e4db7dc9bc11923f6f252b8c1583b2caec6257bf503ee0f328b965736acea4-1594406347",
+  "VTresource": "e6e4db7dc9bc11923f6f252b8c1583b2caec6257bf503ee0f328b965736acea4",
+  "VTresponsecode": 1,
+  "VTscanID": "e6e4db7dc9bc11923f6f252b8c1583b2caec6257bf503ee0f328b965736acea4-1594406347",
+  "VTsha1": "0f6db446e3e28a83a8e7ced0cafe107214ed7b99",
+  "VTsha256": "e6e4db7dc9bc11923f6f252b8c1583b2caec6257bf503ee0f328b965736acea4",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.css.simplemeditation.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.css.simplemeditation.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.amazonaws.mobileconnectors.s3.transferutility.TransferService  permission: ",
+      "name: com.css.simplemeditation.views.PlayerService  permission: ",
+      "name: com.css.simplemeditation.DownloadService  permission: ",
+      "name: com.css.simplemeditation.SyncDataService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "24 May 2017",
+    "Size": "9.8M",
+    "Installs": "100000",
+    "Current Version": "Public.Alpha",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact",
+    "In-app Products": "$3.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "The Wellness Platform",
+    "Developer": "Visit website thewellnessplatform@gmail.com Privacy Policy 55 Park Street East, 1102, Mississauga, ON, L5G1L9"
+  },
+  "rating": "4.6",
+  "description": "*More than 100,000 users on the Google Play Store.  *Group Meditations - Meditate with 100,000 active users at the same time in group around the world (Coming Soon...) *Group Healings - Request individual healing in a group of 100,000 users around the world (Coming Soon...)   Simple Meditation is our humble effort to teach and practice meditation in the most simple, effective and easy form.  It explains what is meditation, types of meditation, posture of meditation, pyramid meditation, group meditation, and many more topics like these. Along with the voice guided meditation sessions, we also bring science behind the meditations and the results of any scientific research done on it. It contains, audio, videos and articles explaining every thing about meditation. These meditation techniques have been taken from Yoga, Transcendental, Zen and other meditation styles.    You can get points while doing meditations and listening to sessions, which you can be used for translating into financial help to a NGO or a Noble cause of your choice.    Meditation Leaderboard, where users are ranked on their meditation time and top meditators are shown with their rankings.   Now, you can share your experience in form of comments on each content. You can like, share and comment on each topic. Now you can remove all the ads forever using in app purchase.",
+  "privacyText": "https://s3-us-west-2.amazonaws.com/www.thewellnessplatform.com/privacypolicy.html",
+  "numInstalls": 100000,
+  "developer": "The Wellness Platform",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.thewellnessplatform.com/",
+    "Developer Email": "thewellnessplatform@gmail.com",
+    "Privacy Policy": "https://s3-us-west-2.amazonaws.com/www.thewellnessplatform.com/privacypolicy.html"
+  },
+  "smali_Directories": [
+    "Amazonaws",
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Squareup",
+    "Viewpagerindicator"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

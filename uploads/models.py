@@ -11,6 +11,7 @@ class Link(models.Model):
     author = models.ForeignKey(User, default=None,blank=True, on_delete=models.PROTECT, null = True)
     firstChar = models.CharField(max_length=1, blank=True, null=True)
     fileSize = models.CharField(max_length=200, blank=True, null=True)
+    sha256 = models.CharField(max_length=200, blank=True, null=True)
     VT_permallink = models.CharField(max_length=100, blank=True, null=True)
     VT_sha1 = models.CharField(max_length=100, blank=True, null=True)
     VT_responseCode = models.CharField(max_length=100, blank=True, null=True)

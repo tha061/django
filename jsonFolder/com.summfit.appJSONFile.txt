@@ -1,0 +1,75 @@
+{
+  "name": "com.summfit.app",
+  "fileSize": "48.9 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.CHANGE_WIFI_MULTICAST_STATE Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "26 August 2019",
+    "Size": "49M",
+    "Installs": "10000",
+    "Current Version": "1.1.17",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact, Digital purchases",
+    "In-app Products": "$0.99 \u2013 $49.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Summfit GmbH",
+    "Developer": "Visit website info@summfit.com Privacy Policy Erzgie\u00dfereistrasse 6, 80335 M\u00fcnchen"
+  },
+  "rating": "3.4",
+  "description": "The Summfit App is the most efficient and adaptive way to improve your fitness with over 450 exercises, great video tutorials (in HD) and a unique workout program to create new stimuli and continuously improve your performance.  Get your customized workout routine for fast noticeable results and a sustainable and holistc fitness. Your personal workout plan for even faster results. The Summfit App has been developed by sports scientists, athletes and fitness coaches to improve your performance. Whether you want to build muscles, lose fat, look more athletic or just generally want to become fitter, the Summfit App will guide you to success. Improve your physical and mental strength. The highly-efficient fitness program is suitable for all fitness levels. Multi-facetted workouts and more than 450 exercises, all explained and supported by short videos and pictures. Start striving for excellence and download the app for free. IMPROVE YOUR PERFORMANCE  \u2713 Completely functional training system shaped to your fitness level \u2713 Choose from a large source of various exercises, numerous workouts, as well as challenging and motivating challenges \u2713 The individual training plan adapts to your performance level systematically over time \u2713 Train by just using your own bodyweight or optionally expand your training with exercises with equipment such as suspension-trainer, kettlebell, medicine ball and foam roller \u2713 100% functional training: You will always train several muscle groups at the same time for complete and sustainable fitness \u2713 More than 450 detailed videos, pictures and instructions for every exercise with immaculate instructions  \u2713 Improve your physical and mental performance, enhance your life quality and your general well-being with a workout routine that fits into your day-to-day life \u2713 Precise analysis and results of your performance and improvements, easily and comprehensively presented   \u2713 Share your results with friends and track their progress \u2713 Visible and tangible results in the shortest time  Download the SUMMFIT App now and start on your path to better fitness and more performance with this scientifically tested workout program \u2013 completely flexible and tailored to your needs.",
+  "privacyText": "http://www.summfit.com/privacy.html",
+  "numInstalls": 10000,
+  "developer": "Summfit GmbH",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.summfit.com",
+    "Developer Email": "info@summfit.com",
+    "Privacy Policy": "http://www.summfit.com/privacy.html"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Google Analytics",
+    "Unity3d"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

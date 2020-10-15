@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 792841643 (0x2f41cdab)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Malte Voigt
+        Validity
+            Not Before: Jan  6 20:52:44 2014 GMT
+            Not After : Dec 31 20:52:44 2038 GMT
+        Subject: CN=Malte Voigt
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:96:68:07:fc:c2:90:25:5a:9b:9e:2d:c0:ac:6d:
+                    3e:a0:3c:ba:40:fd:c2:a2:e5:a5:32:7d:67:18:45:
+                    28:c7:47:0e:ea:15:cf:f3:03:47:ca:fe:f6:76:9d:
+                    01:ad:87:29:55:af:2b:b5:93:49:fa:a3:f2:15:90:
+                    a5:87:22:ab:8a:99:c1:f5:17:47:74:7f:30:11:36:
+                    18:1c:fe:fe:3d:7e:56:ae:f7:53:ea:bb:84:92:15:
+                    3d:7d:44:de:79:1e:d9:b2:a0:c0:f6:cb:5e:75:0b:
+                    a6:4f:87:cc:9e:e2:24:bd:50:75:e8:5d:7d:6e:c6:
+                    d7:2e:5c:a6:39:9a:89:ce:2c:3d:6a:40:fa:c5:f7:
+                    af:0e:a6:83:55:25:b1:90:bb:f3:3c:ce:e5:f6:c8:
+                    51:b6:81:3e:80:0e:18:c1:9a:72:a8:f9:ac:a9:32:
+                    07:0f:bc:b3:d8:bc:75:4b:41:ef:94:75:ba:60:6b:
+                    90:7d:1d:6d:31:87:1a:83:09:e1:33:f1:88:79:f0:
+                    2b:81:1f:44:ed:47:26:27:40:ae:a7:d4:c0:42:96:
+                    b5:9b:1e:05:29:f9:0f:44:3d:00:b1:29:2b:97:b7:
+                    7d:cf:19:2b:10:dc:27:13:2b:49:66:de:39:8c:ba:
+                    a9:f3:f5:94:df:ef:e7:49:2d:e4:9e:c2:44:45:30:
+                    bd:4f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                E3:C1:A5:42:E9:92:34:57:1F:43:76:56:49:A3:C6:D8:C5:60:B1:AE
+    Signature Algorithm: sha256WithRSAEncryption
+         2f:94:13:dd:5f:de:90:fb:d2:ef:9a:17:49:4c:21:c6:7f:a0:
+         8a:28:50:bd:5b:3c:67:4b:d6:65:01:b5:18:1a:89:24:0a:0b:
+         ea:11:80:10:1e:5d:ac:42:42:8a:8d:f7:00:f6:13:f6:16:9e:
+         09:85:20:75:29:98:37:6b:56:17:91:c4:cb:c0:8c:5d:7c:ea:
+         78:3e:8f:5a:cc:17:1c:e1:a2:2a:73:89:8f:47:11:35:37:6c:
+         c6:70:c3:16:38:99:6c:dc:5a:2d:dc:b6:e3:5b:ae:54:18:04:
+         fa:a7:2c:29:48:87:e5:db:79:dc:ea:73:5c:ed:91:41:81:e5:
+         65:d4:68:25:27:61:d2:d8:7b:8d:8a:34:4b:5d:55:9a:45:49:
+         1b:25:cf:33:bd:ab:c3:bf:a0:82:99:1a:37:5a:72:d5:d0:9b:
+         6d:60:eb:e0:6e:d3:c6:8e:3b:d5:3f:73:a3:f7:62:17:f1:c5:
+         7d:83:5d:7a:81:ea:62:1e:08:47:d3:32:f2:4e:cd:20:58:9e:
+         0b:73:77:c0:ea:06:80:c7:86:89:c0:9e:fb:32:4b:be:2b:35:
+         35:30:c2:a8:9d:9e:59:ca:5c:24:aa:9a:5d:67:2f:48:70:86:
+         71:c9:93:81:0a:4f:03:dd:28:f5:69:19:6a:2d:e8:0f:89:8a:
+         6e:ff:e6:0d
+-----BEGIN CERTIFICATE-----
+MIICyzCCAbOgAwIBAgIEL0HNqzANBgkqhkiG9w0BAQsFADAWMRQwEgYDVQQDEwtN
+YWx0ZSBWb2lndDAeFw0xNDAxMDYyMDUyNDRaFw0zODEyMzEyMDUyNDRaMBYxFDAS
+BgNVBAMTC01hbHRlIFZvaWd0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAlmgH/MKQJVqbni3ArG0+oDy6QP3CouWlMn1nGEUox0cO6hXP8wNHyv72dp0B
+rYcpVa8rtZNJ+qPyFZClhyKripnB9RdHdH8wETYYHP7+PX5WrvdT6ruEkhU9fUTe
+eR7ZsqDA9stedQumT4fMnuIkvVB16F19bsbXLlymOZqJziw9akD6xfevDqaDVSWx
+kLvzPM7l9shRtoE+gA4YwZpyqPmsqTIHD7yz2Lx1S0HvlHW6YGuQfR1tMYcagwnh
+M/GIefArgR9E7UcmJ0Cup9TAQpa1mx4FKfkPRD0AsSkrl7d9zxkrENwnEytJZt45
+jLqp8/WU3+/nSS3knsJERTC9TwIDAQABoyEwHzAdBgNVHQ4EFgQU48GlQumSNFcf
+Q3ZWSaPG2MVgsa4wDQYJKoZIhvcNAQELBQADggEBAC+UE91f3pD70u+aF0lMIcZ/
+oIooUL1bPGdL1mUBtRgaiSQKC+oRgBAeXaxCQoqN9wD2E/YWngmFIHUpmDdrVheR
+xMvAjF186ng+j1rMFxzhoipziY9HETU3bMZwwxY4mWzcWi3ctuNbrlQYBPqnLClI
+h+Xbedzqc1ztkUGB5WXUaCUnYdLYe42KNEtdVZpFSRslzzO9q8O/oIKZGjdactXQ
+m21g6+Bu08aOO9U/c6P3YhfxxX2DXXqB6mIeCEfTMvJOzSBYngtzd8DqBoDHhonA
+nvsyS74rNTUwwqidnlnKXCSqml1nL0hwhnHJk4EKTwPdKPVpGWot6A+Jim7/5g0=
+-----END CERTIFICATE-----
+

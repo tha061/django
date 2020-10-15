@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 777227874 (0x2e538e62)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=01, ST=CA, L=San Luis Obispo, O=MINDBODY Inc, OU=Electric Sheep Dreamers, CN=MINDBODY Inc
+        Validity
+            Not Before: Sep 20 20:21:33 2013 GMT
+            Not After : Sep 14 20:21:33 2038 GMT
+        Subject: C=01, ST=CA, L=San Luis Obispo, O=MINDBODY Inc, OU=Electric Sheep Dreamers, CN=MINDBODY Inc
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:98:a5:a4:7f:54:65:bb:ea:6a:0b:e0:12:62:81:
+                    31:5e:dc:37:9c:c0:b5:5b:c0:34:5f:d5:c0:87:78:
+                    d1:48:66:64:ef:f6:df:33:2e:87:d0:fe:90:31:1a:
+                    43:3a:b8:fa:1b:68:03:a8:c1:a8:05:07:38:59:ec:
+                    c7:3d:2d:6c:6c:81:f6:fd:48:45:2f:1b:a3:70:05:
+                    36:40:d2:ca:bc:3e:9c:58:a9:06:b2:53:a3:a3:55:
+                    f8:2e:07:d4:72:bc:ce:50:66:be:07:62:e9:aa:56:
+                    d6:9d:95:cd:a0:cc:58:d4:f5:41:11:c2:a0:98:5b:
+                    3a:79:a2:46:90:d4:82:e9:e1:a8:52:62:4b:98:18:
+                    2b:49:dc:a4:32:38:c9:d1:c0:b8:a7:ab:a0:fe:fe:
+                    1f:80:cc:4d:68:f3:ff:b3:f5:0a:1e:1a:5f:4e:86:
+                    80:51:62:93:b3:ba:b2:77:32:02:ec:dd:26:81:4f:
+                    1b:98:fc:d5:6d:8d:21:89:cd:0f:4a:ee:5b:99:da:
+                    9e:d7:a3:11:8f:02:3b:95:e8:cb:ed:73:fa:f4:15:
+                    ab:b5:47:62:50:0a:08:c5:8b:fd:04:a5:f2:6c:62:
+                    ae:44:8e:03:6f:db:c4:4b:f0:9d:f0:5e:c5:20:6a:
+                    ca:d1:08:1d:80:05:af:d2:5f:5b:54:1a:04:56:1e:
+                    62:fd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                D7:31:D6:F7:74:DC:09:AB:37:5C:91:7D:6A:4B:97:B8:AA:01:85:A3
+    Signature Algorithm: sha256WithRSAEncryption
+         69:f2:c0:df:bc:f7:5d:26:59:db:e4:69:be:4e:b9:18:fd:8d:
+         75:02:fe:ce:8d:6e:41:18:42:3d:00:8d:9b:68:39:83:2e:9f:
+         90:c1:6d:d3:d7:4a:34:bf:05:a8:98:45:fb:a0:ac:f4:a2:0f:
+         38:50:5d:95:7c:dc:da:56:01:51:c3:a0:c7:f1:08:cd:94:1c:
+         3d:b7:33:c2:c6:b7:ff:16:4d:6b:6b:6b:5d:26:f5:fc:41:d4:
+         b7:03:83:ae:f1:38:d5:0e:53:83:d8:85:61:cc:32:81:61:ab:
+         60:86:74:1a:11:19:ec:fe:e2:a1:7e:0c:b5:59:f0:50:a6:e9:
+         47:a8:01:e6:48:2a:47:95:1d:ec:ef:ba:33:52:c7:6a:4a:4a:
+         cd:b2:f9:4d:16:ef:e0:5f:3f:a0:e2:1f:7b:9a:53:dd:d9:7e:
+         e4:41:ee:d8:58:a2:49:69:3c:f9:ca:77:59:bd:c9:b3:cf:c6:
+         90:22:9b:84:52:20:da:48:2d:7c:e8:8f:93:25:ce:fd:88:c8:
+         68:db:10:11:19:de:5e:4a:04:ad:d1:45:42:9f:55:a8:bc:2e:
+         46:ed:59:1a:5c:ae:7b:fb:fb:2b:54:cb:56:bc:98:8b:92:ae:
+         d7:fd:b0:b2:92:e7:10:ba:63:95:1e:80:33:25:32:99:9b:2e:
+         16:d1:2b:b6
+-----BEGIN CERTIFICATE-----
+MIIDqTCCApGgAwIBAgIELlOOYjANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMC
+MDExCzAJBgNVBAgTAkNBMRgwFgYDVQQHEw9TYW4gTHVpcyBPYmlzcG8xFTATBgNV
+BAoTDE1JTkRCT0RZIEluYzEgMB4GA1UECxMXRWxlY3RyaWMgU2hlZXAgRHJlYW1l
+cnMxFTATBgNVBAMTDE1JTkRCT0RZIEluYzAeFw0xMzA5MjAyMDIxMzNaFw0zODA5
+MTQyMDIxMzNaMIGEMQswCQYDVQQGEwIwMTELMAkGA1UECBMCQ0ExGDAWBgNVBAcT
+D1NhbiBMdWlzIE9iaXNwbzEVMBMGA1UEChMMTUlOREJPRFkgSW5jMSAwHgYDVQQL
+ExdFbGVjdHJpYyBTaGVlcCBEcmVhbWVyczEVMBMGA1UEAxMMTUlOREJPRFkgSW5j
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmKWkf1Rlu+pqC+ASYoEx
+Xtw3nMC1W8A0X9XAh3jRSGZk7/bfMy6H0P6QMRpDOrj6G2gDqMGoBQc4WezHPS1s
+bIH2/UhFLxujcAU2QNLKvD6cWKkGslOjo1X4LgfUcrzOUGa+B2LpqlbWnZXNoMxY
+1PVBEcKgmFs6eaJGkNSC6eGoUmJLmBgrSdykMjjJ0cC4p6ug/v4fgMxNaPP/s/UK
+HhpfToaAUWKTs7qydzIC7N0mgU8bmPzVbY0hic0PSu5bmdqe16MRjwI7lejL7XP6
+9BWrtUdiUAoIxYv9BKXybGKuRI4Db9vES/Cd8F7FIGrK0QgdgAWv0l9bVBoEVh5i
+/QIDAQABoyEwHzAdBgNVHQ4EFgQU1zHW93TcCas3XJF9akuXuKoBhaMwDQYJKoZI
+hvcNAQELBQADggEBAGnywN+8910mWdvkab5OuRj9jXUC/s6NbkEYQj0AjZtoOYMu
+n5DBbdPXSjS/BaiYRfugrPSiDzhQXZV83NpWAVHDoMfxCM2UHD23M8LGt/8WTWtr
+a10m9fxB1LcDg67xONUOU4PYhWHMMoFhq2CGdBoRGez+4qF+DLVZ8FCm6UeoAeZI
+KkeVHezvujNSx2pKSs2y+U0W7+BfP6DiH3uaU93ZfuRB7thYoklpPPnKd1m9ybPP
+xpAim4RSINpILXzoj5Mlzv2IyGjbEBEZ3l5KBK3RRUKfVai8LkbtWRpcrnv7+ytU
+y1a8mIuSrtf9sLKS5xC6Y5UegDMlMpmbLhbRK7Y=
+-----END CERTIFICATE-----
+

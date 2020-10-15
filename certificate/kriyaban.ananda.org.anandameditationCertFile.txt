@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 608955112 (0x244beae8)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=CA, L=Nevada City, O=Ananda, OU=Ananda, CN=Hesam Samimi
+        Validity
+            Not Before: Mar  9 03:39:33 2017 GMT
+            Not After : Jul 25 03:39:33 2044 GMT
+        Subject: C=US, ST=CA, L=Nevada City, O=Ananda, OU=Ananda, CN=Hesam Samimi
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:82:34:f9:a8:55:04:ba:5e:f9:6b:b5:cb:81:9c:
+                    c4:75:fb:de:18:1b:c9:d4:9d:f8:c2:33:cc:f7:a1:
+                    83:eb:bf:9a:e6:83:48:cc:1d:41:55:3d:b3:8a:33:
+                    37:eb:36:1f:00:1b:8c:c6:f4:c1:f0:3a:5f:75:62:
+                    16:21:b3:f0:65:bc:0f:6d:76:5a:57:8c:06:ca:a3:
+                    7c:f5:fd:4a:e0:41:bd:db:aa:78:8a:17:97:07:50:
+                    b4:6f:1c:c0:cb:91:28:18:a0:5a:eb:de:20:c9:02:
+                    70:80:b3:c1:2b:cb:85:30:1f:82:6b:6f:2a:6b:e1:
+                    bb:b7:11:3d:e8:f1:5b:28:c9:58:fc:2d:05:20:34:
+                    07:18:52:44:75:a8:6d:6b:bd:17:6a:52:e4:8b:6d:
+                    35:f4:46:3d:a3:fe:b2:76:54:9c:ea:1d:d3:53:28:
+                    60:30:b0:d4:8a:34:52:f4:d2:9d:13:4c:c5:23:f6:
+                    02:8e:7e:13:8a:23:36:44:57:32:83:6e:20:ae:87:
+                    a8:15:06:2d:27:3d:98:67:3d:c4:e4:d6:a1:7e:2c:
+                    7c:a7:48:2d:8e:be:33:0a:33:a6:0b:06:70:7e:e0:
+                    c7:14:8d:3b:69:48:c4:b2:f3:4b:53:37:e7:94:f0:
+                    9f:7e:66:b9:55:f9:e4:34:f0:7d:26:a3:6c:d0:28:
+                    a2:69
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                99:39:22:84:C6:CF:A4:3C:2A:63:6D:D3:83:C6:61:2E:0C:B7:3C:D1
+    Signature Algorithm: sha256WithRSAEncryption
+         7b:b0:71:b6:cd:e1:e3:b7:ac:a4:8b:19:cd:61:17:b5:32:73:
+         2f:ae:45:81:68:a8:cb:f5:72:69:32:f9:cd:bd:f1:72:b6:3f:
+         55:81:e6:02:c7:20:e7:19:63:34:f4:46:8f:f6:ab:3e:00:2f:
+         ae:e6:a8:9e:88:08:fd:60:cf:25:75:05:b7:b8:4d:3b:29:58:
+         c2:61:1c:03:c3:f3:77:c0:5e:7a:5e:69:db:e0:76:a1:b0:f9:
+         fd:94:71:0f:15:be:e2:b8:8e:81:b5:58:c4:71:35:c8:fc:1f:
+         fa:06:f4:d2:fa:13:fb:8d:a9:d8:8b:3a:32:ff:b3:7b:91:9d:
+         42:bd:ed:61:63:89:bc:64:15:0a:f5:91:e6:27:6b:df:58:4a:
+         b6:a8:ef:a6:ea:0e:94:3b:4f:f4:f7:78:6a:76:84:23:8d:c8:
+         f7:fb:b6:19:72:81:5b:6f:1c:4c:71:b5:bc:ca:c2:b2:a0:c7:
+         85:78:f3:62:ac:bb:f7:55:8f:53:26:49:1a:4f:9f:de:c7:5e:
+         14:bb:2d:5f:cc:1d:59:6b:71:e6:1f:bb:fc:db:6c:d7:79:cf:
+         7b:1c:5a:7e:ec:2e:c5:9f:81:7c:e8:bd:26:d5:36:27:c7:44:
+         44:6d:b5:7a:ff:66:95:bd:db:32:88:a2:5c:90:8b:83:3b:c5:
+         c9:f8:83:b3
+-----BEGIN CERTIFICATE-----
+MIIDcTCCAlmgAwIBAgIEJEvq6DANBgkqhkiG9w0BAQsFADBpMQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCQ0ExFDASBgNVBAcTC05ldmFkYSBDaXR5MQ8wDQYDVQQKEwZB
+bmFuZGExDzANBgNVBAsTBkFuYW5kYTEVMBMGA1UEAxMMSGVzYW0gU2FtaW1pMB4X
+DTE3MDMwOTAzMzkzM1oXDTQ0MDcyNTAzMzkzM1owaTELMAkGA1UEBhMCVVMxCzAJ
+BgNVBAgTAkNBMRQwEgYDVQQHEwtOZXZhZGEgQ2l0eTEPMA0GA1UEChMGQW5hbmRh
+MQ8wDQYDVQQLEwZBbmFuZGExFTATBgNVBAMTDEhlc2FtIFNhbWltaTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAII0+ahVBLpe+Wu1y4GcxHX73hgbydSd
++MIzzPehg+u/muaDSMwdQVU9s4ozN+s2HwAbjMb0wfA6X3ViFiGz8GW8D212WleM
+BsqjfPX9SuBBvduqeIoXlwdQtG8cwMuRKBigWuveIMkCcICzwSvLhTAfgmtvKmvh
+u7cRPejxWyjJWPwtBSA0BxhSRHWobWu9F2pS5IttNfRGPaP+snZUnOod01MoYDCw
+1Io0UvTSnRNMxSP2Ao5+E4ojNkRXMoNuIK6HqBUGLSc9mGc9xOTWoX4sfKdILY6+
+MwozpgsGcH7gxxSNO2lIxLLzS1M355Twn35muVX55DTwfSajbNAoomkCAwEAAaMh
+MB8wHQYDVR0OBBYEFJk5IoTGz6Q8KmNt04PGYS4MtzzRMA0GCSqGSIb3DQEBCwUA
+A4IBAQB7sHG2zeHjt6ykixnNYRe1MnMvrkWBaKjL9XJpMvnNvfFytj9VgeYCxyDn
+GWM09EaP9qs+AC+u5qieiAj9YM8ldQW3uE07KVjCYRwDw/N3wF56Xmnb4HahsPn9
+lHEPFb7iuI6BtVjEcTXI/B/6BvTS+hP7janYizoy/7N7kZ1Cve1hY4m8ZBUK9ZHm
+J2vfWEq2qO+m6g6UO0/093hqdoQjjcj3+7YZcoFbbxxMcbW8ysKyoMeFePNirLv3
+VY9TJkkaT5/ex14Uuy1fzB1Za3HmH7v822zXec97HFp+7C7Fn4F86L0m1TYnx0RE
+bbV6/2aVvdsyiKJckIuDO8XJ+IOz
+-----END CERTIFICATE-----
+

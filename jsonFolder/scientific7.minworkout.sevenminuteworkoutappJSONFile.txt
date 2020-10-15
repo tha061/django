@@ -1,0 +1,74 @@
+{
+  "name": "scientific7.minworkout.sevenminuteworkoutapp",
+  "fileSize": "11.6 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.STORAGE Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "30 December 2019",
+    "Size": "12M",
+    "Installs": "10000",
+    "Current Version": "2.6.11",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Maryia Piletskaya",
+    "Developer": "hey.november@gmail.com Privacy Policy 180 10th street, Jersey City, NJ, 07302"
+  },
+  "rating": "4.5",
+  "description": "Scientific 7 Minute Workout is the  newest  and  most-advanced  HICT (High-Intensity Circuit Training) app for Android! High-Intensity Circuit Training workouts are aimed at: 1)  Burn the most fat in the least amount of time (it isn't called high-intensity for nothing) 2)  Reducing the amount of time you workout to accommodate busy schedules  3)  Uses bodyweight as resistance, meaning no equipment is required other than a chair The best workout app consists of only 12 exercises to be done for 30 seconds, with 10 second breaks between each exercise. All you need is a chair and a wall. Repeat 2-3 circuits depending on how much time you have. Make it your first choice at home or at the office. Scientific 7-minute Workout features the following: \u2713 Voice commands, telling you when to break and when to start which exercise; useful for if you don't want to look at your phone/tablet while working out (New !) \u2713 Set how long you want the breaks to be; with 5 second breaks at default, the overall exercise is exactly 6 mins 55 seconds (12 30-second exercises and 11 breaks), this can be increased or decreased \u2713 Flat UI design, showing all completed exercises above the current exercise, and upcoming exercises directly below it \u2713 Option to go back or skip forward to different exercises during the workout by scrolling up and down during the workout and tapping the exercise you want to go to \u2713 2 progress bars, one for the current 30-second exercise and one for the overall 6-minutes of working out (remember, what makes it a 7 minute workout is the breaks in between) \u2713 Ability to pause during workout \u2713 Complete Workout Log, showing you what days you have completed the workout and how many times \u2713 Include videos guide you to practice in a lively and easy to understand! Pro  Features include: \u2713 No ads make you lose interest when focused. You will find exciting than ever before ! \u2713 More features to get more health Notice that if you read the science article, it recommends the workout to be completed 2-3 times. This means it is understandable to start out at doing the workout one time through, but eventually you want to move up to at least 2 times through to maximize the effectiveness of the workout. Article that the workout is based on: http://journals.lww.com/acsm-healthfitness/Fulltext/2013/05000/HIGH_INTENSITY_CIRCUIT_TRAINING_USING_BODY_WEIGHT_.5.aspx 5f3deed7a2",
+  "privacyText": "https://seven-minute-workout.s3.amazonaws.com/privacy_policy.html",
+  "numInstalls": 10000,
+  "developer": "Maryia Piletskaya",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://seven-minute-workout.s3.amazonaws.com/privacy_policy.html",
+    "Developer Email": "hey.november@gmail.com",
+    "Privacy Policy": "https://seven-minute-workout.s3.amazonaws.com/privacy_policy.html"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

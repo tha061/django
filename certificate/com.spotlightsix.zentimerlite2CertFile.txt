@@ -1,0 +1,46 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1292405408 (0x4d088aa0)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=Spotlight Six Software
+        Validity
+            Not Before: Dec 15 09:30:08 2010 GMT
+            Not After : Nov 25 09:30:08 2090 GMT
+        Subject: O=Spotlight Six Software
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a4:92:83:88:b1:aa:6a:01:17:12:2f:18:6e:c8:
+                    28:65:0a:2b:82:b0:4e:a8:b7:81:32:fc:e8:db:a9:
+                    12:c1:be:c6:a4:91:bd:f6:0b:3b:62:e0:dc:75:67:
+                    a9:50:82:ba:13:20:df:30:7a:84:94:7b:c0:52:59:
+                    be:b7:ee:98:44:8d:0e:3b:c7:27:06:bd:35:8e:9f:
+                    27:65:43:b6:a0:8e:a4:ba:c9:a1:d7:72:7b:1f:34:
+                    be:f6:4e:ac:30:b5:0b:1e:2c:ae:dc:a9:f3:21:7b:
+                    fe:1d:f0:e2:46:92:bf:9c:b0:b4:20:ed:e4:ad:9c:
+                    a6:5f:ce:a1:9b:fc:06:ee:27
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         39:bb:a7:d6:e1:2f:cc:1b:98:3b:77:47:cd:2a:a3:53:cb:58:
+         00:b5:58:d9:8b:f2:e3:27:44:a0:f1:2e:8b:ab:20:e4:63:a5:
+         1b:d3:bd:1d:90:67:11:c3:48:0d:80:24:ff:3b:08:1e:4a:bf:
+         e6:10:19:29:aa:81:bf:25:8e:a8:09:6c:87:86:2e:21:ba:88:
+         04:6e:29:1b:1f:2f:6b:da:5f:c7:cf:23:d0:c0:89:89:88:ae:
+         ba:ca:76:6d:d3:59:23:14:15:b6:eb:e5:5c:8d:49:fc:a1:af:
+         0e:14:89:07:37:69:e5:89:8b:b9:ec:1e:fe:79:5d:ab:93:81:
+         7d:4f
+-----BEGIN CERTIFICATE-----
+MIIBuzCCASSgAwIBAgIETQiKoDANBgkqhkiG9w0BAQUFADAhMR8wHQYDVQQKExZT
+cG90bGlnaHQgU2l4IFNvZnR3YXJlMCAXDTEwMTIxNTA5MzAwOFoYDzIwOTAxMTI1
+MDkzMDA4WjAhMR8wHQYDVQQKExZTcG90bGlnaHQgU2l4IFNvZnR3YXJlMIGfMA0G
+CSqGSIb3DQEBAQUAA4GNADCBiQKBgQCkkoOIsapqARcSLxhuyChlCiuCsE6ot4Ey
+/OjbqRLBvsakkb32Czti4Nx1Z6lQgroTIN8weoSUe8BSWb637phEjQ47xycGvTWO
+nydlQ7agjqS6yaHXcnsfNL72TqwwtQseLK7cqfMhe/4d8OJGkr+csLQg7eStnKZf
+zqGb/AbuJwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBADm7p9bhL8wbmDt3R80qo1PL
+WAC1WNmL8uMnRKDxLourIORjpRvTvR2QZxHDSA2AJP87CB5Kv+YQGSmqgb8ljqgJ
+bIeGLiG6iARuKRsfL2vaX8fPI9DAiYmIrrrKdm3TWSMUFbbr5VyNSfyhrw4UiQc3
+aeWJi7nsHv55XauTgX1P
+-----END CERTIFICATE-----
+

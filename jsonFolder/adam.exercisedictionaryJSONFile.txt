@@ -1,0 +1,80 @@
+{
+  "name": "adam.exercisedictionary",
+  "fileSize": "13.5 MB",
+  "VTmd5": "d8300f1926f6c2ad9e008116f6646db3",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/f665b2977e473db93bd95e2178b64497e8dee6675b30b2e540eefafaedbbea33/detection/f-f665b2977e473db93bd95e2178b64497e8dee6675b30b2e540eefafaedbbea33-1602505718",
+  "VTresource": "f665b2977e473db93bd95e2178b64497e8dee6675b30b2e540eefafaedbbea33",
+  "VTresponsecode": 1,
+  "VTscanID": "f665b2977e473db93bd95e2178b64497e8dee6675b30b2e540eefafaedbbea33-1602505718",
+  "VTsha1": "666d8ee4ef7a1c7e91ef48c8b2b18427c52ab841",
+  "VTsha256": "f665b2977e473db93bd95e2178b64497e8dee6675b30b2e540eefafaedbbea33",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "11 September 2020",
+    "Size": "13M",
+    "Installs": "500000",
+    "Current Version": "3.31",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "\ud83d\udcaaAPLabs",
+    "Developer": "Visit website adamis1st@hotmail.com Privacy Policy"
+  },
+  "rating": "4.6",
+  "description": "Join over 950,000 users  & get fit and strong in 2020! Gym Exercises & Workouts is  100% free  and adaptable to all fitness levels and workouts!  Create and customize your own workouts  or search over  120 predefined workouts  to help improve fitness, add strength, get ripped or tone up!  Track your history with the workout log calendar  while the workout graphs help identify trends and show how much weight you have lifted this week, month, 6 months or even year. Browse or search over 160 exercises  separated into targeted muscle groups highlighting the activated muscles on animated figures without having to click to an external site or wait for slow videos to load. Create your own custom exercises to use in your workouts!  If you have a unique exercise that isn't in other apps you can add it! Gym Exercises & Workouts is designed to aid beginners understand the mechanics of each exercise so walking into a gym doesn\u2019t seem so daunting, or refresh a veteran\u2019s memory of training routines they may have forgotten. The movements have been written by a seasoned gym junkie and state level powerlifter with over 18 years\u2019 experience. All information is stored on a secure private cloud so you can access your data on any Android device! Summary of Gym Exercises & Workouts features: \ud83c\udfcb\ufe0f\tOver 120 free predefined workouts \ud83d\udcd3\tCreate and customize your own workouts \ud83d\udd04\tSwap, add and skip exercises during a workout \ud83d\udcca\tWorkout Graphs - check total weight lifted or worked muscle groups \ud83c\udfc3\u200d\u2642\ufe0f\tCreate and use your own custom exercises in workouts \ud83d\udcc6\tTrack your workout history with a built-in calendar \u23f2\ufe0f\tAdjustable rest timer in-between sets during a workout \ud83d\udd0d\tSearch for exercises \ud83d\udc9c\tCreate a favorites workout or exercise list for quick reference \ud83d\udc4d\tFacebook integration for quick login \ud83d\uddf3\ufe0f\tVote on your favorite exercises with other members \u2696\ufe0f\tRegional weight selection \u2013 kg or lb \ud83d\udcaa\tSimple, animated figures highlighting the activated muscles during an exercise \ud83d\udcda\tClear instructions how to perform each exercise Gym Exercises & Workouts does rely on an internet connection to be able to pull the information and images in the app may change.",
+  "privacyText": "https://adamis1st.wixsite.com/gymexercises",
+  "numInstalls": 500000,
+  "developer": "\ud83d\udcaaAPLabs",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.gymexercisesapp.com",
+    "Developer Email": "adamis1st@hotmail.com",
+    "Privacy Policy": "https://adamis1st.wixsite.com/gymexercises"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

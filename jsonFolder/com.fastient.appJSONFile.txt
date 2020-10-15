@@ -1,0 +1,62 @@
+{
+  "name": "com.fastient.app",
+  "fileSize": "8.5 MB",
+  "VTmd5": "c0dc85d381587b0662417ecd51d88d89",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/aa1c970b228260bff0158059e47279adb1849d78bbd6b1c69de9cb71312dc97a/detection/f-aa1c970b228260bff0158059e47279adb1849d78bbd6b1c69de9cb71312dc97a-1578098732",
+  "VTresource": "aa1c970b228260bff0158059e47279adb1849d78bbd6b1c69de9cb71312dc97a",
+  "VTresponsecode": 1,
+  "VTscanID": "aa1c970b228260bff0158059e47279adb1849d78bbd6b1c69de9cb71312dc97a-1578098732",
+  "VTsha1": "ff78ffa3122b6e91b3381463c453cd1c6982a061",
+  "VTsha256": "aa1c970b228260bff0158059e47279adb1849d78bbd6b1c69de9cb71312dc97a",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "23 April 2019",
+    "Size": "8.5M",
+    "Installs": "10000",
+    "Current Version": "1.0.303",
+    "Requires Android": "5.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$4.99 \u00e2\u20ac\u201c $11.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "STCCR Web Design",
+    "Developer": "Visit website ross@stccr.design Privacy Policy 3447 N Druid Hills NE Apt K, Decatur, GA, 30033"
+  },
+  "rating": "4.6",
+  "description": "Fastient is an easy-to-use fasting tracker that beautifully displays your progress before, during, and after a fast. Features of Fastient include the ability to track your daily achievements and journal symptoms, mood, weight, and more. Fastient users have the ability to add and edit previous fasts. FEATURES Design - View your progress in a beautifully-designed completion bar - Simple home screen to quickly view your current stats - View your weight loss as a graph anytime, fasting or feeding   Customize - Edit the start time of your fast (i.e. last night after dinner) - Easily add an end goal to your fast - Cancel your current fast \u00e2\u20ac\u201c will not add to your stats Sync - Access Fastient from any device, on any platform - Import previous fasts from other tracking apps via .csv file Journal - Jot down thoughts, feelings, and cravings in a simple note - Use quick-tag emojis to instantly express your current mood or symptoms - Your data is secure; delete your data and account whenever you wish  Premium Features - DARK MODE - Add progress pictures - Quick-tag emojis Fastient works seamlessly with various types of fasts. Popular fasting regimes include: - Intermittent Fasting (IF) - 16:8,20:4, or 36-hour fast - One Meal a Day (OMAD) - Alternate Day Fasting (ADF) - Extended Fasting (EF) STCCR Web Design is always looking for feedback, feature requests and suggestions! Please don\u00e2\u20ac\u2122t hesitate to contact Ross, the founder and creator of Fastient at ross@stccr.design",
+  "privacyText": "https://fastient.com/privacy",
+  "numInstalls": 10000,
+  "developer": "STCCR Web Design",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://stccr.design",
+    "Developer Email": "ross@stccr.design",
+    "Privacy Policy": "https://fastient.com/privacy"
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": false
+}

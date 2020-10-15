@@ -1,0 +1,6 @@
+https://connect.facebook.net/en_US/fbevents.js, /fbevents.js
+https://www.googletagmanager.com/gtm.js?id=GTM-TMPLZ8, /gtm.js
+https://www.googleadservices.com/pagead/conversion_async.js, /conversion_async.
+https://www.googleadservices.com/pagead/conversion_async.js, /pagead/conversion_
+https://snap.licdn.com/li.lms-analytics/insight.min.js, -analytics/insight.
+https://snap.licdn.com/li.lms-analytics/insight.min.js, .lms-analytics/

@@ -1,0 +1,74 @@
+{
+  "name": "com.inovaus.maxiclimber",
+  "fileSize": "91.6 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.RECORD_AUDIO Protection Level: dangerous",
+    "android.permission.MODIFY_AUDIO_SETTINGS Protection Level: normal",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: de.appplant.cordova.plugin.background.ForegroundService  permission: ",
+      "name: com.digits.sdk.android.ContactsUploadService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "31 August 2018",
+    "Size": "92M",
+    "Installs": "50000",
+    "Current Version": "1.0.23",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "InovaUS",
+    "Developer": "Visit website developer@inovaus.com Privacy Policy"
+  },
+  "rating": "4.4",
+  "description": "- MaxiClimber\u00ae Fitness App helps you Max out your strength, cardio and endurance with the 21 Day Maxichallenge interval program featuring fitness expert coach Mark Harari. - 21 Day complete Meal Plan with 80+recipes. - Track your progress: calories burned and workout time for each day and month. - Easy sign in (e-mail, Facebook or Twitter accounts). - Connect with friends and family by sharing your daily training results. - Get a nudge in the right direction with notifications. - Finish the 21 Day Maxichallenge to unlock 4 customized trainings. - Customer service and User Manual in the palm of your hand. - English and Spanish languages - Maxiclimb your way to strong, sexy legs, firm glutes, rock hard abs and toned biceps and triceps. MaxiClimber\u00ae workouts can burn twice as many calories than a treadmill and as much as an extra 45% afterburn through intense muscle toning. MaxiClimb your way to fitness!",
+  "privacyText": "http://maxiclimber.com/privacypolicy",
+  "numInstalls": 50000,
+  "developer": "InovaUS",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://maxiclimber.com/",
+    "Developer Email": "developer@inovaus.com",
+    "Privacy Policy": "http://maxiclimber.com/privacypolicy"
+  },
+  "smali_Directories": [
+    "Squareup",
+    "Twitter"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

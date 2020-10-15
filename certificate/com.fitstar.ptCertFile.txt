@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1331932670 (0x4f63adfe)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=California, L=San Francisco, O=Fitbit, Inc., OU=Unknown, CN=Unknown
+        Validity
+            Not Before: Mar 16 21:17:50 2012 GMT
+            Not After : Dec 18 21:17:50 2066 GMT
+        Subject: C=US, ST=California, L=San Francisco, O=Fitbit, Inc., OU=Unknown, CN=Unknown
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:96:d6:f0:ac:12:0f:4f:a6:bd:da:46:fe:4a:6a:
+                    c4:9d:32:50:2c:7f:9c:fb:24:97:01:87:a0:64:83:
+                    bc:b9:e3:06:a7:12:7d:62:38:86:3c:9f:e6:48:00:
+                    17:3f:cc:10:5c:99:0d:2f:5c:43:88:a2:33:ac:9e:
+                    01:4c:71:db:e8:68:89:95:69:ef:b2:d8:91:7b:51:
+                    64:e5:c1:a8:d0:d4:cc:5e:7f:95:c5:36:9b:09:13:
+                    0b:a3:7f:3d:ac:5b:51:0c:fb:73:4a:3c:f3:d8:50:
+                    77:3c:86:8e:de:89:2f:c2:43:4c:28:f5:2d:2e:2f:
+                    1c:92:28:97:77:af:16:8a:41:0c:32:5b:e4:f4:56:
+                    9f:5a:d5:93:49:12:23:72:e8:5e:16:11:eb:45:23:
+                    e0:05:b3:1d:9a:2a:93:24:04:20:9e:59:e2:f0:18:
+                    8d:f7:a4:04:83:fc:38:0f:90:fe:11:9b:0b:e2:e4:
+                    ef:a1:a9:17:c1:44:c8:81:f8:8b:3f:60:1d:b4:dc:
+                    7a:85:af:28:00:5b:75:ae:cc:3c:99:ce:fd:45:fc:
+                    c4:77:45:f9:d7:12:78:b9:d7:9d:da:06:5f:76:f4:
+                    16:34:7d:8c:49:8f:a3:b2:68:f4:25:60:9e:72:3f:
+                    f2:d7:cb:14:48:42:28:e1:75:f0:c4:e3:be:2a:a8:
+                    b6:db
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         1d:4f:ad:54:cf:f1:eb:de:8c:cf:69:92:74:9b:1f:d2:b1:30:
+         79:9c:c4:b9:5f:51:68:e1:b3:21:92:4b:46:92:08:56:db:e6:
+         c7:74:21:72:e5:9a:db:3f:1b:f4:c5:e0:9c:17:69:0b:0c:12:
+         62:84:ea:3e:dc:b5:21:06:e9:44:f9:5a:27:9d:ea:18:a9:73:
+         63:93:54:fc:cd:a0:59:38:c5:82:77:f8:8c:38:43:ef:11:90:
+         8d:68:5a:88:b3:2d:d8:d2:1b:44:89:7a:06:1c:35:8b:38:4a:
+         b5:7e:73:32:3d:fe:1f:47:8c:c9:f7:98:1f:16:54:4a:2f:b0:
+         54:6a:5d:60:6f:5a:d4:dc:30:71:9b:63:a3:25:af:1e:1f:42:
+         e0:c4:2b:43:7f:6c:0e:4c:06:2f:25:e2:d4:b8:44:76:f3:42:
+         49:a0:e5:eb:06:25:30:8a:24:95:66:69:f2:93:ac:4b:b4:53:
+         da:0b:59:2f:12:6b:49:11:ff:ba:dc:02:82:61:d7:40:19:c3:
+         3f:33:1c:e8:95:eb:fe:a0:a3:36:56:de:24:36:c8:66:52:1e:
+         a7:be:d1:c8:83:d4:ff:a1:73:8f:4f:7c:7e:00:dd:b8:21:7f:
+         d6:82:f7:0a:0e:69:f2:ce:46:a0:b6:80:30:dc:9d:b2:86:41:
+         19:b9:1c:5a
+-----BEGIN CERTIFICATE-----
+MIIDaDCCAlCgAwIBAgIET2Ot/jANBgkqhkiG9w0BAQUFADB1MQswCQYDVQQGEwJV
+UzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEV
+MBMGA1UEChMMRml0Yml0LCBJbmMuMRAwDgYDVQQLEwdVbmtub3duMRAwDgYDVQQD
+EwdVbmtub3duMCAXDTEyMDMxNjIxMTc1MFoYDzIwNjYxMjE4MjExNzUwWjB1MQsw
+CQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZy
+YW5jaXNjbzEVMBMGA1UEChMMRml0Yml0LCBJbmMuMRAwDgYDVQQLEwdVbmtub3du
+MRAwDgYDVQQDEwdVbmtub3duMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAltbwrBIPT6a92kb+SmrEnTJQLH+c+ySXAYegZIO8ueMGpxJ9YjiGPJ/mSAAX
+P8wQXJkNL1xDiKIzrJ4BTHHb6GiJlWnvstiRe1Fk5cGo0NTMXn+VxTabCRMLo389
+rFtRDPtzSjzz2FB3PIaO3okvwkNMKPUtLi8ckiiXd68WikEMMlvk9FafWtWTSRIj
+cuheFhHrRSPgBbMdmiqTJAQgnlni8BiN96QEg/w4D5D+EZsL4uTvoakXwUTIgfiL
+P2AdtNx6ha8oAFt1rsw8mc79RfzEd0X51xJ4uded2gZfdvQWNH2MSY+jsmj0JWCe
+cj/y18sUSEIo4XXwxOO+Kqi22wIDAQABMA0GCSqGSIb3DQEBBQUAA4IBAQAdT61U
+z/Hr3ozPaZJ0mx/SsTB5nMS5X1Fo4bMhkktGkghW2+bHdCFy5ZrbPxv0xeCcF2kL
+DBJihOo+3LUhBulE+VonneoYqXNjk1T8zaBZOMWCd/iMOEPvEZCNaFqIsy3Y0htE
+iXoGHDWLOEq1fnMyPf4fR4zJ95gfFlRKL7BUal1gb1rU3DBxm2OjJa8eH0LgxCtD
+f2wOTAYvJeLUuER280JJoOXrBiUwiiSVZmnyk6xLtFPaC1kvEmtJEf+63AKCYddA
+GcM/Mxzolev+oKM2Vt4kNshmUh6nvtHIg9T/oXOPT3x+AN24IX/WgvcKDmnyzkag
+toAw3J2yhkEZuRxa
+-----END CERTIFICATE-----
+

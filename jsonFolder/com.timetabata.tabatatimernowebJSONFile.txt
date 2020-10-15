@@ -1,0 +1,66 @@
+{
+  "name": "com.timetabata.tabatatimernoweb",
+  "fileSize": "14.7 MB",
+  "VTmd5": "4b76386424f210cfa09dc6786802c3fc",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/ab3d2a601618b1c2a2473358713a34bce1493be078228b9cc7a5f74ae0f69322/detection/f-ab3d2a601618b1c2a2473358713a34bce1493be078228b9cc7a5f74ae0f69322-1578099769",
+  "VTresource": "ab3d2a601618b1c2a2473358713a34bce1493be078228b9cc7a5f74ae0f69322",
+  "VTresponsecode": 1,
+  "VTscanID": "ab3d2a601618b1c2a2473358713a34bce1493be078228b9cc7a5f74ae0f69322-1578099769",
+  "VTsha1": "ce5ba06c9df6e6b08dd922e34961be0768988be7",
+  "VTsha256": "ab3d2a601618b1c2a2473358713a34bce1493be078228b9cc7a5f74ae0f69322",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.FLASHLIGHT Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "12 October 2020",
+    "Size": "18M",
+    "Installs": "50000",
+    "Current Version": "2.27",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "OSHEMB dev.",
+    "Developer": "Visit website dev@timetabata.com Privacy Policy 123182, Moscow, novoshchukinskaya 8"
+  },
+  "rating": "4.8",
+  "description": "Tabata Timer L  - timer with vigorous music and flexible settings. Features: - a choice of several energetic  music  tracks - the screen always shows  large digits  of the timer account - A voice and a  loud whistle  will not let you skip the beginning of a new round - it is possible to specify  its number and duration of rounds - after workout, through the application it's easy to make Selfie and share it with friends through social networks or personal messages - well suited not only for the tabbath, just for all kinds of sports training (for example, crossfit, boxing, wrestling) - for some devices, it is possible to enable  flashing  as the timer progresses",
+  "privacyText": "http://timetabata.com/privacy/tabata.html",
+  "numInstalls": 50000,
+  "developer": "OSHEMB dev.",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://timetabata.com",
+    "Developer Email": "dev@timetabata.com",
+    "Privacy Policy": "http://timetabata.com/privacy/tabata.html"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,83 @@
+{
+  "name": "com.hipsfitness.buttocksworkout.weightloss",
+  "fileSize": "14.5 MB",
+  "VTmd5": "c3147da985c1f2d562e1d62fe5dab97e",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/d22aa7a3498acfe32b44aaf2665a18520f56a2f7a8002ad1db16e7bb2904e946/detection/f-d22aa7a3498acfe32b44aaf2665a18520f56a2f7a8002ad1db16e7bb2904e946-1589194737",
+  "VTresource": "d22aa7a3498acfe32b44aaf2665a18520f56a2f7a8002ad1db16e7bb2904e946",
+  "VTresponsecode": 1,
+  "VTscanID": "d22aa7a3498acfe32b44aaf2665a18520f56a2f7a8002ad1db16e7bb2904e946-1589194737",
+  "VTsha1": "34095e58355cf35e5b4c6c651c02f592111ca963",
+  "VTsha256": "d22aa7a3498acfe32b44aaf2665a18520f56a2f7a8002ad1db16e7bb2904e946",
+  "VTtotal": 59,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: app.service.ReminderService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: app.service.MyJobService  permission: ",
+      "name: appstacks.message.MessageCenterService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.firebase.jobdispatcher.GooglePlayReceiver  permission: com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "23 September 2020",
+    "Size": "15M",
+    "Installs": "1000000",
+    "Current Version": "1.2.4",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "MaxCare Health Group",
+    "Developer": "Visit website jasminjohns630@gmail.com Privacy Policy"
+  },
+  "rating": "4.6",
+  "description": "You want:  \u2705 Have firm, buttock exercise for women \u2705 Tapered calf and thighs neatly \u2705 Effective, safe weight loss plan, lose weight on legs \u2705 Home workout for women to improve health  \u2705 Practice buttocks legs and hips workout without requiring tools \u2705 30 day diet challenge So welcome to 30 day squat workout challenge application. Our booty workout apps brings 2 effective training plans. It is Booty Fat Burning and Booty Growth. In addition, the exercise app for women also has a 30-day diet menu, diet plan for weight loss free which helps you lose weight effectively and science. You can also track weight indicators through each stage of exercise Find out more about our application legs and buttocks workout: + Routine training schedule + 30 day workout challenge to reduce fat + Each day includes 5 different exercise for buttocks such as Leg, Crunches, Hips, glutes workout women ... + Excess fat burning and weight loss + Relax day after training sessions + Firm buttocks, buttocks and hips workout + Weight loss diet menu for vegetarians and non-vegetarians + The menu breaks down the meals during the day to help you practice without hunger + Follow the training process by week + Statistics of clear and detailed health indicators: BMI, weight, calories consumed, number of exercises + Create training reminders easily + Advanced settings with: language, voice ...  Reduce stress with breathing exercises  - The exercise will take place for 1 minute. You only need to inhale deeply for 5s and exhale slowly for 5s, repeating 6 times. - Breathing exercises will help you relax, reduce anxiety, lower blood pressure, ... Why choose our squats workout for women free? \u2757 Effective workout plan, fat loss diet plan \u2757 Home workout no equipment \u2757 Practice anytime, anywhere \u2757 Diverse exercises: hip and leg exercise for women \u2757 A simple, detailed exercise guide to practice \u2757 No account registration required \u2757 Install but exercise for women and use completely free Now slender legs and charming buttocks are no longer just dreams. Install the 30 day squat challenge app and exercise to reduce buttocks, diet coach for women today to make it a reality Do not forget to share the application leg workout for women at home with friends to together own the perfect body. And rate 5* if you love the buttocks workout for women app.",
+  "privacyText": "http://bit.ly/2XrErej",
+  "numInstalls": 1000000,
+  "developer": "MaxCare Health Group",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://hipsworkout.web.app/",
+    "Developer Email": "jasminjohns630@gmail.com",
+    "Privacy Policy": "http://bit.ly/2XrErej"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

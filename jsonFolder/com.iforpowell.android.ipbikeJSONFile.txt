@@ -1,0 +1,78 @@
+{
+  "name": "com.iforpowell.android.ipbike",
+  "fileSize": "5.7 MB",
+  "VTmd5": "c41fcd62332bdf253172e646f2edfe3b",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/b05c76e16afa4ec60650f944ea76f557404454755ba74a9372666fad7a0059fa/detection/f-b05c76e16afa4ec60650f944ea76f557404454755ba74a9372666fad7a0059fa-1596197027",
+  "VTresource": "b05c76e16afa4ec60650f944ea76f557404454755ba74a9372666fad7a0059fa",
+  "VTresponsecode": 1,
+  "VTscanID": "b05c76e16afa4ec60650f944ea76f557404454755ba74a9372666fad7a0059fa-1596197027",
+  "VTsha1": "b5844dc515ca3835843db0445cf21e656630b43c",
+  "VTsha256": "b05c76e16afa4ec60650f944ea76f557404454755ba74a9372666fad7a0059fa",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "android.permission.ACCESS_BACKGROUND_LOCATION Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.sonyericsson.extras.liveware.aef.EXTENSION_PERMISSION Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.iforpowell.android.ipbike.IpBikeMainService  permission: ",
+      "name: org.acra.sender.SenderService  permission: ",
+      "name: com.iforpowell.android.ipbike.upload.Uploader  permission: ",
+      "name: com.iforpowell.android.ipbike.upload.FileDownloadService  permission: ",
+      "name: com.iforpowell.android.ipbike.smartwatch.IpBikeSmartExtensionService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "9 June 2020",
+    "Size": "Varies with device",
+    "Installs": "100000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact, Shares location",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Ifor Powell",
+    "Developer": "Visit website support@iforpowell.com Privacy Policy 79 Sherbourne Avenue\nBradley Stoke\nBristol\nBS32 8BB\nUnited Kingdom"
+  },
+  "rating": "4.1",
+  "description": "IpBike is an app to turn your Android phone or tablet into a fully functional bike computer ideal for mounting on the bars of your bike.   Supports ANT+ See if your phone is ANT capable at http://www.thisisant.com/directory/filter/~/60/~/ This product is ANT+ certified and complies with the following ANT+ device profiles: Bicycle speed Bicycle cadence Bicycle combined speed and cadence Bicycle power (including pedaling effectiveness and smoothness) Heart rate (Hrv with beta IpSensorMan) See ANT+ Compatible devices at http://www.thisisant.com/directory/ipbike/ Not yet certified but fully working support for Stride based speed and distance (footpod) Environment (Garmin Tempe) With beta IpSensorMan you also get beta level support for. Muscle Oxygen Remote Control Fitness equipment control (FEC) Suspension Bike light Shifting Bluetooth low energy, Bluetooth Smart support is in beta testing with support for Heart Rate , Bike speed and cadence, running speed and cadence and Bike Power (but not 2 pedal BLE meters).  See http://www.iforpowell.com/cms/index.php?page=btle-beta Barometric pressure sensor used to enhance altitude on compatible devices. Direct upload support for StriveMax, Google Fit, VeloHero, What's Today's Plan, RunKeeper, TrainingPeaks, Sporttracks.mobi, Attackpoint, Strava, Trainingstagebuch, Cycling Analytics and RunningAHEAD.  Direct email based upload for sites like ridewithgps and mapmytracks. Other sites supported by exporting .gpx or .tcx or .FIT ride files you can automate this process by using things like the DropBox or Drive apps. The main riding screens are all fully customisable for colour, size and number of items with all the stats you would expect (over 100 to choose from) plus some less common ones given suitable sensors like. 5s Avg. Power 30s Avg. Power Normalised Power IF TSS GOVSS Power Balance Torque Effectiveness Pedal Smoothness  Pedalling % Ride Avg. incline Total Ascent Current rate of climb Current Incline HRV heart rate beat to beat Gearing Coasting time Hemoglobin concentration Battery level Mapping support is either online or offline using Mobile Atlas Creator or MapsForge .map files. You can upload .fit .gpx or .kml route files to follow as you ride. Real time plot available with your critical stats updated as you ride. Multi step workouts can be designed with time, distance, heart rate or power based durations.  Targets can be power, cadence, heart rate or speed based.  Repetitions can be counts or till time or distance targets.  Support for FIT workout format file import and export.  Feedback on target and progress. Text to speech audio feedback available with customisation over what is read back and when. IpBike aims to be feature rich - comparing to stand alone bike computes its Garmin 810 class rather than Garmin 200 or 500.  If you want a simple app please look else where.  If you want lots of features please be prepared to take time to learn how to use them see http://www.iforpowell.com/cms/index.php?page=help Limitations. The free version of IpBike is limited to one million wheel revolutions (or equivalent in gps only mode 2070mm wheel).  For permanent use after this you will need to get the IpBikeKey app which will unlock this limitation. IpBike uses IpSensorMan to provide access to ANT+, Btle and BlueTooth sensors.  If you have a compatible phone and do not have IpSensorMan installed you will be prompted to install it.  You can use an ANT USB Stick if your phone supports USB host mode.  For Hrv, Muscle Oxygen, Remote Control, FEC, Suspension, Bike light, Shifting and Btle you need the beta version see http://www.iforpowell.com/cms/index.php?page=IpSensorMan-beta If IpBike fails to start up on your device the most common cause is an issue with the Google maps setup.  The release page has a version without Google Maps support you can try.  http://www.iforpowell.com/cms/index.php?page=releases",
+  "privacyText": "http://www.iforpowell.com/cms/privacy-policy/",
+  "numInstalls": 100000,
+  "developer": "Ifor Powell",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.iforpowell.com/cms/",
+    "Developer Email": "support@iforpowell.com",
+    "Privacy Policy": "http://www.iforpowell.com/cms/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Flurry"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

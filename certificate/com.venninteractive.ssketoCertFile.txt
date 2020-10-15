@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1508438239 (0x59e8f0df)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=Steve Weatherly, O=Venn Interactive, Inc., L=Irvine, ST=CA, C=US
+        Validity
+            Not Before: Jan 31 02:57:40 2015 GMT
+            Not After : Jan 18 02:57:40 2065 GMT
+        Subject: CN=Steve Weatherly, O=Venn Interactive, Inc., L=Irvine, ST=CA, C=US
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b9:76:c9:5e:17:2c:ca:c4:66:45:8d:06:8f:1c:
+                    7c:0f:60:96:b0:dd:2b:72:22:6a:96:26:cf:ec:15:
+                    35:28:b9:86:e6:80:66:7b:03:9f:33:a1:60:c3:e0:
+                    a0:ca:34:55:59:f2:7b:6c:33:8c:76:ae:a1:1a:ff:
+                    9b:69:89:ba:ad:89:91:90:ea:87:db:4a:a6:0e:67:
+                    fa:58:f8:f6:d8:03:3a:85:00:81:f6:ca:fc:ad:47:
+                    4c:3e:47:ad:64:cb:79:89:9e:53:6a:08:25:86:e5:
+                    84:dd:17:06:e4:f9:0a:26:d1:83:03:5c:d4:44:70:
+                    bf:7a:78:31:4e:b2:31:36:5d
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         11:03:83:fa:c0:2d:c6:d1:43:36:d5:2f:92:2f:dd:75:3e:fc:
+         d1:86:40:97:50:66:86:f7:61:fb:b0:a1:5c:6b:aa:4d:10:d5:
+         04:47:fa:1c:9e:9f:a5:94:6c:e9:82:1c:2a:c0:f4:40:78:68:
+         5c:5f:93:f6:ed:e8:b0:27:56:13:96:42:7e:90:39:02:db:eb:
+         6b:66:83:b1:72:bd:0d:6d:22:24:31:46:f6:53:c4:42:d8:7d:
+         cc:d4:24:9d:04:4a:81:77:6d:f9:27:ed:86:64:21:d2:42:f4:
+         9e:fb:1c:ff:e8:79:5d:e1:82:ac:7a:29:bd:f9:0b:f2:06:c7:
+         1b:79
+-----BEGIN CERTIFICATE-----
+MIICRTCCAa6gAwIBAgIEWejw3zANBgkqhkiG9w0BAQUFADBmMRgwFgYDVQQDDA9T
+dGV2ZSBXZWF0aGVybHkxHzAdBgNVBAoMFlZlbm4gSW50ZXJhY3RpdmUsIEluYy4x
+DzANBgNVBAcMBklydmluZTELMAkGA1UECAwCQ0ExCzAJBgNVBAYTAlVTMCAXDTE1
+MDEzMTAyNTc0MFoYDzIwNjUwMTE4MDI1NzQwWjBmMRgwFgYDVQQDDA9TdGV2ZSBX
+ZWF0aGVybHkxHzAdBgNVBAoMFlZlbm4gSW50ZXJhY3RpdmUsIEluYy4xDzANBgNV
+BAcMBklydmluZTELMAkGA1UECAwCQ0ExCzAJBgNVBAYTAlVTMIGfMA0GCSqGSIb3
+DQEBAQUAA4GNADCBiQKBgQC5dsleFyzKxGZFjQaPHHwPYJaw3StyImqWJs/sFTUo
+uYbmgGZ7A58zoWDD4KDKNFVZ8ntsM4x2rqEa/5tpibqtiZGQ6ofbSqYOZ/pY+PbY
+AzqFAIH2yvytR0w+R61ky3mJnlNqCCWG5YTdFwbk+Qom0YMDXNREcL96eDFOsjE2
+XQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBABEDg/rALcbRQzbVL5Iv3XU+/NGGQJdQ
+Zob3YfuwoVxrqk0Q1QRH+hyen6WUbOmCHCrA9EB4aFxfk/bt6LAnVhOWQn6QOQLb
+62tmg7FyvQ1tIiQxRvZTxELYfczUJJ0ESoF3bfkn7YZkIdJC9J77HP/oeV3hgqx6
+Kb35C/IGxxt5
+-----END CERTIFICATE-----
+

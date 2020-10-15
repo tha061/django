@@ -1,0 +1,69 @@
+{
+  "name": "workoutathome.men.bodybuilding",
+  "fileSize": "10.0 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.MODIFY_AUDIO_SETTINGS Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "13 October 2020",
+    "Size": "9.9M",
+    "Installs": "10000",
+    "Current Version": "1.4",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.49 \u2013 $4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Stay Fit With Samantha",
+    "Developer": "Visit website samantharoobol@gmail.com Privacy Policy Laurierhof 23, Papendrecht"
+  },
+  "rating": "4.0",
+  "description": "There is no doubt that regular exercise is the best path to live fit and healthy life. To begin with exercises, you don\u2019t really need to hit the gym; you start at home! It may seem little confusing as a beginner to start the exercise without an instructor. Begin with short session of easy-to-do exercises. Our workout programs have easy-to-do beginners\u2019 exercises that every man can do at home. Basically these exercises need no equipment: you can use your body weight itself as an equipment. Quick workouts for boys with no equipment in the comfort of your home. We have a great collection of the best beginner's exercise at home, coupled with an explanation of what makes that move useful. You can build muscle and lose weight all in the privacy of your home so you\u2019re free to sweat in solitude or bring the house down with your favorite workout songs. Bodybuilding at home for boys without gym equipment. Our beginner workouts are designed just for men. It accommodates the unique biomechanical properties of a guy's physique and appeals to the interests that a sports-minded man might prefer. As your fitness level improves, increase both the duration and the frequency of your workouts. You'll find that trying new workouts and adding variety to your routine will help you to stay interested and motivated. Each workout contains the best exercises to do at home, eg: \u2605 Plank, crunches & sit-ups for six pack abs. \u2605 Push-up: get a bigger and stronger chest in just 30 days \u2605 Lunges & Squats for toned legs Want to build muscles, get toned and stay fit in a short time? Try our aerobic workout routines to tone and strengthen your full body and get six pack abs at home without needing any equipment. Luckily, you can burn fat, build muscle, and get a great workout by just doing body weight exercises \u2013 no gym or workout equipment required. Try our full body home exercise routine for men! Why not give bodyweight training a try and be more efficient with your time? Now is as good a time as any to focus on getting your body into the best shape possible. Whether you want to build muscle or completely transform your body, if you follow the right workout routine for boys, you will get exactly what you need. It's never too late to start bodybuilding.",
+  "privacyText": "http://fm.stefanroobol.com/privacy-policy/homeworkoutsformen",
+  "numInstalls": 10000,
+  "developer": "Stay Fit With Samantha",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://samantha.steveloper.nl",
+    "Developer Email": "samantharoobol@gmail.com",
+    "Privacy Policy": "http://fm.stefanroobol.com/privacy-policy/homeworkoutsformen"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,67 @@
+{
+  "name": "de.mmt.polearn",
+  "fileSize": "24.4 MB",
+  "VTmd5": "ec014c1111f600fc71b5efefc8a013c9",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/090680d3e089036214f63c2c2c1a0243fc1bff9b4101be025f58c1f17b9405ac/detection/f-090680d3e089036214f63c2c2c1a0243fc1bff9b4101be025f58c1f17b9405ac-1598555093",
+  "VTresource": "090680d3e089036214f63c2c2c1a0243fc1bff9b4101be025f58c1f17b9405ac",
+  "VTresponsecode": 1,
+  "VTscanID": "090680d3e089036214f63c2c2c1a0243fc1bff9b4101be025f58c1f17b9405ac-1598555093",
+  "VTsha1": "27ef6ea6ed7bf40c1ec6d7495b6da9d65e1c879e",
+  "VTsha256": "090680d3e089036214f63c2c2c1a0243fc1bff9b4101be025f58c1f17b9405ac",
+  "VTtotal": 59,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "12 July 2020",
+    "Size": "24M",
+    "Installs": "10000",
+    "Current Version": "1.8",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$2.99 \u2013 $23.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Massive Miniteam GmbH",
+    "Developer": "Visit website support@polearn.app Deutz-Muelheimer Strasse 30\n50679 Cologne"
+  },
+  "rating": "3.6",
+  "description": "Never forget the name of a figure again! A mobile app that makes every aspect of pole dance training easier. Watch video tutorials, read instructions step by step, mark your favorite moves and track your progress. For students and instructors of all level. Train with more efficiency, learn new moves and achieve your goals faster than ever! Polearn is for everyone all around the world. KEY FEATURES & BENEFITS - 100 moves with step-by-step instructions and video tutorial for free - Various categories and disciplines for pole & hoop - Moves, dance elements, choreos and exercises  - Search and like your favourites - Download elements for offline access - Different skill levels: beginner, intermediate, advanced and expert - Track your progress with visual status colours - Big variety of useful filters - Stop, rewind or watch the videos in horizontal view - New content on a regular basis POLEARN INSTRUCTOR Jenny started pole dancing in 2011. Since 2012, she is a certified instructor and also competed in various championships. She loves to teach and see her students become better and stronger while having a lot of fun. Jenny owns Polestructions studio, based in Germany, Bonn.  Polearn hosts a range of different instructors and pole stars to give you a diverse learning experience. PRICING & TERMS Polearn is free to download. Users get access to 100 free elements with video tutorials and step-by-step instructions for every level. You can buy new content packages containing a minimum of 10 new elements for your collection. Learn from your favourite pole instructors with our special pole star packages. CONTACT US Website: www.polearn.app Email: support@polearn.app Training tips, daily inspiration, and challenges: Instagram - @polearn.app Facebook - Polearn App Youtube - Polestructions Hashtag #polearn - We\u2019d be happy to see your progress and feature you.",
+  "privacyText": "",
+  "numInstalls": 10000,
+  "developer": "Massive Miniteam GmbH",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://polearn.app",
+    "Developer Email": "support@polearn.app",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Unity3d"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

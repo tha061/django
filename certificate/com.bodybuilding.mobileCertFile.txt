@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1293644281 (0x4d1b71f9)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=ID, L=Meridian, O=Bodbybuilding.com, CN=Bodybuilding.com
+        Validity
+            Not Before: Dec 29 17:38:01 2010 GMT
+            Not After : Dec 23 17:38:01 2035 GMT
+        Subject: C=US, ST=ID, L=Meridian, O=Bodbybuilding.com, CN=Bodybuilding.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:9d:10:5c:a0:0b:4a:73:72:d3:c2:9b:ea:e9:7b:
+                    ab:bc:8b:21:dc:e9:6b:dc:0a:cc:b2:ad:b6:61:9d:
+                    05:e1:9f:25:b9:8d:39:19:d9:03:ed:cb:d4:a5:67:
+                    60:07:2e:71:9b:cd:a5:ff:5c:18:66:55:f6:78:1a:
+                    6b:40:49:ce:16:cd:c4:7c:74:5e:35:09:ad:5f:f9:
+                    8f:94:d2:4f:f8:38:6f:a4:48:a0:cd:db:4b:5a:c0:
+                    d7:62:0b:75:64:21:87:a0:53:bc:a1:6e:e3:df:17:
+                    bf:ff:3f:39:4f:fc:cd:83:bd:d5:00:1c:0f:0e:3f:
+                    bd:4f:12:9f:99:8f:22:f7:a5
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         71:01:fd:7f:e0:cb:3a:a7:56:6a:43:a9:17:97:3e:e0:01:e8:
+         85:8d:18:84:be:47:16:ab:65:e7:89:05:3b:30:06:a9:84:ec:
+         b3:2c:48:dc:a7:23:6a:b6:73:25:51:fa:64:2b:59:6b:62:b2:
+         32:6f:cf:c2:85:4f:4c:34:7c:9b:44:ba:f4:aa:35:85:55:3b:
+         dd:be:d9:fb:49:0a:73:74:08:e9:56:fe:89:26:ef:1c:17:53:
+         2a:13:3d:85:ba:52:df:08:b9:61:79:af:02:ad:e8:e9:02:73:
+         5a:19:55:60:bc:f0:47:55:d6:c3:a2:03:75:a7:b4:8f:a5:3e:
+         c5:68
+-----BEGIN CERTIFICATE-----
+MIICPzCCAaigAwIBAgIETRtx+TANBgkqhkiG9w0BAQUFADBkMQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCSUQxETAPBgNVBAcTCE1lcmlkaWFuMRowGAYDVQQKExFCb2Ri
+eWJ1aWxkaW5nLmNvbTEZMBcGA1UEAxMQQm9keWJ1aWxkaW5nLmNvbTAeFw0xMDEy
+MjkxNzM4MDFaFw0zNTEyMjMxNzM4MDFaMGQxCzAJBgNVBAYTAlVTMQswCQYDVQQI
+EwJJRDERMA8GA1UEBxMITWVyaWRpYW4xGjAYBgNVBAoTEUJvZGJ5YnVpbGRpbmcu
+Y29tMRkwFwYDVQQDExBCb2R5YnVpbGRpbmcuY29tMIGfMA0GCSqGSIb3DQEBAQUA
+A4GNADCBiQKBgQCdEFygC0pzctPCm+rpe6u8iyHc6WvcCsyyrbZhnQXhnyW5jTkZ
+2QPty9SlZ2AHLnGbzaX/XBhmVfZ4GmtASc4WzcR8dF41Ca1f+Y+U0k/4OG+kSKDN
+20tawNdiC3VkIYegU7yhbuPfF7//PzlP/M2DvdUAHA8OP71PEp+ZjyL3pQIDAQAB
+MA0GCSqGSIb3DQEBBQUAA4GBAHEB/X/gyzqnVmpDqReXPuAB6IWNGIS+RxarZeeJ
+BTswBqmE7LMsSNynI2q2cyVR+mQrWWtisjJvz8KFT0w0fJtEuvSqNYVVO92+2ftJ
+CnN0COlW/okm7xwXUyoTPYW6Ut8IuWF5rwKt6OkCc1oZVWC88EdV1sOiA3WntI+l
+PsVo
+-----END CERTIFICATE-----
+

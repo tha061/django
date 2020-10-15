@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2075962383 (0x7bbcac0f)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Javier Salmona
+        Validity
+            Not Before: Aug  2 01:41:20 2015 GMT
+            Not After : Jul  9 01:41:20 2115 GMT
+        Subject: CN=Javier Salmona
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e9:a0:33:8e:40:d9:e8:02:45:4d:c2:d9:64:53:
+                    30:2d:eb:ea:1a:6e:54:bc:2d:63:fb:84:72:65:dc:
+                    3d:1f:b6:57:96:3b:80:1d:d6:96:ce:e4:7c:0a:f0:
+                    8a:f1:6a:e0:6a:a1:32:17:86:53:3e:ac:ff:ac:80:
+                    5d:83:5f:37:f1:0f:c0:dc:be:4c:48:56:e1:e0:4c:
+                    eb:ce:68:03:6d:37:31:07:18:33:35:6b:9a:ca:18:
+                    c8:94:ed:30:21:74:26:18:5a:b5:80:26:60:f3:00:
+                    90:39:a7:e3:bd:b8:9e:78:91:bd:d4:76:8b:d2:e9:
+                    c4:52:6b:c1:0d:d6:5a:ee:e7:0e:57:7e:55:ed:f9:
+                    b4:ed:b7:96:c4:63:5f:f4:81:dc:69:ac:1b:ab:b9:
+                    9f:95:77:76:59:68:40:01:ae:70:f2:88:c0:d8:b9:
+                    0d:c5:e0:a0:ee:8b:ff:1a:81:22:bd:6c:6e:fb:09:
+                    ba:b1:f6:61:00:43:66:a2:c4:b7:3f:0f:7f:2f:33:
+                    f3:20:c9:48:1a:b9:05:f7:56:50:88:25:41:87:ad:
+                    d3:35:19:ef:42:34:e8:f1:f7:12:09:89:09:86:1b:
+                    ff:5c:bf:09:f5:9f:d5:6e:37:d6:22:18:8c:5c:1b:
+                    59:fe:ef:a2:49:c2:75:53:e6:1d:54:c9:db:c5:f3:
+                    11:87
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                27:97:D3:15:5C:7A:3C:E5:C7:F0:27:6E:80:D5:5E:B0:10:0E:9B:2E
+    Signature Algorithm: sha256WithRSAEncryption
+         9e:e2:e6:c3:9f:1b:3b:89:ce:f5:c9:97:22:7d:c0:8d:73:fe:
+         4d:24:0d:a2:e3:1d:0c:9e:b7:2a:b7:5e:22:fd:91:81:7f:59:
+         52:cc:7b:34:25:ea:62:6a:58:a8:2f:2a:79:b5:a6:2b:75:a6:
+         dd:18:19:1d:70:16:d3:a7:6a:d4:7d:3a:8c:59:05:6c:53:8e:
+         9c:59:18:a1:fa:9e:ce:86:a2:d6:45:00:38:cb:3b:71:bc:f6:
+         5f:3f:b5:bf:ec:74:ef:e5:a7:fc:20:fc:d4:02:83:02:0d:3d:
+         00:ec:78:24:5c:fc:03:9d:32:ce:8c:35:3e:38:f7:b2:1f:b8:
+         77:ab:ec:4b:4a:3e:3a:70:1e:21:cb:b3:49:69:ef:c3:b4:b2:
+         c4:42:08:39:53:8f:67:f0:6f:60:fe:31:1c:95:c6:be:0a:47:
+         63:7e:7f:fa:44:bc:c8:7c:c3:07:83:7f:d3:5c:f7:bc:4a:c6:
+         60:f5:f3:4f:15:24:2a:99:31:6e:8b:0b:06:5f:fd:d1:85:0a:
+         b3:67:53:14:73:67:0c:34:77:63:b1:a9:8b:b8:18:5d:60:b5:
+         6a:98:99:01:ed:3a:9a:5c:bc:d3:53:cd:07:1c:2b:b5:d6:57:
+         04:e7:e0:e4:83:78:e8:9f:9c:fc:0e:85:1b:f8:7d:e1:38:ad:
+         fa:2f:42:04
+-----BEGIN CERTIFICATE-----
+MIIC0zCCAbugAwIBAgIEe7ysDzANBgkqhkiG9w0BAQsFADAZMRcwFQYDVQQDEw5K
+YXZpZXIgU2FsbW9uYTAgFw0xNTA4MDIwMTQxMjBaGA8yMTE1MDcwOTAxNDEyMFow
+GTEXMBUGA1UEAxMOSmF2aWVyIFNhbG1vbmEwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDpoDOOQNnoAkVNwtlkUzAt6+oablS8LWP7hHJl3D0ftleWO4Ad
+1pbO5HwK8IrxauBqoTIXhlM+rP+sgF2DXzfxD8DcvkxIVuHgTOvOaANtNzEHGDM1
+a5rKGMiU7TAhdCYYWrWAJmDzAJA5p+O9uJ54kb3UdovS6cRSa8EN1lru5w5XflXt
++bTtt5bEY1/0gdxprBuruZ+Vd3ZZaEABrnDyiMDYuQ3F4KDui/8agSK9bG77Cbqx
+9mEAQ2aixLc/D38vM/MgyUgauQX3VlCIJUGHrdM1Ge9CNOjx9xIJiQmGG/9cvwn1
+n9VuN9YiGIxcG1n+76JJwnVT5h1UydvF8xGHAgMBAAGjITAfMB0GA1UdDgQWBBQn
+l9MVXHo85cfwJ26A1V6wEA6bLjANBgkqhkiG9w0BAQsFAAOCAQEAnuLmw58bO4nO
+9cmXIn3AjXP+TSQNouMdDJ63KrdeIv2RgX9ZUsx7NCXqYmpYqC8qebWmK3Wm3RgZ
+HXAW06dq1H06jFkFbFOOnFkYofqezoai1kUAOMs7cbz2Xz+1v+x07+Wn/CD81AKD
+Ag09AOx4JFz8A50yzow1Pjj3sh+4d6vsS0o+OnAeIcuzSWnvw7SyxEIIOVOPZ/Bv
+YP4xHJXGvgpHY35/+kS8yHzDB4N/01z3vErGYPXzTxUkKpkxbosLBl/90YUKs2dT
+FHNnDDR3Y7Gpi7gYXWC1apiZAe06mly801PNBxwrtdZXBOfg5IN46J+c/A6FG/h9
+4Tit+i9CBA==
+-----END CERTIFICATE-----
+

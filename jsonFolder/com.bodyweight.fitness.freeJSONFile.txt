@@ -1,0 +1,64 @@
+{
+  "name": "com.bodyweight.fitness.free",
+  "fileSize": "54.1 MB",
+  "VTmd5": "782abd433ee0492480ad9da14daed9ed",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/f6d3bbd962eeb49e9631bcc0d0eb5d24ee4a1c8f9929dff8cc58c07a3e8e8c54/detection/f-f6d3bbd962eeb49e9631bcc0d0eb5d24ee4a1c8f9929dff8cc58c07a3e8e8c54-1573527514",
+  "VTresource": "f6d3bbd962eeb49e9631bcc0d0eb5d24ee4a1c8f9929dff8cc58c07a3e8e8c54",
+  "VTresponsecode": 1,
+  "VTscanID": "f6d3bbd962eeb49e9631bcc0d0eb5d24ee4a1c8f9929dff8cc58c07a3e8e8c54-1573527514",
+  "VTsha1": "558796eb57b6bcbb433f3904a4d1cda31bc37e9f",
+  "VTsha256": "f6d3bbd962eeb49e9631bcc0d0eb5d24ee4a1c8f9929dff8cc58c07a3e8e8c54",
+  "VTtotal": 51,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "3 January 2018",
+    "Size": "54M",
+    "Installs": "100000",
+    "Current Version": "1.4.2",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Damian Mazurkiewicz",
+    "Developer": "Visit website damian@mazur.io 33 Fairview Road\nLondon, N15 6LH\nUnited Kingdom"
+  },
+  "rating": "4.7",
+  "description": "Level up your  fitness and strength ,  gain flexibility  and learn more about  calisthenics . Make a healthy change in your life by becoming more active, aware and motivated. Exercises are presented in an easy and simple way to understand. Choose exercises  relevant to your fitness level in the given sections. You can choose progression difficulty for some exercises. Log your workouts  - save number of sets, weight and time for each exercise (you choose what to log). Timer  - automatically saves your progress to the workout log. Watch full videos  for each exercise. Switch routines  - choose between  Bodyweight Fitness (Recommended Routine) ,  Starting Stretching (Flexibility Routine)  and  Molding Mobility (Flexibility Routine) . Workout Log  - track your progress with beautiful graphs and statistics. Use dashboard  to explore the whole routine tree. Export  your workout log as a CSV file. No extra permissions required. No network connection required, all videos are available offline as high quality MP4 videos. This app is advert free, if you like it  please buy Pro version (purely treated as a donation) .",
+  "privacyText": "",
+  "numInstalls": 100000,
+  "developer": "Damian Mazurkiewicz",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.bodyweightfitness.co.uk/",
+    "Developer Email": "damian@mazur.io",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Github",
+    "Jakewharton"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

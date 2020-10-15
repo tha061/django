@@ -1,0 +1,74 @@
+{
+  "name": "com.rhythmic_breathing.app",
+  "fileSize": "2.4 MB",
+  "VTmd5": "8fde6f06aadce7805dfdb260db64e074",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/9aed2bdc9f17a499579a9bb2911188458565e7a7f627c767044f64d14e9a57dd/detection/f-9aed2bdc9f17a499579a9bb2911188458565e7a7f627c767044f64d14e9a57dd-1573190577",
+  "VTresource": "9aed2bdc9f17a499579a9bb2911188458565e7a7f627c767044f64d14e9a57dd",
+  "VTresponsecode": 1,
+  "VTscanID": "9aed2bdc9f17a499579a9bb2911188458565e7a7f627c767044f64d14e9a57dd-1573190577",
+  "VTsha1": "030be26bd760dd25583212a5286039f96c9bdcf4",
+  "VTsha256": "9aed2bdc9f17a499579a9bb2911188458565e7a7f627c767044f64d14e9a57dd",
+  "VTtotal": 60,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.rhythmic_breathing.app.service.RhythmService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "14 March 2019",
+    "Size": "2.4M",
+    "Installs": "10000",
+    "Current Version": "0.3.10",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "MyMumApp",
+    "Developer": "Visit website mymumapp@gmail.com Privacy Policy pr.Ispitateley 15"
+  },
+  "rating": "4.2",
+  "description": "As we breathe, so we live.   Relaxed and harmonious breathing is health, serenity, an even rhythm of life, high stress tolerance. It can be developed, but it is important to follow a proven system. Training consists of four phases of breathing - inhale, holding, exhale and holding without air (empty). These breathing phases are practiced in a certain rhythm, and the measure of this rhythm is your own heart's beat in a relaxed state.  If you follow these phases in a certain rhythm, breath becomes relaxed, the mind is calmed, harmony comes in the emotions. This principle is based on the ancient Tibetan knowledge of breathing. Now, this knowledge can be found in Yantra Yoga, the Tibetan yoga of movement. The exact rhythm, its correct development were described many centuries ago and reached our days without distortion. This is a meditation in which the body breathes in the same rhythm with the mind. We begin our practice with an inhale for a counts of 4,  holding for counts of 4, exhale for 2 and holding without air for 2. After several cycles, if the rhythm is comfortable for us, then we can go to the next level. It is very important to maintain a relaxed and comfortable breathing throughout the entire workout. If we find that breathing has become tense or we do not have enough air to breath, then we change our breath, making several deep inhales and exhales. And then we continue our training, perhaps doing back to more simple rhythms. In this app: \u2726 knowledge proven for centuries \u2726 classical scheme for breathing, proposed in the Tibetan yoga of movement  - Yantra Yoga \u2726 individual settings for practice \u2726 the intuitive interface",
+  "privacyText": "http://rhythmic-breathing.com/privacy/policy.txt",
+  "numInstalls": 10000,
+  "developer": "MyMumApp",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": true,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.yantrayoga.net/",
+    "Developer Email": "mymumapp@gmail.com",
+    "Privacy Policy": "http://rhythmic-breathing.com/privacy/policy.txt"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

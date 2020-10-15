@@ -1,0 +1,46 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1406428409 (0x53d464f9)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=Cody Inc, CN=Pejman
+        Validity
+            Not Before: Jul 27 02:33:29 2014 GMT
+            Not After : Jul 21 02:33:29 2039 GMT
+        Subject: O=Cody Inc, CN=Pejman
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:8d:c8:bc:6c:ba:86:e2:6a:4e:9d:dc:69:8a:05:
+                    a6:2d:1d:20:04:e6:5c:8b:b5:12:74:e9:06:d7:f4:
+                    99:51:51:ca:77:4e:19:f3:0a:91:5f:c1:71:95:99:
+                    d3:02:0e:f4:1d:76:e2:1f:df:ee:39:a5:ae:1c:fc:
+                    aa:5a:62:66:0a:83:c2:65:f4:0f:49:96:f2:a8:e7:
+                    4a:e8:25:27:9d:a6:75:3d:f8:07:93:da:a2:10:cf:
+                    35:c0:48:50:b1:af:32:1f:9a:e0:bd:7b:33:41:0a:
+                    c5:67:95:81:8c:b1:2b:95:aa:a0:9d:d6:26:73:1b:
+                    a6:10:d2:34:c7:28:24:59:83
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         3c:98:45:fc:c5:44:7c:d7:fd:e7:65:36:5a:23:30:8e:2d:ce:
+         da:46:29:a6:1c:38:7f:a0:d8:08:60:a0:8d:47:b5:0d:13:77:
+         6a:bf:b5:bd:91:21:a4:88:0f:ed:5c:30:d3:fc:c6:31:d7:b1:
+         40:cd:d4:d1:0d:d3:40:4b:59:a8:e5:a4:23:a9:ba:88:b8:92:
+         64:cd:a4:5e:85:fa:df:df:7e:dd:4c:21:35:1d:55:59:1a:91:
+         3a:90:56:b1:52:76:24:d0:0d:15:28:04:0e:88:0b:38:ac:06:
+         9a:69:89:ed:f6:91:8d:76:ea:db:de:c4:4d:ba:4c:91:e7:1c:
+         3f:f3
+-----BEGIN CERTIFICATE-----
+MIIBvzCCASigAwIBAgIEU9Rk+TANBgkqhkiG9w0BAQUFADAkMREwDwYDVQQKEwhD
+b2R5IEluYzEPMA0GA1UEAxMGUGVqbWFuMB4XDTE0MDcyNzAyMzMyOVoXDTM5MDcy
+MTAyMzMyOVowJDERMA8GA1UEChMIQ29keSBJbmMxDzANBgNVBAMTBlBlam1hbjCB
+nzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAjci8bLqG4mpOndxpigWmLR0gBOZc
+i7USdOkG1/SZUVHKd04Z8wqRX8FxlZnTAg70HXbiH9/uOaWuHPyqWmJmCoPCZfQP
+SZbyqOdK6CUnnaZ1PfgHk9qiEM81wEhQsa8yH5rgvXszQQrFZ5WBjLErlaqgndYm
+cxumENI0xygkWYMCAwEAATANBgkqhkiG9w0BAQUFAAOBgQA8mEX8xUR81/3nZTZa
+IzCOLc7aRimmHDh/oNgIYKCNR7UNE3dqv7W9kSGkiA/tXDDT/MYx17FAzdTRDdNA
+S1mo5aQjqbqIuJJkzaRehfrf337dTCE1HVVZGpE6kFaxUnYk0A0VKAQOiAs4rAaa
+aYnt9pGNdurb3sRNukyR5xw/8w==
+-----END CERTIFICATE-----
+

@@ -1,0 +1,67 @@
+{
+  "name": "com.days30.fiveminplank",
+  "fileSize": "8.4 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "9 July 2020",
+    "Size": "8.4M",
+    "Installs": "500000",
+    "Current Version": "1.0.0Q",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "RFit Apps",
+    "Developer": "Visit website 30dayworkouts@gmail.com Privacy Policy HIG, JNTU, Hyderabad, 500072"
+  },
+  "rating": "4.6",
+  "description": "\ud83d\ude05 Lose weight and get 6 pack abs with belly fat burning plank workout. Plank workout for weight loss, 5 min plank workout challenge. Plank workout helps you burn belly fat and a strong core. Planks are one of the most effective exercises you can do. Are you dreaming about Six Packs Abs? Now you can make your dream come true! You only have to do this 5 min plank workout everyday and you will see how your body is changing. \u2764\ufe0f Improve Core Definition Planks are an ideal exercise for the abdominal muscles exactly because they engage all major core muscle groups including the transverse abdominals, the rectus abdomens, the external oblique muscle, and the glutes. \ud83e\uddd1\u200d\u2695\ufe0fDecrease the risk of injury in the back Doing planks is a type of exercise that allow you to build muscle while also making sure that you are not putting too much pressure on your spine or hips. \ud83c\udf3f Boost metabolism Your metabolic rate increases even after you\u2019ve stopped exercising \ud83e\udd38\u200d\u2640\ufe0f Improve your posture Doing planks greatly improves both your posture and balance. \ud83c\udfcb\ufe0f\u200d\u2640\ufe0f Improve overall balance By doing side planks you\u2019ll improve your balance, while planks with extensions will boost your performance in every kind of sporting activity. \ud83d\udd74\ufe0f More Flexibility Flexibility is another key benefit of doing planks regularly, as they affect all your posterior muscle groups \u2013 shoulders, shoulder blades, and collarbone. This app provides various plank workout variations to help you lose weight, gain strength and get a strong core. The basic workout takes just 5 minutes of a day to burn calories. Planks are more effective than abs workout to burn belly fat. They can be easily performed and activate all your muscles.  \u2b50 Features  1. Different plank exercises. 2. You can make your own customized workout. 3. Easily pause the workout. 4. 6 Pre defined workout programs. 5. No equipment needed.",
+  "privacyText": "http://vrvapps.com/policyrfit.html",
+  "numInstalls": 500000,
+  "developer": "RFit Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.vrvapps.com/",
+    "Developer Email": "30dayworkouts@gmail.com",
+    "Privacy Policy": "http://vrvapps.com/policyrfit.html"
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads",
+    "Loopj"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

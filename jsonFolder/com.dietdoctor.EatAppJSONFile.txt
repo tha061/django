@@ -1,0 +1,76 @@
+{
+  "name": "com.dietdoctor.EatApp",
+  "fileSize": "8.0 MB",
+  "VTmd5": "5f743347339ce0cd44ad5b05cacf1945",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/20d686981e87322c4673787a40d9ebc590b6a46b51da5b0570c7f4fc7a139b8c/detection/f-20d686981e87322c4673787a40d9ebc590b6a46b51da5b0570c7f4fc7a139b8c-1601061931",
+  "VTresource": "20d686981e87322c4673787a40d9ebc590b6a46b51da5b0570c7f4fc7a139b8c",
+  "VTresponsecode": 1,
+  "VTscanID": "20d686981e87322c4673787a40d9ebc590b6a46b51da5b0570c7f4fc7a139b8c-1601061931",
+  "VTsha1": "0dfc7d3992c7f016a37c7889e4194c07cb02998a",
+  "VTsha256": "20d686981e87322c4673787a40d9ebc590b6a46b51da5b0570c7f4fc7a139b8c",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.play.core.assetpacks.AssetPackExtractionService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "9 October 2020",
+    "Size": "33M",
+    "Installs": "10000",
+    "Current Version": "2.7.2",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$0.99 \u2013 $99.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Diet Doctor",
+    "Developer": "Visit website support@dietdoctor.com Privacy Policy Diet Doctor Sweden AB.\nVasagatan 40\n111 20\nStockholm\nSweden"
+  },
+  "rating": "4.6",
+  "description": "900+ free and delicious  low-carb  and  keto   recipes, with nutritional information you can trust \u2014 backed by the world\u2019s leading experts on low carb and keto. Strict keto, moderate or liberal low carb \u2014 you decide! We provide trusted, tasty, searchable recipes complete with  shopping lists  so that you can focus on cooking, eating, and enjoying delicious and nutritious food. Diet Doctor is the world\u2019s #1  keto & low-carb  site. Our goal is to empower people everywhere to dramatically improve their health by making low carb and keto simple. Millions of people have used our site to lose weight, reverse their type 2 diabetes, normalize their blood pressure or change their lives for the better in many other ways. If you\u2019re interested in low carb or keto, we\u2019ll do our best to make your journey simple and inspiring. SUMMARY OF WHAT YOU GET IN THIS APP: - Free access to 900+   low-carb and keto  recipes that are easy to prepare and even easier to enjoy. - Automatically create a  shopping list  by adding one or more recipes to it. - Keep track of your favorite recipes. - Everything works offline, too, so you can cook offline and use the shopping list offline so you save in data usage. 900+ LOW-CARB AND KETO RECIPES Whether you\u2019re looking for strict keto, moderate or liberal low-carb recipes, we got them all. Quick breakfasts, luxurious brunches, hearty dishes, simple snacks and gorgeous desserts \u2014 all low in carbs! Search for an ingredient or dish type, browse vegetarian or dairy-free recipes or dig into our curated and seasonal collections to find new favorites. Make grocery shopping a breeze by simply adding all recipe ingredients to your shopping list. Download Diet Doctor Eat to start your health journey today with our delicious low-carb and keto recipes!",
+  "privacyText": "https://www.dietdoctor.com/terms#privacypolicy",
+  "numInstalls": 10000,
+  "developer": "Diet Doctor",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.dietdoctor.com",
+    "Developer Email": "support@dietdoctor.com",
+    "Privacy Policy": "https://www.dietdoctor.com/terms#privacypolicy"
+  },
+  "smali_Directories": [
+    "Facebook"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

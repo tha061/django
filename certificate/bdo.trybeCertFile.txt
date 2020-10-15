@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 841545137 (0x3228f5b1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=CA, L=San Mateo, O=trybe, OU=trybe, CN=vincent tam
+        Validity
+            Not Before: Jan  5 23:21:37 2017 GMT
+            Not After : May 23 23:21:37 2044 GMT
+        Subject: C=US, ST=CA, L=San Mateo, O=trybe, OU=trybe, CN=vincent tam
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:89:91:bb:9d:79:33:3d:fa:c3:fa:8e:ce:c1:0e:
+                    61:03:cd:e4:a9:51:e7:7a:ea:95:6e:d3:56:a2:c7:
+                    12:a5:87:00:27:7a:1d:55:13:fb:26:94:2f:e6:ec:
+                    63:de:3d:38:c1:07:b4:c0:6f:57:87:77:39:9e:71:
+                    a8:3f:b4:49:ee:d6:76:c7:e7:25:85:31:82:a9:17:
+                    94:8f:92:2f:26:59:26:b8:5b:99:93:e7:ae:80:1d:
+                    d4:8e:e6:8e:9f:8e:9b:95:7a:55:e1:2e:c1:50:ab:
+                    41:8a:b5:dc:2e:d9:25:85:fd:99:1a:4c:0e:28:e3:
+                    e7:e5:92:60:a5:de:4e:14:d0:bf:e0:45:27:36:e4:
+                    42:e9:6f:04:a5:68:c6:cb:c3:a7:93:7d:75:1c:75:
+                    d3:dd:84:04:95:50:bb:01:f7:a7:9c:29:8c:a3:90:
+                    0d:d0:bb:9f:4a:71:48:11:3c:69:e8:72:c0:4b:44:
+                    46:49:5b:80:fb:df:a8:89:6d:d6:1b:1e:b1:38:0a:
+                    27:17:96:98:0d:bb:d4:69:fd:17:41:fa:04:15:e7:
+                    42:fc:37:e0:38:0c:c3:88:c3:84:21:85:44:c3:d3:
+                    ca:ea:ff:41:84:cd:92:ec:54:73:07:ae:3d:6c:45:
+                    f8:a9:94:28:80:63:df:56:9d:13:04:40:63:5d:63:
+                    46:4d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                0D:71:71:54:5C:A3:66:A4:1B:B2:AB:32:A5:72:43:97:A6:93:EE:84
+    Signature Algorithm: sha256WithRSAEncryption
+         37:58:72:e7:be:8f:d5:e3:61:ca:62:04:60:18:44:aa:8c:2b:
+         f3:5d:a6:d7:51:14:ea:36:03:5d:f2:18:5c:8a:ae:56:d7:34:
+         56:d2:a0:35:c9:e3:1b:d7:0e:71:d6:a8:a6:e1:d5:4b:f3:42:
+         8b:e1:97:16:c6:91:e7:32:25:f2:b2:db:e6:ff:e0:32:76:5f:
+         92:db:0e:0f:fe:69:1e:1d:ba:31:93:91:97:de:f7:f0:14:1f:
+         6b:a8:4c:8b:fb:30:58:24:32:e5:47:7d:36:c9:24:92:29:89:
+         73:3c:a3:6d:3c:b3:72:24:6c:fa:d5:84:98:27:d0:04:66:86:
+         8e:b2:b4:2a:10:b1:e4:d5:5d:82:52:44:27:07:d8:dd:38:1a:
+         ae:6e:f1:f1:0e:2d:0c:b7:7f:86:1e:87:22:71:4a:a5:58:5c:
+         2b:b9:a2:84:74:81:b3:b1:78:98:ca:5e:14:ef:b4:52:d8:9b:
+         8a:2f:54:35:8d:07:68:ec:bc:6f:ea:2f:90:d0:b7:bd:0d:1e:
+         95:a3:78:86:40:bc:80:48:b2:91:92:c7:69:99:23:d5:9d:e0:
+         20:b0:1d:8f:01:a0:7f:96:0a:61:0b:4a:be:f0:e0:8a:d5:59:
+         06:51:d4:61:21:b3:45:8a:da:28:cc:f8:c4:0c:a3:d3:0c:e7:
+         dc:16:9a:29
+-----BEGIN CERTIFICATE-----
+MIIDZzCCAk+gAwIBAgIEMij1sTANBgkqhkiG9w0BAQsFADBkMQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCQ0ExEjAQBgNVBAcTCVNhbiBNYXRlbzEOMAwGA1UEChMFdHJ5
+YmUxDjAMBgNVBAsTBXRyeWJlMRQwEgYDVQQDEwt2aW5jZW50IHRhbTAeFw0xNzAx
+MDUyMzIxMzdaFw00NDA1MjMyMzIxMzdaMGQxCzAJBgNVBAYTAlVTMQswCQYDVQQI
+EwJDQTESMBAGA1UEBxMJU2FuIE1hdGVvMQ4wDAYDVQQKEwV0cnliZTEOMAwGA1UE
+CxMFdHJ5YmUxFDASBgNVBAMTC3ZpbmNlbnQgdGFtMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAiZG7nXkzPfrD+o7OwQ5hA83kqVHneuqVbtNWoscSpYcA
+J3odVRP7JpQv5uxj3j04wQe0wG9Xh3c5nnGoP7RJ7tZ2x+clhTGCqReUj5IvJlkm
+uFuZk+eugB3UjuaOn46blXpV4S7BUKtBirXcLtklhf2ZGkwOKOPn5ZJgpd5OFNC/
+4EUnNuRC6W8EpWjGy8Onk311HHXT3YQElVC7AfennCmMo5AN0LufSnFIETxp6HLA
+S0RGSVuA+9+oiW3WGx6xOAonF5aYDbvUaf0XQfoEFedC/DfgOAzDiMOEIYVEw9PK
+6v9BhM2S7FRzB649bEX4qZQogGPfVp0TBEBjXWNGTQIDAQABoyEwHzAdBgNVHQ4E
+FgQUDXFxVFyjZqQbsqsypXJDl6aT7oQwDQYJKoZIhvcNAQELBQADggEBADdYcue+
+j9XjYcpiBGAYRKqMK/NdptdRFOo2A13yGFyKrlbXNFbSoDXJ4xvXDnHWqKbh1Uvz
+QovhlxbGkecyJfKy2+b/4DJ2X5LbDg/+aR4dujGTkZfe9/AUH2uoTIv7MFgkMuVH
+fTbJJJIpiXM8o208s3IkbPrVhJgn0ARmho6ytCoQseTVXYJSRCcH2N04Gq5u8fEO
+LQy3f4YehyJxSqVYXCu5ooR0gbOxeJjKXhTvtFLYm4ovVDWNB2jsvG/qL5DQt70N
+HpWjeIZAvIBIspGSx2mZI9Wd4CCwHY8BoH+WCmELSr7w4IrVWQZR1GEhs0WK2ijM
++MQMo9MM59wWmik=
+-----END CERTIFICATE-----
+

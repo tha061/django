@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1711436881 (0x66027451)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=SE, O=Bimjay, CN=Mattias Isegran Bergander
+        Validity
+            Not Before: Jun 19 23:22:18 2012 GMT
+            Not After : Jun 12 23:22:18 2042 GMT
+        Subject: C=SE, O=Bimjay, CN=Mattias Isegran Bergander
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b4:67:2a:aa:6c:d0:c8:69:c5:8a:2a:f1:7c:49:
+                    71:22:a0:dc:7e:63:63:e1:c5:65:23:79:69:c2:93:
+                    47:8d:42:41:cf:6e:5c:39:ea:f1:05:86:43:38:2d:
+                    8c:cc:2a:d7:29:f5:d4:95:c3:ed:b6:7d:5a:b5:f8:
+                    6a:60:b2:59:02:4b:71:1f:63:a0:f2:36:d6:f0:70:
+                    1b:e4:c3:0d:79:77:d3:e2:2c:d5:1e:d3:44:e1:82:
+                    be:cb:50:d6:e6:88:76:e3:4d:da:1b:c7:42:32:c7:
+                    dc:c3:1f:04:a3:ee:79:44:1b:0b:fc:09:c5:dc:55:
+                    41:9a:99:17:10:c7:a0:e6:2b:de:b9:74:dc:71:3e:
+                    26:82:fc:2a:2f:b5:91:24:71:7f:f0:04:b5:6c:5d:
+                    6f:d0:1e:06:8c:76:54:58:d9:63:32:0c:b6:54:58:
+                    67:b8:41:09:fe:bd:48:ee:ed:f2:1b:6c:7e:d4:8e:
+                    d7:86:cb:f7:66:1b:a1:54:af:27:99:ad:4c:4b:ac:
+                    0d:cd:76:fa:ee:90:df:a4:19:ba:2e:62:07:d6:a0:
+                    d6:6e:b7:f5:d3:06:c1:6d:28:51:2c:2f:e7:db:60:
+                    20:06:fd:c4:3a:57:5c:51:5e:2d:43:bb:fa:20:56:
+                    ad:7e:f4:1d:f6:11:86:a7:42:2e:87:dc:ea:3e:03:
+                    17:af
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                46:17:65:9A:D9:BC:BB:2B:C6:CB:32:3A:E1:07:82:FD:BB:F0:CC:E0
+    Signature Algorithm: sha256WithRSAEncryption
+         87:71:c5:2d:17:21:f2:70:c8:49:c2:f9:36:a3:25:e3:90:93:
+         04:7b:7b:ba:57:2c:ef:ae:d0:24:56:4f:0b:83:a7:cd:47:58:
+         94:90:cd:45:2c:10:1d:e9:cc:04:dd:d7:55:8d:58:73:00:4d:
+         2a:da:7a:22:c4:98:57:d2:5d:28:c9:11:1c:79:f2:84:5d:aa:
+         41:8e:b3:0d:c3:16:96:36:86:4d:9f:76:7d:07:a5:ef:27:f9:
+         db:96:83:15:2a:91:a6:12:a6:0b:20:3c:ee:1b:40:ef:31:a1:
+         de:af:14:82:2f:42:77:0f:9d:95:b7:a5:9b:68:0d:27:f4:fb:
+         54:bc:68:18:57:d1:7b:4d:bb:da:73:9d:13:c8:a1:af:03:fa:
+         f5:61:4d:1c:af:52:2c:0a:07:2f:34:1a:4c:6a:6d:42:32:67:
+         1f:4f:ea:95:3f:b6:f4:b4:72:d3:9e:e0:54:18:83:c3:da:08:
+         2f:60:77:39:d5:0d:89:56:83:e8:c2:f5:27:10:d0:68:de:92:
+         0a:4c:1b:11:e6:cd:2f:f9:99:96:34:7a:7c:d5:8b:6a:fb:9e:
+         71:b3:46:8b:06:0c:75:f5:c3:13:62:79:be:ab:29:68:72:67:
+         3d:d3:36:23:97:f9:04:6b:1f:b6:b3:43:fd:d0:53:10:1c:6c:
+         5d:18:37:fd
+-----BEGIN CERTIFICATE-----
+MIIDIzCCAgugAwIBAgIEZgJ0UTANBgkqhkiG9w0BAQsFADBCMQswCQYDVQQGEwJT
+RTEPMA0GA1UEChMGQmltamF5MSIwIAYDVQQDExlNYXR0aWFzIElzZWdyYW4gQmVy
+Z2FuZGVyMB4XDTEyMDYxOTIzMjIxOFoXDTQyMDYxMjIzMjIxOFowQjELMAkGA1UE
+BhMCU0UxDzANBgNVBAoTBkJpbWpheTEiMCAGA1UEAxMZTWF0dGlhcyBJc2VncmFu
+IEJlcmdhbmRlcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALRnKqps
+0MhpxYoq8XxJcSKg3H5jY+HFZSN5acKTR41CQc9uXDnq8QWGQzgtjMwq1yn11JXD
+7bZ9WrX4amCyWQJLcR9joPI21vBwG+TDDXl30+Is1R7TROGCvstQ1uaIduNN2hvH
+QjLH3MMfBKPueUQbC/wJxdxVQZqZFxDHoOYr3rl03HE+JoL8Ki+1kSRxf/AEtWxd
+b9AeBox2VFjZYzIMtlRYZ7hBCf69SO7t8htsftSO14bL92YboVSvJ5mtTEusDc12
++u6Q36QZui5iB9ag1m639dMGwW0oUSwv59tgIAb9xDpXXFFeLUO7+iBWrX70HfYR
+hqdCLofc6j4DF68CAwEAAaMhMB8wHQYDVR0OBBYEFEYXZZrZvLsrxssyOuEHgv27
+8MzgMA0GCSqGSIb3DQEBCwUAA4IBAQCHccUtFyHycMhJwvk2oyXjkJMEe3u6Vyzv
+rtAkVk8Lg6fNR1iUkM1FLBAd6cwE3ddVjVhzAE0q2noixJhX0l0oyREcefKEXapB
+jrMNwxaWNoZNn3Z9B6XvJ/nbloMVKpGmEqYLIDzuG0DvMaHerxSCL0J3D52Vt6Wb
+aA0n9PtUvGgYV9F7Tbvac50TyKGvA/r1YU0cr1IsCgcvNBpMam1CMmcfT+qVP7b0
+tHLTnuBUGIPD2ggvYHc51Q2JVoPowvUnENBo3pIKTBsR5s0v+ZmWNHp81Ytq+55x
+s0aLBgx19cMTYnm+qylocmc90zYjl/kEax+2s0P90FMQHGxdGDf9
+-----END CERTIFICATE-----
+

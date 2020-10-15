@@ -1,0 +1,76 @@
+{
+  "name": "net.workoutinc.seven_7minutesfitness_forwomen",
+  "fileSize": "73.2 MB",
+  "VTmd5": "019f5216ea8858293a7094e0191325e9",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/88c2f5502f40360ed7ffbe56e0e0aab45223870195be400c65f7a5e365e1bfb0/detection/f-88c2f5502f40360ed7ffbe56e0e0aab45223870195be400c65f7a5e365e1bfb0-1598427018",
+  "VTresource": "88c2f5502f40360ed7ffbe56e0e0aab45223870195be400c65f7a5e365e1bfb0",
+  "VTresponsecode": 1,
+  "VTscanID": "88c2f5502f40360ed7ffbe56e0e0aab45223870195be400c65f7a5e365e1bfb0-1598427018",
+  "VTsha1": "dcd067a22dfcdbafbf5a1ffc44f4d01e5b52b2ff",
+  "VTsha256": "88c2f5502f40360ed7ffbe56e0e0aab45223870195be400c65f7a5e365e1bfb0",
+  "VTtotal": 60,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: net.workoutinc.seven_7minutesfitness_forwomen.service.MyJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "28 April 2020",
+    "Size": "73M",
+    "Installs": "1000000",
+    "Current Version": "4.2.2",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Workout Apps",
+    "Developer": "Visit website contact@workoutinc.net Privacy Policy 5158 CLARETON DR, AGOURA HILLS, CA 91301"
+  },
+  "rating": "4.8",
+  "description": "\u2605 Google Best Health and Fitness Apps of 2019 \u2605 \u2605 Google #1 Free Female Fitness & Exercise App 2020 \u2605 \u2605 Best  Free App for Home Workouts \u2605 \u2605 Great Free Weight Loss Workout App \u2605  Health and Fitness | #1 Free Workout Apps for Women The BEST app for female fitness, health & weight loss! Just one 7 minute workout a day to a better me! Get your fit on! Sweat, work out, and get fit with Workout for Women | Free Weight Loss Fitness Apps by 7M. Female tailored workouts and exercises to help you achieve your health and fitness goals. Better you, better me! Lose weight in just 7 minutes! Great for weight watchers and those looking to tone it up! Train your body, get in bikini body shape, and burn some calories. Get rid of your belly fat and shape that butt! A bikini body guide in your pocket. Workout anytime, anywhere! WHY Workout App for Weight Loss | Fitness for Women * Short and effective workouts that will make you sweat. * Scientifically proven to improve health with just a seven minute workout a day. * Burn belly fat and lose weight in just 30 days. * Beginner friendly workouts that are easy. Work out at home or at the gym. * No gym or workout equipment needed home work outs.  * Personal trainer and tracker in your pocket with voice and video instructions. * 100% Free. No hidden and surprise charges!  * Full body work out that targets all the important parts: butt, glutes, abs, core, legs, arms, belly fat, booty, back, fat loss, weight loss, bbg, thigh gap. * Perfect complement to your other fitness & health apps: meditation, yoga, sleep, calm, relax, meditate, period tracker. * The only workout app that is specifically tailored for women, ladies & girls of all ages.  Our free female fitness women home workouts are hand crafted to be quick and effective. Choose from abs workout, butt workout, hiit weight loss work out. Each has a different focus and different effect.  Take control of your health and fitness and sweat with us every day! Quick, effective and 100% FREE! What are you waiting for? Get your fiton and download Workout for Women to start your 7 Minute Workout today! Let 7M help you get healthier! Website: https://www.workoutinc.net/",
+  "privacyText": "https://www.workoutinc.net/privacy-policy/",
+  "numInstalls": 1000000,
+  "developer": "Workout Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.workoutinc.net/",
+    "Developer Email": "contact@workoutinc.net",
+    "Privacy Policy": "https://www.workoutinc.net/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

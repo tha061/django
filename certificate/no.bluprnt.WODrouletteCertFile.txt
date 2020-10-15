@@ -1,0 +1,50 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1455824394 (0x56c61e0a)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=NO, ST=Hordaland, L=Bergen, O=The Training Blueprint, OU=Mobile Development, CN=Krister Drivenes
+        Validity
+            Not Before: Feb 18 19:39:54 2016 GMT
+            Not After : Feb 11 19:39:54 2041 GMT
+        Subject: C=NO, ST=Hordaland, L=Bergen, O=The Training Blueprint, OU=Mobile Development, CN=Krister Drivenes
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a6:32:2f:58:9a:4b:0b:3b:33:69:23:a4:a9:b5:
+                    94:f5:25:76:7a:e2:ca:28:ac:58:09:e8:b2:6d:fa:
+                    8c:94:11:4f:b0:b3:46:be:82:3a:fa:dc:c8:9b:e2:
+                    62:01:cc:2b:6c:df:43:cb:90:87:5f:b6:c7:29:82:
+                    1c:43:a5:0c:36:42:31:27:4f:fd:a5:60:0a:d6:33:
+                    ce:86:61:dc:32:9a:fa:c9:ca:2d:6e:49:93:f6:d9:
+                    15:bd:72:37:c0:3d:0e:5c:fa:32:fd:be:60:2d:e6:
+                    c7:7d:04:ac:53:22:71:61:38:ca:a9:be:2e:0e:e8:
+                    cf:75:49:43:40:20:d2:a3:69
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         54:56:86:38:ab:ee:bd:58:15:b5:21:ad:2c:f7:c4:c1:f3:2c:
+         11:a5:e9:57:e8:eb:78:33:bf:f2:16:b5:b2:49:a6:dd:d0:78:
+         e9:45:7f:55:0a:bd:5c:0d:5e:83:5b:31:be:50:40:8e:60:88:
+         2f:55:fa:59:95:6c:95:80:ce:ac:02:52:e1:a7:5a:a0:1e:ff:
+         9d:36:ea:a1:ce:a7:ed:73:05:07:f6:10:9a:44:a8:6b:f0:98:
+         0a:61:0c:05:6b:0b:e7:86:d1:bd:af:34:3d:f1:05:e6:9c:52:
+         05:e9:0f:33:a8:c3:f5:7b:9e:fb:fc:8c:be:2d:90:19:68:94:
+         61:05
+-----BEGIN CERTIFICATE-----
+MIICjzCCAfigAwIBAgIEVsYeCjANBgkqhkiG9w0BAQUFADCBizELMAkGA1UEBhMC
+Tk8xEjAQBgNVBAgTCUhvcmRhbGFuZDEPMA0GA1UEBxMGQmVyZ2VuMR8wHQYDVQQK
+ExZUaGUgVHJhaW5pbmcgQmx1ZXByaW50MRswGQYDVQQLExJNb2JpbGUgRGV2ZWxv
+cG1lbnQxGTAXBgNVBAMTEEtyaXN0ZXIgRHJpdmVuZXMwHhcNMTYwMjE4MTkzOTU0
+WhcNNDEwMjExMTkzOTU0WjCBizELMAkGA1UEBhMCTk8xEjAQBgNVBAgTCUhvcmRh
+bGFuZDEPMA0GA1UEBxMGQmVyZ2VuMR8wHQYDVQQKExZUaGUgVHJhaW5pbmcgQmx1
+ZXByaW50MRswGQYDVQQLExJNb2JpbGUgRGV2ZWxvcG1lbnQxGTAXBgNVBAMTEEty
+aXN0ZXIgRHJpdmVuZXMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKYyL1ia
+Sws7M2kjpKm1lPUldnriyiisWAnosm36jJQRT7CzRr6COvrcyJviYgHMK2zfQ8uQ
+h1+2xymCHEOlDDZCMSdP/aVgCtYzzoZh3DKa+snKLW5Jk/bZFb1yN8A9Dlz6Mv2+
+YC3mx30ErFMicWE4yqm+Lg7oz3VJQ0Ag0qNpAgMBAAEwDQYJKoZIhvcNAQEFBQAD
+gYEAVFaGOKvuvVgVtSGtLPfEwfMsEaXpV+jreDO/8ha1skmm3dB46UV/VQq9XA1e
+g1sxvlBAjmCIL1X6WZVslYDOrAJS4adaoB7/nTbqoc6n7XMFB/YQmkSoa/CYCmEM
+BWsL54bRva80PfEF5pxSBekPM6jD9Xue+/yMvi2QGWiUYQU=
+-----END CERTIFICATE-----
+

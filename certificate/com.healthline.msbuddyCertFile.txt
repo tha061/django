@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1458760972 (0x56f2ed0c)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=+1, ST=California, L=San Francisco, O=Healthline, OU=Healthline, CN=Justin Kasad
+        Validity
+            Not Before: Mar 23 19:22:52 2016 GMT
+            Not After : Aug  9 19:22:52 2043 GMT
+        Subject: C=+1, ST=California, L=San Francisco, O=Healthline, OU=Healthline, CN=Justin Kasad
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:94:51:6e:c1:87:24:3e:58:76:58:52:f2:84:33:
+                    e9:e1:1a:eb:47:9e:97:da:45:02:fc:41:79:41:ec:
+                    d0:1e:6a:f8:35:d3:a5:f3:86:b6:33:f1:da:e4:c5:
+                    ad:87:e7:4c:96:16:82:3b:7f:e7:12:0f:07:45:c8:
+                    43:11:a9:c6:e5:dd:63:ab:15:fd:71:e3:81:f2:06:
+                    79:52:46:0a:70:34:a0:4a:0a:c1:2e:07:a1:4b:47:
+                    f1:80:17:18:0f:37:60:00:58:35:bf:ce:30:37:53:
+                    6c:29:d3:6b:e2:1a:7a:b0:8a:f6:0e:05:b2:6a:be:
+                    5c:8a:14:e8:bc:b7:79:06:a4:34:82:5b:6a:86:8f:
+                    b5:1b:35:3d:a0:88:a3:35:d8:a1:dc:ce:23:e0:79:
+                    70:39:64:79:89:35:2a:43:bb:7b:43:02:69:20:cf:
+                    c1:62:a3:1f:b6:a2:90:89:55:2b:30:de:64:b6:35:
+                    e0:92:97:24:29:d3:0b:7f:83:e5:bf:95:62:37:af:
+                    b6:7a:dc:18:16:67:ba:c1:35:a4:0c:16:4b:b0:a9:
+                    9a:53:b4:3b:24:23:b8:13:72:2f:f0:77:9b:5e:fa:
+                    ef:b4:9d:0c:df:ae:99:1e:bc:c4:a5:91:94:51:79:
+                    e8:23:07:94:95:7a:37:60:51:ce:e1:69:05:68:4e:
+                    1d:13
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         38:c2:6f:1e:50:a5:b9:6f:b1:9f:c9:34:96:78:1e:42:65:32:
+         49:fb:fa:c0:79:bd:f0:e2:37:a8:6a:ff:0d:70:45:95:7f:79:
+         9c:09:98:8b:ee:d2:17:8b:37:07:f4:6a:00:c5:32:f3:b7:b5:
+         df:66:e4:78:d5:1e:9c:08:9b:7e:74:41:b4:73:4d:b7:04:47:
+         79:55:69:33:e6:ef:30:e9:85:46:58:25:a7:6b:36:ac:f9:68:
+         54:d1:89:5e:37:14:75:fc:03:d3:c4:b7:d5:fd:47:38:f1:bf:
+         c3:e3:52:ce:a3:1b:aa:b7:65:52:07:40:a8:eb:90:36:9c:b3:
+         7d:ef:3e:1b:09:d4:ef:ce:00:78:e8:31:f7:05:3b:8f:16:09:
+         7d:72:b5:a1:f1:32:29:95:ab:49:1e:ea:b1:7c:5a:fb:64:de:
+         76:b4:5e:36:95:7a:34:ba:0d:40:18:fc:ba:47:f0:75:b3:f7:
+         53:b8:cd:af:89:7d:19:f9:b7:e9:20:dd:82:6b:21:cb:d8:ad:
+         c0:0d:e4:e5:c3:9d:b9:50:0d:56:cf:eb:19:3a:9e:45:ca:06:
+         a8:c3:73:9c:fc:ac:c3:d2:91:e6:04:2b:99:2b:9d:b6:df:13:
+         1a:44:4c:fc:a8:f2:b6:3b:bf:87:b8:d7:4d:c2:cc:f3:ea:86:
+         62:50:b7:a6
+-----BEGIN CERTIFICATE-----
+MIIDcjCCAlqgAwIBAgIEVvLtDDANBgkqhkiG9w0BAQUFADB7MQswCQYDVQQGEwIr
+MTETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzET
+MBEGA1UEChMKSGVhbHRobGluZTETMBEGA1UECxMKSGVhbHRobGluZTEVMBMGA1UE
+AxMMSnVzdGluIEthc2FkMB4XDTE2MDMyMzE5MjI1MloXDTQzMDgwOTE5MjI1Mlow
+ezELMAkGA1UEBhMCKzExEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNh
+biBGcmFuY2lzY28xEzARBgNVBAoTCkhlYWx0aGxpbmUxEzARBgNVBAsTCkhlYWx0
+aGxpbmUxFTATBgNVBAMTDEp1c3RpbiBLYXNhZDCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAJRRbsGHJD5YdlhS8oQz6eEa60eel9pFAvxBeUHs0B5q+DXT
+pfOGtjPx2uTFrYfnTJYWgjt/5xIPB0XIQxGpxuXdY6sV/XHjgfIGeVJGCnA0oEoK
+wS4HoUtH8YAXGA83YABYNb/OMDdTbCnTa+IaerCK9g4Fsmq+XIoU6Ly3eQakNIJb
+aoaPtRs1PaCIozXYodzOI+B5cDlkeYk1KkO7e0MCaSDPwWKjH7aikIlVKzDeZLY1
+4JKXJCnTC3+D5b+VYjevtnrcGBZnusE1pAwWS7CpmlO0OyQjuBNyL/B3m17677Sd
+DN+umR68xKWRlFF56CMHlJV6N2BRzuFpBWhOHRMCAwEAATANBgkqhkiG9w0BAQUF
+AAOCAQEAOMJvHlCluW+xn8k0lngeQmUySfv6wHm98OI3qGr/DXBFlX95nAmYi+7S
+F4s3B/RqAMUy87e132bkeNUenAibfnRBtHNNtwRHeVVpM+bvMOmFRlglp2s2rPlo
+VNGJXjcUdfwD08S31f1HOPG/w+NSzqMbqrdlUgdAqOuQNpyzfe8+GwnU784AeOgx
+9wU7jxYJfXK1ofEyKZWrSR7qsXxa+2TedrReNpV6NLoNQBj8ukfwdbP3U7jNr4l9
+Gfm36SDdgmshy9itwA3k5cOduVANVs/rGTqeRcoGqMNznPysw9KR5gQrmSudtt8T
+GkRM/Kjytju/h7jXTcLM8+qGYlC3pg==
+-----END CERTIFICATE-----
+

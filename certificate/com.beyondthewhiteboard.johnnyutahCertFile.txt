@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1377528890 (0x521b6c3a)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=Minnesota, L=Minneapolis, O=BadPopcorn Inc
+        Validity
+            Not Before: Aug 26 14:54:50 2013 GMT
+            Not After : Dec 27 14:54:50 3012 GMT
+        Subject: C=US, ST=Minnesota, L=Minneapolis, O=BadPopcorn Inc
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:8d:69:7c:b1:8b:13:4d:8d:61:4f:84:10:fb:4d:
+                    ac:e6:f0:58:dd:0e:bf:3b:cb:de:63:ca:93:b1:a5:
+                    a3:2c:4c:fe:f3:77:22:91:27:bb:af:0a:10:34:80:
+                    0a:bc:e2:59:c7:8b:0b:f3:b8:10:9f:bb:84:1e:cb:
+                    ae:dd:34:4d:9b:1b:65:44:24:9c:1d:26:7d:7b:03:
+                    8c:99:6d:69:70:85:16:e5:f7:b1:f9:09:b1:8d:a3:
+                    c6:b5:46:ff:84:9c:26:aa:cc:18:61:8b:c7:1c:1b:
+                    5c:cf:14:ae:e1:2b:b8:75:19:15:d5:cb:a4:49:4b:
+                    17:61:62:c8:8f:61:e2:89:bf
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         68:c2:62:37:e5:ea:d6:22:78:44:d4:04:f3:7e:b6:e8:db:22:
+         bd:ae:98:c2:ee:3b:66:37:f3:bb:54:b8:bd:89:95:69:cb:b2:
+         33:41:a0:e4:b4:77:73:b4:37:5d:36:39:fd:eb:ac:e4:0b:5a:
+         ed:3a:be:b5:18:f2:a6:6d:93:d5:a8:95:3c:96:ef:6b:c7:2e:
+         4d:0b:a4:50:fa:37:a3:0a:46:8a:6c:82:de:57:71:2b:12:be:
+         d3:0b:bd:b6:0b:09:dd:24:cb:e2:8a:29:91:e8:22:dc:60:34:
+         c9:63:13:f8:51:c9:99:e5:26:00:2c:68:92:08:f8:9c:d6:09:
+         32:d9
+-----BEGIN CERTIFICATE-----
+MIICGTCCAYKgAwIBAgIEUhtsOjANBgkqhkiG9w0BAQUFADBQMQswCQYDVQQGEwJV
+UzESMBAGA1UECBMJTWlubmVzb3RhMRQwEgYDVQQHEwtNaW5uZWFwb2xpczEXMBUG
+A1UEChMOQmFkUG9wY29ybiBJbmMwIBcNMTMwODI2MTQ1NDUwWhgPMzAxMjEyMjcx
+NDU0NTBaMFAxCzAJBgNVBAYTAlVTMRIwEAYDVQQIEwlNaW5uZXNvdGExFDASBgNV
+BAcTC01pbm5lYXBvbGlzMRcwFQYDVQQKEw5CYWRQb3Bjb3JuIEluYzCBnzANBgkq
+hkiG9w0BAQEFAAOBjQAwgYkCgYEAjWl8sYsTTY1hT4QQ+02s5vBY3Q6/O8veY8qT
+saWjLEz+83cikSe7rwoQNIAKvOJZx4sL87gQn7uEHsuu3TRNmxtlRCScHSZ9ewOM
+mW1pcIUW5fex+QmxjaPGtUb/hJwmqswYYYvHHBtczxSu4Su4dRkV1cukSUsXYWLI
+j2Hiib8CAwEAATANBgkqhkiG9w0BAQUFAAOBgQBowmI35erWInhE1ATzfrbo2yK9
+rpjC7jtmN/O7VLi9iZVpy7IzQaDktHdztDddNjn966zkC1rtOr61GPKmbZPVqJU8
+lu9rxy5NC6RQ+jejCkaKbILeV3ErEr7TC722CwndJMviiimR6CLcYDTJYxP4UcmZ
+5SYALGiSCPic1gky2Q==
+-----END CERTIFICATE-----
+

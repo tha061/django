@@ -1,0 +1,69 @@
+{
+  "name": "com.instatrendapps.losebellyfat",
+  "fileSize": "17.5 MB",
+  "VTmd5": "0e00b5bdb89e4dd85a86de3e88c6c9f9",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/adbd5f114c0cc8a6471c579b8c27b2dcbd275bea1ec751eef3efd56fa2c37b63/detection/f-adbd5f114c0cc8a6471c579b8c27b2dcbd275bea1ec751eef3efd56fa2c37b63-1593461548",
+  "VTresource": "adbd5f114c0cc8a6471c579b8c27b2dcbd275bea1ec751eef3efd56fa2c37b63",
+  "VTresponsecode": 1,
+  "VTscanID": "adbd5f114c0cc8a6471c579b8c27b2dcbd275bea1ec751eef3efd56fa2c37b63-1593461548",
+  "VTsha1": "6bff7942bfc94f11edd793fc03cdcb1c6a708ae1",
+  "VTsha256": "adbd5f114c0cc8a6471c579b8c27b2dcbd275bea1ec751eef3efd56fa2c37b63",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "23 April 2020",
+    "Size": "17M",
+    "Installs": "50000",
+    "Current Version": "1.0",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Insta Trend Apps",
+    "Developer": "Visit website instatrendapps@gmail.com Privacy Policy LLC"
+  },
+  "rating": "4.6",
+  "description": "Lose Belly Fat for Women helps you lose belly fat. Our professional courses, guides, and weight records will make weight loss easy and fast. This fantastic app will help you get a flat belly, slim core and perfect abs in less than 2 weeks! Unbelievable, right? Yes, with our app, weight loss is just so easy. Follow all the procedures, and you will become the goddess that you dream to be. We have a 30-day weight loss training plan for you. Following our plan, you can lose weight and have a slim body. You just need to complete the abs exercises from day 1 to day 30. The exercises are suitable for all different levels of exercisers. You can workout anytime and anywhere, at home or outside. Our app will give you tips on the abs training. Following the tips, you can reduce the calories taking naturally in daily lives. By burning belly fat, you will have a flat stomach. \u2605 Fitness 30 day challenge Fitness 30 day challenge has 3 difficulty levels, from beginner to pro. Find the workout that\u2019s best for you. Try the best workout apps. Don\u2019t need to go to the gym, just use your bodyweight and take a few minutes a day, Fitness 30 day challenge will greatly help to get a perfect bikini body! \u265b WHY CHOOSE THIS Lose Belly Fat In 30 Days ? \u27a3 Bodyweight workouts, workout without equipment. No gym or workout equipment \u27a3 Short and effective workouts that will make you sweat, maximize fat burning \u27a3 Scientifically proven to improve health & lose weight with just a 7 minutes workout a day. \u27a3 Fat burning workout for all your body parts \u27a3 Just like having a Personal trainer in your pocket! It includes Animation and video with voice and video instructions. \u27a3100% FREE! Burn belly fat and lose weight in just 30 days. \u27a3 Easy for beginner Work out at home or at the gym. \u27a3 Full body workout at home, six pack abs workout, legs workout, workout for women, women workout female fitness, arm workout, core workouts, daily workout, fat-burning workout, weight loss fitness. \u27a3 The only free workout apps that are specifically tailored for women, ladies. \u27a3 Warm-up and stretching routines \u27a3 Fitness Tracker: Track your weight loss progress.Track your calories burned \u27a3 Suitable for both beginner and pro \u2605 Fitness Tracker You can track your weight loss progress in graphs and clearly count your calories. You can also set targets for self-encouragement. \u2605 Female Workout Apps Female Fitness apps just like having a Personal trainer in your pocket! It help Keep fit and lose belly fat for women. This female fitness app has professional lose belly fat workout and workout for women. You can be done anywhere at anytime. \u2605 Fat Burning Workouts The best fat burning Workouts help make your body more perfect. Burn the fastest calories with fat burning exercises \u2605Personal trainer & Fitness Coach All workouts are designed by professional Personal trainer & Fitness Coach. Workout guide through the exercise and workout videos, Workout apps & Fitness apps just like having a Personal trainer in your pocket!",
+  "privacyText": "https://sites.google.com/view/lose-belly-fat-in-30/accueil?read_current=1",
+  "numInstalls": 50000,
+  "developer": "Insta Trend Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://sites.google.com/view/lose-belly-fat-in-30/accueil?read_current=1",
+    "Developer Email": "instatrendapps@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/lose-belly-fat-in-30/accueil?read_current=1"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Facebook",
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1776094878 (0x69dd0e9e)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CA, ST=British Columbia, L=Vancouver, O=Momentus Software, CN=Chris Jarvis
+        Validity
+            Not Before: Jul  4 20:26:01 2016 GMT
+            Not After : Jun 27 20:26:01 2046 GMT
+        Subject: C=CA, ST=British Columbia, L=Vancouver, O=Momentus Software, CN=Chris Jarvis
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:96:6a:f8:1b:58:c8:b1:33:78:63:c7:31:b5:43:
+                    ae:87:bd:ad:15:75:bd:e1:0b:5e:06:91:1a:37:a5:
+                    a7:09:3c:da:9a:7c:b5:68:3f:2d:b4:e7:80:a7:cd:
+                    ec:42:72:88:5b:23:31:47:d8:23:4d:c3:60:2b:a6:
+                    e7:fe:52:bd:11:b9:d6:ec:ae:9f:8b:26:06:51:4d:
+                    b4:dc:9c:98:e8:cf:de:c0:6e:7a:ed:a8:ae:05:1b:
+                    3a:87:50:b7:56:23:f4:7a:31:d3:67:fc:27:1d:b6:
+                    7b:97:a0:20:0f:d4:2f:b9:d6:d9:ae:a9:d7:a6:bc:
+                    f8:e8:89:27:60:ba:fc:e5:3a:ee:d0:16:e0:31:41:
+                    e9:e7:5e:e4:ac:54:a1:71:3f:ae:fe:3b:71:ab:e9:
+                    73:32:ff:5d:b6:a3:14:fc:0f:0f:08:2d:a4:67:5a:
+                    b9:d8:4f:ca:04:28:5b:a5:90:44:d4:18:f5:3a:9a:
+                    64:44:99:10:ce:f6:6d:20:e5:0c:31:39:56:d6:4f:
+                    b4:41:dc:d4:9e:2e:b5:f3:1f:ae:4b:a6:54:aa:f5:
+                    54:9a:b8:07:ef:69:89:bb:fa:00:68:bf:e7:44:30:
+                    e3:b9:03:0c:18:bc:ab:ca:63:57:08:bb:e7:a6:6b:
+                    47:11:c7:f8:62:51:dc:43:61:d8:7a:26:89:f5:dd:
+                    a7:6d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                04:98:17:F6:0E:1B:B2:C0:15:14:23:23:D7:44:F3:D3:59:25:A6:CB
+    Signature Algorithm: sha256WithRSAEncryption
+         87:53:3e:bd:9e:9c:a2:ff:42:f3:f5:9d:ea:08:65:b5:2b:dd:
+         1b:27:b5:ee:b8:78:d5:16:57:0b:30:1d:ff:c6:5a:56:4b:06:
+         da:a3:71:cb:bd:cf:41:3b:26:8a:29:53:5d:32:a4:6e:d1:52:
+         8b:19:6a:3e:a1:da:41:e4:4d:a6:38:e5:1a:97:9d:4a:e3:52:
+         20:65:44:9e:45:ac:53:82:2e:0f:48:7c:01:2b:4b:0c:48:97:
+         f1:c2:bd:ec:6b:a6:0b:34:6a:ac:79:c8:47:58:bb:84:9c:53:
+         34:0a:dd:a9:53:3a:ca:ca:77:89:e9:68:62:76:b1:ec:8d:d7:
+         00:a7:c1:3f:c0:e3:c3:f2:b7:f8:2c:0b:ea:a8:87:eb:38:76:
+         9a:45:73:5d:7a:c3:73:29:b6:1b:1a:9c:2a:c8:ac:0c:9f:9d:
+         a1:89:9b:01:20:1a:51:bd:13:70:97:b9:2c:a5:05:8f:ec:80:
+         e6:43:85:24:db:6b:0b:7c:7c:10:10:fb:e0:66:7b:63:59:80:
+         23:ae:42:e4:77:53:d3:0a:bf:8b:d9:fe:1c:ab:dd:b2:16:bb:
+         c6:19:c4:a7:47:f3:75:e5:be:7a:cc:58:db:25:38:08:21:0c:
+         a0:46:01:45:10:ef:86:59:79:3d:cf:eb:87:10:42:b8:e0:b8:
+         83:12:b2:b8
+-----BEGIN CERTIFICATE-----
+MIIDfTCCAmWgAwIBAgIEad0OnjANBgkqhkiG9w0BAQsFADBvMQswCQYDVQQGEwJD
+QTEZMBcGA1UECBMQQnJpdGlzaCBDb2x1bWJpYTESMBAGA1UEBxMJVmFuY291dmVy
+MRowGAYDVQQKExFNb21lbnR1cyBTb2Z0d2FyZTEVMBMGA1UEAxMMQ2hyaXMgSmFy
+dmlzMB4XDTE2MDcwNDIwMjYwMVoXDTQ2MDYyNzIwMjYwMVowbzELMAkGA1UEBhMC
+Q0ExGTAXBgNVBAgTEEJyaXRpc2ggQ29sdW1iaWExEjAQBgNVBAcTCVZhbmNvdXZl
+cjEaMBgGA1UEChMRTW9tZW50dXMgU29mdHdhcmUxFTATBgNVBAMTDENocmlzIEph
+cnZpczCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJZq+BtYyLEzeGPH
+MbVDroe9rRV1veELXgaRGjelpwk82pp8tWg/LbTngKfN7EJyiFsjMUfYI03DYCum
+5/5SvRG51uyun4smBlFNtNycmOjP3sBueu2orgUbOodQt1Yj9Hox02f8Jx22e5eg
+IA/UL7nW2a6p16a8+OiJJ2C6/OU67tAW4DFB6ede5KxUoXE/rv47cavpczL/Xbaj
+FPwPDwgtpGdaudhPygQoW6WQRNQY9TqaZESZEM72bSDlDDE5VtZPtEHc1J4utfMf
+rkumVKr1VJq4B+9pibv6AGi/50Qw47kDDBi8q8pjVwi756ZrRxHH+GJR3ENh2Hom
+ifXdp20CAwEAAaMhMB8wHQYDVR0OBBYEFASYF/YOG7LAFRQjI9dE89NZJabLMA0G
+CSqGSIb3DQEBCwUAA4IBAQCHUz69npyi/0Lz9Z3qCGW1K90bJ7XuuHjVFlcLMB3/
+xlpWSwbao3HLvc9BOyaKKVNdMqRu0VKLGWo+odpB5E2mOOUal51K41IgZUSeRaxT
+gi4PSHwBK0sMSJfxwr3sa6YLNGqsechHWLuEnFM0Ct2pUzrKyneJ6WhidrHsjdcA
+p8E/wOPD8rf4LAvqqIfrOHaaRXNdesNzKbYbGpwqyKwMn52hiZsBIBpRvRNwl7ks
+pQWP7IDmQ4Uk22sLfHwQEPvgZntjWYAjrkLkd1PTCr+L2f4cq92yFrvGGcSnR/N1
+5b56zFjbJTgIIQygRgFFEO+GWXk9z+uHEEK44LiDErK4
+-----END CERTIFICATE-----
+

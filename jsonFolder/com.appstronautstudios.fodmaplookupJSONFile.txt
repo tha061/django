@@ -1,0 +1,77 @@
+{
+  "name": "com.appstronautstudios.fodmaplookup",
+  "fileSize": "3.8 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "8 May 2020",
+    "Size": "3.8M",
+    "Installs": "100000",
+    "Current Version": "1.5.8",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$2.49 \u2013 $42.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Appstronaut Studios",
+    "Developer": "Visit website appstronautstudios@gmail.com Privacy Policy 207 West Hastings St, Suite 805"
+  },
+  "rating": "4.2",
+  "description": "FODMAP Helper - Diet Companion This app makes identification of high and low FODMAP foods easier to help you with your FODMAP friendly diet. This can be helpful in reducing symptoms for people with IBS, Irritable Bowel Syndrome, Crohn's disease, Colitis, Lactose Intolerance and various other food intolerances, food sensitivities, and stomach problems. Features include: - Comprehensive list of foods and whether or not they are low FODMAP foods, to make finding foods that won't exacerbate your IBS easier. - Search by food name and category. - General FODMAP Diet and Irritable Bowel Syndrome, IBS, Crohn's disease, Colitis, and -  - Lactose Intolerence and other food sensitivities info. - Additional details on the specific breakdowns of each food and whether it is high, medium, or low in the main categories of Polyols, Oligos, Fructose, and Lactose. Premium Features Include: My Experience - Log your personal experience with foods to determine if a food works for you regardless of its FODMAP content. Rate whether you had a good or bad reaction to a food after eating it, then leave detailed notes so that you know for next time how said food will affect you. Community Experience - See how the community has reacted to a food via anonymized My Experience ratings. This will let you know if the majority of users of the app had a good or bad reaction to a food. My Experience and Community Experience data analysis - Advanced graphs and data analysis present the my experience and community experience data to you in a useful and intuitive format to show you breakdowns of good and bad reactions to the various food categories as well as what your worst foods are. Challenge - The FODMAP Diet is an elimination diet for IBS, GI diseases, and food sensitivities. Once you've eliminated all high FODMAP foods from your diet, you can challenge foods to determine if they work for you. This lets you introduce these foods back into your regular meals one at a time and track your experience with each food after three days to determine if it will work in your FODMAP friendly diet. More details on challenges are contained within the app. About FODMAPs and IBS FODMAPs are short chain carbohydrates that are poorly absorbed in the small intestine, especially for people with Irritable Bowel Syndrome, IBS, Crohn's disease, Colitis, Lactose Intolerance, Gluten Intolerance, other food intolerances and stomach sensitivities. They include short chain oligo-saccharide polymers of fructose and galactooligosaccharides, disaccharides (lactose), monosaccharides (fructose), and sugar alcohols (polyols). The term is an acronym, derived from: *Fermentable *Oligo- *Di- *Mono-saccharides *And *Polyols  Although these specific carbs are naturally present in the foods we eat, diet restriction has been found to improve symptom control in people with irritable bowel syndrome (IBS) and other functional gastrointestinal disorders (FGID), such as Lactose Intolerance, Gluten Intolerance, Crohn's disease, Colitis, and other stomach sensitivities. Prior to the formation of the FODMAP concept, diet was seldom used as first line therapy for management of IBS, Crohn's, Colitis, Lactose intolerance and other FGID. Irritable bowel syndrome (IBS) is a group of symptoms\u2014including abdominal pain and changes in bowel movement patterns without evidence of underlying damage. The main symptoms of IBS are abdominal pain, discomfort in association with frequent diarrhea or constipation and a change in bowel habits. DISCLAIMER: We do not perform any testing ourselves. All compiled data should be used as guidelines not as basis of fact. Consult your physician before beginning any new diet. This general information is not intended to diagnose any medical condition or to replace the advice of your healthcare professional.",
+  "privacyText": "http://www.appstronautstudios.com/privacy/",
+  "numInstalls": 100000,
+  "developer": "Appstronaut Studios",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.appstronautstudios.com/",
+    "Developer Email": "appstronautstudios@gmail.com",
+    "Privacy Policy": "http://www.appstronautstudios.com/privacy/"
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

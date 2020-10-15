@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1061442320 (0x3f445310)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=NL, ST=Utrecht, L=Utrecht, O=Inspire, CN=Rik van Duijn
+        Validity
+            Not Before: Jul 18 12:54:02 2017 GMT
+            Not After : Jul 12 12:54:02 2042 GMT
+        Subject: C=NL, ST=Utrecht, L=Utrecht, O=Inspire, CN=Rik van Duijn
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cd:9a:93:95:c8:ce:63:7e:f8:f8:70:f5:33:40:
+                    1b:17:72:f0:42:74:cf:be:9c:ed:5d:dc:c9:b3:be:
+                    6b:70:03:e7:44:e1:19:54:8a:54:a7:bc:5e:98:18:
+                    df:b2:c3:71:a3:a7:1a:6d:40:81:eb:a7:21:6c:be:
+                    59:c2:cc:bd:f9:00:94:87:37:cf:16:40:73:8e:c0:
+                    a1:85:03:ba:22:9c:89:ff:f7:ce:64:6f:5e:19:2f:
+                    cf:75:8d:a5:11:ef:7f:fc:b4:cd:58:49:ad:ca:0b:
+                    c0:14:b7:09:00:02:65:f0:87:cf:93:d5:31:df:9c:
+                    fd:d8:a5:c0:41:6f:71:1a:74:a2:a9:9b:06:13:eb:
+                    4b:d9:12:6c:f1:03:d1:c0:32:99:06:cb:4f:da:7d:
+                    e6:fa:c9:08:e5:f3:55:17:c1:3b:be:77:68:54:53:
+                    f5:91:8c:8b:da:32:73:60:89:f8:95:e6:4f:d3:8d:
+                    00:52:8c:12:fa:f3:f5:ec:a0:a0:26:40:19:14:79:
+                    a3:e0:ff:c9:1c:af:d5:33:52:7c:dd:9b:ef:ef:e9:
+                    b6:3e:01:00:9e:57:5a:5d:1d:da:40:b5:0e:d1:c2:
+                    50:62:a1:e1:79:51:db:1f:ed:2d:6e:9c:61:6f:c0:
+                    ec:7c:93:30:17:b3:91:a5:1b:44:3e:68:34:37:0a:
+                    76:bb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                4E:30:9E:9D:E2:00:ED:1E:B9:2B:A6:80:DE:74:EA:B2:E9:C6:B5:48
+    Signature Algorithm: sha256WithRSAEncryption
+         9e:79:74:d3:47:ee:48:bf:a5:f5:58:4d:92:1a:30:5a:0f:f4:
+         65:70:64:dd:c0:2f:39:60:a8:dd:81:f0:10:50:00:96:74:cf:
+         6b:76:22:87:fc:ed:ff:28:67:da:16:8c:83:d0:3c:47:1c:09:
+         ed:f5:64:1d:4b:69:56:92:a1:64:b3:2e:1f:04:0a:f9:05:bf:
+         31:87:f9:e1:9c:9d:f4:d4:f8:e1:cb:b8:de:9d:ac:f1:a5:27:
+         ac:ab:5b:f5:07:53:17:b0:1a:a9:d4:d1:76:81:02:f3:57:d9:
+         80:f6:f2:8b:e9:c8:3b:84:4a:20:80:25:36:4a:28:c4:d1:e2:
+         7f:82:59:23:de:44:e3:92:34:5e:23:b9:2f:bb:15:d6:92:70:
+         f8:ea:fd:be:9b:f0:ca:2e:74:a0:8d:70:5f:c1:2b:f9:53:ca:
+         45:e4:a1:83:24:64:5d:4e:a7:15:1d:a4:06:dc:0b:98:78:21:
+         82:7c:db:1f:04:de:51:24:58:ea:f4:a8:35:49:eb:6f:fa:be:
+         f8:79:20:01:bd:02:c3:5a:ef:dc:3d:7f:35:03:5c:10:e0:a4:
+         c3:e4:3d:17:3b:8b:0f:9d:83:77:4d:78:33:5d:2a:cc:c6:38:
+         d6:45:e0:0b:8d:7a:6c:3e:50:91:f3:fd:a8:9a:52:da:3a:04:
+         8e:33:43:ed
+-----BEGIN CERTIFICATE-----
+MIIDVTCCAj2gAwIBAgIEP0RTEDANBgkqhkiG9w0BAQsFADBbMQswCQYDVQQGEwJO
+TDEQMA4GA1UECBMHVXRyZWNodDEQMA4GA1UEBxMHVXRyZWNodDEQMA4GA1UEChMH
+SW5zcGlyZTEWMBQGA1UEAxMNUmlrIHZhbiBEdWlqbjAeFw0xNzA3MTgxMjU0MDJa
+Fw00MjA3MTIxMjU0MDJaMFsxCzAJBgNVBAYTAk5MMRAwDgYDVQQIEwdVdHJlY2h0
+MRAwDgYDVQQHEwdVdHJlY2h0MRAwDgYDVQQKEwdJbnNwaXJlMRYwFAYDVQQDEw1S
+aWsgdmFuIER1aWpuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzZqT
+lcjOY374+HD1M0AbF3LwQnTPvpztXdzJs75rcAPnROEZVIpUp7xemBjfssNxo6ca
+bUCB66chbL5Zwsy9+QCUhzfPFkBzjsChhQO6IpyJ//fOZG9eGS/PdY2lEe9//LTN
+WEmtygvAFLcJAAJl8IfPk9Ux35z92KXAQW9xGnSiqZsGE+tL2RJs8QPRwDKZBstP
+2n3m+skI5fNVF8E7vndoVFP1kYyL2jJzYIn4leZP040AUowS+vP17KCgJkAZFHmj
+4P/JHK/VM1J83Zvv7+m2PgEAnldaXR3aQLUO0cJQYqHheVHbH+0tbpxhb8DsfJMw
+F7ORpRtEPmg0Nwp2uwIDAQABoyEwHzAdBgNVHQ4EFgQUTjCeneIA7R65K6aA3nTq
+sunGtUgwDQYJKoZIhvcNAQELBQADggEBAJ55dNNH7ki/pfVYTZIaMFoP9GVwZN3A
+LzlgqN2B8BBQAJZ0z2t2Iof87f8oZ9oWjIPQPEccCe31ZB1LaVaSoWSzLh8ECvkF
+vzGH+eGcnfTU+OHLuN6drPGlJ6yrW/UHUxewGqnU0XaBAvNX2YD28ovpyDuESiCA
+JTZKKMTR4n+CWSPeROOSNF4juS+7FdaScPjq/b6b8MoudKCNcF/BK/lTykXkoYMk
+ZF1OpxUdpAbcC5h4IYJ82x8E3lEkWOr0qDVJ62/6vvh5IAG9AsNa79w9fzUDXBDg
+pMPkPRc7iw+dg3dNeDNdKszGONZF4AuNemw+UJHz/aiaUto6BI4zQ+0=
+-----END CERTIFICATE-----
+

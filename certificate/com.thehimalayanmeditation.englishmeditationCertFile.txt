@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 816885600 (0x30b0af60)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Universal Listener OU=UL O=UniversalListener L=Pune S=MH C=IND
+        Validity
+            Not Before: Feb 17 12:11:48 2019 GMT
+            Not After : Feb 11 12:11:48 2044 GMT
+        Subject: CN=Universal Listener OU=UL O=UniversalListener L=Pune S=MH C=IND
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:88:d4:76:7a:cf:67:23:54:28:00:d3:82:a3:46:
+                    b4:f5:e6:42:82:6d:77:09:36:a4:74:15:6a:56:f9:
+                    f9:54:19:c3:e1:ab:82:ea:dc:9b:1a:cd:16:36:70:
+                    9d:f4:f9:4c:e6:f1:1c:e6:fd:31:62:1e:aa:2b:f7:
+                    b2:ed:de:1d:31:56:d9:7d:a2:4f:6c:9d:b8:ef:fe:
+                    94:68:67:66:72:93:34:a1:03:4b:21:9d:71:dd:f4:
+                    60:d9:0a:59:fc:dd:af:4e:6e:53:b8:52:e1:70:d3:
+                    66:10:d6:25:a5:e9:db:01:d8:80:ee:c3:94:dd:19:
+                    f4:94:fa:7e:3a:bc:e2:71:7f:96:2c:73:f7:6f:2e:
+                    15:17:5b:60:e1:49:5a:ef:ed:76:b6:4b:56:f0:e8:
+                    e5:92:b8:74:e6:25:db:60:88:db:30:f3:35:19:bc:
+                    01:21:82:fe:57:be:21:fe:26:e3:9c:3d:fa:e0:ac:
+                    fd:73:a8:2e:f0:db:7f:ba:9f:14:10:f8:13:ba:d6:
+                    67:d1:05:22:f6:aa:0f:42:42:19:68:f0:cc:5b:87:
+                    7b:26:13:61:4a:dc:49:a8:fa:fb:b2:ea:45:8d:30:
+                    dc:98:1f:a0:6a:e2:4c:0c:e2:6a:a4:2b:22:92:de:
+                    b6:ad:6f:bb:be:5c:98:a6:8b:a3:11:19:a6:40:91:
+                    72:63
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                A0:E5:07:A5:DF:11:15:D9:99:1B:37:F5:45:E2:87:0F:32:6B:F3:47
+    Signature Algorithm: sha256WithRSAEncryption
+         07:cc:49:81:6c:21:99:1a:6f:9d:a8:d0:65:59:1a:0a:27:93:
+         39:1e:14:a6:a6:4b:3e:f4:90:5b:7f:14:25:bc:18:08:f4:ec:
+         e1:06:8c:cf:22:10:20:1d:df:2e:83:29:be:80:5e:13:f5:4e:
+         bf:e2:ff:84:26:de:26:e6:67:97:7d:88:aa:3a:a0:de:3f:17:
+         88:f6:2f:c4:22:42:d0:49:3b:ea:66:a7:fe:78:f4:eb:52:e7:
+         ec:fe:2e:71:5e:8f:0b:12:2e:99:8d:a1:d6:a0:a6:c5:28:f3:
+         e5:f1:17:78:c3:ab:d5:41:42:fd:6f:24:f2:ec:94:7d:81:65:
+         b4:5f:4a:c0:e8:c1:da:ad:b6:db:cc:4b:ae:2a:53:62:29:52:
+         f1:19:04:23:85:89:ef:61:fb:06:9e:52:95:b8:12:54:e3:8e:
+         d5:6c:d3:35:50:4c:d3:63:ac:e8:f9:3b:72:ec:24:20:20:a2:
+         98:00:b9:82:9e:02:bf:ce:aa:af:16:67:e4:11:9f:f0:1d:0e:
+         48:2f:e4:8d:85:16:1e:37:16:d1:0c:63:a5:9f:47:e4:f5:cb:
+         b0:88:7d:0e:92:86:24:1b:18:d8:6d:1f:e8:fb:34:d9:78:bf:
+         bf:53:46:1d:11:e9:5f:27:dd:45:76:86:58:e3:42:cb:d7:08:
+         3b:2d:d5:50
+-----BEGIN CERTIFICATE-----
+MIIDMTCCAhmgAwIBAgIEMLCvYDANBgkqhkiG9w0BAQsFADBJMUcwRQYDVQQDEz5V
+bml2ZXJzYWwgTGlzdGVuZXIgT1U9VUwgTz1Vbml2ZXJzYWxMaXN0ZW5lciBMPVB1
+bmUgUz1NSCBDPUlORDAeFw0xOTAyMTcxMjExNDhaFw00NDAyMTExMjExNDhaMEkx
+RzBFBgNVBAMTPlVuaXZlcnNhbCBMaXN0ZW5lciBPVT1VTCBPPVVuaXZlcnNhbExp
+c3RlbmVyIEw9UHVuZSBTPU1IIEM9SU5EMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAiNR2es9nI1QoANOCo0a09eZCgm13CTakdBVqVvn5VBnD4auC6tyb
+Gs0WNnCd9PlM5vEc5v0xYh6qK/ey7d4dMVbZfaJPbJ247/6UaGdmcpM0oQNLIZ1x
+3fRg2QpZ/N2vTm5TuFLhcNNmENYlpenbAdiA7sOU3Rn0lPp+OrzicX+WLHP3by4V
+F1tg4Ula7+12tktW8Ojlkrh05iXbYIjbMPM1GbwBIYL+V74h/ibjnD364Kz9c6gu
+8Nt/up8UEPgTutZn0QUi9qoPQkIZaPDMW4d7JhNhStxJqPr7supFjTDcmB+gauJM
+DOJqpCsikt62rW+7vlyYpoujERmmQJFyYwIDAQABoyEwHzAdBgNVHQ4EFgQUoOUH
+pd8RFdmZGzf1ReKHDzJr80cwDQYJKoZIhvcNAQELBQADggEBAAfMSYFsIZkab52o
+0GVZGgonkzkeFKamSz70kFt/FCW8GAj07OEGjM8iECAd3y6DKb6AXhP1Tr/i/4Qm
+3ibmZ5d9iKo6oN4/F4j2L8QiQtBJO+pmp/549OtS5+z+LnFejwsSLpmNodagpsUo
+8+XxF3jDq9VBQv1vJPLslH2BZbRfSsDowdqtttvMS64qU2IpUvEZBCOFie9h+wae
+UpW4ElTjjtVs0zVQTNNjrOj5O3LsJCAgopgAuYKeAr/Oqq8WZ+QRn/AdDkgv5I2F
+Fh43FtEMY6WfR+T1y7CIfQ6ShiQbGNhtH+j7NNl4v79TRh0R6V8n3UV2hljjQsvX
+CDst1VA=
+-----END CERTIFICATE-----
+

@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 583915925 (0x22cdd995)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=James Elder
+        Validity
+            Not Before: Nov  1 23:24:40 2015 GMT
+            Not After : Oct 14 23:24:40 2085 GMT
+        Subject: CN=James Elder
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:87:c8:fe:32:bb:0b:7a:bc:cf:dd:79:c4:ca:dd:
+                    65:08:28:b3:b0:8f:c2:e2:0a:1f:68:13:50:c6:91:
+                    b8:20:de:35:63:24:8d:74:e2:f1:41:a0:ff:5d:7b:
+                    c4:28:a4:3f:a7:79:b3:c6:6d:6b:b5:9d:a5:dc:14:
+                    67:39:31:73:3e:09:85:ee:52:d7:f9:78:0f:d1:3b:
+                    47:fe:d3:11:bb:3f:53:9c:3d:0b:38:2e:01:83:2a:
+                    60:4f:1c:04:0f:a2:83:80:3a:e2:2f:67:a8:0d:6a:
+                    59:d2:0e:80:d6:c9:a9:1a:e3:73:cb:d4:33:d5:3f:
+                    c3:66:cf:d0:4a:7d:4b:8d:12:f0:bd:47:20:e5:25:
+                    68:7f:08:e2:2f:ad:07:1b:c0:f4:a1:ed:f8:1e:24:
+                    04:30:7a:34:ce:f9:b2:fd:51:a5:5a:e3:a2:9a:9b:
+                    14:42:cf:d0:dc:06:7b:6e:a4:75:b1:d7:2c:d3:05:
+                    c8:7c:24:33:aa:4e:30:b2:dc:05:79:92:b9:a1:9a:
+                    53:2f:c8:ff:ac:02:63:10:1f:45:bd:5e:17:6a:e2:
+                    df:ca:85:d7:49:7d:5d:25:e6:e3:ec:e6:c0:09:cc:
+                    5e:3a:db:ea:96:d5:ce:c1:a2:2c:31:a1:97:b5:57:
+                    fc:e0:5c:a0:8f:00:7f:50:5f:ce:f8:6d:f6:07:ce:
+                    ed:27
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                D6:21:5C:05:D2:4E:1A:84:2B:48:C4:18:52:E7:B4:0D:FF:96:03:69
+    Signature Algorithm: sha256WithRSAEncryption
+         24:ba:15:c6:a1:72:78:24:f8:80:4e:ef:d8:7a:c3:9f:b1:c7:
+         1e:3c:e2:90:1b:63:40:49:18:bf:f8:49:ee:00:17:53:8a:1c:
+         50:3c:b8:a6:b5:36:43:9f:9f:7a:7d:4c:c4:d4:62:fd:57:ef:
+         7b:13:03:aa:14:f0:9b:e5:62:18:53:fa:57:7c:c7:97:a2:f3:
+         d4:ee:06:76:b2:3f:ed:a8:f2:b7:a0:25:ec:49:e2:f5:cf:ed:
+         70:0c:43:c5:29:1a:74:1f:6a:d5:e2:31:4e:91:4f:ca:73:34:
+         ed:70:a6:f8:5b:80:f6:0e:90:94:95:92:17:e9:80:49:74:3e:
+         01:bf:a3:59:1d:f3:52:40:ac:05:57:e1:3d:74:9e:c0:29:c1:
+         c8:66:20:08:00:64:59:a6:94:ba:4e:a5:1b:2b:e4:74:b9:e2:
+         e7:89:be:1a:d5:22:b4:01:51:ee:ef:05:ce:12:67:0c:40:17:
+         01:f1:d0:5a:ff:04:19:cd:a2:7e:91:f3:26:0b:e9:c2:1d:c8:
+         40:a0:fe:8a:9c:a9:a7:18:16:86:1d:35:2f:a5:9f:da:14:84:
+         14:78:23:35:96:22:e3:28:2b:be:94:bf:0c:59:0b:37:a3:01:
+         63:ef:61:f5:70:af:2d:3e:ed:8e:21:14:20:b6:6b:bb:ef:ef:
+         d8:ed:d6:1f
+-----BEGIN CERTIFICATE-----
+MIICzTCCAbWgAwIBAgIEIs3ZlTANBgkqhkiG9w0BAQsFADAWMRQwEgYDVQQDEwtK
+YW1lcyBFbGRlcjAgFw0xNTExMDEyMzI0NDBaGA8yMDg1MTAxNDIzMjQ0MFowFjEU
+MBIGA1UEAxMLSmFtZXMgRWxkZXIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCHyP4yuwt6vM/decTK3WUIKLOwj8LiCh9oE1DGkbgg3jVjJI104vFBoP9d
+e8QopD+nebPGbWu1naXcFGc5MXM+CYXuUtf5eA/RO0f+0xG7P1OcPQs4LgGDKmBP
+HAQPooOAOuIvZ6gNalnSDoDWyaka43PL1DPVP8Nmz9BKfUuNEvC9RyDlJWh/COIv
+rQcbwPSh7fgeJAQwejTO+bL9UaVa46KamxRCz9DcBntupHWx1yzTBch8JDOqTjCy
+3AV5krmhmlMvyP+sAmMQH0W9Xhdq4t/KhddJfV0l5uPs5sAJzF462+qW1c7Boiwx
+oZe1V/zgXKCPAH9QX874bfYHzu0nAgMBAAGjITAfMB0GA1UdDgQWBBTWIVwF0k4a
+hCtIxBhS57QN/5YDaTANBgkqhkiG9w0BAQsFAAOCAQEAJLoVxqFyeCT4gE7v2HrD
+n7HHHjzikBtjQEkYv/hJ7gAXU4ocUDy4prU2Q5+fen1MxNRi/VfvexMDqhTwm+Vi
+GFP6V3zHl6Lz1O4GdrI/7ajyt6Al7Eni9c/tcAxDxSkadB9q1eIxTpFPynM07XCm
++FuA9g6QlJWSF+mASXQ+Ab+jWR3zUkCsBVfhPXSewCnByGYgCABkWaaUuk6lGyvk
+dLni54m+GtUitAFR7u8FzhJnDEAXAfHQWv8EGc2ifpHzJgvpwh3IQKD+ipyppxgW
+hh01L6Wf2hSEFHgjNZYi4ygrvpS/DFkLN6MBY+9h9XCvLT7tjiEUILZru+/v2O3W
+Hw==
+-----END CERTIFICATE-----
+

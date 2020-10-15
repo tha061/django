@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1451320286 (0x568163de)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=PT, ST=Braga, L=Braga, O=Healthium - Healthcare Software Solutions LDA
+        Validity
+            Not Before: Dec 28 16:31:26 2015 GMT
+            Not After : Dec  4 16:31:26 2115 GMT
+        Subject: C=PT, ST=Braga, L=Braga, O=Healthium - Healthcare Software Solutions LDA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:bd:47:53:22:d9:a7:78:d7:22:c7:d1:d8:f5:cc:
+                    96:70:0b:88:7b:8c:91:4b:35:ce:78:1a:ff:0b:2b:
+                    ce:2f:54:5c:22:bc:a9:6b:93:66:0f:bf:93:5b:e5:
+                    ac:98:97:e0:4e:a3:af:6a:86:a9:5a:e7:24:4f:b2:
+                    8a:b9:ad:62:13:e3:02:1a:5f:c6:8e:f7:d1:16:10:
+                    5b:a1:4d:d1:f2:ac:06:b2:5f:c6:1a:60:67:54:63:
+                    80:61:dd:e3:cc:bc:d7:33:7e:3b:88:e3:9f:f1:b4:
+                    9b:fc:8a:1c:e3:a3:77:5f:0b:5c:53:aa:06:e5:19:
+                    73:19:c2:0e:92:6c:be:d3:a7
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         b5:f2:a2:77:30:d7:d1:2a:e5:7d:e2:73:22:b2:39:14:da:43:
+         b1:68:ee:48:a9:8e:0b:67:97:17:93:ef:a8:81:fe:fb:b7:27:
+         5b:9d:c0:88:3b:0f:ae:4d:f0:34:bc:60:de:98:90:22:96:e6:
+         28:43:2e:67:b5:d4:cc:50:00:14:95:74:07:b8:87:63:cc:78:
+         5b:4c:f8:25:79:09:81:bc:d7:14:6b:41:22:7d:db:d6:e1:28:
+         83:80:fc:da:ec:c4:ac:0a:17:7f:f8:74:1f:bc:0d:56:b9:d9:
+         b2:3f:0a:45:c6:b6:d0:73:04:c2:e5:d5:ba:7f:15:42:09:20:
+         47:80
+-----BEGIN CERTIFICATE-----
+MIICQzCCAaygAwIBAgIEVoFj3jANBgkqhkiG9w0BAQUFADBlMQswCQYDVQQGEwJQ
+VDEOMAwGA1UECBMFQnJhZ2ExDjAMBgNVBAcTBUJyYWdhMTYwNAYDVQQKEy1IZWFs
+dGhpdW0gLSBIZWFsdGhjYXJlIFNvZnR3YXJlIFNvbHV0aW9ucyBMREEwIBcNMTUx
+MjI4MTYzMTI2WhgPMjExNTEyMDQxNjMxMjZaMGUxCzAJBgNVBAYTAlBUMQ4wDAYD
+VQQIEwVCcmFnYTEOMAwGA1UEBxMFQnJhZ2ExNjA0BgNVBAoTLUhlYWx0aGl1bSAt
+IEhlYWx0aGNhcmUgU29mdHdhcmUgU29sdXRpb25zIExEQTCBnzANBgkqhkiG9w0B
+AQEFAAOBjQAwgYkCgYEAvUdTItmneNcix9HY9cyWcAuIe4yRSzXOeBr/CyvOL1Rc
+Irypa5NmD7+TW+WsmJfgTqOvaoapWuckT7KKua1iE+MCGl/GjvfRFhBboU3R8qwG
+sl/GGmBnVGOAYd3jzLzXM347iOOf8bSb/Ioc46N3XwtcU6oG5RlzGcIOkmy+06cC
+AwEAATANBgkqhkiG9w0BAQUFAAOBgQC18qJ3MNfRKuV94nMisjkU2kOxaO5IqY4L
+Z5cXk++ogf77tydbncCIOw+uTfA0vGDemJAiluYoQy5ntdTMUAAUlXQHuIdjzHhb
+TPgleQmBvNcUa0EifdvW4SiDgPza7MSsChd/+HQfvA1WudmyPwpFxrbQcwTC5dW6
+fxVCCSBHgA==
+-----END CERTIFICATE-----
+

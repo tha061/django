@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1395053700 (0x5326d484)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=44, ST=United Kingdom, L=Nottingham, O=Wattbike Ltd, OU=Wattbike Ltd, CN=Dusan Adamovic
+        Validity
+            Not Before: Oct  7 10:13:28 2014 GMT
+            Not After : Oct  1 10:13:28 2039 GMT
+        Subject: C=44, ST=United Kingdom, L=Nottingham, O=Wattbike Ltd, OU=Wattbike Ltd, CN=Dusan Adamovic
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:91:f8:74:8a:11:2a:05:8f:9c:8a:cf:78:24:d3:
+                    3d:f4:b7:c7:a5:ee:cf:3f:d8:8d:bd:a0:05:8f:8c:
+                    20:0e:a4:ed:1d:89:b7:33:45:2e:52:a1:76:95:59:
+                    0f:1b:61:62:f3:8e:eb:e5:9a:c9:07:1b:3c:57:b8:
+                    b7:70:95:b6:55:1b:10:34:d2:b9:2e:05:e0:68:33:
+                    17:26:fc:ef:c4:f7:15:28:94:f1:7b:b3:3e:a9:b9:
+                    9d:4c:c6:84:28:a4:04:05:95:0f:b5:1d:e6:ff:d9:
+                    31:49:13:53:1c:88:da:b4:0d:1c:b7:b8:e3:13:01:
+                    90:b5:14:ac:5e:4b:4f:ac:d1:95:52:c5:51:5d:39:
+                    f0:be:a7:88:75:bc:3e:63:0a:4e:d6:58:f7:70:5e:
+                    20:54:3c:07:89:c6:bd:49:7b:c1:4b:1f:cc:59:6c:
+                    4e:16:3e:d8:69:66:81:0d:39:b3:6e:00:b6:6e:27:
+                    fe:af:c9:d6:db:6e:e7:59:77:b7:4c:5e:15:f3:8c:
+                    26:2a:dc:14:d1:84:91:9a:03:63:72:08:81:45:45:
+                    da:96:fb:c3:a0:a6:5d:4c:38:3a:b4:98:ab:68:91:
+                    69:18:7a:fe:66:4f:26:c4:1e:1b:e4:af:87:32:4a:
+                    64:f3:64:06:12:c8:15:5d:36:a8:24:d6:45:c3:84:
+                    6d:b9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                48:86:0C:AC:C7:63:60:0D:36:8A:5C:1E:0E:6B:4B:05:97:18:3B:89
+    Signature Algorithm: sha256WithRSAEncryption
+         68:4c:cb:13:54:5f:b6:8f:3d:bc:df:74:a2:18:21:de:fd:71:
+         a8:0d:02:bc:f6:f4:ce:08:28:3c:16:f7:a7:34:6c:ea:7f:f3:
+         c5:40:91:63:96:4e:4b:ed:ee:86:a8:22:37:26:ca:e4:30:16:
+         af:3d:58:00:24:47:e3:08:0a:85:13:0a:22:87:6e:02:67:26:
+         ff:75:5d:33:d7:45:f1:f7:bf:7d:65:1c:e5:fd:46:af:66:6a:
+         79:0b:38:3b:63:17:24:2d:81:8a:a1:88:56:bd:af:65:49:74:
+         e0:22:f4:62:b4:40:e8:44:f3:16:21:fb:1e:18:ef:67:cb:72:
+         4f:07:95:e8:73:5a:db:cd:bc:50:a9:37:69:23:51:6a:48:e4:
+         d6:0d:75:8a:a5:4a:1d:3e:2d:79:c1:b3:47:1f:8d:ca:6b:98:
+         78:04:ca:8c:b2:2d:b7:83:a0:7b:8a:8d:47:28:ea:e3:e7:9f:
+         b3:3f:a9:4a:e6:60:96:94:be:2a:0c:96:b9:46:4f:74:e4:f0:
+         6a:2a:2c:cc:62:07:45:43:86:ed:0b:67:0a:d0:d1:8e:d3:b2:
+         33:63:f9:e7:15:ac:50:ae:b3:9a:97:db:3c:1c:f5:be:63:d0:
+         70:4f:9b:6d:19:37:be:43:44:e1:8f:d0:0d:5d:d3:ae:0e:02:
+         fc:c9:fa:59
+-----BEGIN CERTIFICATE-----
+MIIDpTCCAo2gAwIBAgIEUybUhDANBgkqhkiG9w0BAQsFADCBgjELMAkGA1UEBhMC
+NDQxFzAVBgNVBAgTDlVuaXRlZCBLaW5nZG9tMRMwEQYDVQQHEwpOb3R0aW5naGFt
+MRUwEwYDVQQKEwxXYXR0YmlrZSBMdGQxFTATBgNVBAsTDFdhdHRiaWtlIEx0ZDEX
+MBUGA1UEAxMORHVzYW4gQWRhbW92aWMwHhcNMTQxMDA3MTAxMzI4WhcNMzkxMDAx
+MTAxMzI4WjCBgjELMAkGA1UEBhMCNDQxFzAVBgNVBAgTDlVuaXRlZCBLaW5nZG9t
+MRMwEQYDVQQHEwpOb3R0aW5naGFtMRUwEwYDVQQKEwxXYXR0YmlrZSBMdGQxFTAT
+BgNVBAsTDFdhdHRiaWtlIEx0ZDEXMBUGA1UEAxMORHVzYW4gQWRhbW92aWMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCR+HSKESoFj5yKz3gk0z30t8el
+7s8/2I29oAWPjCAOpO0dibczRS5SoXaVWQ8bYWLzjuvlmskHGzxXuLdwlbZVGxA0
+0rkuBeBoMxcm/O/E9xUolPF7sz6puZ1MxoQopAQFlQ+1Heb/2TFJE1MciNq0DRy3
+uOMTAZC1FKxeS0+s0ZVSxVFdOfC+p4h1vD5jCk7WWPdwXiBUPAeJxr1Je8FLH8xZ
+bE4WPthpZoENObNuALZuJ/6vydbbbudZd7dMXhXzjCYq3BTRhJGaA2NyCIFFRdqW
++8Ogpl1MODq0mKtokWkYev5mTybEHhvkr4cySmTzZAYSyBVdNqgk1kXDhG25AgMB
+AAGjITAfMB0GA1UdDgQWBBRIhgysx2NgDTaKXB4Oa0sFlxg7iTANBgkqhkiG9w0B
+AQsFAAOCAQEAaEzLE1Rfto89vN90ohgh3v1xqA0CvPb0zggoPBb3pzRs6n/zxUCR
+Y5ZOS+3uhqgiNybK5DAWrz1YACRH4wgKhRMKIoduAmcm/3VdM9dF8fe/fWUc5f1G
+r2ZqeQs4O2MXJC2BiqGIVr2vZUl04CL0YrRA6ETzFiH7HhjvZ8tyTweV6HNa2828
+UKk3aSNRakjk1g11iqVKHT4tecGzRx+NymuYeATKjLItt4Oge4qNRyjq4+efsz+p
+SuZglpS+KgyWuUZPdOTwaioszGIHRUOG7QtnCtDRjtOyM2P55xWsUK6zmpfbPBz1
+vmPQcE+bbRk3vkNE4Y/QDV3Trg4C/Mn6WQ==
+-----END CERTIFICATE-----
+

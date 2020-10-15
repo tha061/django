@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1388096804 (0x52bcad24)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=Washington, L=Woodinville, O=Precor Incorporated, OU=Preva, CN=David Flynt
+        Validity
+            Not Before: Dec 26 22:26:44 2013 GMT
+            Not After : May 13 22:26:44 2041 GMT
+        Subject: C=US, ST=Washington, L=Woodinville, O=Precor Incorporated, OU=Preva, CN=David Flynt
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:83:bd:d7:53:12:d6:08:71:99:32:f5:44:1f:b7:
+                    05:2b:8e:b2:67:a9:53:91:6f:8f:39:d0:7c:7a:9d:
+                    a8:ee:62:b5:2d:ca:b2:b0:ed:f7:e1:29:a8:95:af:
+                    48:e2:b1:0b:1e:22:84:60:02:11:2b:ae:66:19:dd:
+                    6e:3c:08:c7:da:bd:15:5b:7c:33:12:73:31:5c:6e:
+                    05:e7:8a:c9:ec:ad:8f:df:7e:bf:d6:2e:51:9f:42:
+                    49:d0:47:fc:0d:05:29:e4:b1:d0:81:1f:90:63:31:
+                    93:bd:b7:84:f0:5b:40:d9:3c:49:67:f3:70:88:ff:
+                    1b:be:32:3d:0b:92:55:6d:87:a5:ce:58:09:b3:96:
+                    93:a8:2b:20:a6:dd:87:77:84:fe:29:90:64:fb:64:
+                    b4:74:93:06:1d:9a:ee:93:8c:43:af:11:a4:b6:f0:
+                    0e:bc:05:1e:98:ae:35:80:7f:7d:de:c6:f4:bc:b0:
+                    ae:18:1c:9a:a7:89:ad:df:93:91:cb:21:03:bd:56:
+                    10:78:d3:d7:aa:12:f4:ce:85:9d:5a:5b:3e:7b:63:
+                    ce:64:01:bb:6d:e6:8e:e1:85:fc:d7:d8:bf:e7:7f:
+                    06:2c:01:62:a0:c5:e5:1b:21:94:da:43:a6:8e:ec:
+                    e0:3d:b9:e7:64:f1:ad:5b:cc:6a:50:cb:10:f8:55:
+                    ad:f3
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         37:75:d8:8e:4c:96:86:49:25:25:22:33:a5:bd:98:27:3e:cd:
+         a6:99:68:24:79:2d:1c:fb:f0:a2:ce:c0:aa:4b:34:a7:b3:9a:
+         2e:9a:0a:75:dd:e0:a5:94:b1:63:3a:bb:10:5a:34:18:b8:fe:
+         99:d4:90:19:6c:00:44:74:64:73:f7:77:62:86:81:2d:58:51:
+         cf:54:d6:22:dc:de:83:2c:bb:51:12:13:0c:8f:96:f5:3c:da:
+         64:ef:8d:2a:04:3f:fc:f1:67:da:da:99:da:c6:52:cc:6f:0a:
+         fe:ba:1f:c3:9f:b8:c8:ef:ed:04:42:a3:15:bb:50:d6:91:c2:
+         61:a3:61:e8:cc:03:1f:1e:84:6e:8c:d4:b9:6a:b7:32:46:1d:
+         5b:f1:c9:bc:96:30:f4:4c:fc:27:3b:7b:6b:85:23:41:62:cb:
+         2c:13:c0:7a:9e:4c:78:80:28:bc:e0:22:94:63:ff:ec:0d:e5:
+         9d:3a:76:a6:00:2a:d7:72:b2:af:00:db:4d:52:32:4d:f8:b0:
+         21:a0:39:ab:92:a7:0c:bb:29:01:17:ed:a5:58:cb:04:18:27:
+         61:2f:4d:1f:54:0f:d8:3b:ab:0c:4f:3b:75:a3:8c:6f:16:66:
+         1c:1c:4c:ee:7c:b9:d0:a3:a5:69:05:e1:71:f9:03:b9:a8:37:
+         15:52:60:22
+-----BEGIN CERTIFICATE-----
+MIIDdDCCAlygAwIBAgIEUrytJDANBgkqhkiG9w0BAQUFADB8MQswCQYDVQQGEwJV
+UzETMBEGA1UECBMKV2FzaGluZ3RvbjEUMBIGA1UEBxMLV29vZGludmlsbGUxHDAa
+BgNVBAoTE1ByZWNvciBJbmNvcnBvcmF0ZWQxDjAMBgNVBAsTBVByZXZhMRQwEgYD
+VQQDEwtEYXZpZCBGbHludDAeFw0xMzEyMjYyMjI2NDRaFw00MTA1MTMyMjI2NDRa
+MHwxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpXYXNoaW5ndG9uMRQwEgYDVQQHEwtX
+b29kaW52aWxsZTEcMBoGA1UEChMTUHJlY29yIEluY29ycG9yYXRlZDEOMAwGA1UE
+CxMFUHJldmExFDASBgNVBAMTC0RhdmlkIEZseW50MIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAg73XUxLWCHGZMvVEH7cFK46yZ6lTkW+POdB8ep2o7mK1
+LcqysO334Smola9I4rELHiKEYAIRK65mGd1uPAjH2r0VW3wzEnMxXG4F54rJ7K2P
+336/1i5Rn0JJ0Ef8DQUp5LHQgR+QYzGTvbeE8FtA2TxJZ/NwiP8bvjI9C5JVbYel
+zlgJs5aTqCsgpt2Hd4T+KZBk+2S0dJMGHZruk4xDrxGktvAOvAUemK41gH993sb0
+vLCuGByap4mt35ORyyEDvVYQeNPXqhL0zoWdWls+e2POZAG7beaO4YX819i/538G
+LAFioMXlGyGU2kOmjuzgPbnnZPGtW8xqUMsQ+FWt8wIDAQABMA0GCSqGSIb3DQEB
+BQUAA4IBAQA3ddiOTJaGSSUlIjOlvZgnPs2mmWgkeS0c+/CizsCqSzSns5oumgp1
+3eCllLFjOrsQWjQYuP6Z1JAZbABEdGRz93dihoEtWFHPVNYi3N6DLLtREhMMj5b1
+PNpk740qBD/88Wfa2pnaxlLMbwr+uh/Dn7jI7+0EQqMVu1DWkcJho2HozAMfHoRu
+jNS5arcyRh1b8cm8ljD0TPwnO3trhSNBYsssE8B6nkx4gCi84CKUY//sDeWdOnam
+ACrXcrKvANtNUjJN+LAhoDmrkqcMuykBF+2lWMsEGCdhL00fVA/YO6sMTzt1o4xv
+FmYcHEzufLnQo6VpBeFx+QO5qDcVUmAi
+-----END CERTIFICATE-----
+

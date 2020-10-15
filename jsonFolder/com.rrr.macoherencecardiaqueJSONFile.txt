@@ -1,0 +1,60 @@
+{
+  "name": "com.rrr.macoherencecardiaque",
+  "fileSize": "2.1 MB",
+  "VTmd5": "0f8fede9a04fa086e1990a91632c9d97",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/617b8576b07a81b7252cbb25642d80d5d3a08061fbede865c0fe2cd7fa6036fb/detection/f-617b8576b07a81b7252cbb25642d80d5d3a08061fbede865c0fe2cd7fa6036fb-1575948495",
+  "VTresource": "617b8576b07a81b7252cbb25642d80d5d3a08061fbede865c0fe2cd7fa6036fb",
+  "VTresponsecode": 1,
+  "VTscanID": "617b8576b07a81b7252cbb25642d80d5d3a08061fbede865c0fe2cd7fa6036fb-1575948495",
+  "VTsha1": "4438023d0044da3431718e630fc5ce075173582b",
+  "VTsha256": "617b8576b07a81b7252cbb25642d80d5d3a08061fbede865c0fe2cd7fa6036fb",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "30 November 2014",
+    "Size": "2.1M",
+    "Installs": "100000",
+    "Current Version": "1.1",
+    "Requires Android": "3.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Aircube06",
+    "Developer": "erkub06@gmail.com 594 chemin des combes.\n06600 Antibes.\nFrance."
+  },
+  "rating": "4.3",
+  "description": "Cardiac Coherence is a state obtained when the fluctuation of the heart rate becomes periodic and regular. This state of heart coherence can be achieved by the practice of periodic rhythmic, ample, abdominal breathing to a specific frequency. Inhale when the cursor goes up... Expire when it drops. To do ideally three times a day.",
+  "privacyText": "",
+  "numInstalls": 100000,
+  "developer": "Aircube06",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "",
+    "Developer Email": "erkub06@gmail.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": false
+}

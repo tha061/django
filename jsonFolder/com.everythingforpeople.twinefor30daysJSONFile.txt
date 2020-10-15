@@ -1,0 +1,82 @@
+{
+  "name": "com.everythingforpeople.twinefor30days",
+  "fileSize": "28.6 MB",
+  "VTmd5": "c8e3db28bc70ab4b15a33d4bf924ead3",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/d50f38ad5de8994e2babdc75ee02b44137a4740c40ac2f2af38bad37fdb9890e/detection/f-d50f38ad5de8994e2babdc75ee02b44137a4740c40ac2f2af38bad37fdb9890e-1599507061",
+  "VTresource": "d50f38ad5de8994e2babdc75ee02b44137a4740c40ac2f2af38bad37fdb9890e",
+  "VTresponsecode": 1,
+  "VTscanID": "d50f38ad5de8994e2babdc75ee02b44137a4740c40ac2f2af38bad37fdb9890e-1599507061",
+  "VTsha1": "496a4b84c6e77f1968b217adb4ab253a9e7e8bd4",
+  "VTsha256": "d50f38ad5de8994e2babdc75ee02b44137a4740c40ac2f2af38bad37fdb9890e",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.yandex.metrica.MetricaService  permission: ",
+      "name: com.yandex.metrica.ConfigurationService  permission: ",
+      "name: com.yandex.metrica.ConfigurationJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "28 July 2020",
+    "Size": "29M",
+    "Installs": "1000000",
+    "Current Version": "2.6f4",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.99 \u2013 $5.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "everything for people",
+    "Developer": "Visit website valkodasha@mail.ru Privacy Policy 350032 \u0433. \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440, \u043f. \u041b\u0430\u0437\u0443\u0440\u043d\u044b\u0439, \u0443\u043b. \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0430\u044f, \u0434. 2, \u043a\u0432. 1"
+  },
+  "rating": "4.6",
+  "description": "Application How to do the splits in 30 days is designed for those who want to achieve results. How to do the splits in 30 days will help you to understand the method of fast and effective stretching. How to do the splits for beginners in 30 days for men will help to master a unique technique for men.  Stretches for middle splits for 30 days is not difficult now. In section How to do splits for kids you will read a unique technique. Will delight the section Splits stretches for beginners. Especially suitable for those who like to stretching at home. Cross splits we will learn different techniques of splits for 30 days. An important section of Do the splits step by step will reveal the secrets of productive stretching. Do the splits fast effective formula for achieving quick results. Learn the splits at home are no longer a secret. Various exercises and methods of their implementation in the section How to get the splits.",
+  "privacyText": "https://everythingforpeople.page.link/policy",
+  "numInstalls": 1000000,
+  "developer": "everything for people",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": true,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.fornewapps.xyz/",
+    "Developer Email": "valkodasha@mail.ru",
+    "Privacy Policy": "https://everythingforpeople.page.link/policy"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Jakewharton"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

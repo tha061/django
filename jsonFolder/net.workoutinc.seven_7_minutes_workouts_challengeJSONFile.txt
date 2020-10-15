@@ -1,0 +1,93 @@
+{
+  "name": "net.workoutinc.seven_7_minutes_workouts_challenge",
+  "fileSize": "26.1 MB",
+  "VTmd5": "36b1b8e24a9e61a623e1feb7be8b3838",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/afc4bf5ddecced3b8fdeb6066e3946a0fd04f52e9a3344b5b69957c2bf17010c/detection/f-afc4bf5ddecced3b8fdeb6066e3946a0fd04f52e9a3344b5b69957c2bf17010c-1576037463",
+  "VTresource": "afc4bf5ddecced3b8fdeb6066e3946a0fd04f52e9a3344b5b69957c2bf17010c",
+  "VTresponsecode": 1,
+  "VTscanID": "afc4bf5ddecced3b8fdeb6066e3946a0fd04f52e9a3344b5b69957c2bf17010c-1576037463",
+  "VTsha1": "c428d523731fb6d7b6bdacee716792dc31e1cea5",
+  "VTsha256": "afc4bf5ddecced3b8fdeb6066e3946a0fd04f52e9a3344b5b69957c2bf17010c",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.GET_TASKS Protection Level: N/A",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "com.google.android.gms.permission.ACTIVITY_RECOGNITION Protection Level: dangerous",
+    "android.permission.ACCESS_NOTIFICATION_POLICY Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.providers.gsf.permission.READ_GSERVICES Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "net.workoutinc.seven_7_minutes_workouts_challenge.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: net.workoutinc.seven_7_minutes_workouts_challenge.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: net.workoutinc.seven_7_minutes_workouts_challenge.setting.MyJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: net.workoutinc.seven_7_minutes_workouts_challenge.setting.NotificationService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.CampaignTrackingService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "29 December 2018",
+    "Size": "26M",
+    "Installs": "100000",
+    "Current Version": "3.0.0",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Workout Apps",
+    "Developer": "Visit website contact@workoutinc.net Privacy Policy 5158 CLARETON DR, AGOURA HILLS, CA 91301"
+  },
+  "rating": "4.6",
+  "description": "\u2605Best Free 7 Minute Workout App\u2605  \u2605Best Free Home Workout App\u2605 Why The 7 Minute Workout App by 7M? Scientifically proven to improve your health with just one 7 minute workout a day! Seven minutes a day to lose weight in 30 days! Quick and effective workouts! Do you have what it takes to take the 7 minute workout challenge? Sweat and get fit with 7 Minute Workout App by 7M. Free! Now with two new workouts: 7 Minute ABS: Abs and core targeted workouts for those who want to work out on their abdominals and get those six pack abs.  7 Minute SWEAT: A higher intensity workout that applies HIIT and Tabata princinples to amp up the fat burn and weight loss. WHY SEVEN MINUTES?  Scientific studies show that daily 7 minute workouts are the short and quick way to get fit and healthy!  FEATURES * Short and effective workouts that will make you sweat! Just seven minutes a day! * Scientifically proven to improve health. For Free! * Burn belly fat and lose weight with just 7 mins a day. * Beginner friendly quick daily 7 minute workouts that are easy to perform but will make you sweat.  * No gym or workout equipment needed home workouts. * Personal trainer with voice and video instructions. * 100% Free. No hidden and surprise charges!  * Full body 7 minute workout that targets all the important parts: abs, core, butt, legs, arms, belly fat, back, fat loss, weight loss, 6 pack * Daily workout for women and men. Take control of your health and fitness and sweat with us every day with 7 minute workout app by 7m! Quick, effective and 100% FREE! What are you waiting for? Download 7 Minute Workout by 7m and start your 7Minute work outs today! Let 7M help you get healthier in just 7 minutes a day! Website: https://www.workoutinc.net/",
+  "privacyText": "https://www.workoutinc.net/privacy-policy/",
+  "numInstalls": 100000,
+  "developer": "Workout Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.workoutinc.net/",
+    "Developer Email": "contact@workoutinc.net",
+    "Privacy Policy": "https://www.workoutinc.net/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Chartboost",
+    "Crashlytics",
+    "Facebook",
+    "Flurry",
+    "Google Ads",
+    "Google Analytics",
+    "AdColony (Jirbo)"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

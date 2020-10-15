@@ -1,0 +1,80 @@
+{
+  "name": "com.fitzeee.fitzeeerun",
+  "fileSize": "5.6 MB",
+  "VTmd5": "62cb3b862b479c10bcc197cf63da204c",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/94b48ecd580269c818f4e9e102a7e3fab1a5ae8180bc1703c7676dde9fe95255/detection/f-94b48ecd580269c818f4e9e102a7e3fab1a5ae8180bc1703c7676dde9fe95255-1594070629",
+  "VTresource": "94b48ecd580269c818f4e9e102a7e3fab1a5ae8180bc1703c7676dde9fe95255",
+  "VTresponsecode": 1,
+  "VTscanID": "94b48ecd580269c818f4e9e102a7e3fab1a5ae8180bc1703c7676dde9fe95255-1594070629",
+  "VTsha1": "5924352beff4ae217cb7cad24e89dca4bf0cb230",
+  "VTsha256": "94b48ecd580269c818f4e9e102a7e3fab1a5ae8180bc1703c7676dde9fe95255",
+  "VTtotal": 58,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.google.android.providers.gsf.permission.Read_GSERVICES Protection Level: Developer Defined Permission",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.fitzeee.fitness.models.FitnessActivityService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "25 April 2020",
+    "Size": "5.6M",
+    "Installs": "500000",
+    "Current Version": "4.3",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "fitzeee.com",
+    "Developer": "Visit website info@fitzeee.com Privacy Policy AZ1000"
+  },
+  "rating": "4.2",
+  "description": "EASY TO USE AND USER FRIENDLY RUNNING APP Reach your running goals using free Running Fitness & Calorie Sport tracker fitness app. With its simple and user friendly UI this app will become an ideal fitness companion for you.      This Running Fitness & Calorie Sport tracker fitness app is your running companion that will record all the details of your activities, letting you enjoy your outdoor experience .   GPS based Running & Jogging fitness app will let you record your running routes and save them for the later review and analysis.    MAIN FEATURES OF THE APP   *Switch between metric and imperial units  *Current running speed based on GPS reciever *Maximum running speed *Total duration of the activity *Altitude provided by GPS *Running distance  *Average running speed *Google maps *Tracking your running route *Saves your activities *Export GPX and KML of your activities *Calorie count  * Optional Auto Pause: you do not need to manually pause ,start or stop activities during signal loss or breaks. * Google Maps - all the details of your current location in your running app * Configuring display - you can choose the values that are shown on your display during running and other fitness activities. * Dark theme and Google Map night styles will help you save your phone's battery life - Dark Theme will bring you convinience during night runs , and will significantly improve  battery life during the day.   BEST RUNNING AND JOGGING EXPERIENCE    With its simple interface Running Fitness & Calorie Sport tracker will provide the best experience for your fitness and other outdoor activities. You can track the amount of calories burned the app will also provide you with the data like distance ,total duration of the activity and etc.. This Running Fitness & Calorie Sport tracker fitness app can also be useful in half marathon training , hiking , running , backpacking and in other outdoor activities. * We do not use altitude (due to its extreme inaccuracy) in calorie count.",
+  "privacyText": "http://fitzeee.com/privacypolicyrunning.html",
+  "numInstalls": 500000,
+  "developer": "fitzeee.com",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://fitzeee.com/",
+    "Developer Email": "info@fitzeee.com",
+    "Privacy Policy": "http://fitzeee.com/privacypolicyrunning.html"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

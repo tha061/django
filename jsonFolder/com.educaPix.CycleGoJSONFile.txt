@@ -1,0 +1,67 @@
+{
+  "name": "com.educaPix.CycleGo",
+  "fileSize": "81.3 MB",
+  "VTmd5": "f933b2df48d184c89981b41d6f0ce955",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/5ddb30620f0989252966da8ecab175f7af4fe5631582448a9b6f7736c0fac597/detection/f-5ddb30620f0989252966da8ecab175f7af4fe5631582448a9b6f7736c0fac597-1598101026",
+  "VTresource": "5ddb30620f0989252966da8ecab175f7af4fe5631582448a9b6f7736c0fac597",
+  "VTresponsecode": 1,
+  "VTscanID": "5ddb30620f0989252966da8ecab175f7af4fe5631582448a9b6f7736c0fac597-1598101026",
+  "VTsha1": "71fe3f17aabeb6a6387555e6bc9ba83a4902782a",
+  "VTsha256": "5ddb30620f0989252966da8ecab175f7af4fe5631582448a9b6f7736c0fac597",
+  "VTtotal": 57,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "20 August 2020",
+    "Size": "106M",
+    "Installs": "100000",
+    "Current Version": "3.2.0",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$2.99 \u2013 $69.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "educaPix",
+    "Developer": "Visit website support@Cycle-Go.com Privacy Policy Cgdor. J. Valenzuela 63A\n29007 MA Spain"
+  },
+  "rating": "4.6",
+  "description": "Want to get in shape? Trying to lose weight? Whatever your goal may be, CycleGo is the app you need to achieve it by taking your indoor cycling workouts to the next level. Have an exercise bike? Then you\u2019re ready to follow our virtual trainers as they guide and motivate you in reaching your goals. No connections or sensors needed. ----------------------- HIGHLIGHTS ----------------------- --------------------------------------------------------------------- 1. Structured workouts for all levels --------------------------------------------------------------------- Whether you have been cycling for years or are just starting, CycleGo is for you. You will find classes to fit all levels. Only have 15 minutes? No problem! You can choose the length of each class (from 15 to 60 minutes). Don\u2019t let a busy schedule keep you from working out! --------------------------------------------------------------------- 2. Easy to follow --------------------------------------------------------------------- The classes are easy to follow, thanks to the information constantly displayed on the screen: - Pedaling speed (RPM) - Resistance level - Standing / Seated - Jumps / Sprints  You can even follow the pedaling speed simply by watching the virtual trainer. --------------------------------------------------------------------- 3. Audio voice guidance --------------------------------------------------------------------- Real voices will guide you and give you helpful motivation just when you need it. --------------------------------------------------------------------- 4. Offline. --------------------------------------------------------------------- You don\u2019t need an internet connection to use CycleGo. So no buffering issues, and you can take it with you everywhere you go! INFORMATION ABOUT THE SUBSCRIPTION The download and usage of CycleGo is free of charge and includes 3 workouts. You have the option to pay for a monthly/yearly subscription or buy a Lifetime Membership to get access to all the workouts. The subscription automatically renews if it is not cancelled within 24 hours before the end of the current subscription period. Your account will be charged for the next subscription period up to 24 hours prior to the current subscription expiring. It is not possible to cancel an existing in-app subscription. You can disable the automatic renewal function at any time by adjusting your account settings. CycleGo Privacy Policy: http://www.cycle-go.com/privacy-policy.html CycleGo General Terms & Conditions: http://www.cycle-go.com/terms.html",
+  "privacyText": "http://www.educapix.com/privacy-policy.html",
+  "numInstalls": 100000,
+  "developer": "educaPix",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.Cycle-Go.com",
+    "Developer Email": "support@Cycle-Go.com",
+    "Privacy Policy": "http://www.educapix.com/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Unity3d",
+    "Unity Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

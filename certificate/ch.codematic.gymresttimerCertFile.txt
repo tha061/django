@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2030465096 (0x79067048)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CH, OU=Really Simple Apps, CN=S Murphy
+        Validity
+            Not Before: Jul 22 08:49:12 2017 GMT
+            Not After : Jul 16 08:49:12 2042 GMT
+        Subject: C=CH, OU=Really Simple Apps, CN=S Murphy
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b2:13:cb:13:61:52:71:c9:f5:66:b4:b9:76:0a:
+                    d4:2f:a9:b0:b7:63:14:e8:28:bf:d3:11:0d:6d:db:
+                    d6:c5:6b:63:b2:e7:3f:71:36:49:5c:5f:5e:dc:9d:
+                    26:e1:1c:5e:8f:4e:ef:b1:46:0a:43:d9:ab:79:0c:
+                    9a:74:11:17:93:74:0b:34:c0:c6:fc:14:1f:7a:4a:
+                    e5:c8:6c:3a:38:8d:d1:5b:5f:1f:7a:19:70:a1:e6:
+                    89:1d:ca:31:9b:0f:66:d8:94:d3:bc:aa:ac:42:73:
+                    df:13:19:bd:40:8e:4c:90:d0:c2:ac:4d:e6:a1:54:
+                    f9:d3:47:1c:02:02:39:94:6c:f7:c2:47:bf:19:b9:
+                    39:fe:cd:ab:ce:3b:3f:c2:b5:84:d2:9c:84:5e:f6:
+                    56:fa:f2:47:1a:9b:01:90:b7:58:eb:ad:02:57:67:
+                    81:d0:98:ff:b0:21:29:1e:b7:eb:6b:ed:c5:3e:f4:
+                    9e:65:f0:8c:eb:d2:74:d6:3b:fc:89:2e:21:69:11:
+                    ee:18:66:dd:5d:de:72:f9:bc:d0:ab:c7:e4:43:2d:
+                    a3:66:90:67:a0:5b:6b:56:47:80:1b:9e:cf:63:f4:
+                    34:8a:ad:be:31:f6:04:3f:a8:15:d8:fd:06:01:a5:
+                    56:a9:42:d5:30:8c:74:d5:b4:c8:95:6c:78:7c:d7:
+                    2e:47
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                BA:8A:D1:70:42:35:B8:55:30:CD:76:CC:A7:76:92:87:11:8A:88:8E
+    Signature Algorithm: sha256WithRSAEncryption
+         8f:84:36:a6:87:4b:f1:f5:3b:91:60:4b:db:d7:02:6b:eb:f6:
+         ce:c1:86:ba:63:58:c4:07:c5:34:dc:80:ab:0d:4b:78:bd:6c:
+         88:07:39:08:30:e8:1e:0b:0e:39:4a:97:87:46:4f:d5:4f:79:
+         79:64:15:7b:b2:d7:ee:e6:e5:28:34:40:04:96:c6:6d:5f:36:
+         46:b8:6a:04:94:15:7e:14:a4:11:f5:9f:4b:2e:1a:d4:99:73:
+         e7:2d:8d:4f:0d:ac:eb:0c:2b:b5:3f:ed:e5:8e:72:57:94:0c:
+         90:c9:db:e3:01:bc:57:c4:b9:30:76:23:11:00:c4:6d:3e:59:
+         1a:4f:57:d5:cf:af:dc:eb:8b:a3:c0:19:81:9a:0b:5b:b2:e4:
+         48:0e:ac:ea:32:51:00:e5:4b:27:e0:22:76:bc:fc:04:04:9c:
+         34:44:ae:4f:fe:a6:94:c1:f8:a8:88:2b:97:41:81:fd:7e:b4:
+         49:10:36:6e:0b:cf:ac:70:a3:c1:44:ea:d2:1f:44:2e:ad:66:
+         a0:68:59:c8:cf:bf:a1:04:56:4a:36:f5:2e:81:fe:b4:92:6b:
+         c4:39:0c:07:ab:87:f7:f2:20:90:bf:25:f5:03:c7:35:c3:03:
+         9c:d2:5e:f1:92:ec:72:77:30:3f:b5:91:9d:bd:8e:1a:c2:de:
+         e9:cb:27:5b
+-----BEGIN CERTIFICATE-----
+MIIDGTCCAgGgAwIBAgIEeQZwSDANBgkqhkiG9w0BAQsFADA9MQswCQYDVQQGEwJD
+SDEbMBkGA1UECxMSUmVhbGx5IFNpbXBsZSBBcHBzMREwDwYDVQQDEwhTIE11cnBo
+eTAeFw0xNzA3MjIwODQ5MTJaFw00MjA3MTYwODQ5MTJaMD0xCzAJBgNVBAYTAkNI
+MRswGQYDVQQLExJSZWFsbHkgU2ltcGxlIEFwcHMxETAPBgNVBAMTCFMgTXVycGh5
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAshPLE2FSccn1ZrS5dgrU
+L6mwt2MU6Ci/0xENbdvWxWtjsuc/cTZJXF9e3J0m4Rxej07vsUYKQ9mreQyadBEX
+k3QLNMDG/BQfekrlyGw6OI3RW18fehlwoeaJHcoxmw9m2JTTvKqsQnPfExm9QI5M
+kNDCrE3moVT500ccAgI5lGz3wke/Gbk5/s2rzjs/wrWE0pyEXvZW+vJHGpsBkLdY
+660CV2eB0Jj/sCEpHrfra+3FPvSeZfCM69J01jv8iS4haRHuGGbdXd5y+bzQq8fk
+Qy2jZpBnoFtrVkeAG57PY/Q0iq2+MfYEP6gV2P0GAaVWqULVMIx01bTIlWx4fNcu
+RwIDAQABoyEwHzAdBgNVHQ4EFgQUuorRcEI1uFUwzXbMp3aShxGKiI4wDQYJKoZI
+hvcNAQELBQADggEBAI+ENqaHS/H1O5FgS9vXAmvr9s7BhrpjWMQHxTTcgKsNS3i9
+bIgHOQgw6B4LDjlKl4dGT9VPeXlkFXuy1+7m5Sg0QASWxm1fNka4agSUFX4UpBH1
+n0suGtSZc+ctjU8NrOsMK7U/7eWOcleUDJDJ2+MBvFfEuTB2IxEAxG0+WRpPV9XP
+r9zri6PAGYGaC1uy5EgOrOoyUQDlSyfgIna8/AQEnDRErk/+ppTB+KiIK5dBgf1+
+tEkQNm4Lz6xwo8FE6tIfRC6tZqBoWcjPv6EEVko29S6B/rSSa8Q5DAerh/fyIJC/
+JfUDxzXDA5zSXvGS7HJ3MD+1kZ29jhrC3unLJ1s=
+-----END CERTIFICATE-----
+

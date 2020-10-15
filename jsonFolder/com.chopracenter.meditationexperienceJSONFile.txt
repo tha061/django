@@ -1,0 +1,87 @@
+{
+  "name": "com.chopracenter.meditationexperience",
+  "fileSize": "16.6 MB",
+  "VTmd5": "551ed2b1561b186278ef05a49e840687",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/c1c363d9730b94c48087198ffa1ef78f140fbcadccd88440b01f1eefb61c7ac1/detection/f-c1c363d9730b94c48087198ffa1ef78f140fbcadccd88440b01f1eefb61c7ac1-1596029182",
+  "VTresource": "c1c363d9730b94c48087198ffa1ef78f140fbcadccd88440b01f1eefb61c7ac1",
+  "VTresponsecode": 1,
+  "VTscanID": "c1c363d9730b94c48087198ffa1ef78f140fbcadccd88440b01f1eefb61c7ac1-1596029182",
+  "VTsha1": "11b0a351ee2ac171bfb0e9915bc4a076ae6a1c27",
+  "VTsha256": "c1c363d9730b94c48087198ffa1ef78f140fbcadccd88440b01f1eefb61c7ac1",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.USE_CREDENTIALS Protection Level: Developer Defined Permission",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permssion.RECEIVE Protection Level: Developer Defined Permission",
+    "your.package.name.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "18 Protection Level: Developer Defined Permission",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: your.package.name.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.encosoft.common.PushNotificationService  permission: ",
+      "name: com.encosoft.meditationchallenge.MusicService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "15 July 2020",
+    "Size": "17M",
+    "Installs": "500000",
+    "Current Version": "3.6.1",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$0.99 \u2013 $69.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Chopra Enterprises LLC",
+    "Developer": "Visit website help@chopra.com Privacy Policy PO Box 850\nLakeside, CA 92040"
+  },
+  "rating": "4.3",
+  "description": "Oprah Winfrey, Deepak Chopra, and Chopra Center Meditation present the \u201cOprah & Deepak\u2019s 21-Day Meditation Experience\u201d mobile app. Get easy access to the complete online experience from chopracentermeditation.com, including your already purchased meditations, on your iPhone, iPad, and Android devices.   With this free app, you can: \u00b7 enjoy the free program when available \u00b7 listen to the meditations in your library \u00b7 write in your personal journal \u00b7 buy, stream, or download meditation programs anytime, anywhere   By meditating, you can: \u00b7 reduce anxiety and stress \u00b7 sleep better \u00b7 experience more creativity, peace, and happiness \u00b7 enjoy increased immunity, vitality, and overall well-being   Join Oprah and Deepak as they make it easy to transform your life through meditation!",
+  "privacyText": "https://chopra.com/privacy-notice",
+  "numInstalls": 500000,
+  "developer": "Chopra Enterprises LLC",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://chopracentermeditation.com",
+    "Developer Email": "help@chopra.com",
+    "Privacy Policy": "https://chopra.com/privacy-notice"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Facebook",
+    "Fasterxml",
+    "Github",
+    "Viewpagerindicator"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

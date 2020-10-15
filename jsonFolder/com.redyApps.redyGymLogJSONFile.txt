@@ -1,0 +1,76 @@
+{
+  "name": "com.redyApps.redyGymLog",
+  "fileSize": "6.8 MB",
+  "VTmd5": "34ea04892c4ca03a520b303644da0448",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/e56d37dc7a3109aac303df38a9a31189966bf58e8bb251e73877f973db82003d/detection/f-e56d37dc7a3109aac303df38a9a31189966bf58e8bb251e73877f973db82003d-1578110129",
+  "VTresource": "e56d37dc7a3109aac303df38a9a31189966bf58e8bb251e73877f973db82003d",
+  "VTresponsecode": 1,
+  "VTscanID": "e56d37dc7a3109aac303df38a9a31189966bf58e8bb251e73877f973db82003d-1578110129",
+  "VTsha1": "24ed33b0cacf25e76a985af6e52840b784026d91",
+  "VTsha256": "e56d37dc7a3109aac303df38a9a31189966bf58e8bb251e73877f973db82003d",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.heath.GymLogCore.TimerService  permission: ",
+      "name: com.heath.GymLogCore.Wear.ListenerService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "10 October 2018",
+    "Size": "6.8M",
+    "Installs": "100000",
+    "Current Version": "2.2",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$3.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Redy Apps",
+    "Developer": "Visit website contact@redyapps.com"
+  },
+  "rating": "4.5",
+  "description": "Redy Gym Log is the ideal workout buddy when doing bodybuilding and weight lifting at the gym. Redy Gym Log is a fitness tracker / workout log that is specially designed to motivate you to get the most out of your workouts. Logging your sets is fast and easy and so is tracking your progress and history. Redy Gym Log has a very simple and clean user interface that allows you to focus on your results and on optimizing your training. Free features - No ads - Group your favorite exercises into customized routines and sort them the way you want - Logging of sets requires a minimum of effort and you can quickly review your recent sets and personal best - A wide range of exercise types are supported ranging from weight lifting and strength training exercises to fitness and cardio exercises: Reps - weight, time - distance, weight - time, time only and reps only - Android Wear support. Keep your phone in your pocket while working out and log sets using your smart watch. - Add notes or comments when logging your sets - 1RM (one rep max) is automatically calculated for each set logged - Share your workout on Google Fit, Runkeeper, Dailymile, Facebook, Twitter and Google+ - Countdown rest timer that starts automatically after a set is logged. A rest period can be set up for each exercise - Detailed history of previous workouts, including a workout calendar giving a nice overview of your fitness activity. - Your training log is safe. Backup and restore your log data via mail, local storage or cloud services (Google Drive, Dropbox, etc.). - Automatic cloud backup done in the background while you use Redy Gym Log - you\u2019ll never loose your exercise data, even if your phone is lost - Visually pleasing \"material design\" user interface with easy navigation Features available through in-app purchase - Stats featuring adjustable graphs for each exercise showing either max weight, total weight, total repetitions or 1RM (1 rep max). Enables you to quickly overview and track your progress - Overview of your achievements at the gym giving you motivating facts about your workout history. For example: \u201cHeaviest lift\u201d, \u201cbusiest month\u201d and \u201clongest workout\u201d - Export feature that allows you to work with your fitness data outside the app (in for instance Excel)",
+  "privacyText": "",
+  "numInstalls": 100000,
+  "developer": "Redy Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.redyapps.com",
+    "Developer Email": "contact@redyapps.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Google Analytics",
+    "J256"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

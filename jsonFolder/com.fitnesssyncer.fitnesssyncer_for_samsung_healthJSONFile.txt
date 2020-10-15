@@ -1,0 +1,81 @@
+{
+  "name": "com.fitnesssyncer.fitnesssyncer_for_samsung_health",
+  "fileSize": "10.7 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.BIND_NOTIFICATION_LISTENER_SERVICE Protection Level: signature",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.fitnesssyncer.fitnesssyncer_for_samsung_health.permission.MAPS_RECEIVE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: fitnessSyncerAndroid.SHealthSyncService  permission: ",
+      "name: crc64182ae61ffcfda90b.MyFirebaseMessagingService  permission: ",
+      "name: crc64182ae61ffcfda90b.MyFirebaseIIDService  permission: ",
+      "name: crc64182ae61ffcfda90b.SHealthSyncService  permission: ",
+      "name: crc64a98abb514ffad9f1.KeepAliveService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "17 September 2020",
+    "Size": "11M",
+    "Installs": "50000",
+    "Current Version": "2.1.6.50",
+    "Requires Android": "6.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Shares info",
+    "In-app Products": "$3.99 \u2013 $39.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "FitnessSyncer",
+    "Developer": "Visit website support@fitnesssyncer.com Privacy Policy 4574 36th Ave W\nSeattle, WA 98199"
+  },
+  "rating": "2.4",
+  "description": "Unify your health and fitness clouds for a comprehensive view of your health and wellness. \u00a0 Whether you're just beginning your health and fitness journey or are a professional athlete, FitnessSyncer has the features you need to gain valuable insight into your data and stay motivated. Choose the best apps and activity-tracking wearables for each activity, and FitnessSyncer unifies the data into a consolidated view. No more juggling multiple apps and websites to see your data. Visualizing the total picture is key to maintaining a healthy lifestyle and making positive choices for optimal wellness. \u00a0 CONNECT YOUR APPS * Automatically synchronize your health and fitness activity from more than 45 apps and activity-tracking wearables, including Samsung Health, Fitbit, Garmin Connect, Strava, Nokia Health (Withings) * Unify your steps, distance, duration, calories burned, weight, blood pressure, glucose levels, nutrition, oxygen, sleep, temperature, and more in one Dashboard. \u00a0 VISUALIZE YOUR DATA * Use the Dashboard built into the app to analyze your health and fitness. Track your progress by reviewing past workouts. * Use the Stream built into the app to review individual activities and data and for rich data items, analyze them in depth, including the map, charts, and splits. \u00a0 EMPOWER YOUR DATA * Synchronize: Seamlessly move your health and fitness data between apps, trackers and devices. * FitnessSyncer ShoeRenew: Monitor the miles ran in your shoes so you know when to replace them, or set equipment maintenance schedules, such as bike tune ups etc. * Alerts: Get alerts for the data that matters most to you, such as reaching milestones and regressing on goals. * E-mail or Social Progress Reports: Share your progress with family and friends via email, Facebook and Twitter. \u00a0 SAMSUNG HEALTH INTEGRATION * Read your Samsung Health data or supplement your Samsung Health from other data sources that FitnessSyncer supports. * Standard Syncing is enabled by default. To disable Standard-Sync, go into our Settings. FitnessSyncer is free to use for up to 5 sources or destinations tasks. Get unlimited sources and destinations, more data on your dashboard, and more with FitnessSyncer Pro. Our full terms and conditions are available at https://www.fitnesssyncer.com/about/terms.html and our privacy policy at https://www.fitnesssyncer.com/about/privacy-policy.html .",
+  "privacyText": "https://www.fitnesssyncer.com/about/privacy-policy.html",
+  "numInstalls": 50000,
+  "developer": "FitnessSyncer",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.fitnesssyncer.com",
+    "Developer Email": "support@fitnesssyncer.com",
+    "Privacy Policy": "https://www.fitnesssyncer.com/about/privacy-policy.html"
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": true
+}

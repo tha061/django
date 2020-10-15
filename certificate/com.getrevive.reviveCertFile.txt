@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1428480390 (0x5524e186)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=FR, ST=France, L=Paris, O=GetRevive, OU=MNGT, CN=Francois Galtie
+        Validity
+            Not Before: Apr  8 08:06:30 2015 GMT
+            Not After : Apr  1 08:06:30 2040 GMT
+        Subject: C=FR, ST=France, L=Paris, O=GetRevive, OU=MNGT, CN=Francois Galtie
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a1:1c:73:34:a9:82:7a:c2:fb:0a:83:61:60:34:
+                    61:db:44:af:2b:ab:a3:0d:5a:04:59:33:e4:a6:40:
+                    84:6f:f8:7a:92:03:29:a5:5b:54:9e:ca:45:4e:35:
+                    c9:73:7e:97:da:68:29:d3:7c:16:13:7e:7a:b4:75:
+                    f1:46:aa:52:77:0e:ce:e5:b5:0c:85:9c:39:54:69:
+                    0c:94:9d:1e:8e:db:e1:f6:09:d7:9e:d7:b9:41:db:
+                    7d:42:5d:e5:70:3f:47:95:e4:23:bf:c9:6e:00:a6:
+                    08:e5:28:7e:61:3d:da:88:d1:01:d4:e7:dc:9b:93:
+                    ba:c9:40:93:4d:cb:a9:9b:77
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         74:f2:9a:b3:b9:27:ac:2b:d5:a0:96:5b:26:66:60:90:6c:7d:
+         6d:8f:f0:d9:8e:af:a0:0a:7c:c9:84:f2:3b:ad:d9:c1:73:c8:
+         7c:0f:df:60:fa:f9:d6:67:3a:ca:d2:78:2d:68:4d:a9:ef:9c:
+         c7:3c:bf:5b:91:af:f8:12:ab:48:e9:99:51:d9:60:86:81:cb:
+         0b:db:f7:72:c3:c9:81:19:29:75:98:71:a1:6f:67:ce:72:2e:
+         fe:9d:15:98:2a:87:b9:d4:6b:fc:61:bc:1e:83:7c:12:73:20:
+         5a:6e:50:2c:29:a1:e7:15:52:ea:9b:bd:98:6c:64:01:8a:3d:
+         ad:55
+-----BEGIN CERTIFICATE-----
+MIICTTCCAbagAwIBAgIEVSThhjANBgkqhkiG9w0BAQUFADBrMQswCQYDVQQGEwJG
+UjEPMA0GA1UECBMGRnJhbmNlMQ4wDAYDVQQHEwVQYXJpczESMBAGA1UEChMJR2V0
+UmV2aXZlMQ0wCwYDVQQLEwRNTkdUMRgwFgYDVQQDEw9GcmFuY29pcyBHYWx0aWUw
+HhcNMTUwNDA4MDgwNjMwWhcNNDAwNDAxMDgwNjMwWjBrMQswCQYDVQQGEwJGUjEP
+MA0GA1UECBMGRnJhbmNlMQ4wDAYDVQQHEwVQYXJpczESMBAGA1UEChMJR2V0UmV2
+aXZlMQ0wCwYDVQQLEwRNTkdUMRgwFgYDVQQDEw9GcmFuY29pcyBHYWx0aWUwgZ8w
+DQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKEcczSpgnrC+wqDYWA0YdtEryurow1a
+BFkz5KZAhG/4epIDKaVbVJ7KRU41yXN+l9poKdN8FhN+erR18UaqUncOzuW1DIWc
+OVRpDJSdHo7b4fYJ157XuUHbfUJd5XA/R5XkI7/JbgCmCOUofmE92ojRAdTn3JuT
+uslAk03LqZt3AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAdPKas7knrCvVoJZbJmZg
+kGx9bY/w2Y6voAp8yYTyO63ZwXPIfA/fYPr51mc6ytJ4LWhNqe+cxzy/W5Gv+BKr
+SOmZUdlghoHLC9v3csPJgRkpdZhxoW9nznIu/p0VmCqHudRr/GG8HoN8EnMgWm5Q
+LCmh5xVS6pu9mGxkAYo9rVU=
+-----END CERTIFICATE-----
+

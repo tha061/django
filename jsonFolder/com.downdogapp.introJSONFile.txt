@@ -1,0 +1,83 @@
+{
+  "name": "com.downdogapp.intro",
+  "fileSize": "6.1 MB",
+  "VTmd5": "19ddd7739e5b27206e9f85e80146d9fa",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/e73ba4a6d6d7a9405ad618fda949e618e494aa4b6abb1e3fc617dc9f30279285/detection/f-e73ba4a6d6d7a9405ad618fda949e618e494aa4b6abb1e3fc617dc9f30279285-1600245157",
+  "VTresource": "e73ba4a6d6d7a9405ad618fda949e618e494aa4b6abb1e3fc617dc9f30279285",
+  "VTresponsecode": 1,
+  "VTscanID": "e73ba4a6d6d7a9405ad618fda949e618e494aa4b6abb1e3fc617dc9f30279285-1600245157",
+  "VTsha1": "d83cec4ca0fd79cfef8e68135459473949e146f5",
+  "VTsha256": "e73ba4a6d6d7a9405ad618fda949e618e494aa4b6abb1e3fc617dc9f30279285",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.downdogapp.client.singleton.AppHelper$MediaButtonService  permission: ",
+      "name: com.downdogapp.AppActivity$PushNotificationService  permission: ",
+      "name: com.google.android.gms.cast.framework.media.MediaNotificationService  permission: ",
+      "name: com.google.android.gms.cast.framework.ReconnectionService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.android.play.core.assetpacks.AssetPackExtractionService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "15 September 2020",
+    "Size": "8.9M",
+    "Installs": "1000000",
+    "Current Version": "5.1.0",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Mild language Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Yoga Buddhi Co.",
+    "Developer": "Visit website help@downdogapp.com Privacy Policy 11 Duboce Ave\nSan Francisco, CA 94103"
+  },
+  "rating": "4.7",
+  "description": "If you are about to step onto your yoga mat for the first time - Welcome! Namaste! You've come to the right place! Yoga for Beginners is an entirely free app created to introduce absolute beginners to the practice of yoga. Studies have shown that yoga improves flexibility, builds strength, creates muscles tone, fosters relaxation, decreases anxiety and stress, and improves sleep! CHOOSE YOUR PRACTICE TYPE Yoga for Beginners offers three beginning yoga practices, each with beautiful video and clear instruction:  Vinyasa Yoga: a series of 3 beginner vinyasa yoga classes where you learn poses like downward facing dog, chaturanga, and how to flow between poses using your breath. Hatha Yoga: a series of 3 beginner hatha yoga classes that teaches you foundational yoga poses, and moves slower than a vinyasa practice to allow for extra time in each pose to explore. Restorative Yoga: the gentlest of our intros, a series of 3 beginner restorative practices done entirely on the floor so you can easily stretch your muscles, release tension, and relax. In each intro series, you will learn breathing practices and yoga poses that will help you cultivate confidence on and off your mat! BEGINNER FOCUSED Get started in the comfort of your own home. No fancy yoga props required, all you need is your yoga mat! Can't touch your toes? No problem - we'll give you modifications and alternatives along the way! CHOOSE YOUR GUIDE Select a voice you love from 6 different yoga teachers to guide you through your yoga journey. MULTIPLE LANGUAGES In addition to our 6 English speaking voices, all intro series are available in 9 other languages! MUSIC THAT GOES WITH YOUR FLOW Beats that support and augment where you are in your practice, whether you're warming up, building heat, or cooling down. WHAT OTHER BEGINNER YOGIS ARE SAYING \"I have tried many intro to yoga apps/websites/YouTube channels/books etc, but nothing has been as captivating and easy to follow and enjoy as this. You truly are special. This is exactly what I have been searching for. Thank you.\" - Hana \"I love it. I'm a total newbie. I tried the intro and it was really clear. I felt like I learned about yoga poses and names I've been wondering about for a while. And best of all as a runner who is fairly muscle bound, my sides and hip flexors opened!\" - Victoria \"I have just completed day 1 of your intro to yoga.  Based on that one session, I think I have finally found the right yoga application for me.  I am impressed with the instruction given, and the high class of video you used.\" - Ian \"I loved this first day of intro to yoga! Great instructions to couple with the actions and I felt my confidence increase!\" - Nichole \"loved the intro class! i loved how you explained the moves and which muscles we are supposed to feel a slight tension in. the music is an amazing selection felt calm throughout session\" - Samantha Down Dog's terms and conditions can be found at https://www.downdogapp.com/terms Down Dog's privacy policy can be found at https://www.downdogapp.com/privacy",
+  "privacyText": "https://www.downdogapp.com/privacy",
+  "numInstalls": 1000000,
+  "developer": "Yoga Buddhi Co.",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.downdogapp.com",
+    "Developer Email": "help@downdogapp.com",
+    "Privacy Policy": "https://www.downdogapp.com/privacy"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Facebook",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

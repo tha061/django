@@ -1,0 +1,50 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1244901537 (0x4a33b0a1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AU, ST=NSW, L=Sydney, O=OpenBiz Solutions, OU=Research and development, CN=Pablo Iorio
+        Validity
+            Not Before: Jun 13 13:58:57 2009 GMT
+            Not After : Oct 29 13:58:57 2036 GMT
+        Subject: C=AU, ST=NSW, L=Sydney, O=OpenBiz Solutions, OU=Research and development, CN=Pablo Iorio
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c6:2a:b9:fb:fb:88:ef:f6:b7:18:6b:9b:8e:9b:
+                    17:31:f6:a6:96:90:2f:1e:34:bb:b7:5f:fb:2c:cb:
+                    2c:75:a0:4e:83:ba:9a:e3:0e:45:4a:f3:b3:9b:1f:
+                    36:12:73:9d:cc:af:1c:ad:e0:28:a5:b4:0e:90:ad:
+                    c8:27:44:00:04:8d:15:fe:84:67:a9:b3:a9:2f:f3:
+                    90:91:46:91:96:df:ff:5b:d9:57:d9:35:0b:c4:62:
+                    83:63:03:fd:e7:01:25:2d:df:1b:0f:fc:d4:71:8d:
+                    1a:44:23:a0:6b:d7:0f:48:0c:84:60:c5:f0:dc:81:
+                    03:7c:7d:44:e7:7f:71:5a:ed
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         9c:50:0f:73:67:63:21:bf:7b:af:05:ff:52:0d:71:1c:f2:bb:
+         53:b7:9e:1f:7c:e6:d7:49:8c:84:01:f4:51:73:d1:69:33:ec:
+         d9:45:ee:98:cf:db:10:7d:a3:9f:df:77:cb:f2:c8:62:d4:d8:
+         07:f9:88:12:de:ad:35:3d:52:70:f2:d4:d0:30:03:25:cb:f6:
+         38:da:c0:da:35:40:88:54:d2:ce:6c:7a:69:7d:4f:4c:ab:43:
+         ad:7e:4e:53:c2:78:49:e7:06:e5:bb:8f:5d:ed:69:b8:f5:7b:
+         cd:0a:d2:0d:e0:34:86:b0:18:94:1d:59:84:2f:cb:df:f0:96:
+         62:b9
+-----BEGIN CERTIFICATE-----
+MIICezCCAeSgAwIBAgIESjOwoTANBgkqhkiG9w0BAQUFADCBgTELMAkGA1UEBhMC
+QVUxDDAKBgNVBAgTA05TVzEPMA0GA1UEBxMGU3lkbmV5MRowGAYDVQQKExFPcGVu
+Qml6IFNvbHV0aW9uczEhMB8GA1UECxMYUmVzZWFyY2ggYW5kIGRldmVsb3BtZW50
+MRQwEgYDVQQDEwtQYWJsbyBJb3JpbzAeFw0wOTA2MTMxMzU4NTdaFw0zNjEwMjkx
+MzU4NTdaMIGBMQswCQYDVQQGEwJBVTEMMAoGA1UECBMDTlNXMQ8wDQYDVQQHEwZT
+eWRuZXkxGjAYBgNVBAoTEU9wZW5CaXogU29sdXRpb25zMSEwHwYDVQQLExhSZXNl
+YXJjaCBhbmQgZGV2ZWxvcG1lbnQxFDASBgNVBAMTC1BhYmxvIElvcmlvMIGfMA0G
+CSqGSIb3DQEBAQUAA4GNADCBiQKBgQDGKrn7+4jv9rcYa5uOmxcx9qaWkC8eNLu3
+X/ssyyx1oE6DuprjDkVK87ObHzYSc53Mrxyt4CiltA6QrcgnRAAEjRX+hGeps6kv
+85CRRpGW3/9b2VfZNQvEYoNjA/3nASUt3xsP/NRxjRpEI6Br1w9IDIRgxfDcgQN8
+fUTnf3Fa7QIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAJxQD3NnYyG/e68F/1INcRzy
+u1O3nh985tdJjIQB9FFz0Wkz7NlF7pjP2xB9o5/fd8vyyGLU2Af5iBLerTU9UnDy
+1NAwAyXL9jjawNo1QIhU0s5seml9T0yrQ61+TlPCeEnnBuW7j13tabj1e80K0g3g
+NIawGJQdWYQvy9/wlmK5
+-----END CERTIFICATE-----
+

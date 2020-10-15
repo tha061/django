@@ -1,0 +1,68 @@
+{
+  "name": "com.voiche.bodyfatcalculator",
+  "fileSize": "3.1 MB",
+  "VTmd5": "e05d63fde02f177b8a00a0391a0d9315",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/71761901c2abf5271b098a867cc411fdf9b34a93bd990d3aebbd66365f1e8944/detection/f-71761901c2abf5271b098a867cc411fdf9b34a93bd990d3aebbd66365f1e8944-1595424037",
+  "VTresource": "71761901c2abf5271b098a867cc411fdf9b34a93bd990d3aebbd66365f1e8944",
+  "VTresponsecode": 1,
+  "VTscanID": "71761901c2abf5271b098a867cc411fdf9b34a93bd990d3aebbd66365f1e8944-1595424037",
+  "VTsha1": "3c11e0509216a5f3f45d91b22ccfbc7eed334bad",
+  "VTsha256": "71761901c2abf5271b098a867cc411fdf9b34a93bd990d3aebbd66365f1e8944",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "19 July 2020",
+    "Size": "3.9M",
+    "Installs": "100000",
+    "Current Version": "3.2.0.1",
+    "Requires Android": "4.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$0.99 \u2013 $9.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "VoYo",
+    "Developer": "voichestd@gmail.com 11 Oktomvri 31/28, Skopje"
+  },
+  "rating": "4.2",
+  "description": "STAY HEALTHY AND LOOK GREAT WITH THIS BODY FAT CALCULATOR! The most accurate body fat percentage calculator with very interactive results which include your fitness level, your healthy weight range based on your lean body mass (LBM) and how much fat you should lose or gain in order to be in the healthy weight range. Unlike BMI calculators which can be very inaccurate especially if you have big muscle mass, this calculator gives  results based on your body fat percentage  and they are not affected by your body weight. Features: \u2022 5 most accurate formulas:  -    1. Jackson/Pollock 3 site skin fold caliper method. -    2. Jackson/Pollock 4 site skinfold caliper method. -    3. Jackson/Pollock 7 site skinfold caliper method. -    4. Durnin/Womersley 4 site skinfold caliper method. -    5. Tape Measure method used by the U.S. Navy. \u2022  Progress chart for keeping track. \u2022  Instructions. \u2022 Settings menu where you can choose to save automatically age, height and weight. \u2022 Body Fat Percentage Calculator. \u2022 Lean Body Mass Calculator. \u2022 Body Fat Weight Calculator. \u2022 Fitness level: Underfat, Healthy, Overfat, Obese. \u2022 Healthy / Ideal Weight Calculator. \u2022 How much fat you should lose or gain.",
+  "privacyText": "",
+  "numInstalls": 100000,
+  "developer": "VoYo",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "",
+    "Developer Email": "voichestd@gmail.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads",
+    "Google Analytics",
+    "Viewpagerindicator"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,69 @@
+{
+  "name": "de.aktiwir.aktiweight",
+  "fileSize": "5.7 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "1 April 2020",
+    "Size": "5.7M",
+    "Installs": "100000",
+    "Current Version": "2.8",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$3.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "aktiWir GmbH",
+    "Developer": "Visit website aktiwir@gmail.com Privacy Policy Tannenstra\u00dfe 16, 57290 Neunkirchen, Deutschland"
+  },
+  "rating": "4.8",
+  "description": "AKTIVE AND EFFECTIVE FOR YOUR WEIGHT LOSS! aktiWeight provides you with a detailed body weight diary including graphical statistics on your body weight improvements. When updating your body weight, the App will track and comment on your achievements and continuously encourage you to improve.  With aktiWeight, losing weight will turn out to be fun! And even if you want to gain weight, aktiWeight is the right choice.   OVERVIEW: - Body weight tracker - Weight Goals / Targeting of your desired weight - Motivation Incentives - Weight Charts and Statistics - Free aktiWeight - Weight Tracker",
+  "privacyText": "http://www.aktiweight.com/cms/privacy-policy-aktiweight-app.html",
+  "numInstalls": 100000,
+  "developer": "aktiWir GmbH",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.aktiweight.com",
+    "Developer Email": "aktiwir@gmail.com",
+    "Privacy Policy": "http://www.aktiweight.com/cms/privacy-policy-aktiweight-app.html"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

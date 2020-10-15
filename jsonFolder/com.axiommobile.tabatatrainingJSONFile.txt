@@ -1,0 +1,75 @@
+{
+  "name": "com.axiommobile.tabatatraining",
+  "fileSize": "4.6 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.USE_CREDENTIALS Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.play.core.assetpacks.AssetPackExtractionService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "12 October 2020",
+    "Size": "4.6M",
+    "Installs": "1000000",
+    "Current Version": "2.28",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact, Digital purchases",
+    "In-app Products": "$2.99 \u2013 $19.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "AxiomMobile",
+    "Developer": "Visit website info@axiommobile.ru Privacy Policy Axiom Mobile Ltd\n22/59 F.Munnikha st.\nTomsk\nRussia\n634059"
+  },
+  "rating": "4.7",
+  "description": "A 4-minute workout that replaces 1 hour of fitness training. Tabata is a form of high-intensity interval training (HIIT): \u2022 Workout hard for 20 seconds \u2022 Rest for 10 seconds \u2022 Complete 8 rounds Training plans: \u2022 Abs Workout \u2022 Buttocks and Thigh \u2022 Lower Body \u2022 Upper Body \u2022 Fat Burning \u2022 Ideal Body + You can create a custom Tabata workout! Features: \u2022 Adjustable gym timer \u2022 Interval timer with music \u2022 Flexible workout schedule \u2022 Reminders won't let you miss your workout \u2022 Calory counter \u2022 Detailed statistics \u2022 Interface is simple and easy-to-understand \u2022 Sync with Google Fit \u2022 Automatically backup your data \u2022 Choose your color theme  It's time to train! Help us translate into your language: \u2192 http://translate.axiomrun.com Follow us on Facebook: \u2192 https://www.facebook.com/axiomrun",
+  "privacyText": "http://axiomrun.com/privacy-policy/",
+  "numInstalls": 1000000,
+  "developer": "AxiomMobile",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://axiomrun.com/tabata/",
+    "Developer Email": "info@axiommobile.ru",
+    "Privacy Policy": "http://axiomrun.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Bumptech"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

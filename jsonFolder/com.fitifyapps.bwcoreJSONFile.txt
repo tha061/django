@@ -1,0 +1,80 @@
+{
+  "name": "com.fitifyapps.bwcore",
+  "fileSize": "22.8 MB",
+  "VTmd5": "e5dcba1cf262a066efc117825b5af653",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/6d33d51a6affd335eef93bf3511f7fb8e8f1a041645caa9732c86f0cb4a8704d/detection/f-6d33d51a6affd335eef93bf3511f7fb8e8f1a041645caa9732c86f0cb4a8704d-1588945707",
+  "VTresource": "6d33d51a6affd335eef93bf3511f7fb8e8f1a041645caa9732c86f0cb4a8704d",
+  "VTresponsecode": 1,
+  "VTscanID": "6d33d51a6affd335eef93bf3511f7fb8e8f1a041645caa9732c86f0cb4a8704d-1588945707",
+  "VTsha1": "f406b122785b9073fbbdee985562c59abbe66393",
+  "VTsha256": "6d33d51a6affd335eef93bf3511f7fb8e8f1a041645caa9732c86f0cb4a8704d",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "25 February 2020",
+    "Size": "Varies with device",
+    "Installs": "500000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$1.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fitify Apps",
+    "Developer": "Visit website support@fitifyapps.com Privacy Policy Podhurecka 558 Klatovy 33901 Czech Republic"
+  },
+  "rating": "4.7",
+  "description": "Challenge your Ab, Core & Back muscles in a few minutes. Achieve six-pack look of your abdominal muscles and strengthen your back to avoid back pain and stiffness. Abs, Core & Back Workouts by Fitify provides 3 unique workouts \u2022 Insane Six Pack \u2013 Get sexy, flat and firm abdominal muscles. Achieve perfect six-pack either at home or office.  \u2022 Complex Core \u2013 Core muscles are responsible for your body stability and good posture as well. Don\u2019t let them stay weak and push yourself hard with Fitify Complex Core. \u2022 Strong Back \u2013 Strengthen your back too for better posture and stop back pain forever. Provides exercises for lower and upper part of your back.  Features \u2022 over 80 bodyweight exercises \u2022 3 unique workout programs \u2022 no equipment needed \u2022 voice coach \u2022 clear HD video demonstrations \u2022 designed for men and women, young or old \u2022 works offline \u2022 build strong abs and six pack \u2022 strengthen your core \u2022 prevent or stop your back pain Custom Workouts Build your own workout with custom workouts. Choose exercises, duration, rest intervals and challenge yourself with your own training. With Fitify you have one custom workout for free. Adaptable Difficulty We adjust your training level up or down based on your feedback. 30 Day Challenges 30 day challenges increases exercise intensity step by step, so you can easily stick daily workouts. Don't need to go to gym, just your bodyweight and take a few minutes a day. 30 day challenge workout will help you gain a sixpack effectively. Fitify Apps Be stronger, leaner, healthier with Fitify \u2013 your very own personal trainer. Check out other Fitify apps with fitness tools (such as TRX, Kettlebell, Swiss Ball, Foam Roller, Bosu or Resistance band).",
+  "privacyText": "https://gofitify.com/privacy-policy.html",
+  "numInstalls": 500000,
+  "developer": "Fitify Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://fitifyapps.com/",
+    "Developer Email": "support@fitifyapps.com",
+    "Privacy Policy": "https://gofitify.com/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

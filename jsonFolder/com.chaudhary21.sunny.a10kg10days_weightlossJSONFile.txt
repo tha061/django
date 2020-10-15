@@ -1,0 +1,77 @@
+{
+  "name": "com.chaudhary21.sunny.a10kg10days_weightloss",
+  "fileSize": "20.8 MB",
+  "VTmd5": "4eec4640b0d3cfa27e14883920a7f7ab",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/6062d4946833408915f3e1e0f38f77e171371cea73bfc860167ff70b5a16ab12/detection/f-6062d4946833408915f3e1e0f38f77e171371cea73bfc860167ff70b5a16ab12-1600171135",
+  "VTresource": "6062d4946833408915f3e1e0f38f77e171371cea73bfc860167ff70b5a16ab12",
+  "VTresponsecode": 1,
+  "VTscanID": "6062d4946833408915f3e1e0f38f77e171371cea73bfc860167ff70b5a16ab12-1600171135",
+  "VTsha1": "217bf381d24380268fae0d4a0f6b2c7fc64cf54f",
+  "VTsha256": "6062d4946833408915f3e1e0f38f77e171371cea73bfc860167ff70b5a16ab12",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "10 August 2020",
+    "Size": "22M",
+    "Installs": "1000000",
+    "Current Version": "5.4",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$3.99 \u2013 $19.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "LifeChangerApps",
+    "Developer": "lifeapps21@gmail.com Privacy Policy z21,12sector,noida,In"
+  },
+  "rating": "4.7",
+  "description": "\ud83c\udfc6  Weight Loss 10kg/10 days  - is a Home Workout Trainer & fitness coach, an easy-to-use app for you to keep fit and healthy very fast. \u25a0 For Both Men\ud83c\udfc3\u200d\u2642\ufe0f and Women\ud83c\udfc3\u200d\u2640\ufe0f \u25a0 It is scientifically proven to help improve your health and fitness Weight Loss apps 10 kg/10 days provides 3 Levels - daily workout routines and diet plans to loose your weight fast. In just a few minutes a day, you can burn lots of calories/Fat and keep fitness and lose weight at home without having to go to the gym. No equipment or coach needed, all exercises can be performed with just your body weight. \ud83d\udc49What you can enjoy with  -  Weight Loss app 10 kg/10 days \u2713 Save money and time \u2713Scientifically proven diets and workouts \u2713 10 minutes Home Workout. \u2713 Diet plans for Weight Loss. \u2713 Get stronger, leaner, fitter with your Home workouts and diet planner.  \u2713 Lose weight at home, burn your fat and get leaner with  \u2013 Weight Loss app 10 kg/10 days, Trainer & Fitness Coach. \u2713 Stay healthy with different diet plans and daily exercise. \u2713 Follow given diet plans and weight loss workouts, witness the changes in you and share your achievements with the world! \u2713 Become a better you by using this simple but powerful training app. \ud83d\udd25Top Features \u2605Offer workout routines \u2605 Effective Weight Loss \u2605 Records your weight loss progress \u2605 BMI calulator,ideal weight calculator \u2605 Reminds you to workout every day \u2605 Change your meal and workout time \u2605 Reminds you to have your meal and water \u2605 Detailed exercise video guides \u2605 Increases exercise intensity step by step \u2605 Provides each diet with recipe \u2605 Helps to loose weight soon \u2605 Different weight loss plans according to your needs \u2605 Brain Waves to calm and motivate you \u2605 Tips to stay Fit and Healthy Stick with our diet plans and home workouts, and you will notice a change in you in just a few days. \ud83d\udc49More Features \u25a0 Offering tips and guides on proper diet; \u25a0 Offering vegetarian and non-vegetarian Diet plans; \u25a0 Offering you workouts to get rid of excessive weight; \u25a0 Ability to pause the workout, and skip to the next or the previous exercise; \u25a0 Offering you sprint interval workouts; \u25a0 Demonstrating every step in our instructive videos; \u25a0 Providing tips on proper exercise execution. *  Weight Loss Apps  - Loose weight very fast and quickly with this effective weight loss app, which provides Home Workout and Diet Plans to keep you at your best.  \ud83d\udc49Thousands of satisfied customers have rated the app 5 stars and left their enthusiastic reviews on Google Play Store after achieved good results.This Weight Loss app lets you have the feeling of fitness with diet and workout on a single click without ever having to hit the gym. Weight Loss Apps Looking for lose weight app? Want to lose weight fast? No satisfied weight loss? No worry, here is the weight loss app you can find to help you lose weight fast. Try it out now to lose weight , this best weight loss app is not only good at workout but also is a good diet plan - weight loss apps. Workout at Home Take a few minutes a day to keep fit and lose weight with our workout at home. No equipment needed, just use your bodyweight to exercise at home. Fitness App Multiple full body workouts are available to help you loose fat. Follow all weight loss apps - tips, meals and power full workouts, lean body is within your reach! Weight Loss Apps Free for Women Hard to lose weight- This weight loss apps free for women is designed by us, you can lose weight safe and fast with our weight loss apps free for women. Fat Burning Workouts & Hiit Workouts The calorie burning workouts & HIIT workouts for clean shape. Burn calories with fat burning workouts, and combine with HIIT workouts to to get the better results. Home Exercise Looking for a home exercise app- We provide you short & effective exercises in this home workout app. Workout at home to lose weight now! You can contact us for any queries at lifeapps21@gmail.com JOIN AND CHANGE YOUR LIFE IN 10 DAYS!",
+  "privacyText": "https://docs.google.com/document/d/e/2PACX-1vTv-YnXMjjRyelXEUjYr5-E0gntGOYzwXvl8M_s_evrQ_wJF4lDyUq7qNcgMuUsdm1AsrtTEaq2zfzo/pub",
+  "numInstalls": 1000000,
+  "developer": "LifeChangerApps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://docs.google.com/document/d/e/2PACX-1vTv-YnXMjjRyelXEUjYr5-E0gntGOYzwXvl8M_s_evrQ_wJF4lDyUq7qNcgMuUsdm1AsrtTEaq2zfzo/pub",
+    "Developer Email": "lifeapps21@gmail.com",
+    "Privacy Policy": "https://docs.google.com/document/d/e/2PACX-1vTv-YnXMjjRyelXEUjYr5-E0gntGOYzwXvl8M_s_evrQ_wJF4lDyUq7qNcgMuUsdm1AsrtTEaq2zfzo/pub"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

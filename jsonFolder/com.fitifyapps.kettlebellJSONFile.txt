@@ -1,0 +1,80 @@
+{
+  "name": "com.fitifyapps.kettlebell",
+  "fileSize": "18.6 MB",
+  "VTmd5": "4d664591fc472245f08eb99841fc188f",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/93cef0810bc76824305f2c396b3b3624e1abd242a822ea6de12c64253944e19a/detection/f-93cef0810bc76824305f2c396b3b3624e1abd242a822ea6de12c64253944e19a-1586337354",
+  "VTresource": "93cef0810bc76824305f2c396b3b3624e1abd242a822ea6de12c64253944e19a",
+  "VTresponsecode": 1,
+  "VTscanID": "93cef0810bc76824305f2c396b3b3624e1abd242a822ea6de12c64253944e19a-1586337354",
+  "VTsha1": "bf06a726cf722d7a64f85594a02382968a496cf5",
+  "VTsha256": "93cef0810bc76824305f2c396b3b3624e1abd242a822ea6de12c64253944e19a",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "12 March 2020",
+    "Size": "19M",
+    "Installs": "100000",
+    "Current Version": "1.6.2",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$2.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fitify Apps",
+    "Developer": "Visit website support@fitifyapps.com Privacy Policy Podhurecka 558 Klatovy 33901 Czech Republic"
+  },
+  "rating": "4.7",
+  "description": "Kettlebell Workouts is a video coaching app, which gives you full workout sessions with kettlebell.  Increase muscular strength, balance and cardio condition as well.  Features \u2022 over 45 kettlebell exercises \u2022 5 unique workout programs \u2022 voice coach \u2022 clear HD video demonstrations \u2022 works offline Custom Workouts Create your own workouts from our exercise library. Adaptable difficulty We adjust your training level up or down based on your feedback. Be stronger, leaner, healthier with Fitify \u2013 your very own personal trainer. Check other Fitify apps with different fitness tools (such as TRX, Kettlebell, Swiss Ball or Foam Roller).",
+  "privacyText": "https://gofitify.com/privacy-policy.html",
+  "numInstalls": 100000,
+  "developer": "Fitify Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://gofitify.com",
+    "Developer Email": "support@fitifyapps.com",
+    "Privacy Policy": "https://gofitify.com/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

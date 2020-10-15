@@ -1,0 +1,69 @@
+{
+  "name": "com.probikegarage.app",
+  "fileSize": "2.4 MB",
+  "VTmd5": "c8fdf4ad44e9dc43f6defca73ad7dcf2",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/daf796e96e0440dccc9997de7bd0154deacb130630932f895518e2090062663a/detection/f-daf796e96e0440dccc9997de7bd0154deacb130630932f895518e2090062663a-1598452051",
+  "VTresource": "daf796e96e0440dccc9997de7bd0154deacb130630932f895518e2090062663a",
+  "VTresponsecode": 1,
+  "VTscanID": "daf796e96e0440dccc9997de7bd0154deacb130630932f895518e2090062663a-1598452051",
+  "VTsha1": "d0004c617602439a1446268cfe93de2f685a7b5e",
+  "VTsha256": "daf796e96e0440dccc9997de7bd0154deacb130630932f895518e2090062663a",
+  "VTtotal": 59,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.probikegarage.app.presentation.AppFirebaseMessagingService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "7 June 2020",
+    "Size": "2.4M",
+    "Installs": "10000",
+    "Current Version": "1.26.0",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "probikegarage.com",
+    "Developer": "Visit website support@probikegarage.com Privacy Policy"
+  },
+  "rating": "4.3",
+  "description": "ProBikeGarage is a bicycle maintenance tracker that integrates with Strava and allows users to receive maintenance notifications at different intervals and analyze how long components last. \u2714\ufe0f Don't worry about anything else than pedaling and we'll let you know when your components require some maintenance or replacement. \u2714\ufe0f Log in using your existing Strava account to synchronize all your bikes and rides automatically. \u2714\ufe0f Register your component, add it to one or more bikes and it will be associated with its actual rides: distance and moving time will be updated based on total rides. \u2714\ufe0f Install components only for some kind of rides, as you do in real life: different rear tyre and cassette for indoor/outdoor, lighter tyres for a race and front light for a commute.",
+  "privacyText": "https://www.probikegarage.com/privacy.html",
+  "numInstalls": 10000,
+  "developer": "probikegarage.com",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.probikegarage.com",
+    "Developer Email": "support@probikegarage.com",
+    "Privacy Policy": "https://www.probikegarage.com/privacy.html"
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": false
+}

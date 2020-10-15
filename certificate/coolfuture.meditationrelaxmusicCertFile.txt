@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 114343030 (0x6d0bc76)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: ST=Zaragoza, L=Zaragoza, O=Cool Future, OU=Director, CN=Victor Gomez
+        Validity
+            Not Before: Apr  9 16:13:43 2015 GMT
+            Not After : Mar 25 16:13:43 2075 GMT
+        Subject: ST=Zaragoza, L=Zaragoza, O=Cool Future, OU=Director, CN=Victor Gomez
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:83:aa:0b:5e:2c:a2:a4:ec:75:b3:c1:e6:2f:71:
+                    73:13:18:d2:3c:47:bd:4f:49:90:96:e4:f8:ef:fe:
+                    6d:a5:26:76:ba:da:1d:18:1b:3c:ec:4a:00:2a:f8:
+                    40:e0:19:db:33:d6:2b:77:5e:2c:53:20:ba:61:15:
+                    bb:90:a7:96:26:95:a1:40:86:09:0f:54:c5:f1:34:
+                    f9:ba:d3:e7:54:f1:96:cd:4b:11:aa:42:15:87:04:
+                    3d:3a:01:34:1c:f2:96:ae:86:b4:50:d6:db:6a:90:
+                    c1:46:35:f1:f5:c2:76:41:e4:7d:a4:9b:4b:68:6f:
+                    9c:ab:68:3a:5e:76:21:95:0d:9f:2b:f1:bf:8d:42:
+                    0c:d6:16:98:66:b1:b7:2a:03:45:56:93:c0:e8:c8:
+                    9c:9a:43:89:d5:ad:07:b4:4f:0f:c5:dd:b0:49:b9:
+                    ae:d7:7f:de:24:e8:37:f5:65:b1:72:d2:d4:10:24:
+                    83:6c:37:f7:28:39:ab:c9:f9:1a:7c:32:5d:13:b1:
+                    6d:30:b7:25:97:f5:8a:ef:e8:7b:b2:f9:7c:88:68:
+                    63:92:05:42:aa:f0:b6:ce:11:fe:80:a8:a0:51:27:
+                    be:39:46:08:2c:d0:bc:87:58:ab:c1:ae:9c:42:0f:
+                    2d:4a:31:53:57:f5:f6:c6:d6:60:6a:29:4e:e4:6f:
+                    23:d1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                B9:0E:F2:6E:68:6D:2F:B2:48:BA:F9:BA:B8:F4:3B:BC:DB:8C:F0:64
+    Signature Algorithm: sha256WithRSAEncryption
+         1b:63:e7:93:d8:11:c6:af:94:24:92:13:8b:b4:78:57:36:07:
+         c1:58:97:80:92:3a:53:3f:20:d4:89:61:c1:e5:ef:69:e4:3a:
+         4b:77:d0:04:dc:77:13:35:4e:73:82:be:5b:51:e4:e3:b0:57:
+         cf:6a:92:9e:10:8d:ca:53:20:98:f9:02:06:a7:c7:da:56:12:
+         de:78:4b:9d:e6:67:49:8d:19:86:a3:c0:3c:e1:f3:1d:96:fa:
+         bc:a7:5f:ca:64:a2:49:65:9f:c0:66:51:d5:cf:eb:06:9a:49:
+         78:04:ef:59:1d:b6:10:37:f7:ac:49:e5:fe:e0:9e:91:52:aa:
+         31:2c:21:af:b8:d6:d6:a9:f9:31:f9:84:11:2d:b5:ce:27:9a:
+         5e:ef:70:5c:39:22:7b:dd:85:5d:4b:5f:43:35:aa:b9:52:1e:
+         28:51:47:06:9e:6d:a8:22:22:c1:fc:01:82:6d:d4:12:d1:cc:
+         82:8e:6f:fc:c0:8f:5b:4f:d3:ef:cc:88:d0:39:47:54:cc:f3:
+         bd:ba:be:77:cf:32:bf:e4:33:e7:a4:f8:de:58:68:3c:96:00:
+         7a:22:6a:26:5f:84:ab:4a:6a:e8:2e:55:e8:e3:75:16:a3:58:
+         15:dd:ce:ac:5c:5d:e4:92:35:64:f8:f9:39:cf:5a:bf:f5:dc:
+         0d:a7:d0:67
+-----BEGIN CERTIFICATE-----
+MIIDbTCCAlWgAwIBAgIEBtC8djANBgkqhkiG9w0BAQsFADBmMREwDwYDVQQIEwha
+YXJhZ296YTERMA8GA1UEBxMIWmFyYWdvemExFDASBgNVBAoTC0Nvb2wgRnV0dXJl
+MREwDwYDVQQLEwhEaXJlY3RvcjEVMBMGA1UEAxMMVmljdG9yIEdvbWV6MCAXDTE1
+MDQwOTE2MTM0M1oYDzIwNzUwMzI1MTYxMzQzWjBmMREwDwYDVQQIEwhaYXJhZ296
+YTERMA8GA1UEBxMIWmFyYWdvemExFDASBgNVBAoTC0Nvb2wgRnV0dXJlMREwDwYD
+VQQLEwhEaXJlY3RvcjEVMBMGA1UEAxMMVmljdG9yIEdvbWV6MIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg6oLXiyipOx1s8HmL3FzExjSPEe9T0mQluT4
+7/5tpSZ2utodGBs87EoAKvhA4BnbM9Yrd14sUyC6YRW7kKeWJpWhQIYJD1TF8TT5
+utPnVPGWzUsRqkIVhwQ9OgE0HPKWroa0UNbbapDBRjXx9cJ2QeR9pJtLaG+cq2g6
+XnYhlQ2fK/G/jUIM1haYZrG3KgNFVpPA6MicmkOJ1a0HtE8Pxd2wSbmu13/eJOg3
+9WWxctLUECSDbDf3KDmryfkafDJdE7FtMLcll/WK7+h7svl8iGhjkgVCqvC2zhH+
+gKigUSe+OUYILNC8h1irwa6cQg8tSjFTV/X2xtZgailO5G8j0QIDAQABoyEwHzAd
+BgNVHQ4EFgQUuQ7ybmhtL7JIuvm6uPQ7vNuM8GQwDQYJKoZIhvcNAQELBQADggEB
+ABtj55PYEcavlCSSE4u0eFc2B8FYl4CSOlM/INSJYcHl72nkOkt30ATcdxM1TnOC
+vltR5OOwV89qkp4QjcpTIJj5Aganx9pWEt54S53mZ0mNGYajwDzh8x2W+rynX8pk
+oklln8BmUdXP6waaSXgE71kdthA396xJ5f7gnpFSqjEsIa+41tap+TH5hBEttc4n
+ml7vcFw5InvdhV1LX0M1qrlSHihRRwaebagiIsH8AYJt1BLRzIKOb/zAj1tP0+/M
+iNA5R1TM8726vnfPMr/kM+ek+N5YaDyWAHoiaiZfhKtKauguVejjdRajWBXdzqxc
+XeSSNWT4+TnPWr/13A2n0Gc=
+-----END CERTIFICATE-----
+

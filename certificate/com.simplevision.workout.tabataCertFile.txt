@@ -1,0 +1,47 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1406735273 (0x53d913a9)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=Simple Vision, OU=Simple Vision, CN=Simple Vision
+        Validity
+            Not Before: Jul 30 15:47:53 2014 GMT
+            Not After : Jul 24 15:47:53 2039 GMT
+        Subject: O=Simple Vision, OU=Simple Vision, CN=Simple Vision
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a7:c6:3a:14:2a:f6:3a:47:86:4d:ed:ab:9c:f4:
+                    4c:67:c5:6c:f8:5a:04:56:e1:91:92:45:7b:bf:0f:
+                    bd:ef:e4:19:93:be:7b:8a:6a:57:bb:e3:0d:b7:9a:
+                    18:da:9e:f5:e2:6c:bc:69:17:06:31:0e:c8:17:fd:
+                    96:c2:65:fe:b1:7d:92:72:ad:bd:5d:12:ac:35:e1:
+                    6e:74:8a:63:90:14:c8:91:67:73:b4:99:7e:fa:ad:
+                    98:8a:14:0f:18:c1:9d:f2:66:97:22:2f:f1:52:68:
+                    0b:87:6e:7b:6e:35:8c:ea:b5:2e:c7:36:25:ad:c8:
+                    01:81:0e:60:15:ab:0d:0b:69
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         08:c7:19:c4:e1:e4:96:3b:39:c0:95:9e:3c:cb:e4:da:bd:52:
+         39:c7:82:2c:62:b5:0a:ce:8a:ef:c3:a4:3e:f4:31:f5:0e:53:
+         24:e4:bf:ca:1c:29:a0:45:ce:8f:66:52:a0:79:61:bc:2d:1e:
+         30:6c:8e:2b:79:6e:a7:ec:21:45:30:8a:66:bc:ff:44:5c:a6:
+         9b:98:2a:78:af:b1:4b:5c:f9:d4:c7:d1:3d:a2:fe:5e:3f:33:
+         c2:e1:91:6b:ef:57:eb:c7:6a:b5:87:1e:e1:e9:e4:bc:45:24:
+         6d:76:b6:01:0a:2b:28:af:61:d2:f7:fc:85:97:11:46:3d:8f:
+         34:d6
+-----BEGIN CERTIFICATE-----
+MIICBzCCAXCgAwIBAgIEU9kTqTANBgkqhkiG9w0BAQUFADBIMRYwFAYDVQQKEw1T
+aW1wbGUgVmlzaW9uMRYwFAYDVQQLEw1TaW1wbGUgVmlzaW9uMRYwFAYDVQQDEw1T
+aW1wbGUgVmlzaW9uMB4XDTE0MDczMDE1NDc1M1oXDTM5MDcyNDE1NDc1M1owSDEW
+MBQGA1UEChMNU2ltcGxlIFZpc2lvbjEWMBQGA1UECxMNU2ltcGxlIFZpc2lvbjEW
+MBQGA1UEAxMNU2ltcGxlIFZpc2lvbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkC
+gYEAp8Y6FCr2OkeGTe2rnPRMZ8Vs+FoEVuGRkkV7vw+97+QZk757impXu+MNt5oY
+2p714my8aRcGMQ7IF/2WwmX+sX2Scq29XRKsNeFudIpjkBTIkWdztJl++q2YihQP
+GMGd8maXIi/xUmgLh257bjWM6rUuxzYlrcgBgQ5gFasNC2kCAwEAATANBgkqhkiG
+9w0BAQUFAAOBgQAIxxnE4eSWOznAlZ48y+TavVI5x4IsYrUKzorvw6Q+9DH1DlMk
+5L/KHCmgRc6PZlKgeWG8LR4wbI4reW6n7CFFMIpmvP9EXKabmCp4r7FLXPnUx9E9
+ov5ePzPC4ZFr71frx2q1hx7h6eS8RSRtdrYBCisor2HS9/yFlxFGPY801g==
+-----END CERTIFICATE-----
+

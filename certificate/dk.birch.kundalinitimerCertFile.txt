@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2081742863 (0x7c14e00f)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=SE, L=Johannishus, O=Mobirch, CN=Jesper Birch Jensen
+        Validity
+            Not Before: Apr  8 09:42:48 2017 GMT
+            Not After : Apr  2 09:42:48 2042 GMT
+        Subject: C=SE, L=Johannishus, O=Mobirch, CN=Jesper Birch Jensen
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b5:8e:67:82:dd:6f:ec:ed:85:74:65:8b:b4:d1:
+                    da:b2:ab:f1:81:d4:2b:7e:75:02:1e:a7:d8:18:32:
+                    ff:7a:66:75:b0:36:e2:44:fa:10:56:d2:db:51:90:
+                    8e:2a:b7:6d:e9:35:6e:49:73:b0:1b:93:6e:b9:56:
+                    60:f5:13:9b:71:2e:8c:15:5d:35:9f:5e:03:30:51:
+                    19:54:32:e0:bf:0c:2e:58:a2:fb:6e:04:1e:ab:01:
+                    f0:04:82:f3:ff:d8:79:91:7d:ca:ca:b1:61:a8:66:
+                    5c:8d:7e:df:d1:19:91:68:20:95:ea:1b:4a:da:8a:
+                    1e:d0:5f:ac:cb:25:0b:18:c5:7c:c0:80:f2:f8:6f:
+                    60:49:c5:e2:ed:73:ee:84:3e:01:f5:0d:ea:b5:b7:
+                    26:a0:cb:c3:9e:64:1b:51:99:20:83:24:61:bf:a4:
+                    66:ae:7f:d2:64:92:35:03:c7:67:30:c2:3d:96:53:
+                    4a:fe:01:89:c8:4d:73:e5:21:91:0b:4b:a9:c3:1d:
+                    a0:57:86:46:52:1c:cc:8d:8d:24:93:00:c8:f6:58:
+                    25:d8:c2:77:a8:b6:01:56:44:34:0f:66:83:4e:ae:
+                    46:29:72:a5:ad:af:70:64:10:36:f6:3a:7f:4e:5a:
+                    a3:fd:d2:66:4d:74:6b:73:c8:28:6c:bf:31:13:53:
+                    59:79
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                48:16:7B:B2:B2:41:13:52:51:BD:0A:2F:C9:C0:57:1E:E2:63:CC:EE
+    Signature Algorithm: sha256WithRSAEncryption
+         4e:fe:29:b3:e3:9e:06:c1:ff:b1:2a:dc:20:d7:d3:7e:8b:cf:
+         15:a0:b4:97:1e:12:e4:b4:63:c5:ff:4b:29:c8:07:73:21:4a:
+         e6:4f:42:30:c2:d8:dd:8a:0c:b8:e2:11:1b:a1:65:e6:da:2b:
+         aa:ac:a0:0d:69:ed:64:16:a4:27:2f:f6:24:1b:c2:98:0c:80:
+         4a:db:9f:28:7a:f9:1a:83:39:74:ae:e7:cb:2d:78:f7:d8:a0:
+         84:35:4d:c4:d2:84:3e:17:dc:a2:60:5f:b8:98:6f:6b:81:88:
+         16:79:64:64:1d:28:79:2a:1f:27:30:ad:f7:6d:e7:26:ac:5b:
+         1e:0d:1f:bd:df:00:fd:ee:55:05:6a:0f:3f:de:0c:0c:2a:84:
+         e0:92:b0:83:04:78:ae:3f:1d:ae:9c:0b:31:ba:c6:02:3c:0b:
+         da:ed:71:99:64:3d:ed:86:aa:ba:31:81:e1:92:2c:f2:0b:85:
+         14:a0:50:a0:27:55:45:72:70:9d:d1:76:59:eb:0a:31:54:e6:
+         a5:61:db:43:17:92:cb:5d:f9:88:db:cc:28:88:a4:0d:15:0e:
+         cd:5c:40:64:7b:09:5a:9e:21:14:a5:52:e5:52:26:19:01:e4:
+         2c:92:9f:e3:80:c8:69:74:8f:dc:68:33:0c:74:ad:7b:47:1e:
+         06:b7:e9:95
+-----BEGIN CERTIFICATE-----
+MIIDRTCCAi2gAwIBAgIEfBTgDzANBgkqhkiG9w0BAQsFADBTMQswCQYDVQQGEwJT
+RTEUMBIGA1UEBxMLSm9oYW5uaXNodXMxEDAOBgNVBAoTB01vYmlyY2gxHDAaBgNV
+BAMTE0plc3BlciBCaXJjaCBKZW5zZW4wHhcNMTcwNDA4MDk0MjQ4WhcNNDIwNDAy
+MDk0MjQ4WjBTMQswCQYDVQQGEwJTRTEUMBIGA1UEBxMLSm9oYW5uaXNodXMxEDAO
+BgNVBAoTB01vYmlyY2gxHDAaBgNVBAMTE0plc3BlciBCaXJjaCBKZW5zZW4wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC1jmeC3W/s7YV0ZYu00dqyq/GB
+1Ct+dQIep9gYMv96ZnWwNuJE+hBW0ttRkI4qt23pNW5Jc7Abk265VmD1E5txLowV
+XTWfXgMwURlUMuC/DC5YovtuBB6rAfAEgvP/2HmRfcrKsWGoZlyNft/RGZFoIJXq
+G0raih7QX6zLJQsYxXzAgPL4b2BJxeLtc+6EPgH1Deq1tyagy8OeZBtRmSCDJGG/
+pGauf9JkkjUDx2cwwj2WU0r+AYnITXPlIZELS6nDHaBXhkZSHMyNjSSTAMj2WCXY
+wneotgFWRDQPZoNOrkYpcqWtr3BkEDb2On9OWqP90mZNdGtzyChsvzETU1l5AgMB
+AAGjITAfMB0GA1UdDgQWBBRIFnuyskETUlG9Ci/JwFce4mPM7jANBgkqhkiG9w0B
+AQsFAAOCAQEATv4ps+OeBsH/sSrcINfTfovPFaC0lx4S5LRjxf9LKcgHcyFK5k9C
+MMLY3YoMuOIRG6Fl5torqqygDWntZBakJy/2JBvCmAyAStufKHr5GoM5dK7nyy14
+99ighDVNxNKEPhfcomBfuJhva4GIFnlkZB0oeSofJzCt923nJqxbHg0fvd8A/e5V
+BWoPP94MDCqE4JKwgwR4rj8drpwLMbrGAjwL2u1xmWQ97YaqujGB4ZIs8guFFKBQ
+oCdVRXJwndF2WesKMVTmpWHbQxeSy135iNvMKIikDRUOzVxAZHsJWp4hFKVS5VIm
+GQHkLJKf44DIaXSP3GgzDHSte0ceBrfplQ==
+-----END CERTIFICATE-----
+

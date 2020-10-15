@@ -1,0 +1,82 @@
+{
+  "name": "ru.harmonicsoft.caloriecounter",
+  "fileSize": "20.0 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.CAMERA Protection Level: dangerous",
+    "false Protection Level: Developer Defined Permission",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "false Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "13 July 2020",
+    "Size": "20M",
+    "Installs": "1000000",
+    "Current Version": "5.33",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$1.25 \u2013 $5.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "webidevapp",
+    "Developer": "Visit website info@lwwd.me Privacy Policy 04210, Ukraine, Kyiv, Heroiv Stalinhrada 10\u0410/1, 43"
+  },
+  "rating": "4.7",
+  "description": "Do you know the healthiest way to slim down? Reading countless magazine articles, going on crash diets, or filling your body with \u201cmagic\u201d diet pills is not the answer, although many people turn to those solutions. The best answer is also the easiest - Ask a nutritionist how to lose weight in a healthy way!  His advice will most likely sound like this: \"Quick diets are dangerous and unhealthy, so you must control what you eat and how much you consume! Cut out the sweets and hamburgers. Monitor yourself and eat healthy food as much as possible. Also, you need to record all your meals in a journal and count the calories!\" At this point, you might be thinking\u2026Use a journal as a calorie counter? How boring!  As millions of people will admit, after two or three days, you'll simply stop using the journal and return to your bad, overeating habits\u2026 In our modern, high-tech world, there has to be another solution, right? Of Course! The app \"Lose Weight Without Dieting\" is an easy-to-use calorie counter that provides you with a fun and comfortable way to lose weight! You simply record all of your meals in the app, (which is far more convenient than carrying a journal everywhere you go!) and it will tell you whether or not the meal was healthy. It will also calculate the calories, proteins, fats, and carbs. If you forget to record any meals, the app will remind you! Furthermore, how much of your day did you spend running, walking, jumping, or swimming? Record all of your various types of physical training in the app and it will recalculate your dietary intake and make sure that your body\u2019s caloric intake accounts for your exercise. Don\u2019t forget to weigh in! \"Lose Weight Without Dieting\" tracks your weight, as well as your bust, waist, and thigh measurements, so you can monitor your progress towards your slimmed down goals! The easy-to-read graphs will be a source of motivation and encouragement to keep working. Even if you do not know how to eat healthy, nor which exercises are required to get in shape, our app will suggest customized nutrition and training plans that will help you lose weight in a healthy and sustainable way. All you need to do is to cook the foods we suggest and do the recommended exercises to achieve all your goals! \"Lose Weight Without Dieting\" is more than just a calorie counter; this revolutionary new app will also give you countless hints and insider tricks on how to lose weight in a healthy way!  \u201cLose Weight Without Dieting\u201d offers these unique, helpful features: - Daily charts to track proteins, fats, carbs - Timeline progress of your bust, waist, and hips measurements - Water consumption tracking - Reminders of daily intakes and water consumptions - Writing notes, setting moods, and photo capabilities - Taking pictures of your food so you can record it later - Customized baseline for food and training - Scheduling of your future meals and exercises - Predefined weight loss plans Along with all of these tips, tricks, and constant guidance for healthier weight loss, you also get bonuses (pearls) for frequent use of our calorie counter! These pearls will give you a discount for purchasing the ad-free version of the app! Also, if you get enough pearls, you can even remove the ad banners for free!",
+  "privacyText": "http://www.lwwd.me/privacy-policy.html",
+  "numInstalls": 1000000,
+  "developer": "webidevapp",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://lwwd.me",
+    "Developer Email": "info@lwwd.me",
+    "Privacy Policy": "http://www.lwwd.me/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Google Analytics",
+    "Nostra13"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

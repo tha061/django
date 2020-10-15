@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1442967146 (0x5601ee6a)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: ST=71000, L=Sarajevo, O=ArsuTech, OU=ArsuTech, CN=Arslan Hajdarevic
+        Validity
+            Not Before: Sep 23 00:12:26 2015 GMT
+            Not After : Jan 24 00:12:26 3014 GMT
+        Subject: ST=71000, L=Sarajevo, O=ArsuTech, OU=ArsuTech, CN=Arslan Hajdarevic
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:82:af:fb:e5:36:78:c7:66:e1:b1:b6:25:30:53:
+                    22:d7:76:50:f3:88:57:36:1c:9f:0f:1e:db:6f:07:
+                    1a:88:4d:f3:9d:24:c2:14:e5:46:ca:f1:25:66:2c:
+                    d7:f6:b7:f8:71:d5:6e:84:53:a5:37:20:07:ba:5c:
+                    3d:16:2f:6d:00:e4:ab:10:b4:08:08:90:87:bd:b5:
+                    8b:f3:b2:c5:ed:15:15:06:ef:20:ea:92:16:7d:89:
+                    bb:69:63:79:fe:9c:97:19:69:be:9f:ac:2a:90:ca:
+                    fd:5e:79:8c:14:23:48:92:fc:41:11:d5:59:4e:e0:
+                    bf:6e:f9:b3:04:34:87:c5:43
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         09:dc:02:4c:e8:c9:28:15:41:e9:a7:54:f2:f8:95:4c:ff:95:
+         b0:df:6b:5c:77:f6:a5:93:5e:f7:36:3e:c2:3e:ce:d7:d1:6d:
+         b7:1d:d8:67:6e:6f:28:0b:90:1c:4e:7c:47:f4:0b:5f:aa:1a:
+         3a:9c:c3:ba:b7:14:cc:6a:f2:2c:14:6a:ab:63:a3:df:62:8e:
+         f8:7e:74:d2:bd:3b:80:12:42:d5:1a:36:cc:46:58:d9:07:f2:
+         07:5d:3c:9a:69:84:59:2c:51:7b:b3:a4:9c:df:2b:31:2f:dc:
+         30:a2:fb:85:b1:5e:18:cd:ec:66:f5:ab:87:39:78:19:ae:c5:
+         58:0f
+-----BEGIN CERTIFICATE-----
+MIICQzCCAaygAwIBAgIEVgHuajANBgkqhkiG9w0BAQUFADBlMQ4wDAYDVQQIEwU3
+MTAwMDERMA8GA1UEBxMIU2FyYWpldm8xETAPBgNVBAoTCEFyc3VUZWNoMREwDwYD
+VQQLEwhBcnN1VGVjaDEaMBgGA1UEAxMRQXJzbGFuIEhhamRhcmV2aWMwIBcNMTUw
+OTIzMDAxMjI2WhgPMzAxNDAxMjQwMDEyMjZaMGUxDjAMBgNVBAgTBTcxMDAwMREw
+DwYDVQQHEwhTYXJhamV2bzERMA8GA1UEChMIQXJzdVRlY2gxETAPBgNVBAsTCEFy
+c3VUZWNoMRowGAYDVQQDExFBcnNsYW4gSGFqZGFyZXZpYzCBnzANBgkqhkiG9w0B
+AQEFAAOBjQAwgYkCgYEAgq/75TZ4x2bhsbYlMFMi13ZQ84hXNhyfDx7bbwcaiE3z
+nSTCFOVGyvElZizX9rf4cdVuhFOlNyAHulw9Fi9tAOSrELQICJCHvbWL87LF7RUV
+Bu8g6pIWfYm7aWN5/pyXGWm+n6wqkMr9XnmMFCNIkvxBEdVZTuC/bvmzBDSHxUMC
+AwEAATANBgkqhkiG9w0BAQUFAAOBgQAJ3AJM6MkoFUHpp1Ty+JVM/5Ww32tcd/al
+k173Nj7CPs7X0W23Hdhnbm8oC5AcTnxH9Atfqho6nMO6txTMavIsFGqrY6PfYo74
+fnTSvTuAEkLVGjbMRljZB/IHXTyaaYRZLFF7s6Sc3ysxL9wwovuFsV4Yzexm9auH
+OXgZrsVYDw==
+-----END CERTIFICATE-----
+

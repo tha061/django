@@ -1,0 +1,80 @@
+{
+  "name": "com.lumowell.dailyabs",
+  "fileSize": "43.9 MB",
+  "VTmd5": "ea401697a0c19562cd02eb6b1af06c20",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/214198e50edb27314d029d97042ced0cb8b569eea25844c5b5c36b41be9edaaf/detection/f-214198e50edb27314d029d97042ced0cb8b569eea25844c5b5c36b41be9edaaf-1573527528",
+  "VTresource": "214198e50edb27314d029d97042ced0cb8b569eea25844c5b5c36b41be9edaaf",
+  "VTresponsecode": 1,
+  "VTscanID": "214198e50edb27314d029d97042ced0cb8b569eea25844c5b5c36b41be9edaaf-1573527528",
+  "VTsha1": "a8b0141b0fde4ffd7947313778d7ba3a39a9c4f6",
+  "VTsha256": "214198e50edb27314d029d97042ced0cb8b569eea25844c5b5c36b41be9edaaf",
+  "VTtotal": 55,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.lumowell.dailyabs.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.lumowell.dailyabs.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.lumowell.dailyabs.GcmIntentService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "23 September 2016",
+    "Size": "44M",
+    "Installs": "100000",
+    "Current Version": "1.1.9",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Lumowell - Ego360",
+    "Developer": "Visit website service.ego360@gmail.com Privacy Policy Via Cimarosa, 65 - 80127 Napoli"
+  },
+  "rating": "4.8",
+  "description": "Daily AB exercises to do at home without weights or equipment, a complete flat stomach training program for women and men.  The virtual personal trainer will guide you during the workouts and will show you proper form of the exercises to prevent mistakes. How to lose belly fat? Simple, do the 5/10 minute ab daily workout 5 times a week and follow the nutritional tips in the app. When you are ready you can start an healthy diet unlocking the meal plan generator in the premium version.  Unlock the 4-week training program with cardio + abs toning workouts to maximize the fat burning effect and get flat toned abs as soon as possible. Ab app by Ego360 for the Lumofit / Lumowell project.",
+  "privacyText": "http://www.lumowell.com/privacy.php",
+  "numInstalls": 100000,
+  "developer": "Lumowell - Ego360",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.lumowell.com/",
+    "Developer Email": "service.ego360@gmail.com",
+    "Privacy Policy": "http://www.lumowell.com/privacy.php"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Google Analytics",
+    "YOC"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

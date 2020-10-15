@@ -1,0 +1,5 @@
+com.tinymission.dailyyogafree
+com.tinymission.dailyworkoutsfree
+com.radicalfitness
+com.radicalfitness
+com.dailyburn.challenge

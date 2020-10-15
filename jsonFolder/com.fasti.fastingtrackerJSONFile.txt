@@ -1,0 +1,74 @@
+{
+  "name": "com.fasti.fastingtracker",
+  "fileSize": "10.8 MB",
+  "VTmd5": "ca69659d17dbb4a002eb3232c0f6186f",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/513de50ffba291bd2d0259d8ba4c65c38615b741ce32a8c8cd5388c9289e7f36/detection/f-513de50ffba291bd2d0259d8ba4c65c38615b741ce32a8c8cd5388c9289e7f36-1575853853",
+  "VTresource": "513de50ffba291bd2d0259d8ba4c65c38615b741ce32a8c8cd5388c9289e7f36",
+  "VTresponsecode": 1,
+  "VTscanID": "513de50ffba291bd2d0259d8ba4c65c38615b741ce32a8c8cd5388c9289e7f36-1575853853",
+  "VTsha1": "8bbe390367abfcedb4a98e6badf7f7e6e8bdecf3",
+  "VTsha256": "513de50ffba291bd2d0259d8ba4c65c38615b741ce32a8c8cd5388c9289e7f36",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.evernote.android.job.v21.PlatformJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.evernote.android.job.v14.PlatformAlarmService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.evernote.android.job.v14.PlatformAlarmServiceExact  permission: ",
+      "name: com.evernote.android.job.gcm.PlatformGcmService  permission: com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE",
+      "name: com.evernote.android.job.JobRescheduleService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "9 November 2019",
+    "Size": "11M",
+    "Installs": "50000",
+    "Current Version": "76.0",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$7.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "OnlyAwesomeApps",
+    "Developer": "Visit website support@fitnessbook.tech Istarski razvod 10, 52100, Pula, Croatia"
+  },
+  "rating": "4.6",
+  "description": "Fasti is a simple fasting tracker used for track intermittent fasting time. It allows users to track, edit and compare FAST TIME, WEIGHT LOSS and track BODY MEASURES. Fasti allows users to select 3 types of fasting, 16 hour fast, 13 hour fast or create a custom fasting time. It even allow to set LONGER fasts (72 hours max). With fasti You can: - track fasting time -track weight -track body measures -set notification to start fast -set notification when fast is over -export fast data -export weight data -use widget to track fasting time -modify start fast time  -modify end fast time -sync data with web -visualise data on web  Fast is very simple, yet a very powefull tool to keep you on track on a weight loss journey.  Fasti tips for weight loss: - inside fasting period user must consume zero calories. - inside fasting period only zero calories food are allowed like coffe, tea, water etc. - stay consistent, but you do not have to fast every day. - fast longer if you exaggerate with food a day before. - exercize while fasting or before breaking the fast - that forces the body to use energy from stored fat.",
+  "privacyText": "",
+  "numInstalls": 50000,
+  "developer": "OnlyAwesomeApps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://fasti-fastingtracker.net",
+    "Developer Email": "support@fitnessbook.tech",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

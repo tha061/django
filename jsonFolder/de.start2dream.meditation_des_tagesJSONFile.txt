@@ -1,0 +1,69 @@
+{
+  "name": "de.start2dream.meditation_des_tages",
+  "fileSize": "42.1 MB",
+  "VTmd5": "aaba1b0bbd9733a43bd6cd97cdcd9f87",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/d38238acff8c3e166ec299a0bb398650aa0d34397e0697a7dc5ebf78ec405893/detection/f-d38238acff8c3e166ec299a0bb398650aa0d34397e0697a7dc5ebf78ec405893-1567879576",
+  "VTresource": "d38238acff8c3e166ec299a0bb398650aa0d34397e0697a7dc5ebf78ec405893",
+  "VTresponsecode": 1,
+  "VTscanID": "d38238acff8c3e166ec299a0bb398650aa0d34397e0697a7dc5ebf78ec405893-1567879576",
+  "VTsha1": "4d3de3bcd919039e2e68a3f1d93dfa896ab06911",
+  "VTsha256": "d38238acff8c3e166ec299a0bb398650aa0d34397e0697a7dc5ebf78ec405893",
+  "VTtotal": 59,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.ansca.corona.CoronaService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "17 August 2018",
+    "Size": "42M",
+    "Installs": "100000",
+    "Current Version": "3.6",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$2.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "start2dream.de",
+    "Developer": "Visit website info@start2dream.de Privacy Policy Nils Klippstein\nEmmi-Kurzke-Str. 22\n24306 Pl\u00f6n"
+  },
+  "rating": "4.5",
+  "description": "With this app you can experience inner inspiration & motivation, you learn mindfulness in everyday life, get new insights and deep internal knowledge. There is a new meditation for you every day (12 are for free, and you can get many more with the full version). Also for beginners: If you are just starting to meditate, check out the practical introduction of this app: What is meditation? How do I meditate? How long? How often? Stay focused & mindful: Choose from one of eight mindfulness bells. And if your mind wanders, the bell will bring back your attention to the subject of your meditation. As an extra motivation, a statistics page shows you how many meditations you have already been doing with this app and how long this is in total. NEW: If desired, you can now also meditate with a relaxing music in the background. A user of the app recently wrote to me: \"Your app \"Daily Meditation\" finally enabled me after about 30 years of unsuccessful meditation attempts not to let it get frustrated again (because I thought I wouldn't be able to do it). Have fun and success in your blessed work.\" - Wolfgang S. But why would you want to meditate? Regular meditation strengthens your powers of self-healing, your immune system and your nervous system. It has been proven to lower blood pressure, relieve pain, relax muscles and can help with the quality of your sleep.  The hormone balance and metabolism is balanced and you are better protected against heart and circulatory diseases. Meditating enhances empathy and your intuition. Fears and hyperactivity (ADD) can be reduced, your resistance to stress and burnout is strengthened. It also acts as a natural antidepressant and your overall mental stability will be strengthened. Your brain hemispheres synchronize better, connected and systemic thinking is encouraged. Your concentration and creativity will be strengthened. Your memory and mental performance is increased. Spiritually, you deepen the connection with your own inner core and your consciousness changes and develops. Convinced? Then start now! This app will help you with it.  This app is very easy to use. Under the menu item \"I will meditate\" you will find the current daily meditation. See this meditation idea as an inspiration for you, not as a strict requirement that you have to comply to. Below the meditation text you can set how long you want to meditate. You may also choose whether and how often you want to be gently reminded to the objective of your meditation by a mindfulness bell.  To begin your meditation, simply click on \"Start\". NEW: With the new archive feature, you can now repeat older meditations!",
+  "privacyText": "http://www.start2dream.de/privacy-policy/",
+  "numInstalls": 100000,
+  "developer": "start2dream.de",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.start2dream.de",
+    "Developer Email": "info@start2dream.de",
+    "Privacy Policy": "http://www.start2dream.de/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Ansca"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

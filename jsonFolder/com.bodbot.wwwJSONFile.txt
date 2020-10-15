@@ -1,0 +1,70 @@
+{
+  "name": "com.bodbot.www",
+  "fileSize": "38.8 MB",
+  "VTmd5": "945ffd38fdc327ec60bb0c5401cd9832",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/f4a9e03119dda0dcc50c6132b3eef71a3c832b4a0cf3b332769ea020dd987e93/detection/f-f4a9e03119dda0dcc50c6132b3eef71a3c832b4a0cf3b332769ea020dd987e93-1573867511",
+  "VTresource": "f4a9e03119dda0dcc50c6132b3eef71a3c832b4a0cf3b332769ea020dd987e93",
+  "VTresponsecode": 1,
+  "VTscanID": "f4a9e03119dda0dcc50c6132b3eef71a3c832b4a0cf3b332769ea020dd987e93-1573867511",
+  "VTsha1": "2fe05e729707bfd0a194a538c92476125adaef15",
+  "VTsha256": "f4a9e03119dda0dcc50c6132b3eef71a3c832b4a0cf3b332769ea020dd987e93",
+  "VTtotal": 60,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "com.bodbot.www.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "17 November 2016",
+    "Size": "Varies with device",
+    "Installs": "100000",
+    "Current Version": "3.615",
+    "Requires Android": "4.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$1.00 \u2013 $10.00 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "BodBot",
+    "Developer": "Visit website sergio@bodbot.com Privacy Policy 175 Crescent Ave\nSan Francisco, CA 94110"
+  },
+  "rating": "4.4",
+  "description": "BodBot is a trainer designed to help you reach any fitness goal. Personalize your workout recommendations. BodBot works like a real personal trainer - every workout is tailored to you, and each individual exercise is chosen based on your fitness goal, schedule, available equipment and exercise history. Just as a good personal trainer adapts your workouts over time, BodBot will customize and improve your recommendations based on your progress.  Train anytime and anywhere and take the guesswork out of working out. Where personal trainers, nutritionists and coaches can be extremely expensive, BodBot is designed to democratize these services. The training suite accommodates a broad range of fitness goals, including the ability to bring up strength deficits or specific muscles - from calves, quads, glutes, hamstrings and thighs, to biceps, abs, delts, back muscles or even the rotator cuff. Whether you\u2019re new to exercising, looking to pick up weightlifting or bodyweight fitness, or a seasoned veteran \u2013 we\u2019ll personalize your exercises and nutrition accordingly.  \u2022\u2003 Workout trainer is perfect for beginners as well as the very fit. \u2022\u2003 Creates and tailors your workout plan just like a personal trainer. \u2022\u2003 Exercise at the gym or at home. \u2022\u2003 Workout with bodyweight, free weights, resistance bands and many more.  \u2022\u2003 Adapts as you complete workouts. \u2022\u2003 Weight training recommendations change based on your experience level. \u2022\u2003 Train at your desired difficulty level from casual workouts to intense strength and conditioning workouts. \u2022\u2003 Workout trainer users have lost over 2 million kgs of fat and gained over 400000 kgs of muscle. The Nutritionist includes both a high level macronutrients - protein, carbs and fats - but also micronutrients like omega3 fatty acids, as well as many more vitamins and minerals to keep you lean and healthy. Use the Nutritionist with the personal trainer to adjust macronutrient and micronutrient targets based on your workouts.  Whether you train at the gym or at home, lifting with barbells, kettlebells and dumbbells - or bodyweight alone \u2013 your workouts are personalized specifically for you.",
+  "privacyText": "http://www.bodbot.com/Privacy.html",
+  "numInstalls": 100000,
+  "developer": "BodBot",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.bodbot.com",
+    "Developer Email": "sergio@bodbot.com",
+    "Privacy Policy": "http://www.bodbot.com/Privacy.html"
+  },
+  "smali_Directories": [
+    "Phonegap"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

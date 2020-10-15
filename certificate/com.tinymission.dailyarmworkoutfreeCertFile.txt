@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1291576467 (0x4cfbe493)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=MN, L=Burnsville, O=Tiny Mission, CN=Andy Selvig
+        Validity
+            Not Before: Dec  5 19:14:27 2010 GMT
+            Not After : Nov 27 19:14:27 2040 GMT
+        Subject: C=US, ST=MN, L=Burnsville, O=Tiny Mission, CN=Andy Selvig
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b4:b4:54:91:93:cd:4c:49:a8:f4:7c:41:dc:62:
+                    a6:aa:28:8d:33:de:c6:5a:c9:91:77:3c:23:e2:c6:
+                    ea:3b:89:cc:d9:71:5e:cb:96:93:2a:08:eb:bd:16:
+                    2a:7a:28:4b:99:25:d6:0e:4a:b9:51:6f:e9:05:20:
+                    a0:da:8e:b3:1a:b8:87:ac:30:ab:96:3f:0c:a6:f6:
+                    64:d0:0d:72:18:21:77:35:f6:79:35:93:76:24:7e:
+                    54:7e:3e:99:e9:98:da:a8:db:d2:df:bd:d8:57:49:
+                    9e:0f:d7:c0:2f:ce:a0:9f:c1:e6:60:20:61:e2:62:
+                    d7:c9:89:f4:74:c2:0e:50:13
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         0b:8c:eb:2a:3d:ba:78:a0:bd:e8:b4:ee:0d:8d:db:a4:8d:2f:
+         97:c6:76:4a:c3:ff:18:0a:f5:a3:9c:27:13:dc:9d:e7:79:79:
+         40:d7:51:c1:f8:1e:48:3b:63:43:c7:6f:5f:e7:3c:55:1c:e9:
+         9a:f4:b2:05:4c:dc:6e:1b:b0:e2:b5:be:cc:b4:85:10:41:9d:
+         a7:b2:17:88:51:25:e3:c2:d5:84:90:0e:eb:fd:79:83:27:37:
+         44:8f:94:c6:c3:45:a2:cd:a8:b4:1c:ef:7b:22:f1:1d:db:9e:
+         23:f2:c9:f7:68:b0:16:f7:3c:10:80:8f:0f:40:70:6d:3b:b2:
+         d9:49
+-----BEGIN CERTIFICATE-----
+MIICLzCCAZigAwIBAgIETPvkkzANBgkqhkiG9w0BAQUFADBcMQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCTU4xEzARBgNVBAcTCkJ1cm5zdmlsbGUxFTATBgNVBAoTDFRp
+bnkgTWlzc2lvbjEUMBIGA1UEAxMLQW5keSBTZWx2aWcwHhcNMTAxMjA1MTkxNDI3
+WhcNNDAxMTI3MTkxNDI3WjBcMQswCQYDVQQGEwJVUzELMAkGA1UECBMCTU4xEzAR
+BgNVBAcTCkJ1cm5zdmlsbGUxFTATBgNVBAoTDFRpbnkgTWlzc2lvbjEUMBIGA1UE
+AxMLQW5keSBTZWx2aWcwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALS0VJGT
+zUxJqPR8QdxipqoojTPexlrJkXc8I+LG6juJzNlxXsuWkyoI670WKnooS5kl1g5K
+uVFv6QUgoNqOsxq4h6wwq5Y/DKb2ZNANchghdzX2eTWTdiR+VH4+memY2qjb0t+9
+2FdJng/XwC/OoJ/B5mAgYeJi18mJ9HTCDlATAgMBAAEwDQYJKoZIhvcNAQEFBQAD
+gYEAC4zrKj26eKC96LTuDY3bpI0vl8Z2SsP/GAr1o5wnE9yd53l5QNdRwfgeSDtj
+Q8dvX+c8VRzpmvSyBUzcbhuw4rW+zLSFEEGdp7IXiFEl48LVhJAO6/15gyc3RI+U
+xsNFos2otBzveyLxHdueI/LJ92iwFvc8EICPD0BwbTuy2Uk=
+-----END CERTIFICATE-----
+

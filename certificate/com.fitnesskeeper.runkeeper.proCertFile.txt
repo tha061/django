@@ -1,0 +1,47 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1271368038 (0x4bc78966)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=FitnessKeeper, OU=RunKeeper, CN=Jason Jacobs
+        Validity
+            Not Before: Apr 15 21:47:18 2010 GMT
+            Not After : Mar 22 21:47:18 2109 GMT
+        Subject: O=FitnessKeeper, OU=RunKeeper, CN=Jason Jacobs
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c5:86:35:4f:03:87:3b:1f:f5:6e:07:6c:58:e1:
+                    c7:4c:4d:0c:2a:c1:cd:8d:28:c7:0b:f3:07:18:60:
+                    9b:83:6b:0e:cb:3a:1c:b9:ed:63:c6:08:a0:3f:4c:
+                    47:63:d8:61:24:1b:7f:9e:3c:ec:20:ad:a7:ab:24:
+                    fd:e5:c5:ee:07:9e:92:3e:e6:57:1a:90:22:0b:72:
+                    6f:16:fd:d7:ff:14:ce:c0:f2:36:9f:b6:4e:8a:96:
+                    f6:28:82:ec:03:5c:a3:7e:2c:43:57:8d:fd:ab:ed:
+                    b0:b0:71:f7:f4:0e:03:c3:7c:ee:23:cb:e2:e3:e1:
+                    f1:03:a5:3a:0a:3e:2a:cb:df
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         0e:9c:17:10:3b:14:98:bd:c6:4e:c3:74:db:fb:47:f8:bf:99:
+         9b:5f:5f:39:9f:52:eb:86:2b:c1:f5:31:c9:4d:03:0c:4c:f3:
+         b3:7d:ac:6b:b6:0e:ec:97:3d:43:74:e5:56:c1:e9:12:e8:df:
+         16:44:43:ee:ae:46:51:66:6e:19:34:ab:64:77:cf:17:00:a7:
+         24:b4:20:fb:d8:69:9f:5f:19:1f:f1:34:e7:db:74:f8:d8:e4:
+         6f:03:55:08:af:bf:94:7b:33:3a:66:46:5e:49:b8:98:2d:6c:
+         0b:80:5e:b2:b0:02:2d:0f:d4:b5:3c:a1:c9:74:7e:6f:ec:74:
+         7b:68
+-----BEGIN CERTIFICATE-----
+MIIB/zCCAWigAwIBAgIES8eJZjANBgkqhkiG9w0BAQUFADBDMRYwFAYDVQQKEw1G
+aXRuZXNzS2VlcGVyMRIwEAYDVQQLEwlSdW5LZWVwZXIxFTATBgNVBAMTDEphc29u
+IEphY29iczAgFw0xMDA0MTUyMTQ3MThaGA8yMTA5MDMyMjIxNDcxOFowQzEWMBQG
+A1UEChMNRml0bmVzc0tlZXBlcjESMBAGA1UECxMJUnVuS2VlcGVyMRUwEwYDVQQD
+EwxKYXNvbiBKYWNvYnMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMWGNU8D
+hzsf9W4HbFjhx0xNDCrBzY0oxwvzBxhgm4NrDss6HLntY8YIoD9MR2PYYSQbf548
+7CCtp6sk/eXF7geekj7mVxqQIgtybxb91/8UzsDyNp+2ToqW9iiC7ANco34sQ1eN
+/avtsLBx9/QOA8N87iPL4uPh8QOlOgo+KsvfAgMBAAEwDQYJKoZIhvcNAQEFBQAD
+gYEADpwXEDsUmL3GTsN02/tH+L+Zm19fOZ9S64YrwfUxyU0DDEzzs32sa7YO7Jc9
+Q3TlVsHpEujfFkRD7q5GUWZuGTSrZHfPFwCnJLQg+9hpn18ZH/E059t0+NjkbwNV
+CK+/lHszOmZGXkm4mC1sC4BesrACLQ/UtTyhyXR+b+x0e2g=
+-----END CERTIFICATE-----
+

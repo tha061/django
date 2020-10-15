@@ -1,0 +1,79 @@
+{
+  "name": "com.riatech.hiitapp",
+  "fileSize": "5.8 MB",
+  "VTmd5": "3938a0cb74042609039a4b8441915140",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/a197dda84849d52f0abbf7230cd1a1816519e130f69dbb439d38a4ee7312ee2c/detection/f-a197dda84849d52f0abbf7230cd1a1816519e130f69dbb439d38a4ee7312ee2c-1600673934",
+  "VTresource": "a197dda84849d52f0abbf7230cd1a1816519e130f69dbb439d38a4ee7312ee2c",
+  "VTresponsecode": 1,
+  "VTscanID": "a197dda84849d52f0abbf7230cd1a1816519e130f69dbb439d38a4ee7312ee2c-1600673934",
+  "VTsha1": "80f7ba86c21297df319ff94d1b4ee0744df17c51",
+  "VTsha256": "a197dda84849d52f0abbf7230cd1a1816519e130f69dbb439d38a4ee7312ee2c",
+  "VTtotal": 60,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.CHANGE_WIFI_STATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.SYSTEM_ALERT_WINDOW Protection Level: signature|preinstalled|appop|pre23|development",
+    "com.android.alarm.permission.SET_ALARM Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.riatech.hiitapp.ui.card_overlay_activity.FloatingWidgetShowService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "21 August 2020",
+    "Size": "4.3M",
+    "Installs": "10000",
+    "Current Version": "1.3.7",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Teen Learn More",
+    "In-app Products": "$1.49 \u2013 $59.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Riafy Technologies",
+    "Developer": "riafytechnologies@gmail.com Privacy Policy Riafy Technologies\nMadathumkudy House\nCheriya Vappalassery, Mekkad\nErnakulam, Kerala 683589\nIndia"
+  },
+  "rating": "3.9",
+  "description": "HIIT workouts is a personalized HIIT daily burn workout app for beginners as well as seasoned health enthusiasts. With HIIT workouts, burn out that extra layer of fat that you always dreamed to get rid off. Weight loss is not an easy job. We can achieve it only through careful selection of cardio exercises and healthy diet plans. Our cardio buddy motivates you every day to reach your fitness goal.  HIIT(High Intensity Interval Training ) is a new strategy for getting fit.HIIT regime contains short periods of intense cardio workouts followed by less intense recovery periods. HIIT workouts provide carefully selected cardio exercises,hiit workout, HIIT exercises for particular body parts, Full body packages, etc.  Our workout scheduler crafts whole body workout to achieve quick results in an optimal time. Features: 1.Customized workout sessions HIIT workouts contain a total body workout that is categorized into different HIIT cardio formats. 5-min ABS and Core, Boxing HIIT circuit, Total Bodyweight workout sessions, Lower body interval circuits, etc are the most popular HIIT training regimes that anybody can try out. 2.Audio feedback from voice coach High intensity workout sessions require a great deal of mental resilience, Our Cardio buddy gives you audio feedback and reminds you about the HIIT timer that keeps you stay on track. Voice coach gives timely instructions about exercises and break intervals and provides a hassle-free experience.HIIT time interval is well optimized to achieve the best results in a safe way 3.HIIT workouts for women High intensity HIIT workouts are fast-paced and contain a good deal of anaerobic exercises and aerobic workouts that might be difficult for women in general. Our cardio buddy provides a collection of exercises that are exclusive for women workout making it the best choice of cardio workout apps for women. 4.Works Offline HIIT workouts are available offline making our cardio workouts free and available anywhere, anytime. Now it is easy to work out at home free. Try HIIT workouts at home as our app contains many exercises that require no equipment. With HIIT workouts do workout sessions anytime and join millions of motivated fitness enthusiasts, health experts to achieve that dream physique you always craved for.",
+  "privacyText": "http://cookbookrecipes.in/otherapps/videoFeeds/privacy_general/Privacy_Policy.php?appname=HIIT%20Workouts",
+  "numInstalls": 10000,
+  "developer": "Riafy Technologies",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://cookbookrecipes.in/otherapps/videoFeeds/privacy_general/Privacy_Policy.php?appname=HIIT%20Workouts",
+    "Developer Email": "riafytechnologies@gmail.com",
+    "Privacy Policy": "http://cookbookrecipes.in/otherapps/videoFeeds/privacy_general/Privacy_Policy.php?appname=HIIT%20Workouts"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1251898561 (0x4a9e74c1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=FR, ST=Savoie, L=Nances, O=PierroX, OU=PierroX, CN=Pierre Hebert
+        Validity
+            Not Before: Sep  2 13:36:01 2009 GMT
+            Not After : Jan 18 13:36:01 2037 GMT
+        Subject: C=FR, ST=Savoie, L=Nances, O=PierroX, OU=PierroX, CN=Pierre Hebert
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a5:e4:83:c2:a4:01:0a:aa:d5:26:dd:4d:f0:54:
+                    1a:39:48:38:5d:f4:f2:f0:40:60:64:32:6e:9b:5e:
+                    85:d9:9c:d3:a8:1a:dc:cf:1e:fb:51:ae:de:4c:27:
+                    23:a0:ac:e7:5d:32:17:65:51:75:5d:fb:0e:48:d5:
+                    f7:b1:4e:52:4a:06:9d:d4:01:2f:4f:0b:9e:91:e7:
+                    72:32:5b:af:da:90:cd:05:b1:11:33:1c:94:90:fd:
+                    99:a0:5e:7f:9d:96:8a:a4:3d:1c:03:ad:81:b1:e2:
+                    2e:ad:c6:66:5a:ff:0f:72:0a:20:62:59:3e:4d:27:
+                    fc:44:65:32:90:7c:21:9c:7f
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         78:f9:34:46:21:6b:6d:fc:4a:44:b7:e1:69:50:8a:6c:1e:c2:
+         20:66:4b:9c:f2:3e:89:c7:49:87:44:c0:45:81:d3:d7:ee:4a:
+         2b:38:5a:88:b4:6f:11:9b:9b:fd:12:89:17:60:26:70:05:4e:
+         c0:de:e5:8f:db:ce:df:32:b8:a2:47:89:ca:cb:a1:e7:13:94:
+         1e:20:5a:dc:66:bc:e6:3d:40:a5:b3:8b:e8:9d:29:5a:86:a7:
+         e6:71:37:29:47:90:76:55:0c:7d:9b:9a:8f:6f:66:56:50:01:
+         d9:ab:12:3a:64:f8:0d:86:7f:25:c5:25:61:06:ea:8a:31:56:
+         18:af
+-----BEGIN CERTIFICATE-----
+MIICTTCCAbagAwIBAgIESp50wTANBgkqhkiG9w0BAQUFADBrMQswCQYDVQQGEwJG
+UjEPMA0GA1UECBMGU2F2b2llMQ8wDQYDVQQHEwZOYW5jZXMxEDAOBgNVBAoTB1Bp
+ZXJyb1gxEDAOBgNVBAsTB1BpZXJyb1gxFjAUBgNVBAMTDVBpZXJyZSBIZWJlcnQw
+HhcNMDkwOTAyMTMzNjAxWhcNMzcwMTE4MTMzNjAxWjBrMQswCQYDVQQGEwJGUjEP
+MA0GA1UECBMGU2F2b2llMQ8wDQYDVQQHEwZOYW5jZXMxEDAOBgNVBAoTB1BpZXJy
+b1gxEDAOBgNVBAsTB1BpZXJyb1gxFjAUBgNVBAMTDVBpZXJyZSBIZWJlcnQwgZ8w
+DQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKXkg8KkAQqq1SbdTfBUGjlIOF308vBA
+YGQybptehdmc06ga3M8e+1Gu3kwnI6Cs510yF2VRdV37DkjV97FOUkoGndQBL08L
+npHncjJbr9qQzQWxETMclJD9maBef52WiqQ9HAOtgbHiLq3GZlr/D3IKIGJZPk0n
+/ERlMpB8IZx/AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAePk0RiFrbfxKRLfhaVCK
+bB7CIGZLnPI+icdJh0TARYHT1+5KKzhaiLRvEZub/RKJF2AmcAVOwN7lj9vO3zK4
+okeJysuh5xOUHiBa3Ga85j1ApbOL6J0pWoan5nE3KUeQdlUMfZuaj29mVlAB2asS
+OmT4DYZ/JcUlYQbqijFWGK8=
+-----END CERTIFICATE-----
+

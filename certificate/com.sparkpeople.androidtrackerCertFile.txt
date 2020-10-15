@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1265211592 (0x4b6998c8)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=SparkPeople
+        Validity
+            Not Before: Feb  3 15:39:52 2010 GMT
+            Not After : Jun  6 15:39:52 3009 GMT
+        Subject: O=SparkPeople
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b6:36:7e:db:ad:37:eb:cb:4b:84:ba:21:96:4f:
+                    3e:5d:30:9d:05:ce:86:3e:02:b8:d2:d7:fd:3e:ce:
+                    22:7e:f2:51:2c:d5:29:52:cb:3f:a9:b8:37:92:1b:
+                    6e:66:fc:94:98:e2:ba:3e:fd:15:ff:ec:35:15:cb:
+                    be:60:94:d9:08:a3:08:fb:fe:b6:2a:1c:46:6f:17:
+                    0a:8b:01:01:e9:38:62:82:13:7b:cc:c3:e6:9f:4c:
+                    ed:71:dd:af:ac:98:ee:72:89:e2:f2:b0:2f:b6:fb:
+                    3c:cb:1e:4f:c7:d7:cb:2f:13:b5:4b:2b:fb:01:d4:
+                    a6:9c:43:4a:8e:9a:2f:35:71
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         8c:6f:f1:9d:b3:87:51:73:c5:09:cf:79:af:85:21:8d:f4:73:
+         f7:48:87:64:32:4b:5d:30:b1:84:e7:97:27:6a:a6:45:40:b3:
+         61:9d:42:13:b5:2f:96:b2:b3:c5:55:fb:b6:00:2e:80:00:3a:
+         7c:aa:79:6a:a2:1c:37:82:51:63:91:ba:73:c5:64:6c:eb:6c:
+         cf:e5:e9:91:11:67:76:40:bb:7b:1a:5a:3f:d2:29:24:27:02:
+         e7:f6:f7:89:c0:95:c7:91:a2:62:b7:ee:37:6f:9a:97:c0:96:
+         c2:5f:f5:f4:bb:d6:04:3c:90:85:c2:10:8e:c0:b5:78:40:dc:
+         b2:5b
+-----BEGIN CERTIFICATE-----
+MIIBpTCCAQ6gAwIBAgIES2mYyDANBgkqhkiG9w0BAQUFADAWMRQwEgYDVQQKEwtT
+cGFya1Blb3BsZTAgFw0xMDAyMDMxNTM5NTJaGA8zMDA5MDYwNjE1Mzk1MlowFjEU
+MBIGA1UEChMLU3BhcmtQZW9wbGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGB
+ALY2ftutN+vLS4S6IZZPPl0wnQXOhj4CuNLX/T7OIn7yUSzVKVLLP6m4N5Ibbmb8
+lJjiuj79Ff/sNRXLvmCU2QijCPv+tiocRm8XCosBAek4YoITe8zD5p9M7XHdr6yY
+7nKJ4vKwL7b7PMseT8fXyy8TtUsr+wHUppxDSo6aLzVxAgMBAAEwDQYJKoZIhvcN
+AQEFBQADgYEAjG/xnbOHUXPFCc95r4UhjfRz90iHZDJLXTCxhOeXJ2qmRUCzYZ1C
+E7UvlrKzxVX7tgAugAA6fKp5aqIcN4JRY5G6c8VkbOtsz+XpkRFndkC7expaP9Ip
+JCcC5/b3icCVx5GiYrfuN2+al8CWwl/19LvWBDyQhcIQjsC1eEDcsls=
+-----END CERTIFICATE-----
+

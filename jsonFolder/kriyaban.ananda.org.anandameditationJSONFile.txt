@@ -1,0 +1,85 @@
+{
+  "name": "kriyaban.ananda.org.anandameditation",
+  "fileSize": "19.0 MB",
+  "VTmd5": "34714b38b56d1fc56e27bc7828fcc817",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/67963380bdaaadd73027b4ecb1cf59a37bfa8d4397d5f5edd88d95e297f0ce23/detection/f-67963380bdaaadd73027b4ecb1cf59a37bfa8d4397d5f5edd88d95e297f0ce23-1576027554",
+  "VTresource": "67963380bdaaadd73027b4ecb1cf59a37bfa8d4397d5f5edd88d95e297f0ce23",
+  "VTresponsecode": 1,
+  "VTscanID": "67963380bdaaadd73027b4ecb1cf59a37bfa8d4397d5f5edd88d95e297f0ce23-1576027554",
+  "VTsha1": "3825bb9a148c7094ee790af9bfd3a337f0f04f84",
+  "VTsha256": "67963380bdaaadd73027b4ecb1cf59a37bfa8d4397d5f5edd88d95e297f0ce23",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: android.permission.MEDIA_CONTENT_CONTROL"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: kriyaban.ananda.org.anandameditation.MediaPlayerService  permission: ",
+      "name: expansion.DownloaderService  permission: ",
+      "name: kriyaban.ananda.org.anandameditation.PushNotifcationFirebaseMessagingService  permission: ",
+      "name: kriyaban.ananda.org.anandameditation.PushNotifcationFirebaseInstanceIDService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "25 November 2018",
+    "Size": "19M",
+    "Installs": "10000",
+    "Current Version": "1.48",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Ananda Church of Self-Realization",
+    "Developer": "Visit website meditationapp@ananda.org Privacy Policy 14618 Tyler Foote Road\nNevada City, CA 95959"
+  },
+  "rating": "4.9",
+  "description": "Meditation is a pathway to the joy of your own soul. It\u2019s easy to learn and rewarding but can take a lifetime to master. Wherever you are on your path, this app can help. Ananda has taught meditation to thousands of people around the world for nearly 50 years. \u2022 Learn the ancient technique of Hong-Sau to focus your attention \u2022 Over 100 guided meditations and techniques to inspire your practice, with more added regularly \u2022 Use a timer to concentrate on your breath, not the length of the meditation \u2022 Create your own custom meditations for the time you have available, and add chants, periods of silence, affirmations, and more \u2022 Set reminders to establish or strengthen your daily meditation routine You can download meditations for offline viewing, including videos or just audio-only if you need to save bandwidth. A variety of guided experiences are available, including: \u2022 Lessons in meditation \u2022 Meditations led by teachers at the Ananda School of Yoga and Meditation \u2022 Pranayama lessons and techniques taught by Nayaswami Gyandev, a co-founder of the Yoga Alliance \u2022 Visualizations and guided meditations from Swami Kriyananda, a direct disciple of Paramhansa Yogananda Guided meditations include focuses on: \u2022 Inner balance \u2022 Healing \u2022 Peace and joy \u2022 Love \u2022 Awakening the chakras \u2022 Connecting to your divine power Paramhansa Yogananda\u2019s teachings on meditation are intended not just to de-stress you, but to take you to a deep place of peace, wisdom, and bliss. Download the app now and experience it for yourself. --- WHAT IS ANANDA? Ananda is a global movement based on the teachings of Paramhansa Yogananda, who showed how everyone can realize God in their daily lives as a tangible, loving reality. You can expand your sense of harmony, and gain an increased sense of God\u2019s active presence in your life through ancient and effective techniques including meditation, Kriya Yoga, spiritually oriented Hatha Yoga, community, and divine friendship. Ananda was founded in 1968 by Yogananda\u2019s direct disciple, Swami Kriyananda, who passed away in 2013. Swami Kriyananda\u2019s spiritual successor is Nayawami Jyotish who, along with his wife Nayaswami Devi, serves as Ananda\u2019s spiritual director. Ananda Meditation\u00ae is a trademark registered by Ananda Church of Self-Realization of Nevada County.",
+  "privacyText": "https://www.ananda.org/privacy-policy/",
+  "numInstalls": 10000,
+  "developer": "Ananda Church of Self-Realization",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.ananda.org/meditation/app/",
+    "Developer Email": "meditationapp@ananda.org",
+    "Privacy Policy": "https://www.ananda.org/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

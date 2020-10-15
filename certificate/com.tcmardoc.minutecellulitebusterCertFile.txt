@@ -1,0 +1,76 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 58060371 (0x375ee53)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=35, ST=Tersefanou, L=Tersefanou Cyprus, O=File Creator LTD, OU=2. File Creator LTD, CN=Klaus Weichel
+        Validity
+            Not Before: Jan 17 13:34:34 2016 GMT
+            Not After : Jan 10 13:34:34 2041 GMT
+        Subject: C=35, ST=Tersefanou, L=Tersefanou Cyprus, O=File Creator LTD, OU=2. File Creator LTD, CN=Klaus Weichel
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8c:61:f2:a1:dc:55:29:88:03:6c:1d:0f:48:45:
+                    89:e1:77:1a:36:15:13:6e:0c:8d:52:c1:06:4b:ec:
+                    e2:26:2f:c5:be:62:d6:fc:63:fc:f1:81:32:37:e2:
+                    a1:80:ef:88:5b:8f:d4:21:13:29:b4:dd:79:ac:96:
+                    3c:aa:f4:2d:86:45:ff:4e:d1:39:73:d5:1c:1c:73:
+                    37:08:d1:d5:c9:22:1c:f9:eb:ba:49:8f:d1:6c:8c:
+                    4a:f1:f9:24:09:7d:50:1a:57:91:34:d3:68:86:f9:
+                    91:c2:6a:c2:ec:f2:c2:07:27:a8:bd:67:a9:0a:46:
+                    ec:7e:c0:5a:24:ef:ed:9d:d1:bc:2e:c4:0e:cb:b9:
+                    f9:91:83:a2:51:e6:94:72:a9:a8:62:eb:67:a0:9e:
+                    4c:fd:b3:bf:06:90:0e:39:42:87:de:dc:d3:1c:ee:
+                    e6:66:ba:80:14:c0:0f:f4:31:9a:44:64:a0:9d:50:
+                    44:76:b4:5a:0d:35:3a:3b:4f:23:0b:ce:98:7c:6f:
+                    03:6e:da:75:4d:4f:28:59:ab:24:7a:c7:f5:73:bb:
+                    02:71:8b:cc:42:65:9f:b6:fa:c5:2a:13:b1:02:7c:
+                    da:36:d0:14:4e:95:94:7b:eb:59:6a:6f:d2:e6:ae:
+                    a6:d1:b1:0f:5e:ed:fb:e4:1e:16:97:7f:5a:58:16:
+                    cb:c7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                43:A9:4C:1D:FE:E5:32:19:38:17:52:D8:8C:30:D5:B5:15:0A:16:97
+    Signature Algorithm: sha256WithRSAEncryption
+         8b:3d:47:e6:ce:f3:32:70:cb:94:b5:9a:21:4f:8a:2e:7b:5e:
+         4b:36:ff:27:50:57:2c:79:27:20:74:2f:5f:54:97:22:34:a0:
+         6a:a9:11:06:4d:e0:0d:ae:b9:80:6b:f3:96:76:ae:ed:e2:85:
+         12:a7:40:1d:83:ea:b9:7f:4d:54:bc:b2:48:2f:43:d2:a1:78:
+         d7:f5:dd:58:7d:46:f2:d7:be:38:47:05:c8:02:56:73:d1:93:
+         d1:97:55:35:cf:e5:cf:c3:f7:df:0f:c5:15:c7:8b:6c:8b:65:
+         24:b4:a8:fe:3c:49:a2:68:1a:36:ce:26:26:84:3c:8f:51:2e:
+         eb:c0:d1:b7:3a:b9:8e:3b:7a:15:de:0d:fc:e3:b1:9c:b1:00:
+         e5:35:dd:4c:d5:f1:42:c2:2e:08:30:e2:76:2a:30:4c:bc:01:
+         1f:e0:58:23:86:b0:cd:9e:da:13:2a:98:ae:78:b5:c5:ca:d4:
+         88:3d:bf:df:5a:ca:e7:10:17:91:9d:63:be:37:5e:fa:0b:b3:
+         4c:15:3a:f4:cf:b7:d0:6a:64:ae:30:3b:bb:c0:92:a2:32:56:
+         0e:19:f0:64:5c:77:42:5a:14:ba:73:ac:9f:63:86:57:fb:ca:
+         6e:3a:28:47:a5:52:b1:4c:5e:b7:b2:94:be:e6:27:1e:ba:d3:
+         37:f3:e0:ea
+-----BEGIN CERTIFICATE-----
+MIIDvzCCAqegAwIBAgIEA3XuUzANBgkqhkiG9w0BAQsFADCBjzELMAkGA1UEBhMC
+MzUxEzARBgNVBAgTClRlcnNlZmFub3UxGjAYBgNVBAcTEVRlcnNlZmFub3UgQ3lw
+cnVzMRkwFwYDVQQKExBGaWxlIENyZWF0b3IgTFREMRwwGgYDVQQLExMyLiBGaWxl
+IENyZWF0b3IgTFREMRYwFAYDVQQDEw1LbGF1cyBXZWljaGVsMB4XDTE2MDExNzEz
+MzQzNFoXDTQxMDExMDEzMzQzNFowgY8xCzAJBgNVBAYTAjM1MRMwEQYDVQQIEwpU
+ZXJzZWZhbm91MRowGAYDVQQHExFUZXJzZWZhbm91IEN5cHJ1czEZMBcGA1UEChMQ
+RmlsZSBDcmVhdG9yIExURDEcMBoGA1UECxMTMi4gRmlsZSBDcmVhdG9yIExURDEW
+MBQGA1UEAxMNS2xhdXMgV2VpY2hlbDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAIxh8qHcVSmIA2wdD0hFieF3GjYVE24MjVLBBkvs4iYvxb5i1vxj/PGB
+MjfioYDviFuP1CETKbTdeayWPKr0LYZF/07ROXPVHBxzNwjR1ckiHPnrukmP0WyM
+SvH5JAl9UBpXkTTTaIb5kcJqwuzywgcnqL1nqQpG7H7AWiTv7Z3RvC7EDsu5+ZGD
+olHmlHKpqGLrZ6CeTP2zvwaQDjlCh97c0xzu5ma6gBTAD/QxmkRkoJ1QRHa0Wg01
+OjtPIwvOmHxvA27adU1PKFmrJHrH9XO7AnGLzEJln7b6xSoTsQJ82jbQFE6VlHvr
+WWpv0uauptGxD17t++QeFpd/WlgWy8cCAwEAAaMhMB8wHQYDVR0OBBYEFEOpTB3+
+5TIZOBdS2Iww1bUVChaXMA0GCSqGSIb3DQEBCwUAA4IBAQCLPUfmzvMycMuUtZoh
+T4oue15LNv8nUFcseScgdC9fVJciNKBqqREGTeANrrmAa/OWdq7t4oUSp0Adg+q5
+f01UvLJIL0PSoXjX9d1YfUby1744RwXIAlZz0ZPRl1U1z+XPw/ffD8UVx4tsi2Uk
+tKj+PEmiaBo2ziYmhDyPUS7rwNG3OrmOO3oV3g3847GcsQDlNd1M1fFCwi4IMOJ2
+KjBMvAEf4FgjhrDNntoTKpiueLXFytSIPb/fWsrnEBeRnWO+N176C7NMFTr0z7fQ
+amSuMDu7wJKiMlYOGfBkXHdCWhS6c6yfY4ZX+8puOihHpVKxTF63spS+5iceutM3
+8+Dq
+-----END CERTIFICATE-----
+

@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 954605746 (0x38e620b2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=Washington, L=Vancouver, O=Nautilus Inc, OU=Application Development, CN=Mobile Team
+        Validity
+            Not Before: Oct 19 18:15:01 2018 GMT
+            Not After : Sep 25 18:15:01 2118 GMT
+        Subject: C=US, ST=Washington, L=Vancouver, O=Nautilus Inc, OU=Application Development, CN=Mobile Team
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9b:f4:70:df:10:69:09:30:a6:85:e8:89:92:bc:
+                    16:8a:90:40:45:2e:20:0b:2e:fb:bf:9a:41:6a:20:
+                    7d:68:40:1e:b5:e6:de:9a:9e:33:7e:97:49:85:de:
+                    68:cd:f9:3a:ee:8f:1c:95:e1:b6:5a:8f:1d:18:f9:
+                    f4:3a:cf:f1:18:cb:de:27:7d:ba:a7:1c:54:e1:d7:
+                    46:a9:1e:57:89:17:7c:ee:e0:a8:b4:4a:77:06:1d:
+                    97:b3:8d:e3:ea:c9:cf:ef:97:f9:40:65:39:05:29:
+                    50:36:51:97:ec:5b:bc:5e:dc:6f:94:75:2b:8b:b0:
+                    d2:a9:9d:d8:43:d6:3f:af:69:ac:0a:9f:fb:fd:13:
+                    e5:1f:ca:cf:8b:68:2d:d4:06:2f:13:e6:bc:bf:da:
+                    20:03:5f:d6:8b:6c:89:a2:22:c2:26:b0:93:7d:12:
+                    16:14:9e:9d:7b:35:b4:67:b4:eb:2f:04:5d:3a:97:
+                    7c:19:5b:4b:f6:2c:aa:ae:85:0c:e4:83:32:98:5e:
+                    42:18:51:0a:b9:33:94:6d:25:35:0c:b7:4f:1f:0b:
+                    cd:b3:e7:98:32:03:44:30:09:ce:18:fe:bb:88:b6:
+                    d4:17:66:9d:b8:69:be:92:db:8a:56:46:47:84:e0:
+                    fa:37:d0:f7:cf:a8:db:6c:ac:f0:6b:57:d0:54:ad:
+                    8c:4d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                0F:0B:57:ED:93:14:5F:DB:6D:B3:35:35:F4:F4:64:22:35:11:FB:A9
+    Signature Algorithm: sha256WithRSAEncryption
+         3e:59:1a:9d:1e:fe:4e:04:d4:86:74:49:f7:f9:e5:d4:af:c4:
+         6e:7a:70:da:f5:2a:32:1a:53:3e:2a:65:9d:dd:75:3b:2b:31:
+         4f:c6:9e:db:56:04:7a:2f:39:ae:09:3a:32:0d:ae:ff:bf:c8:
+         1c:eb:1f:bf:e1:46:16:ec:d2:ff:a2:0e:7c:b5:d2:c4:a7:b6:
+         59:fe:6e:41:cf:28:df:6b:eb:e4:13:e3:fc:cd:ce:80:2e:c3:
+         be:88:fb:40:75:42:70:79:40:de:3a:64:f4:4a:7a:c4:61:e8:
+         b3:f9:9f:ba:0f:b6:64:2f:0d:47:78:4e:c3:ad:62:ec:25:bb:
+         c2:e6:6a:1d:d4:80:ac:e8:d5:76:62:ad:9a:07:a4:83:7d:7d:
+         7c:90:43:c3:66:37:aa:fc:4e:d4:a4:39:a0:62:dc:68:07:9f:
+         60:f4:ac:ae:df:08:d8:e2:a3:ad:c1:40:ed:67:e6:12:8b:b2:
+         43:00:be:c2:3d:e0:6e:85:8b:29:6f:25:1d:ad:ac:c9:8d:18:
+         93:6d:87:03:e2:f0:a9:16:c6:7e:c9:cf:f8:33:b5:92:18:35:
+         d7:9d:0a:ab:ef:06:4c:07:71:a4:72:57:96:0e:0c:e7:bd:b8:
+         cb:54:42:82:9d:16:38:05:1b:15:5d:35:b0:62:a1:63:38:11:
+         7e:bf:c8:6e
+-----BEGIN CERTIFICATE-----
+MIIDrTCCApWgAwIBAgIEOOYgsjANBgkqhkiG9w0BAQsFADCBhTELMAkGA1UEBhMC
+VVMxEzARBgNVBAgTCldhc2hpbmd0b24xEjAQBgNVBAcTCVZhbmNvdXZlcjEVMBMG
+A1UEChMMTmF1dGlsdXMgSW5jMSAwHgYDVQQLExdBcHBsaWNhdGlvbiBEZXZlbG9w
+bWVudDEUMBIGA1UEAxMLTW9iaWxlIFRlYW0wIBcNMTgxMDE5MTgxNTAxWhgPMjEx
+ODA5MjUxODE1MDFaMIGFMQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3Rv
+bjESMBAGA1UEBxMJVmFuY291dmVyMRUwEwYDVQQKEwxOYXV0aWx1cyBJbmMxIDAe
+BgNVBAsTF0FwcGxpY2F0aW9uIERldmVsb3BtZW50MRQwEgYDVQQDEwtNb2JpbGUg
+VGVhbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJv0cN8QaQkwpoXo
+iZK8FoqQQEUuIAsu+7+aQWogfWhAHrXm3pqeM36XSYXeaM35Ou6PHJXhtlqPHRj5
+9DrP8RjL3id9uqccVOHXRqkeV4kXfO7gqLRKdwYdl7ON4+rJz++X+UBlOQUpUDZR
+l+xbvF7cb5R1K4uw0qmd2EPWP69prAqf+/0T5R/Kz4toLdQGLxPmvL/aIANf1ots
+iaIiwiawk30SFhSenXs1tGe06y8EXTqXfBlbS/Ysqq6FDOSDMpheQhhRCrkzlG0l
+NQy3Tx8LzbPnmDIDRDAJzhj+u4i21BdmnbhpvpLbilZGR4Tg+jfQ98+o22ys8GtX
+0FStjE0CAwEAAaMhMB8wHQYDVR0OBBYEFA8LV+2TFF/bbbM1NfT0ZCI1EfupMA0G
+CSqGSIb3DQEBCwUAA4IBAQA+WRqdHv5OBNSGdEn3+eXUr8RuenDa9SoyGlM+KmWd
+3XU7KzFPxp7bVgR6LzmuCToyDa7/v8gc6x+/4UYW7NL/og58tdLEp7ZZ/m5Bzyjf
+a+vkE+P8zc6ALsO+iPtAdUJweUDeOmT0SnrEYeiz+Z+6D7ZkLw1HeE7DrWLsJbvC
+5mod1ICs6NV2Yq2aB6SDfX18kEPDZjeq/E7UpDmgYtxoB59g9Kyu3wjY4qOtwUDt
+Z+YSi7JDAL7CPeBuhYspbyUdrazJjRiTbYcD4vCpFsZ+yc/4M7WSGDXXnQqr7wZM
+B3GkcleWDgznvbjLVEKCnRY4BRsVXTWwYqFjOBF+v8hu
+-----END CERTIFICATE-----
+

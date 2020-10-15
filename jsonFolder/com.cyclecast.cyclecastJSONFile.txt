@@ -1,0 +1,90 @@
+{
+  "name": "com.cyclecast.cyclecast",
+  "fileSize": "29.8 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.BODY_SENSORS Protection Level: dangerous",
+    "android.permission.BLUETOOTH Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: android.permission.MEDIA_CONTENT_CONTROL"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.cardiocast.cardiocast.mediaplayer.MediaPlayerService  permission: ",
+      "name: com.mixpanel.android.mpmetrics.MixpanelFCMMessagingService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "24 September 2020",
+    "Size": "Varies with device",
+    "Installs": "10000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Teen Diverse Content: Discretion Advised Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u00e2\u20ac\u201c $89.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "CardioCast Inc.",
+    "Developer": "Visit website support@cardiocast.app Privacy Policy 382 NE 191st St PMB 33312\nMiami, Florida 33179-3899 US"
+  },
+  "rating": "4.8",
+  "description": "CYCLECAST IS NOW CARDIOCAST: The best fitness app for audio-guided cycling classes now offers running, walking, jogging, and bootcamp workouts. The same great app that was featured by SHAPE, Muscle & Fitness, and Refinery29, is moving beyond cycling to provide other fun and challenging full-body workouts, including running, walking, jogging, and bodyweight bootcamp classes. With over 1000 indoor cycling workouts, CardioCast is still your go-to for the best audio cycling class\u00e2\u20ac\u201d we\u00e2\u20ac\u2122ve just added more content! Work out from home on the bike, treadmill, or living room floor, or hit the streets with one of our outdoor classes. Our cycling, running, walking, jogging, and bootcamp workouts feature fun, music-driven intervals led by some of the best coaches in fitness. Try it free for 7 days and discover why thousands of people call CardioCast their favorite way to work out. \"Forget that pricey fitness class\u00e2\u20ac\u201dfor the SoulCycle or Flywheel experience, all you need is a gym bike, a phone, and this free workout app.\" -SHAPE WHY CARDIOCAST? 1. Hit music: your favorite artists, from the latest pop and EDM to hits from legendary classic rock bands. 2. World-class coaches: The best in fitness will motivate you to take your workout to the next level 3. Work out on your time: CardioCast offers 20, 30, 45, or 60-minute workouts to fit your schedule. 4. Simple and easy for all to use: Our audio workouts are with you wherever you go. Take our runs to the park or our cycling classes to the gym\u00e2\u20ac\u201dor get a sweat sesh at home. 5. Track your progress: Review your stats and sync workout, calories, and heart rate data with the Google Fit app. SUBSCRIPTION PRICING & TERMS Classes are led by top coaches, so you get the same fitness benefits you'd expect from brands like Spinning\u00c2\u00ae, Peloton\u00c2\u00ae, SoulCycle\u00c2\u00ae, Flywheel Sports\u00c2\u00ae, Barry\u00e2\u20ac\u2122s Bootcamp\u00c2\u00ae, or Orange Theory\u00c2\u00ae without breaking the bank. You can workout at home or at the gym at a time that is right for YOUR schedule. \u00e2\u20ac\u00a2 7-day free trial \u00e2\u20ac\u00a2 $9.99 for 1 month \u00e2\u20ac\u00a2 $24.99 for 3 months (~$8.33 per month) \u00e2\u20ac\u00a2 $89.99 for 1 year (~$7.50 per month) Subscription automatically renews and account will be charged unless auto-renew is turned off at least 24-hours before the end of the current period. Payment will be charged to your Google Play account at confirmation of purchase. Auto-renewal may be turned off in your Google Play account settings after purchase. Terms & Conditions: https://cardiocast.app/terms Privacy Policy: https://cardiocast.app/privacy WHAT OUR COMMUNITY SAYS: \"This is the best cycling app I've tried. Got a Peloton but returned it because this app is better! The beats rides are motivating and a great workout!\" - Da.Mitch \"Love your app! I have tried the running program and it's fantastic!  All of the cycle programs are terrific! Thank you for keeping a little health and sanity in our day!!\" - Gia B. \"This app just keeps getting better! Even more workout options (now with bodyweight bootcamp classes and runs) and the customer service is great.\" - Elisa M. O. \"This app has been a lifesaver for my at home workouts!\" - Scb2 \"This app has been so motivating! I've only been doing the running workouts. The audio is absolutely great. I love how you can adjust the instructor's voice and music separately. I'm just getting back into running and this is a great way to jump back in.\" - snankshx",
+  "privacyText": "https://www.cardiocast.app/privacy/",
+  "numInstalls": 10000,
+  "developer": "CardioCast Inc.",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.cardiocast.app",
+    "Developer Email": "support@cardiocast.app",
+    "Privacy Policy": "https://www.cardiocast.app/privacy/"
+  },
+  "smali_Directories": [
+    "Appsflyer",
+    "Bumptech",
+    "Facebook",
+    "Google Ads",
+    "Mixpanel"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

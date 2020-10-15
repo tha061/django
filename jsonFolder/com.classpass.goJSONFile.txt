@@ -1,0 +1,91 @@
+{
+  "name": "com.classpass.go",
+  "fileSize": "33.1 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "android.permission.READ_PROFILE Protection Level: Developer Defined Permission",
+    "android.permission.READ_CONTACTS Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.READ_CONTACTS Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: android.permission.MEDIA_CONTENT_CONTROL"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.classpass.go.services.MediaPlayerService  permission: ",
+      "name: com.classpass.go.services.NotifierService  permission: ",
+      "name: fm.feed.android.playersdk.PlayerService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "18 June 2019",
+    "Size": "33M",
+    "Installs": "50000",
+    "Current Version": "1.8.7",
+    "Requires Android": "6.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$5.99 \u2013 $47.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "ClassPass Inc",
+    "Developer": "Visit website info@classpass.com Privacy Policy 275 7th Ave.\nNew York, NY 10001"
+  },
+  "rating": "4.0",
+  "description": "Go offers 1000+ classes (with 200 new classes added every month) in running, cycling, yoga, strength, pilates and more that you can listen to at home, at the gym or on the trail.  Our world-class instructors program every class and coach you through it so you can start hitting your fitness goals whether you\u2019re a beginner or advanced athlete.  And we know having the right playlist matters \u2013 which is why we leave it up to you. Pick your playlist and find the music that motivates you most. Getting fitter and healthier all starts when you press play. FEATURES: FIND THE PERFECT WORKOUT FOR YOU: Going out for a run? Or ready to use some dumbbells? ClassPass Go offers beginner to advanced classes in activities including:   Treadmill Outdoor Running Cycling Elliptical  Walking HIIT Strength Core / Abs Yoga Meditation Pilates CLASSES TO MATCH YOUR SCHEDULE: ClassPass Go workouts are ready whenever you are. Classes range from 5 to 90 minutes so you can find a class no matter what life brings on. ACCESS TO WORLD-CLASS INSTRUCTORS: Our coaches are former athletes, Olympians and trainers at some of the top studios around. Their expert instruction will help you start working out more effectively and efficiently by eliminating all the guesswork.  CREATE YOUR IDEAL ROUTINE: Combine a sprint workout with a short stretching class to customize your routine to your goals. ClassPass Go is free to use, and you can take as many classes as you\u2019d like. GET MOTIVATED WITH MUSIC: The right music can make you work out harder \u2013 or keep you pushing through that last set. You can easily change the playlist for each and every workout to match your mood. Cue up EDM, hip-hop, pop and more, or change your tune halfway through the workout.",
+  "privacyText": "https://classpass.com/privacy",
+  "numInstalls": 50000,
+  "developer": "ClassPass Inc",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://classpass.com",
+    "Developer Email": "info@classpass.com",
+    "Privacy Policy": "https://classpass.com/privacy"
+  },
+  "smali_Directories": [
+    "adjust",
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Fasterxml",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

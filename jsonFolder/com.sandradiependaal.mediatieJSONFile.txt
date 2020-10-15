@@ -1,0 +1,78 @@
+{
+  "name": "com.sandradiependaal.mediatie",
+  "fileSize": "10.3 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.sandradiependaal.mediatie.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.sandradiependaal.mediatie.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "16 March 2020",
+    "Size": "10M",
+    "Installs": "10000",
+    "Current Version": "5.0.6",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u2013 $46.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Sandrasana",
+    "Developer": "Visit website info@sandrasana.nl Privacy Policy Kadijk 4, 2104 AA Heemstede Holland"
+  },
+  "rating": "4.2",
+  "description": "This English app includes various meditation and relaxation exercises. Youth and adults can use this app to find some peace in the busy life. The exercises are recorded with a soothing music in the background. No image is shown, so that the exercises can be done with closed eyes.  You can purchase a subscription for only \u20ac 4.49 per month or \u20ac 39.99 per year. You can try the app for 1 month FREE. You can stop the subscription yourself. 2 exercises are for free!",
+  "privacyText": "https://sandrasana.nl/privacy/",
+  "numInstalls": 10000,
+  "developer": "Sandrasana",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://sandrasana.nl",
+    "Developer Email": "info@sandrasana.nl",
+    "Privacy Policy": "https://sandrasana.nl/privacy/"
+  },
+  "smali_Directories": [
+    "Fasterxml",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

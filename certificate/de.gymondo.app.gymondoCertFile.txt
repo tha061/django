@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1575724989 (0x5deba7bd)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=de, ST=Berlin, L=Berlin, O=Gymondo GmbH, OU=Mobility, CN=Gymondo GmbH
+        Validity
+            Not Before: Dec 11 10:42:46 2015 GMT
+            Not After : Apr 28 10:42:46 2043 GMT
+        Subject: C=de, ST=Berlin, L=Berlin, O=Gymondo GmbH, OU=Mobility, CN=Gymondo GmbH
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c6:59:dc:7c:15:ed:ed:8b:a3:85:7b:65:cb:a1:
+                    46:99:bb:1a:fe:73:e5:c6:b5:1c:c3:b6:24:f4:c6:
+                    89:72:2f:49:7c:70:82:60:38:d3:d8:e4:97:3e:51:
+                    71:4e:29:6b:23:90:0c:0b:d4:98:fc:af:87:55:c9:
+                    47:11:06:2a:83:cb:b6:a6:22:33:37:3e:c8:1d:a8:
+                    72:c2:97:e6:ce:a0:d7:ca:bb:5c:9e:05:a6:0d:ec:
+                    07:e7:3a:03:50:5e:f0:32:84:71:d8:04:48:6b:8f:
+                    c9:da:3d:ba:f6:25:fb:15:4e:78:6e:1b:64:4c:f8:
+                    dc:c7:49:d0:93:c5:79:8c:74:3b:5c:35:19:6b:71:
+                    05:df:64:d3:e0:80:2e:66:d2:74:4c:43:87:57:1e:
+                    79:c6:57:16:35:f9:58:15:67:74:c6:17:52:03:1f:
+                    5f:bb:ad:46:20:cc:f5:12:7f:dd:08:d3:3d:a3:63:
+                    e4:a6:71:00:d7:79:bf:19:f6:72:c1:b9:4e:7f:5c:
+                    5d:f9:2f:aa:d2:6b:95:e6:bc:e3:f7:fe:91:ce:09:
+                    a6:f9:99:74:1f:fa:7f:74:e1:e8:96:7f:ed:f7:91:
+                    46:2d:bd:91:f8:21:6c:97:01:e1:b0:1b:c4:da:2f:
+                    ed:f5:58:77:ca:af:5c:92:0f:fc:e5:67:25:94:02:
+                    ef:85
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                9A:5B:E9:96:BB:16:A1:DD:3D:78:57:6B:FD:05:14:59:94:C5:68:3D
+    Signature Algorithm: sha256WithRSAEncryption
+         9a:f7:23:a3:a9:2f:05:2e:4d:7d:d6:1d:54:cc:78:43:cf:9b:
+         aa:55:a1:27:96:2a:11:2a:92:4e:9a:78:15:b5:69:7a:69:dc:
+         e1:5f:d2:c4:40:61:9d:26:35:81:6f:9c:d1:18:5f:5d:71:c9:
+         22:9c:c8:54:1a:a0:a0:45:d9:6e:fc:36:58:19:8d:b5:26:21:
+         6c:38:31:b7:c8:5c:12:3e:fd:77:36:c9:9c:f7:e1:94:f7:0a:
+         d4:a3:68:28:80:c7:70:65:60:b1:7c:77:57:89:a5:35:fb:b4:
+         1b:73:fd:78:5e:2d:51:51:71:b0:5e:fa:ad:9c:3b:72:6b:73:
+         42:a7:ad:6a:e4:7a:fd:82:97:ac:f5:af:54:c6:04:93:8a:11:
+         7d:8c:16:4c:da:71:d9:fb:a3:5b:a3:87:d1:77:d9:6c:30:a5:
+         6e:56:02:1b:81:b9:56:aa:e7:47:72:5c:a6:48:d2:61:14:6c:
+         ce:64:7f:67:cf:a3:af:b8:79:68:f7:24:08:0e:5d:9d:d2:0f:
+         c4:cc:fc:22:7e:c4:db:90:5d:b5:10:62:cb:7a:cb:38:28:b2:
+         9c:3a:5a:6e:32:d7:32:07:3e:86:a1:67:80:af:9e:1a:1f:f1:
+         07:fd:cb:40:71:a3:de:07:3c:26:31:48:9a:2e:43:45:7b:f4:
+         7a:4f:35:9b
+-----BEGIN CERTIFICATE-----
+MIIDfzCCAmegAwIBAgIEXeunvTANBgkqhkiG9w0BAQsFADBwMQswCQYDVQQGEwJk
+ZTEPMA0GA1UECBMGQmVybGluMQ8wDQYDVQQHEwZCZXJsaW4xFTATBgNVBAoTDEd5
+bW9uZG8gR21iSDERMA8GA1UECxMITW9iaWxpdHkxFTATBgNVBAMTDEd5bW9uZG8g
+R21iSDAeFw0xNTEyMTExMDQyNDZaFw00MzA0MjgxMDQyNDZaMHAxCzAJBgNVBAYT
+AmRlMQ8wDQYDVQQIEwZCZXJsaW4xDzANBgNVBAcTBkJlcmxpbjEVMBMGA1UEChMM
+R3ltb25kbyBHbWJIMREwDwYDVQQLEwhNb2JpbGl0eTEVMBMGA1UEAxMMR3ltb25k
+byBHbWJIMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxlncfBXt7Yuj
+hXtly6FGmbsa/nPlxrUcw7Yk9MaJci9JfHCCYDjT2OSXPlFxTilrI5AMC9SY/K+H
+VclHEQYqg8u2piIzNz7IHahywpfmzqDXyrtcngWmDewH5zoDUF7wMoRx2ARIa4/J
+2j269iX7FU54bhtkTPjcx0nQk8V5jHQ7XDUZa3EF32TT4IAuZtJ0TEOHVx55xlcW
+NflYFWd0xhdSAx9fu61GIMz1En/dCNM9o2PkpnEA13m/GfZywblOf1xd+S+q0muV
+5rzj9/6Rzgmm+Zl0H/p/dOHoln/t95FGLb2R+CFslwHhsBvE2i/t9Vh3yq9ckg/8
+5WcllALvhQIDAQABoyEwHzAdBgNVHQ4EFgQUmlvplrsWod09eFdr/QUUWZTFaD0w
+DQYJKoZIhvcNAQELBQADggEBAJr3I6OpLwUuTX3WHVTMeEPPm6pVoSeWKhEqkk6a
+eBW1aXpp3OFf0sRAYZ0mNYFvnNEYX11xySKcyFQaoKBF2W78NlgZjbUmIWw4MbfI
+XBI+/Xc2yZz34ZT3CtSjaCiAx3BlYLF8d1eJpTX7tBtz/XheLVFRcbBe+q2cO3Jr
+c0KnrWrkev2Cl6z1r1TGBJOKEX2MFkzacdn7o1ujh9F32WwwpW5WAhuBuVaq50dy
+XKZI0mEUbM5kf2fPo6+4eWj3JAgOXZ3SD8TM/CJ+xNuQXbUQYst6yzgospw6Wm4y
+1zIHPoahZ4Cvnhof8Qf9y0Bxo94HPCYxSJouQ0V79HpPNZs=
+-----END CERTIFICATE-----
+

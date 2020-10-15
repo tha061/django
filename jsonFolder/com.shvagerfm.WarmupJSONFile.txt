@@ -1,0 +1,69 @@
+{
+  "name": "com.shvagerfm.Warmup",
+  "fileSize": "8.5 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.ansca.corona.CoronaService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "31 October 2019",
+    "Size": "7.9M",
+    "Installs": "500000",
+    "Current Version": "1.1.1",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "ShvagerFM",
+    "Developer": "Visit website shvagerfm@gmail.com Beregovaja str 9\nPreobrazhenka\nZaporizhska obl\nUkraine\n70545"
+  },
+  "rating": "4.4",
+  "description": "Stretching exercises - is a separate application from the cycle be strong, which contains only a warm-up exercise. Warm-up is a very important step in any training. It is not only improves the results of training, but also helps to prevent muscle strain and joint injuries. In this application, there is provided a set of exercises that You can use as a warm-up before training, and as a separate morning exercises. Performing these exercises provide a good warm-up the muscles and invigorate you.",
+  "privacyText": "",
+  "numInstalls": 500000,
+  "developer": "ShvagerFM",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://plus.google.com/+solyankanetua-ShvagerFM",
+    "Developer Email": "shvagerfm@gmail.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Ansca",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

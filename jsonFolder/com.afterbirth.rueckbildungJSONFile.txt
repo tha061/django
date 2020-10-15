@@ -1,0 +1,88 @@
+{
+  "name": "com.afterbirth.rueckbildung",
+  "fileSize": "24.2 MB",
+  "VTmd5": "fcef211af6826a73d7596aa64404b785",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/13777f6b7efeecde114c042ebd6741379300b43a0c4eaf2f0a96fdca0c8a5ff7/detection/f-13777f6b7efeecde114c042ebd6741379300b43a0c4eaf2f0a96fdca0c8a5ff7-1575264211",
+  "VTresource": "13777f6b7efeecde114c042ebd6741379300b43a0c4eaf2f0a96fdca0c8a5ff7",
+  "VTresponsecode": 1,
+  "VTscanID": "13777f6b7efeecde114c042ebd6741379300b43a0c4eaf2f0a96fdca0c8a5ff7-1575264211",
+  "VTsha1": "970360b77190524bdefbdc56e7c15f5ed25d9e09",
+  "VTsha256": "13777f6b7efeecde114c042ebd6741379300b43a0c4eaf2f0a96fdca0c8a5ff7",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.android.alarm.permission.SET_ALARM Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.afterbirth.rueckbildung.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.afterbirth.rueckbildung.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.cast.framework.media.MediaNotificationService  permission: ",
+      "name: com.google.android.gms.cast.framework.ReconnectionService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.android.gms.tagmanager.TagManagerService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "14 June 2019",
+    "Size": "24M",
+    "Installs": "50000",
+    "Current Version": "1.12",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "R\u00fcckbildungsgymnastik",
+    "Developer": "Visit website rueckbildungsgymnastik@gmail.com Privacy Policy Simon Guggisberg\nSpeerweg 14\n8630 R\u00fcti"
+  },
+  "rating": "4.1",
+  "description": "Features: - More than 30 different after birth exercises. Start to loose \"Baby Fat\" by exercising after your pregnancy. - Every exercise is explained by video, images and texts - A virtual personal coach creates a workout plan specially selected for YOUR body - You can choose between workout WITH and WITHOUT your child - Create your own workouts - You can track your progress with different statistics (for example you can track your weight or your done workouts) - Reminder function: let the app remind you to do your exercises - After pregnancy tips: Which movements should be avoided etc.? - No equipment needed! Start wherever and whenever you want! The app should help you to feel good and get in shape. You will get fitter step by step. An algorithm (Personal Coach Mode) creates a specialized workout for YOUR body. The training is adapted exactly to the needs of your body by varying the tempo and the intensity of the activity.",
+  "privacyText": "https://www.rueckbildung-app.de/impressum/",
+  "numInstalls": 50000,
+  "developer": "R\u00fcckbildungsgymnastik",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.rueckbildung-app.de/",
+    "Developer Email": "rueckbildungsgymnastik@gmail.com",
+    "Privacy Policy": "https://www.rueckbildung-app.de/impressum/"
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

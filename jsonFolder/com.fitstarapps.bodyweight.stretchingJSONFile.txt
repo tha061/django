@@ -1,0 +1,82 @@
+{
+  "name": "com.fitstarapps.bodyweight.stretching",
+  "fileSize": "35.2 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.ACTIVITY_RECOGNITION Protection Level: dangerous",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: androidx.room.MultiInstanceInvalidationService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "24 June 2020",
+    "Size": "35M",
+    "Installs": "50000",
+    "Current Version": "1.0.12",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$3.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fitness Coach Apps",
+    "Developer": "mmstardev@gmail.com Privacy Policy Pod H\u016frkou 558\n339 01 Klatovy\nCzechia"
+  },
+  "rating": "4.7",
+  "description": "Stretching App by Fitness Coach provides daily stretching routines for all experience levels  from beginners to advanced . No equipment, coach, or previous workout experience needed. Become flexible, reduce back pain in just a few minutes a day. New to working out? No problem! Start training with Fitness Coach at home for free!  Built by Professional Fitness Trainers All workouts are designed by a professional fitness coach, so the workout experience is almost like having a real personal trainer! 6 Difficulty Levels - Beginner to Advanced All of the training sessions offer 6 experience levels - no matter if you are a beginner or advanced.  30-day Plans Our 30-day plans will guide you to your goal in 4 weeks and offer 3 different difficulty levels. The workouts are getting slightly harder every day, so by the end of the challenge, you will be able to start a new challenge with a higher difficulty level. Workouts Besides 30-day challenges, we offer standalone workouts. Simply select the workout you want and the desired duration (from 5 to 6 minutes). Also, select from 6 different difficulty levels (from beginner to expert). Custom Workouts Create your own workout routines from our database of over 105 video exercises. Features - Quick and effective workouts built by professionals - 6 difficulty levels, suitable for everyone, men, women, beginner, or pro - perfect for working out at home - HD videos of real trainers (no animations) - Keep track of finished workouts and progress - Burned calories tracking - Customized workout reminders so you never cheat on your routine - over 105 exercises - Sync data with Google Fit - Requires no equipment - Share with your friends on social networks - Works 100% offline CONTACT US We are here for you and your results! mmstardev@gmail.com",
+  "privacyText": "https://fitstarapps.com/privacy-policy.html",
+  "numInstalls": 50000,
+  "developer": "Fitness Coach Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://fitstarapps.com/privacy-policy.html",
+    "Developer Email": "mmstardev@gmail.com",
+    "Privacy Policy": "https://fitstarapps.com/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Google Ads",
+    "Jakewharton"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

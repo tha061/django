@@ -1,0 +1,78 @@
+{
+  "name": "com.grokker",
+  "fileSize": "41.5 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.braintreepayments.api.internal.AnalyticsIntentService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "11 August 2020",
+    "Size": "41M",
+    "Installs": "10000",
+    "Current Version": "1.18",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Users interact",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Grokker Inc.",
+    "Developer": "Visit website support@grokker.com Privacy Policy"
+  },
+  "rating": "3.9",
+  "description": "With 1000s of fitness, yoga, meditation, and healthy cooking videos, Grokker makes it easy to find and save the right exercise videos for your busy life. Save time, learn new skills, and add variety to your exercise routine with Grokker programs. Ranging from one week to six weeks in length, programs are organized to save you time. Our expert instructors will help you achieve your goals one video at a time. With over 70 goal-oriented programs to choose from and new programs added monthly, there's something new for you every day of the year. Check out some popular programs: * Weight Management Jumpstart: Get moving with beginner workouts, learn how to build sustainable habits, and start improving your nutrition in just one week. * 21-Day Happy Yoga Challenge: Discover how you can lower stress levels, practice self love, increase body confidence and experience more happiness each and every day through the combined practice of yoga and mindfulness exercises * High Performance Mindfulness for Success: In this program, learn simple, yet effective tools and techniques that will enable you to thrive in your personal and professional life. * 7-Minute HIIT: Achieve maximum results in minimal time with this high-intensity interval training (HIIT) program. * Perfect Pilates: 5 workouts, 20 minutes each - these workouts can be fit into the busiest of schedules. * Lose Fat & Sculpt Yourself: This 6-week program is designed to get your blood pumping and your muscles working to maximize your calorie burn. * x5 Intensity: With a fitness test at the beginning and end, this 5-week program is designed to transform your body. * Get Tight in 28: This 4 week program is a combination of high intensity interval training (HIIT) and Barre workouts designed to target the abs and core. * Daily Muscle Relief: These 20-minute, low-impact exercises will strengthen and lengthen your muscles to alleviate pain and improve posture. * 21-Day Yoga Body Slim Down: With four 30-minute vinyasa flow classes per week and nutritious recipes, you\u00e2\u20ac\u2122ll get the yoga body you want in no time. * Yoga for Beginners: You'll learn the basics of yoga with this 25 video program. * 21-Day Relax Mindfulness Meditation: This 21-day program is designed to help you manage stress with diaphragmatic breathing and mindfulness meditation. * 14-Day Yoga Challenge: Cultivate a yoga habit in 20 minutes per day for just 2 weeks to become a healthier and happier you. * Yoga for Stress Reduction: A 6-video program that combines gentle yoga, breathwork, and mindfulness practices to reduce stress on your body and mind. Track Progress with Wellness Minutes: We make it easy for you to keep track of minutes practiced to stay motivated and achieve your goals. Save & Organize: We'll organize the videos you watch, save, and love so it's quick and easy to find your favorites. Find Something New: Filter by topic, difficulty level, and duration, or search by keyword to find the right video for your current level and schedule. With Grokker you can watch an unlimited number of premium videos per month through an auto-renewing subscription. You can manage your Account Settings on the Grokker website (https://grokker.com).  A monthly subscription is $14.99 or yearly subscription is $119.88. There is a free trial period during which you may try out Grokker without being charged. A subscription automatically renews at the listed monthly or yearly price unless auto-renew is turned off at least 24-hours before the end of the current period.  Grokker's Privacy Policy may be found at https://grokker.com/privacy Grokker's Terms of Use may be found at https://grokker.com/tos Contact us support@grokker.com",
+  "privacyText": "https://grokker.com/privacy",
+  "numInstalls": 10000,
+  "developer": "Grokker Inc.",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://grokker.com",
+    "Developer Email": "support@grokker.com",
+    "Privacy Policy": "https://grokker.com/privacy"
+  },
+  "smali_Directories": [
+    "Adobe",
+    "Facebook",
+    "Google Ads",
+    "Paypal"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

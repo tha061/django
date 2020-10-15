@@ -1,0 +1,93 @@
+{
+  "name": "com.getrevive.revive",
+  "fileSize": "17.8 MB",
+  "VTmd5": "c191a9f5e3bc5e6ab44ed0758a5abd27",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/879531668087ddfda39db08a68780384b73c3e78ec8df69c1c1a96db9999470b/detection/f-879531668087ddfda39db08a68780384b73c3e78ec8df69c1c1a96db9999470b-1575868439",
+  "VTresource": "879531668087ddfda39db08a68780384b73c3e78ec8df69c1c1a96db9999470b",
+  "VTresponsecode": 1,
+  "VTscanID": "879531668087ddfda39db08a68780384b73c3e78ec8df69c1c1a96db9999470b-1575868439",
+  "VTsha1": "461d10a34b9c4b3f27617315d4e421182e0c4d8d",
+  "VTsha256": "879531668087ddfda39db08a68780384b73c3e78ec8df69c1c1a96db9999470b",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "com.getrevive.revive.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.getrevive.revive.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.getrevive.revive.network.service.SyncService  permission: ",
+      "name: com.getrevive.revive.network.service.RichPushService  permission: ",
+      "name: com.localytics.android.GcmListenerService  permission: ",
+      "name: com.localytics.android.InstanceIDListenerService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "16 March 2017",
+    "Size": "18M",
+    "Installs": "50000",
+    "Current Version": "1.0.32",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$8.47 \u2013 $50.77 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Revive Weight Loss",
+    "Developer": "Visit website team@get-revive.com Privacy Policy 28, rue du Docteur Finlay\n75015 Paris\nFrance"
+  },
+  "rating": "2.9",
+  "description": "Revive - Weight Loss is a new way to improve your well-being everyday. Unlike other weight loss apps that focus on calorie counting, Revive helps you track and improve your eating habits, for a more lasting impact. Revive is made for you, if: > You wish to acquire better eating habits in order to get back in shape, improve your general well-being and lose weight. > You do not believe anymore in unsustainable restrictive diet plans, whose effects never last. > You are willing to track your meals, but only if it's \"quick, fast and fun\" (because classic calorie counting is super tedious). > You don't want to count calories your whole life. HOW IT WORKS: > Intelligent: Each day, Revive gives you a list of advices and tips, customised to your needs. > Easy: You will input your meals via a unique system based on portion tracking. In a few seconds, Revive tells you if you had a very healthy day (Green colour), if the day was average (Yellow colour), or if you have a lot of corrections to make (Orange colour). String together as many Green days as possible to reach your weight loss goals! > Complete: Nutrition tips, exercice, sleep, anti-stress, recipes, etc. Everything is important to lose weight. It's not just about your plate! Questions? Feedback? You can reach us here: team@get-revive.com.",
+  "privacyText": "http://www.get-revive.com/privacy-policy",
+  "numInstalls": 50000,
+  "developer": "Revive Weight Loss",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.get-revive.com",
+    "Developer Email": "team@get-revive.com",
+    "Privacy Policy": "http://www.get-revive.com/privacy-policy"
+  },
+  "smali_Directories": [
+    "Appsflyer",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads",
+    "Google Analytics",
+    "J256",
+    "Localytics",
+    "Squareup",
+    "Viewpagerindicator"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

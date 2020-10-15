@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1322638344 (0x4ed5dc08)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CN, ST=henan, L=zhengzhou, O=abishkking, OU=abishkking, CN=abishkking
+        Validity
+            Not Before: Nov 30 07:32:24 2011 GMT
+            Not After : Oct 26 07:32:24 4749 GMT
+        Subject: C=CN, ST=henan, L=zhengzhou, O=abishkking, OU=abishkking, CN=abishkking
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d4:98:6a:cf:08:aa:a3:ab:bf:02:ad:f5:ad:3b:
+                    79:69:66:fb:5d:af:da:e0:26:d3:53:09:c6:00:e6:
+                    87:e6:d1:30:04:9d:89:f5:d2:f4:c5:4b:43:92:ec:
+                    cf:0c:ee:86:ef:58:15:a8:34:a9:65:ee:59:9c:83:
+                    ed:f8:7f:b7:5a:2c:84:eb:fe:59:94:9a:67:6b:57:
+                    ec:63:ad:ec:7c:33:53:71:9f:f7:68:50:a2:e1:09:
+                    94:10:06:19:24:cb:e7:89:28:de:80:5a:34:06:28:
+                    ef:05:cf:56:a6:93:80:39:b7:7d:c4:80:a7:9c:f9:
+                    47:ec:0d:e8:8d:20:06:a3:c1
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         aa:a6:1c:bf:d9:27:7c:67:f4:b9:81:15:6c:11:23:5b:14:78:
+         63:c2:29:5c:e3:4f:e8:7a:99:ed:8b:f1:8f:8a:db:78:a4:a7:
+         6a:84:6e:a8:39:99:c6:7b:cf:38:26:2d:c3:2e:10:03:5f:d9:
+         86:90:75:2b:02:5f:0d:2e:c8:76:d3:3e:6c:e8:5e:9a:ac:72:
+         d0:4c:a6:19:01:52:8f:37:9d:73:df:38:5b:62:a2:5b:9a:40:
+         c7:59:d3:fa:eb:2f:f6:b4:fa:0a:51:26:39:2a:8a:4f:0f:4c:
+         4b:d7:31:b4:e6:8f:89:ac:4a:a1:a5:f7:92:91:33:65:76:fe:
+         89:40
+-----BEGIN CERTIFICATE-----
+MIICWTCCAcKgAwIBAgIETtXcCDANBgkqhkiG9w0BAQUFADBwMQswCQYDVQQGEwJD
+TjEOMAwGA1UECBMFaGVuYW4xEjAQBgNVBAcTCXpoZW5nemhvdTETMBEGA1UEChMK
+YWJpc2hra2luZzETMBEGA1UECxMKYWJpc2hra2luZzETMBEGA1UEAxMKYWJpc2hr
+a2luZzAgFw0xMTExMzAwNzMyMjRaGA80NzQ5MTAyNjA3MzIyNFowcDELMAkGA1UE
+BhMCQ04xDjAMBgNVBAgTBWhlbmFuMRIwEAYDVQQHEwl6aGVuZ3pob3UxEzARBgNV
+BAoTCmFiaXNoa2tpbmcxEzARBgNVBAsTCmFiaXNoa2tpbmcxEzARBgNVBAMTCmFi
+aXNoa2tpbmcwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANSYas8IqqOrvwKt
+9a07eWlm+12v2uAm01MJxgDmh+bRMASdifXS9MVLQ5Lszwzuhu9YFag0qWXuWZyD
+7fh/t1oshOv+WZSaZ2tX7GOt7HwzU3Gf92hQouEJlBAGGSTL54ko3oBaNAYo7wXP
+VqaTgDm3fcSAp5z5R+wN6I0gBqPBAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAqqYc
+v9knfGf0uYEVbBEjWxR4Y8IpXONP6HqZ7Yvxj4rbeKSnaoRuqDmZxnvPOCYtwy4Q
+A1/ZhpB1KwJfDS7IdtM+bOhemqxy0EymGQFSjzedc984W2KiW5pAx1nT+usv9rT6
+ClEmOSqKTw9MS9cxtOaPiaxKoaX3kpEzZXb+iUA=
+-----END CERTIFICATE-----
+

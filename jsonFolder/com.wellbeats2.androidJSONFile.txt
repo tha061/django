@@ -1,0 +1,89 @@
+{
+  "name": "com.wellbeats2.android",
+  "fileSize": "55.2 MB",
+  "VTmd5": "92445d247d06394bb4e699514f3bfb7b",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/63b46f7f9877887f770528f833bc3b631dda3cd4bc940fbeacc4c615c4d0c2a8/detection/f-63b46f7f9877887f770528f833bc3b631dda3cd4bc940fbeacc4c615c4d0c2a8-1595575262",
+  "VTresource": "63b46f7f9877887f770528f833bc3b631dda3cd4bc940fbeacc4c615c4d0c2a8",
+  "VTresponsecode": 1,
+  "VTscanID": "63b46f7f9877887f770528f833bc3b631dda3cd4bc940fbeacc4c615c4d0c2a8-1595575262",
+  "VTsha1": "1d30958339b426f165d833f9af510a0410abfd3f",
+  "VTsha256": "63b46f7f9877887f770528f833bc3b631dda3cd4bc940fbeacc4c615c4d0c2a8",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "com.wellbeats2.android.permission.UA_DATA Protection Level: Developer Defined Permission",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.WIFI_LOCK Protection Level: Developer Defined Permission",
+    "android.permission.SET_ORIENTATION Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_SETTINGS Protection Level: signature|preinstalled|appop|pre23",
+    "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION Protection Level: Developer Defined Permission",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.wellbeats2.android.permission.UA_DATA   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: crc64396a3fe5f8138e3f.KeepAliveService  permission: ",
+      "name: crc640f29145cbc8247ae.ForegroundService  permission: ",
+      "name: com.urbanairship.job.AirshipService  permission: ",
+      "name: com.urbanairship.job.AndroidJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.urbanairship.push.fcm.AirshipFirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "23 July 2020",
+    "Size": "55M",
+    "Installs": "50000",
+    "Current Version": "2.20.0723.1",
+    "Requires Android": "7.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Wellbeats",
+    "Developer": "Visit website support@wellbeats.com Privacy Policy 1660 South Hwy 100\nSuite 590\nSt Louis Park, MN 55416"
+  },
+  "rating": "3.9",
+  "description": "*** IMPORTANT: The Wellbeats app is ONLY available through an employer or affiliated organization such as a health club, residential complex, school, hotel or government body. Accounts are purchased at a corporate-level only.  For login credentials, please contact your affiliated organization\u2019s supervisor or contact our Wellbeats Support Team at support@wellbeats.com. If interested in adding Wellbeats as an exclusive wellbeing benefit, please contact your HR department so we can bring Wellbeats to your community! *** Discover fitness made easy with the Wellbeats app! Choose from 500+ on-demand classes for all fitness levels including yoga, HIIT, strength training, running and walking, mindfulness and meditation, cycling, circuits, kickboxing, dancing, office breaks, stretching, and so much more. New classes are added regularly! Join the Wellbeats community and team of friendly, certified trainers ready to help you feel your best! From form corrections to motivation, Wellbeats on-demand trainers will guide you through your workouts from the comfort of your own home (or on-the-go!)  Find Your Workout There are several ways to find a class that works best for you: \u2022 Filter by what types of workouts you like and how long you can work out for  \u2022 Discover classes recommended to you based on your personal preferences and goals \u2022 See what\u2019s popular in the Top Rated and Top Played class categories Set Your Goal Got a goal in mind? We\u2019re here to help you reach it! \u2022 Choose from goal-based or seasonal challenges, including Maintain Don\u2019t Gain Holiday Challenge, Train Your Way to a 5K Challenge, Lose Weight Challenge, and so much more! \u2022 Compete against yourself by taking a fit test and recording your results on the app (so you can beat it next time) Track Your Progress Monitor your current progress and workout performance: \u2022 See how you\u2019re performing each month with personal statistics updated daily \u2022 Compare your results to current demographic and global averages \u2022 Access your entire list of class plays and login history By downloading, installing or using the Wellbeats app, you agree to the terms and conditions of the End User License Agreement (EULA). If you do not agree to the terms of the EULA, do not download, install or use the Wellbeats App. The EULA is between you and Wellbeats only. Wellbeats is solely responsible for the app. The End User License Agreement can be found at www.wellbeats.com/EULA. To view our Privacy Policy, please visit www.wellbeats.com/privacy. Got a class request? Let us know on social media: Facebook: https://www.facebook.com/wellbeats/ Instagram: https://www.instagram.com/wellbeats/",
+  "privacyText": "http://www.wellbeats.com/privacy",
+  "numInstalls": 50000,
+  "developer": "Wellbeats",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.wellbeats.com",
+    "Developer Email": "support@wellbeats.com",
+    "Privacy Policy": "http://www.wellbeats.com/privacy"
+  },
+  "smali_Directories": [
+    "Squareup",
+    "Urbanairship",
+    "Urban Ariship"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

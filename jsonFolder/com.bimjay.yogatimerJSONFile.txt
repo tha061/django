@@ -1,0 +1,74 @@
+{
+  "name": "com.bimjay.yogatimer",
+  "fileSize": "3.2 MB",
+  "VTmd5": "8d91df98b9688bff76a884ab9be41b89",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/28aeb165367c4e453a1a134e4c957d8b718d240d6b172d3e08eeb8dfa69db937/detection/f-28aeb165367c4e453a1a134e4c957d8b718d240d6b172d3e08eeb8dfa69db937-1575779848",
+  "VTresource": "28aeb165367c4e453a1a134e4c957d8b718d240d6b172d3e08eeb8dfa69db937",
+  "VTresponsecode": 1,
+  "VTscanID": "28aeb165367c4e453a1a134e4c957d8b718d240d6b172d3e08eeb8dfa69db937-1575779848",
+  "VTsha1": "6b99cfc31aea7b4ceaf1e4cd2191e114c564ae99",
+  "VTsha256": "28aeb165367c4e453a1a134e4c957d8b718d240d6b172d3e08eeb8dfa69db937",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.NFC Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.bimjay.workouttimerlib.TimerService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "22 September 2015",
+    "Size": "3.2M",
+    "Installs": "50000",
+    "Current Version": "1.7.5",
+    "Requires Android": "2.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$1.49 \u2013 $2.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Bimjay",
+    "Developer": "Visit website support@bimjay.com Privacy Policy Torvladev 13\n438 35 Landvetter\nSweden"
+  },
+  "rating": "4.1",
+  "description": "Yoga Timer is an easy to use and discreet timer app especially made for yoga, meditation and other workouts where you don't want to interact with your timer alarms during your exercises. With Yoga Timer there is  no need for you to interrupt yourself to silence any timer alarms , instead you are discretely notified that the time is up for that part and then it automatically continues with the next timer. Try out the example workouts or create your own workouts with your lists of exercises (timers), visual and optional audio feedback and different forms of repeats available. \u2022\u2022\u2022  As seen on the Google Developer Live shows \"The App Clinic\" and \"Developers Strike back\"! \u2022\u2022\u2022 FREE The app is ad-supported but they will not start showing until after 7 days and you can remove the ads with a standard Google Play in-app purchase. MODERN FEATURES It is a modern Android application using the simple but elegant Android design guidelines while still being available for Android 2.3 and newer devices. On Android 4.1+ it takes advantage of the enhanced notifications. Optimized for both phone and tablet use and you can choose from different color themes (dark/light etc). Colored status bar and translucent navigation bar, Android 5 styled notifications and the beginnings of Android Wear support, the list goes on. Share your workouts with Android Beam! On supported devices hold it next to another phone or tablet, back to back, and tap to confirm and the workout is shared in a second, no cables, no setup. Simple.  Of course there is an automatic backup of your workouts and settings automatically restored when moving to a new phone or after doing a factory reset. QUESTIONS? If you have suggestions, problems or questions please use email: support@bimjay.com PERMISSIONS \u2022 WAKE LOCK -Option to keep the display on when timers are running \u2022 VIBRATE -Option to vibrate when time is up \u2022 BILLING -For easy in-app optional upgrade to remove ads. \u2022 INTERNET -Ads and anonymous usage statistics (can be disabled if upgraded) \u2022 ACCESS NETWORK STATE -Ads and anonymous usage statistics (can be disabled if upgraded) \u2022 ACCESS COARSE LOCATION -For the ads (not used if upgraded) \u2022 NFC -Share workouts with Android Beam (NFC)",
+  "privacyText": "https://www.bimjay.com/support/privacy",
+  "numInstalls": 50000,
+  "developer": "Bimjay",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.bimjay.com",
+    "Developer Email": "support@bimjay.com",
+    "Privacy Policy": "https://www.bimjay.com/support/privacy"
+  },
+  "smali_Directories": [
+    "Actionbarsherlock",
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

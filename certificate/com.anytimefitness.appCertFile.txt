@@ -1,0 +1,48 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1414184656 (0x544abed0)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=55033, ST=MN, L=Hastings, O=Anytime Fitness, CN=Ryan Masanz
+        Validity
+            Not Before: Oct 24 21:04:16 2014 GMT
+            Not After : Oct 18 21:04:16 2039 GMT
+        Subject: C=55033, ST=MN, L=Hastings, O=Anytime Fitness, CN=Ryan Masanz
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:9a:ec:0a:5a:3a:17:80:a3:13:89:a6:8c:08:33:
+                    18:0c:93:e6:96:93:db:71:ea:ef:69:b7:6a:36:da:
+                    2e:3b:73:3f:46:b0:cc:78:6d:c5:0a:02:c8:b8:15:
+                    0c:1e:ab:42:a7:dd:e8:91:98:00:d0:0d:4e:79:7c:
+                    b9:40:c7:b5:13:90:8a:a1:35:1f:19:35:a2:f0:a2:
+                    6e:70:e3:12:69:72:30:ee:95:62:95:fc:f6:f6:77:
+                    b7:87:50:3d:55:a3:30:4e:fb:c6:ef:f0:42:cb:ea:
+                    47:3d:36:9d:21:bd:c4:ce:8f:04:06:c7:91:cd:e9:
+                    7e:18:ab:61:12:6b:ec:fa:f3
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         17:f0:46:24:0b:cd:3c:b0:a2:6d:db:a0:88:74:58:7a:73:ea:
+         13:5e:e9:39:59:6b:0f:05:e4:a9:40:00:0f:87:4e:db:b1:50:
+         9c:7b:1f:f4:37:3d:93:77:d6:19:0a:d5:04:47:b8:2e:50:6b:
+         89:3e:7f:ed:7b:97:8b:d5:6b:02:43:20:70:19:54:09:c8:b7:
+         23:12:d8:a3:d1:42:1e:3f:8b:54:ea:63:00:ea:f0:0f:be:5e:
+         03:09:96:f7:80:1e:22:26:e9:a5:aa:8e:41:84:0f:3f:6b:ae:
+         e0:6d:14:67:65:6e:dc:23:ee:4d:07:67:b0:91:74:d2:b0:f9:
+         ad:a5
+-----BEGIN CERTIFICATE-----
+MIICNzCCAaCgAwIBAgIEVEq+0DANBgkqhkiG9w0BAQUFADBgMQ4wDAYDVQQGEwU1
+NTAzMzELMAkGA1UECBMCTU4xETAPBgNVBAcTCEhhc3RpbmdzMRgwFgYDVQQKEw9B
+bnl0aW1lIEZpdG5lc3MxFDASBgNVBAMTC1J5YW4gTWFzYW56MB4XDTE0MTAyNDIx
+MDQxNloXDTM5MTAxODIxMDQxNlowYDEOMAwGA1UEBhMFNTUwMzMxCzAJBgNVBAgT
+Ak1OMREwDwYDVQQHEwhIYXN0aW5nczEYMBYGA1UEChMPQW55dGltZSBGaXRuZXNz
+MRQwEgYDVQQDEwtSeWFuIE1hc2FuejCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkC
+gYEAmuwKWjoXgKMTiaaMCDMYDJPmlpPbcervabdqNtouO3M/RrDMeG3FCgLIuBUM
+HqtCp93okZgA0A1OeXy5QMe1E5CKoTUfGTWi8KJucOMSaXIw7pVilfz29ne3h1A9
+VaMwTvvG7/BCy+pHPTadIb3Ezo8EBseRzel+GKthEmvs+vMCAwEAATANBgkqhkiG
+9w0BAQUFAAOBgQAX8EYkC808sKJt26CIdFh6c+oTXuk5WWsPBeSpQAAPh07bsVCc
+ex/0Nz2Td9YZCtUER7guUGuJPn/te5eL1WsCQyBwGVQJyLcjEtij0UIeP4tU6mMA
+6vAPvl4DCZb3gB4iJumlqo5BhA8/a67gbRRnZW7cI+5NB2ewkXTSsPmtpQ==
+-----END CERTIFICATE-----
+

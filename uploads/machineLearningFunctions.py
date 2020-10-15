@@ -5,9 +5,10 @@ import seaborn as sns
 from sklearn import preprocessing
 import pickle
 from sklearn.svm import SVC
+from .filepaths import *
 
 def testSVCPickle(text):
-    filename = r'C:\Users\jake_\OneDrive\Desktop\Macquarie University\Personal Projects\Cybersecurity\Django\three\mysite\corpus\Scikit_Model\finalized_model_91_percent.sav'
+    filename = filepaths_NeuralNetworkModel
     loaded_model = pickle.load(open(filename, 'rb'))
     listText = []
     listText.append(text)

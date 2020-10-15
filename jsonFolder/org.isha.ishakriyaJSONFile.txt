@@ -1,0 +1,71 @@
+{
+  "name": "org.isha.ishakriya",
+  "fileSize": "21.7 MB",
+  "VTmd5": "ad3d0d532d93356eb6cfb02aa6d761dc",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/625656626fd539c8863f6d47a26f5aae57ace684ec393bfdca058494e90d9e7b/detection/f-625656626fd539c8863f6d47a26f5aae57ace684ec393bfdca058494e90d9e7b-1583374982",
+  "VTresource": "625656626fd539c8863f6d47a26f5aae57ace684ec393bfdca058494e90d9e7b",
+  "VTresponsecode": 1,
+  "VTscanID": "625656626fd539c8863f6d47a26f5aae57ace684ec393bfdca058494e90d9e7b-1583374982",
+  "VTsha1": "e5e0e01853e9ea1c7993184c813d07ff9b6dd958",
+  "VTsha256": "625656626fd539c8863f6d47a26f5aae57ace684ec393bfdca058494e90d9e7b",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "org.isha.ishakriya.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: org.isha.ishakriya.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "2 April 2017",
+    "Size": "22M",
+    "Installs": "100000",
+    "Current Version": "11",
+    "Requires Android": "4.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Isha Mobile",
+    "Developer": "Visit website mobiledev@ishafoundation.org Privacy Policy 951 Isha Lane\nMcMinnville\nTN 37110"
+  },
+  "rating": "4.1",
+  "description": "Isha Kriya is a simple but powerful guided meditation for clarity, health and joy.  This meditation can be practiced by anyone above 12 years of age.      'Isha' means that which is the source of creation.      'Kriya' means an inward action towards that. Daily practice of Isha Kriya, which takes just 12 minutes, will help you to reorganize your energies and provide: Enhanced Clarity Improved Health Heightened focus and energy Greater prosperity and a state of peacefulness and joy This meditation is designed by Sadhguru, a yogi, profound mystic and humanitarian, in an effort to raise human consciousness.",
+  "privacyText": "http://www.ishafoundation.org/us/privacy-policy",
+  "numInstalls": 100000,
+  "developer": "Isha Mobile",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.ishakriya.org",
+    "Developer Email": "mobiledev@ishafoundation.org",
+    "Privacy Policy": "http://www.ishafoundation.org/us/privacy-policy"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

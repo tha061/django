@@ -1,0 +1,82 @@
+{
+  "name": "appinventor.ai_nels0n0s0ri0.MiRutina",
+  "fileSize": "72.3 MB",
+  "VTmd5": "75e702febdec628d3cf96f181f06a2fa",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/7375c94570f9cdf4e93851810a08a67143c62413857bdbb1bdd9bbc74628c785/detection/f-7375c94570f9cdf4e93851810a08a67143c62413857bdbb1bdd9bbc74628c785-1602473799",
+  "VTresource": "7375c94570f9cdf4e93851810a08a67143c62413857bdbb1bdd9bbc74628c785",
+  "VTresponsecode": 1,
+  "VTscanID": "7375c94570f9cdf4e93851810a08a67143c62413857bdbb1bdd9bbc74628c785-1602473799",
+  "VTsha1": "219dfa83877dbc02abad19dc2fcb01892ab26397",
+  "VTsha256": "7375c94570f9cdf4e93851810a08a67143c62413857bdbb1bdd9bbc74628c785",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.AUDIO Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "11 October 2020",
+    "Size": "74M",
+    "Installs": "1000000",
+    "Current Version": "72.6",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$3.99 \u2013 $29.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "GYM Generation Fitness",
+    "Developer": "Visit website info@gymgfitness.com Valladolid, 47195"
+  },
+  "rating": "4.6",
+  "description": "GYM Generation Fitness is a fitness guide for this sport\u00b4s fans. Gym Generation Fitness offers you a big amount of info that will help you to reach your goals. Gym Generation Fitness has many exercises and workouts for training at your gym or at home GYM Generation Fitness has the following sections: Gym Exercises Guide: More than 100 different exercises to do at the gym with explanation of the exercise, info about involved muscles, images and an explanation video Gym & Home Workouts: Different workouts that will help you to schedule your weekly work, as hard as you want or you can. You can train at the gym or at home Guided Workouts: Different guided workouts that will allow you to practice fitness at home with this app\u00b4s help Challenges: Try to beat yourself and reach some of the goals that GYM Generation fitness proposes you, try to reach your best training with these workouts. My Progress: GYM Generation Fitness helps you to monitorize your improvements with this section. Here, you will be able to control your BMI (body mass index), Fat %, and your strength. Workout Builder: Create your own workouts! Nutrition: GYM Generation Fitness will help you support your work in the gym with nutrition advice so that you know what, when and how to eat to achieve your goals. Utilities: GYM Generation Fitness offers you the way to calculate your IMC, Fat %, and your Strength. This app is free, we only ask you for your positive rating so that more people knows the app and we can keep improving it We hope you like it!!",
+  "privacyText": "",
+  "numInstalls": 1000000,
+  "developer": "GYM Generation Fitness",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.gymgenerationfitness.com",
+    "Developer Email": "info@gymgfitness.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

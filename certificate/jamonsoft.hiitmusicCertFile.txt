@@ -1,0 +1,72 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 645348467 (0x26773c73)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: O=Jam on Soft, OU=jamonsoft, CN=Jordi Toro
+        Validity
+            Not Before: Jan 26 19:37:37 2015 GMT
+            Not After : Jan 20 19:37:37 2040 GMT
+        Subject: O=Jam on Soft, OU=jamonsoft, CN=Jordi Toro
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:84:f9:c8:b0:ff:46:2b:f9:79:0f:46:ff:97:9c:
+                    b4:85:8c:6a:c4:16:54:09:02:10:d3:3a:f4:fe:9e:
+                    07:36:5b:3e:90:7d:56:d7:73:39:aa:9e:f3:a7:7c:
+                    37:e7:03:11:7c:05:c4:0c:11:f0:cb:a0:01:da:4f:
+                    28:cf:be:ae:b5:c7:2e:89:87:c8:b8:3a:ff:2c:8e:
+                    a8:39:e5:96:e3:95:2b:6c:37:c8:76:08:3f:1d:01:
+                    55:8c:b2:aa:2f:15:dd:6b:0e:73:fb:cf:0a:9f:c5:
+                    1d:4e:0a:ce:f0:87:8d:d1:2a:f0:48:e3:eb:53:68:
+                    c4:f6:f8:93:c6:60:dc:d4:3d:aa:9c:3c:0d:f8:73:
+                    90:f0:d4:9b:04:21:79:fb:d3:e2:13:08:15:7a:17:
+                    b7:61:94:9f:3d:1d:f5:e6:36:f7:bf:6a:5a:26:b7:
+                    79:a7:cd:9c:d6:f5:ec:c3:2f:25:42:69:64:f3:57:
+                    ca:fa:ce:fc:1a:de:55:55:49:82:cd:77:66:0d:a1:
+                    f8:d3:c7:ba:ae:b0:8d:b2:8f:e5:54:06:25:dc:1f:
+                    c4:86:a1:24:fb:f9:b8:f8:c3:49:a6:37:b8:aa:dd:
+                    d3:1d:d4:0b:94:87:fd:b6:13:e2:b7:09:32:26:60:
+                    f7:8c:de:c3:62:60:77:f3:4b:99:be:2d:55:6c:19:
+                    eb:17
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                D0:60:A0:92:E5:CE:F6:1C:CC:DE:E9:B5:F2:81:D0:6C:9F:38:AE:9A
+    Signature Algorithm: sha256WithRSAEncryption
+         19:21:22:99:4e:46:f4:7b:ab:6c:27:f4:29:2c:d2:db:12:e9:
+         be:ba:bb:2d:b2:14:fb:fc:fb:8f:88:70:95:28:39:ac:20:eb:
+         8f:44:39:c9:fa:f2:9a:6b:d6:d9:58:78:6b:90:c2:09:7c:be:
+         81:e2:b8:26:ea:d2:54:cd:6a:ec:f1:4b:cf:86:8c:51:95:b8:
+         3d:b8:a2:55:ce:dc:58:0c:4d:0b:23:d7:88:2a:5c:61:64:f1:
+         7b:6d:5f:ae:25:78:aa:e7:d3:44:2c:6f:d6:26:48:28:90:de:
+         f1:6d:bf:1d:86:d8:ba:e5:81:6c:09:62:bb:c8:dd:0a:e4:20:
+         d9:ad:4d:9a:ac:ab:27:0f:be:4b:41:05:8c:d0:3c:a8:9d:d9:
+         6f:06:08:e1:cf:f6:ee:f9:58:a8:25:f1:1d:44:8c:32:06:d2:
+         02:bc:36:22:db:e3:93:61:e5:81:d0:34:67:2c:16:33:3a:86:
+         4c:a1:bf:00:00:63:f1:ea:1a:63:21:20:e2:68:ed:c2:09:a6:
+         92:1e:5f:fc:c8:d3:96:86:71:24:69:97:b8:11:ce:74:b6:79:
+         4b:9a:56:8b:96:1a:36:6a:d1:e1:d5:f3:c0:81:49:48:17:90:
+         d8:d7:90:0a:c4:57:d9:87:71:d2:97:c0:df:60:4c:03:a2:11:
+         d0:f8:bd:aa
+-----BEGIN CERTIFICATE-----
+MIIDHTCCAgWgAwIBAgIEJnc8czANBgkqhkiG9w0BAQsFADA/MRQwEgYDVQQKEwtK
+YW0gb24gU29mdDESMBAGA1UECxMJamFtb25zb2Z0MRMwEQYDVQQDEwpKb3JkaSBU
+b3JvMB4XDTE1MDEyNjE5MzczN1oXDTQwMDEyMDE5MzczN1owPzEUMBIGA1UEChML
+SmFtIG9uIFNvZnQxEjAQBgNVBAsTCWphbW9uc29mdDETMBEGA1UEAxMKSm9yZGkg
+VG9ybzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIT5yLD/Riv5eQ9G
+/5ectIWMasQWVAkCENM69P6eBzZbPpB9VtdzOaqe86d8N+cDEXwFxAwR8MugAdpP
+KM++rrXHLomHyLg6/yyOqDnlluOVK2w3yHYIPx0BVYyyqi8V3WsOc/vPCp/FHU4K
+zvCHjdEq8Ejj61NoxPb4k8Zg3NQ9qpw8DfhzkPDUmwQhefvT4hMIFXoXt2GUnz0d
+9eY2979qWia3eafNnNb17MMvJUJpZPNXyvrO/BreVVVJgs13Zg2h+NPHuq6wjbKP
+5VQGJdwfxIahJPv5uPjDSaY3uKrd0x3UC5SH/bYT4rcJMiZg94zew2Jgd/NLmb4t
+VWwZ6xcCAwEAAaMhMB8wHQYDVR0OBBYEFNBgoJLlzvYczN7ptfKB0GyfOK6aMA0G
+CSqGSIb3DQEBCwUAA4IBAQAZISKZTkb0e6tsJ/QpLNLbEum+urstshT7/PuPiHCV
+KDmsIOuPRDnJ+vKaa9bZWHhrkMIJfL6B4rgm6tJUzWrs8UvPhoxRlbg9uKJVztxY
+DE0LI9eIKlxhZPF7bV+uJXiq59NELG/WJkgokN7xbb8dhti65YFsCWK7yN0K5CDZ
+rU2arKsnD75LQQWM0DyondlvBgjhz/bu+VioJfEdRIwyBtICvDYi2+OTYeWB0DRn
+LBYzOoZMob8AAGPx6hpjISDiaO3CCaaSHl/8yNOWhnEkaZe4Ec50tnlLmlaLlho2
+atHh1fPAgUlIF5DY15AKxFfZh3HSl8DfYEwDohHQ+L2q
+-----END CERTIFICATE-----
+

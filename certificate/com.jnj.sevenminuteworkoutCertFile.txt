@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1390340255 (0x52dee89f)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=MI, L=Ann Arbor, O=Johnson & Johnson, OU=Wellness & Prevention Inc., CN=Unknown
+        Validity
+            Not Before: Jan 21 21:37:35 2014 GMT
+            Not After : Jun  8 21:37:35 2041 GMT
+        Subject: C=US, ST=MI, L=Ann Arbor, O=Johnson & Johnson, OU=Wellness & Prevention Inc., CN=Unknown
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:89:29:d9:09:68:28:f2:b4:61:78:6f:46:40:15:
+                    8f:3e:eb:23:78:fe:3d:09:4e:d0:aa:31:c7:e4:d4:
+                    58:30:dc:3a:15:f6:0c:3c:cd:da:26:1a:1a:56:b8:
+                    1a:a9:25:2d:aa:37:b1:32:f3:ca:18:3d:ba:f6:c1:
+                    b2:7e:82:9a:ae:e8:70:9e:ea:b9:d6:d2:b2:a7:15:
+                    57:bf:af:a9:22:e0:60:6f:a3:56:c7:98:ea:51:eb:
+                    84:42:74:ed:c9:8c:c1:5f:f0:9c:d1:ee:be:a4:a3:
+                    60:fd:d2:ec:09:58:c5:30:f7:4f:5b:da:60:d1:f6:
+                    90:07:3a:fc:62:dd:2b:ba:41:11:00:66:ac:0b:2e:
+                    e7:f2:ab:7c:85:f3:bb:79:d5:f4:a0:8d:6a:1e:93:
+                    3d:f6:6c:42:98:c9:fa:7a:a5:4e:01:83:f9:49:14:
+                    a5:13:34:fe:48:93:00:8e:67:15:41:b1:84:3b:2e:
+                    00:1d:e7:b7:24:67:9f:f7:13:dc:20:8e:b8:c7:73:
+                    e3:74:c6:d2:a1:75:64:78:a1:20:cb:e0:d5:92:a3:
+                    06:13:18:78:88:24:4f:3b:f6:b1:6a:ba:15:81:5c:
+                    ff:97:a8:1c:b7:5b:6f:ba:11:33:98:7e:83:ec:61:
+                    5c:e5:24:85:d5:13:e2:9f:1b:c1:be:82:5a:81:41:
+                    cf:8b
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         16:29:03:eb:00:21:34:27:03:da:f2:6a:54:fc:d2:d8:0f:af:
+         56:fd:4e:6f:cb:91:c2:5c:1b:5f:c4:e7:0d:bd:59:5e:a9:d7:
+         7d:ed:71:c4:12:86:84:e6:92:e1:9e:61:31:fa:fe:62:13:02:
+         36:a0:a1:60:70:ee:e0:53:09:b4:0b:21:35:3f:ec:10:fb:66:
+         a1:1e:dc:14:fb:40:7a:d9:fd:93:e6:dc:be:71:7f:63:50:80:
+         36:d3:c0:02:84:5e:1a:31:ca:cd:8f:18:71:b1:95:47:31:76:
+         a2:29:04:97:0b:13:ef:38:af:47:80:9d:a1:6c:2d:04:41:df:
+         68:62:22:a4:f4:62:ad:dc:3a:0e:86:61:8d:ed:08:7d:ac:b6:
+         d2:6a:e4:10:5b:7b:11:a4:4a:22:09:2c:0a:39:be:97:67:63:
+         29:07:1f:9c:93:f0:92:46:2b:ff:49:f5:61:e8:b6:60:29:30:
+         8e:2f:b8:fb:c0:de:84:0e:1f:93:aa:70:10:33:06:e4:ee:35:
+         3c:96:af:10:ff:c8:57:d9:60:94:00:67:5b:32:61:6d:8c:f8:
+         1a:24:59:7b:f9:e5:9c:ac:f2:15:82:f3:b4:60:f9:3e:8b:84:
+         95:7e:f9:ec:20:7c:6c:29:87:44:3c:d4:ac:b3:fc:0d:69:39:
+         25:d2:25:c1
+-----BEGIN CERTIFICATE-----
+MIIDgDCCAmigAwIBAgIEUt7onzANBgkqhkiG9w0BAQUFADCBgTELMAkGA1UEBhMC
+VVMxCzAJBgNVBAgTAk1JMRIwEAYDVQQHEwlBbm4gQXJib3IxGjAYBgNVBAoMEUpv
+aG5zb24gJiBKb2huc29uMSMwIQYDVQQLDBpXZWxsbmVzcyAmIFByZXZlbnRpb24g
+SW5jLjEQMA4GA1UEAxMHVW5rbm93bjAeFw0xNDAxMjEyMTM3MzVaFw00MTA2MDgy
+MTM3MzVaMIGBMQswCQYDVQQGEwJVUzELMAkGA1UECBMCTUkxEjAQBgNVBAcTCUFu
+biBBcmJvcjEaMBgGA1UECgwRSm9obnNvbiAmIEpvaG5zb24xIzAhBgNVBAsMGldl
+bGxuZXNzICYgUHJldmVudGlvbiBJbmMuMRAwDgYDVQQDEwdVbmtub3duMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiSnZCWgo8rRheG9GQBWPPusjeP49
+CU7QqjHH5NRYMNw6FfYMPM3aJhoaVrgaqSUtqjexMvPKGD269sGyfoKaruhwnuq5
+1tKypxVXv6+pIuBgb6NWx5jqUeuEQnTtyYzBX/Cc0e6+pKNg/dLsCVjFMPdPW9pg
+0faQBzr8Yt0rukERAGasCy7n8qt8hfO7edX0oI1qHpM99mxCmMn6eqVOAYP5SRSl
+EzT+SJMAjmcVQbGEOy4AHee3JGef9xPcII64x3PjdMbSoXVkeKEgy+DVkqMGExh4
+iCRPO/axaroVgVz/l6gct1tvuhEzmH6D7GFc5SSF1RPinxvBvoJagUHPiwIDAQAB
+MA0GCSqGSIb3DQEBBQUAA4IBAQAWKQPrACE0JwPa8mpU/NLYD69W/U5vy5HCXBtf
+xOcNvVleqdd97XHEEoaE5pLhnmEx+v5iEwI2oKFgcO7gUwm0CyE1P+wQ+2ahHtwU
++0B62f2T5ty+cX9jUIA208AChF4aMcrNjxhxsZVHMXaiKQSXCxPvOK9HgJ2hbC0E
+Qd9oYiKk9GKt3DoOhmGN7Qh9rLbSauQQW3sRpEoiCSwKOb6XZ2MpBx+ck/CSRiv/
+SfVh6LZgKTCOL7j7wN6EDh+TqnAQMwbk7jU8lq8Q/8hX2WCUAGdbMmFtjPgaJFl7
++eWcrPIVgvO0YPk+i4SVfvnsIHxsKYdEPNSss/wNaTkl0iXB
+-----END CERTIFICATE-----
+

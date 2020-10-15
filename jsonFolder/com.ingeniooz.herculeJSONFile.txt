@@ -1,0 +1,84 @@
+{
+  "name": "com.ingeniooz.hercule",
+  "fileSize": "21.0 MB",
+  "VTmd5": "b88cb665fc8d85bb541371cea0b6857c",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/e84f99f14b5acad7f0d8ef21d0eea4831163c180a50804826d0cc1da241aea8d/detection/f-e84f99f14b5acad7f0d8ef21d0eea4831163c180a50804826d0cc1da241aea8d-1575884739",
+  "VTresource": "e84f99f14b5acad7f0d8ef21d0eea4831163c180a50804826d0cc1da241aea8d",
+  "VTresponsecode": 1,
+  "VTscanID": "e84f99f14b5acad7f0d8ef21d0eea4831163c180a50804826d0cc1da241aea8d-1575884739",
+  "VTsha1": "37499f5bdca530d510d1b61302d6254797fcfb35",
+  "VTsha256": "e84f99f14b5acad7f0d8ef21d0eea4831163c180a50804826d0cc1da241aea8d",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.apps.photos.permission.GOOGLE_PHOTOS Protection Level: Developer Defined Permission",
+    "android.permission.MANAGE_DOCUMENTS Protection Level: N/A",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.ingeniooz.hercule.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal"
+  ],
+  "permissions": [
+    "   name: com.ingeniooz.hercule.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.batch.android.BatchPushService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "8 September 2018",
+    "Size": "21M",
+    "Installs": "500000",
+    "Current Version": "2.48.5",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u00e2\u20ac\u201c $9.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Ingeniooz",
+    "Developer": "Visit website contact@herculeapp.com Privacy Policy SAS Ingeniooz\nR\u00c3\u00a9sidence de la Moussaye\n40 all\u00c3\u00a9e des chevaliers\n38570 TENCIN\nFRANCE"
+  },
+  "rating": "4.6",
+  "description": "Hercules Workout Tracker & Gym Trainer is the best workout app. It\u00e2\u20ac\u2122s your personal fitness trainer, it will manage your bodybuilding, fitness and crossfit workouts for you, your timers and your training log in an intuitive and modern way. It\u00e2\u20ac\u2122s the perfect bodybuilding app for men and women. Join the 100 000+ users to reach your goals and ease your workout routines and follow your progress: \u00e2\u20ac\u00a2 Integrated timer : the timer starts automatically at the end of a set \u00e2\u20ac\u00a2 Take notes during your workout \u00e2\u20ac\u00a2 100+ predefined fitness & bodybuilding exercises classified by muscle groups: abs, forearms, biceps, back, shoulders, buttocks, hamstrings, lumbars, calves, chest, quadriceps, trapezius, triceps. \u00e2\u20ac\u00a2 8 beginners workout routines ready to go with the 7 minutes workout, full body workout, no equipment needed! \u00e2\u20ac\u00a2 Create your own workouts and exercises, sort them in customizable groups \u00e2\u20ac\u00a2 Generate workouts through the workout generator (paid service) \u00e2\u20ac\u00a2 Set your goals : for each set customize rest time, loads and number of repetitions \u00e2\u20ac\u00a2 You use some specific bodybuilding / crossfit / fitness machine? Take a picture from your phone and associate it to any exercise! \u00e2\u20ac\u00a2 You made a mistake during your routine? Edit your performance right after! During your workout / wod, Hercules will manage everything for you: \u00e2\u20ac\u00a2 Display the current exercise to do, with the number of repetitions and loads goals, the rest times are automatically managed through the integrated timer \u00e2\u20ac\u00a2 See your last performance on the set you are doing to beat it! \u00e2\u20ac\u00a2 Display the exercise complete description to do it well \u00e2\u20ac\u00a2 The next machine to use is unavailable? Change your next exercise on the fly! \u00e2\u20ac\u00a2 During the rest time, enter your performance, it will be added to your log, a beep will indicate the start of the next set \u00e2\u20ac\u00a2 At the workout end, your progression relative to the last session is displayed, you can draw your progression curves to motivate yourself As your personal trainer, Hercules will stay with you during your whole fitness training, at home or at the gym. No matter if your goal is to lose weight, belly fat, gain muscles or just stay in shape, you\u00e2\u20ac\u2122ll be able to follow your progress easily on this workout tracker. You can use it to do some predefined workouts like the 8 minutes abs workout or any other workout you find on the web. If you\u00e2\u20ac\u2122re a man, you will be able to gain muscle quickly and follow your progress through the user profile and measurements tracker. You can train your arms, abs, biceps, chest and any other muscle of your choice! Generate workouts accordingly to your needs, it\u00e2\u20ac\u2122s quick and simple. If you\u00e2\u20ac\u2122re a woman, you\u00e2\u20ac\u2122ll be able to gain some muscles too and lose fat quickly. Hercules will let you measure your hips, waist, thighs, buttocks and any other body part you want. You will follow your progress every day through curves to keep your motivation and never quit! Indeed Hercules can be used a weight tracker to lose fat quickly in just 2 weeks! Don't hesitate to send me your wod and workouts if you want me to add them in the best workout app! TRIAL PERIOD OF 7 DAYS: Hercules is free during a trial period of 7 days. At the end you must unlock the application through an in-app purchase to be able to continue to use it. Thanks for your support. Official facebook page: https://www.facebook.com/herculeapp Official website: http://en.herculeapp.com",
+  "privacyText": "http://blog.ingeniooz.com/privacy_policy_en.html",
+  "numInstalls": 500000,
+  "developer": "Ingeniooz",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.herculeapp.com",
+    "Developer Email": "contact@herculeapp.com",
+    "Privacy Policy": "http://blog.ingeniooz.com/privacy_policy_en.html"
+  },
+  "smali_Directories": [
+    "Batch ",
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

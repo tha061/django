@@ -1,0 +1,88 @@
+{
+  "name": "com.mobilehealthconsumer.mhc",
+  "fileSize": "9.7 MB",
+  "VTmd5": "d06a989cc2b09975e489924b1b95b6e8",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/4a2f5003075550376b693c6a7f807bdca5f895e8c5dbb11906d921000edf0167/detection/f-4a2f5003075550376b693c6a7f807bdca5f895e8c5dbb11906d921000edf0167-1601778614",
+  "VTresource": "4a2f5003075550376b693c6a7f807bdca5f895e8c5dbb11906d921000edf0167",
+  "VTresponsecode": 1,
+  "VTscanID": "4a2f5003075550376b693c6a7f807bdca5f895e8c5dbb11906d921000edf0167-1601778614",
+  "VTsha1": "fbd0f3716254a76382c1d581bd8fcb1b9b575a51",
+  "VTsha256": "4a2f5003075550376b693c6a7f807bdca5f895e8c5dbb11906d921000edf0167",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.USE_FINGERPRINT Protection Level: normal",
+    "com.mobilehealthconsumer.mhc.gcm.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "com.mobilehealthconsumer.mhc.googlemaps.permission.MAPS_RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.providers.gsf.permission.READ_GSERVICES Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.mobilehealthconsumer.mhc.gcm.permission.C2D_MESSAGE   protectionLevel: signature",
+    "   name: com.mobilehealthconsumer.mhc.googlemaps.permission.MAPS_RECEIVE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.mobilehealthconsumer.mhc.MyFirebaseMessagingService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "3 October 2020",
+    "Size": "9.7M",
+    "Installs": "50000",
+    "Current Version": "721",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Mobile Health Consumer Inc.",
+    "Developer": "Visit website support@mobilehealthconsumer.com Privacy Policy"
+  },
+  "rating": "2.5",
+  "description": "With the Mobile Health Consumer app, you can: \u2022 Conveniently access all your health personal benefits & resources from a single app.  \u2022 Quickly find the information you need about your chosen and available benefits offerings - e.g., coverage details, phone numbers, important updates and announcements. \u2022 Receive personalized guidance, so that you can make progress toward your health goals.  \u2022 Join health challenges, via Mobile Health\u2019s integration with major fitness and health trackers. The free Mobile Health Consumer app is only available to eligible members. Check with your employer or health plan whether they offer Mobile Health Consumer. Note that available features will vary between employers and health plans. About Mobile Health Consumer: Mobile Health Consumer, Inc. is a leading health benefits platform. Founded in 2012, MHC simplifies the healthcare system so that you can more easily make the best healthcare decisions for yourself and your family. Throughout the US, forward-thinking companies, ranging from medium-sized business to Fortune 500 companies, choose Mobile Health Consumer.   To learn more about Mobile Health Consumer, visit www.mobilehealthconsumer.com",
+  "privacyText": "https://www.mobilehealthconsumer.com/privacy.html",
+  "numInstalls": 50000,
+  "developer": "Mobile Health Consumer Inc.",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.mobilehealthconsumer.com",
+    "Developer Email": "support@mobilehealthconsumer.com",
+    "Privacy Policy": "https://www.mobilehealthconsumer.com/privacy.html"
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

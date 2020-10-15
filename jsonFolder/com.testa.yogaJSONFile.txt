@@ -1,0 +1,65 @@
+{
+  "name": "com.testa.yoga",
+  "fileSize": "32.7 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "2 August 2020",
+    "Size": "33M",
+    "Installs": "100000",
+    "Current Version": "1.2.3",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "RoboBot Studio",
+    "Developer": "Visit website info@robobotstudio.com Privacy Policy Andrea Testa\nVia Giacomo Leopardi n.25\n24020 Ranica (BG)\nITALY"
+  },
+  "rating": "4.4",
+  "description": "Yoga for beginners free app offline. Yoga for beginners: yoga asanas for weight loss, relaxation and meditation, a free yoga app for beginners to advanced. Yoga trainer has three yoga workout levels suitable for any type of yogi from complete beginners to advanced. YogaBot has a list of yoga poses that are good for body and mind.  If you are looking for a yoga for beginners free app to practice easy yoga at home, you found it. It is also available music for weight loss, relaxation and meditation during your yoga workouts.  Hatha Yoga will help you to relieve stress, get flexible and calm your mind. The daily easy yoga fitness routine contains different yoga asanas poses with videos, explanation and benefits. Doing the yoga workout will make you feel stronger, healthier, improve energy and weight loss.  Over 30 yoga poses categorized into difficulty workouts levels like: beginners, intermediate and advanced. Yoga Asanas videos selected are ideal for both women and men. In addition to available easy yoga workout, you can also create your personalized daily yoga fitness routines and use the free app offline.  To motivate your path, you can also take a 30 days yoga challenge and check your exercises achievements, day by day.",
+  "privacyText": "http://www.robobotstudio.com/privacy-policy-apps.html",
+  "numInstalls": 100000,
+  "developer": "RoboBot Studio",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.robobotstudio.com/",
+    "Developer Email": "info@robobotstudio.com",
+    "Privacy Policy": "http://www.robobotstudio.com/privacy-policy-apps.html"
+  },
+  "smali_Directories": [
+    "Flurry",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

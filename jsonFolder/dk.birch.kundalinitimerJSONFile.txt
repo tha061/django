@@ -1,0 +1,60 @@
+{
+  "name": "dk.birch.kundalinitimer",
+  "fileSize": "6.6 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.VIBRATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "8 October 2020",
+    "Size": "6.2M",
+    "Installs": "10000",
+    "Current Version": "2.5.6",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Birch Software",
+    "Developer": "jesper@birch.dk"
+  },
+  "rating": "4.6",
+  "description": "This is a very simple timer to use with your yoga pass. Or gym pass. Or something else. You can define unlimited number of timers with specification of number of minutes, seconds and repeats of the timer. Also to set a delay in between the repeats. When the timer is done a gong will be played once ( can though be turned off and use vibration instead ). No need of turning the timer off so you can focus on your yoga pass. Gong notifications can be setup on both start of a timer and end of a timer. Different kind of gongs sounds is available. No internet access or something else is required. NB! The app prevent the appliance to enter sleep mode but are still working if the screen is turned off.",
+  "privacyText": "",
+  "numInstalls": 10000,
+  "developer": "Birch Software",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "",
+    "Developer Email": "jesper@birch.dk",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": false
+}

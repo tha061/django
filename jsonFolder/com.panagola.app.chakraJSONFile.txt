@@ -1,0 +1,66 @@
+{
+  "name": "com.panagola.app.chakra",
+  "fileSize": "1.5 MB",
+  "VTmd5": "37286e6369045fe3242d714950ba60d0",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/81979b1bdf48ffc11f7cbd6f7a4edb2e056fe8cbef83b7cbb3af046a1eef36de/detection/f-81979b1bdf48ffc11f7cbd6f7a4edb2e056fe8cbef83b7cbb3af046a1eef36de-1575931413",
+  "VTresource": "81979b1bdf48ffc11f7cbd6f7a4edb2e056fe8cbef83b7cbb3af046a1eef36de",
+  "VTresponsecode": 1,
+  "VTscanID": "81979b1bdf48ffc11f7cbd6f7a4edb2e056fe8cbef83b7cbb3af046a1eef36de-1575931413",
+  "VTsha1": "a2ea115a16392648c00622700380594735e0c44a",
+  "VTsha256": "81979b1bdf48ffc11f7cbd6f7a4edb2e056fe8cbef83b7cbb3af046a1eef36de",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "8 January 2018",
+    "Size": "1.5M",
+    "Installs": "500000",
+    "Current Version": "2.1",
+    "Requires Android": "4.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "PANAGOLA",
+    "Developer": "Visit website mailpanagola@gmail.com Privacy Policy 6-A, Sree Dhanya,\nAmbalamukku,\nThiruvananthapuram\nIndia 695005"
+  },
+  "rating": "4.2",
+  "description": "A simple, no non-sense,  lightweight but complete tool  to help anybody who would like to practice Chakra or Solfeggio Meditation. Detailed  information on Chakras  is provided as well as  meditation technique  to help beginners. Apart from all the Chakra mantras, it also is a  tone generator  for various chakra related  Solfeggio, Tantra and Musical binaural frequencies . It is highly-configurable and includes reporting functions. Chakra Meditation involves using  sound vibrations  to improve the  balance and flow of vital energy  in our body. A smooth flow of vital energy leads to good mental and physical health. The resonant tones target 7 vital nodes along the spinal chord that is associated with various behaviors and imbalances. These time-tested sounds and frequencies  will: \u2713 Help you meditate \u2713 Relax your mind and body \u2713 Cure sleep disorders \u2713 Help quit bad habits \u2713 Rectify body imbalances \u2713 Improve mental & physical health The app features  Binaural Tones  that are know to be highly effective in generating  brain waves  similar to sleep, dreams, meditation etc. Typical brain waves are of very low frequencies that are not directly audible by human ear. Binaural beats is a technique of supplying slightly differing tones to each of the ears, to cause the brain to internally generate these inaudible frequencies. It is the same technique used for inducing sleep, trance or self-hypnosis. To use this powerful feature, enable it in Settings and listen through  head phones . FEATURES \u2713 Full-featured, no in-app or buy requirements \u2713 Lot of configuration options (counts, bell, auto exit etc.) \u2713 Capable of generating binaural tones \u2713 Detailed information on all chakras provided \u2713 Play mantras & tones endlessly or a fixed amount \u2713 Meditation training instructions for beginners \u2713 Handy reporting features to track and analyse your meditation \u2713 Capable of playing audio in the background \u2713 Pauses chant on receiving phone calls \u2713 Sort and hide chakras to make custom meditation routines \u2713 Can play with screen off and does not drain battery \u2713 Provides chakra info in Hindi as well \u2713 Small install size and requires no special device permissions",
+  "privacyText": "http://www.panagola.com/privacy.html",
+  "numInstalls": 500000,
+  "developer": "PANAGOLA",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.panagola.com",
+    "Developer Email": "mailpanagola@gmail.com",
+    "Privacy Policy": "http://www.panagola.com/privacy.html"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

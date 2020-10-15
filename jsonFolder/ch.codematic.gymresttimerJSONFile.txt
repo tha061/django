@@ -1,0 +1,72 @@
+{
+  "name": "ch.codematic.gymresttimer",
+  "fileSize": "3.0 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "5 October 2019",
+    "Size": "3.0M",
+    "Installs": "10000",
+    "Current Version": "4.6.26",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u2013 $4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Really Simple Apps",
+    "Developer": "Visit website simpleappsch@gmail.com Privacy Policy Batterie 115\nroute des Rosalys\n1619 Les Paccots\nSuisse"
+  },
+  "rating": "4.6",
+  "description": "Simple one click timer for the six most common weight training rest breaks - 30 secs, 60 secs, 90 secs, 2 mins, 3 mins, 5 mins. (And also 2 user defined timers if needed.) When you are weight lifting/weight training, or doing any high intensity workout you need timed rest intervals between your work sets. The length of the rest break is important, too short and you will not recover enough to do the next set, too long and you could reduce the training benefit, cool down or waste time. Gym Rest Timer makes timing your rest breaks easy. It includes big buttons (for shaky hands) for all the main rest break periods. You could just use your phone clock, a stopwatch, a countdown timer or any other type of timer (even old school manual), but Gym Rest Timer makes it simple, a single click, in fact. No typing in the number of seconds, or scrolling to get your rest length. Finish your set, click a (big) button, rest, when it beeps do your next set. Gym Rest Timer is mainly aimed at people following a resistance training programme. The resistance could be weights, machines, cables, bands, body weight or something else. If you work hard, you then need to rest so you can work hard again. Whether you are weight lifting for strength, size or endurance you need the right amount of rest to maximise your gains. If you are body building, doing lots of sets the new automatic set counter feature may help you keep track. Even on 5x5 it's possible to lose track (I've done it on 3x5!). For endurance work rest breaks tend to be shorter, for strength training a bit longer. Recommended use: During warm up sets, just take the time needed to load the bar, or adjust the machine During work sets: if the set was easy take 30 seconds, if ok take 60, if tough but bearable take 90 seconds. If you only just made the last rep take 2 or 3 minutes, if you failed, or badly lost form on the last rep, take the full 5 minutes. What to do in your rest? some people just sit, some keep moving, some gently stretch the worked muscles. If you are new to weight training make sure someone competent checks your lifting form, lifting big weights badly can cause proper injuries. Also to get the most benefit from your efforts be sure to follow a recognised, proven program with progressive overload, and a preference for compound movements. Have fun, be strong, let us know any comments or suggestions (we added custom timers and the set counter from suggestions).",
+  "privacyText": "http://www.simpleapps.ch/gym-rest-timer/grt-privacy-policy/",
+  "numInstalls": 10000,
+  "developer": "Really Simple Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.simpleapps.ch/gym-rest-timer/",
+    "Developer Email": "simpleappsch@gmail.com",
+    "Privacy Policy": "http://www.simpleapps.ch/gym-rest-timer/grt-privacy-policy/"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

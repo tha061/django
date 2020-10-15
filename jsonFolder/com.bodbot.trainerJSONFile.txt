@@ -1,0 +1,79 @@
+{
+  "name": "com.bodbot.trainer",
+  "fileSize": "47.3 MB",
+  "VTmd5": "7fd204f072b51340d8b92af658036815",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/a88d3dfb254a6ed188b58a607fbb83ee13d6b6f8f079c65060b4051404493e39/detection/f-a88d3dfb254a6ed188b58a607fbb83ee13d6b6f8f079c65060b4051404493e39-1602612309",
+  "VTresource": "a88d3dfb254a6ed188b58a607fbb83ee13d6b6f8f079c65060b4051404493e39",
+  "VTresponsecode": 1,
+  "VTscanID": "a88d3dfb254a6ed188b58a607fbb83ee13d6b6f8f079c65060b4051404493e39-1602612309",
+  "VTsha1": "c3a5c13b7ff71ba328d1738667ecfa5b2be882e7",
+  "VTsha256": "a88d3dfb254a6ed188b58a607fbb83ee13d6b6f8f079c65060b4051404493e39",
+  "VTtotal": 61,
+  "VTpositives": 1,
+  "VTratio": "0.01639344262295082",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.bodbot.trainer.PullDailyData  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "13 October 2020",
+    "Size": "47M",
+    "Installs": "1000000",
+    "Current Version": "6.0",
+    "Requires Android": "6.0 and up",
+    "Content Rating": "Teen Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$9.99 \u00e2\u20ac\u201c $249.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "BodBot",
+    "Developer": "Visit website information@bodbot.com Privacy Policy 175 Crescent Ave\nSan Francisco, CA 94110"
+  },
+  "rating": "4.5",
+  "description": "BodBot is your own digital personal trainer, providing AI workouts customized to your goals, equipment, physical abilities, desired difficulty and much more. BodBot provides you with step-by-step guidance for each exercise and progression, and your plan adapts over time as you complete or miss sessions. BodBot already contains the most advanced at-home and bodyweight tailoring of any fitness app on the market, and we\u00e2\u20ac\u2122re working flat-out to add new tools to help support our users during this time. Wherever you are, with whatever you\u00e2\u20ac\u2122ve got - we\u00e2\u20ac\u2122ll get you a great workout plan. Your Goals, Your Body, Your Plan. \u00e2\u2013\u00a0 Work out anywhere, anytime - at home, at the gym, in your garage, or in a hotel - with any combination of equipment or just your own bodyweight. \u00e2\u2013\u00a0 Get results even on a busy schedule - your workouts are tailored to the days and time you have available. \u00e2\u2013\u00a0 Build muscle, gain strength, increase endurance, improve cardiovascular fitness and lose weight - whatever your starting point and current ability, we\u00e2\u20ac\u2122ll work with you to get you where you\u00e2\u20ac\u2122re going. AI Workouts and Adaptation - Reach your goals with a long-term, science-based approach to fitness, and workouts that learn and adapt from set to set and from workout to workout. - Adapt to thrive - your lifestyle is not stagnant, and we\u00e2\u20ac\u2122ll adapt your planning based on your activity levels and sleep.  - Make sustained progress with intelligent progression of sets, reps and weight in the gym, and a huge range of bodyweight progressions at home. Personalized Step-by-Step Guide \u00e2\u2013\u00a0 Move and exercise better with customized fitness assessments targeted at mobility, strength, posture and more. \u00e2\u2013\u00a0 Ditch cookie cutter planning - BodBot will build your workout plan to you and adapt it with your feedback. We\u00e2\u20ac\u2122ll keep you on track and making progress. \u00e2\u2013\u00a0 Gain, maintain or lose weight with a workout routine built to your level. You Train, BodBot Plans - Maximize fitness gains with a training plan that intelligently adapts intensity and volume between sessions, with no muscle, movement or joint left behind. - Make the most of your time with seamless integration of circuits and supersets. - Level up - for beginner strength-trainers, gain confidence in new resistance exercises and gym equipment. Learn the correct movements with demonstration videos and detailed descriptions. Your Own Mobile Personal Trainer Just as a good personal trainer will personalize your workout plan, BodBot creates an individual program for you and adapts it as you progress. Limited range of motion in the shoulders? We can work to correct that. Weaker in the back than in the chest? We can address that. Hamstrings too tight? Want to develop the biceps or the glutes? Can only workout in a few windows during the week? BodBot can handle it all, and your workouts will reflect all of these needs. We're committed to providing you with the best possible training plan and the very best workouts. More than this, if you miss a workout, or if you decide to go hiking on a whim, we can integrate this new information and update your training plan accordingly. The plan lives and breathes with you and for you.  Let\u00e2\u20ac\u2122s get started.",
+  "privacyText": "http://www.bodbot.com/Privacy.html",
+  "numInstalls": 1000000,
+  "developer": "BodBot",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.bodbot.com",
+    "Developer Email": "information@bodbot.com",
+    "Privacy Policy": "http://www.bodbot.com/Privacy.html"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Phonegap"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

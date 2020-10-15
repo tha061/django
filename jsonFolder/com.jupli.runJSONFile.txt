@@ -1,0 +1,70 @@
+{
+  "name": "com.jupli.run",
+  "fileSize": "1.5 MB",
+  "VTmd5": "8130ef04ee82f48f53f915e7a840f6bb",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/1e42df61d3d8f21e0f3028e658bd6de558c53795c25613c02665201e48fc08ec/detection/f-1e42df61d3d8f21e0f3028e658bd6de558c53795c25613c02665201e48fc08ec-1601237433",
+  "VTresource": "1e42df61d3d8f21e0f3028e658bd6de558c53795c25613c02665201e48fc08ec",
+  "VTresponsecode": 1,
+  "VTscanID": "1e42df61d3d8f21e0f3028e658bd6de558c53795c25613c02665201e48fc08ec-1601237433",
+  "VTsha1": "04fb0fb0077c26ef496c6a744604d96c2cb0b3c9",
+  "VTsha256": "1e42df61d3d8f21e0f3028e658bd6de558c53795c25613c02665201e48fc08ec",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.SYSTEM_ALERT_WINDOW Protection Level: signature|preinstalled|appop|pre23|development",
+    "android.permission.VIBRATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: de.appplant.cordova.plugin.background.ForegroundService  permission: ",
+      "name: org.openudid.OpenUDID_service  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "26 September 2020",
+    "Size": "1.5M",
+    "Installs": "10000",
+    "Current Version": "1.3.0",
+    "Requires Android": "7.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$1.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Jupli",
+    "Developer": "Visit website run@jupli.com Privacy Policy Jupli c/o Syncostyle,\n86-90 Paul Street,\nLondon, EC2A 4NE"
+  },
+  "rating": "4.8",
+  "description": "Just Run is a simple workout app to help you get running. I made this app to get myself off the couch and start running to get to 5K. Stick to the workout plan, and you'll be able to run 5K in 9 weeks. It really does work! If you're already able to run 5K, Just Run also has a 6-week plan to help you get up to 10K, with half and full marathon plans coming in the future! Workout Plans  - Zero to 5K: Gets you from absolute zero running experience to 5K in just 9 weeks, with three 30-minute workouts per week  - 5K to 10K: If you can already run 5K, or have finished Zero to 5K, this plan gets you to 10K in only 6 weeks  - Marathon plans coming soon ... Features \ud83d\udcc5 Target dates for each workout, calculated based on your progress, and optimal exercise days \ud83d\udce3 Choose from multiple trainer voices, which tell you exactly when to run and walk \ud83d\udcf1 Lock screen notification so you don't need to unlock your phone to check your progress \ud83d\udeab No ads! Ads are no fun, so Just Run has no ads! \ud83c\udfb5 Works with your music apps - Just Run will briefly lower the volume of your music when prompting you to run and walk, so you'll never miss a prompt \ud83d\udd3d Tiny download (less than 2MB), so Just Run will take up very little space on your device \u2795 Upgrade to Premium to get more trainer voices, and to support continued development of Just Run I'd love to hear how you're getting on with Just Run. You can email me at run@jupli.com. --- Just Run is the successor to Syncostyle's 5K Trainer and B210K Trainer. If you liked those, Just Run will feel very familiar!",
+  "privacyText": "https://jupli.com/apps/justrun/privacy.html",
+  "numInstalls": 10000,
+  "developer": "Jupli",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://jupli.com",
+    "Developer Email": "run@jupli.com",
+    "Privacy Policy": "https://jupli.com/apps/justrun/privacy.html"
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": false
+}

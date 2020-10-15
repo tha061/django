@@ -1,0 +1,69 @@
+{
+  "name": "com.samantharoobol.workoutforwomen",
+  "fileSize": "11.5 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.MODIFY_AUDIO_SETTINGS Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "10 October 2020",
+    "Size": "12M",
+    "Installs": "100000",
+    "Current Version": "1.4",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.49 \u2013 $4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Stay Fit With Samantha",
+    "Developer": "Visit website samantharoobol@gmail.com Privacy Policy Laurierhof 23, Papendrecht"
+  },
+  "rating": "4.2",
+  "description": "You're a female and you want to get a toned body? Our workout routine will help you. Women often start working out to tone their body, get a better butt and lose their belly fat. During this weight training for women, we will put an emphasis on these areas but also work on other important muscle groups. This 30-day body-toning workout plan for beginners is a great routine to follow if you\u2019re just getting started on your fitness journey! Every woman is familiar with those tricky trouble zones that take a little extra work to tighten and tone. Our workout routines for women will work your entire body, sculpting your muscles and shredding excess fat. Having a toned body actually means that you have strong muscles with a low percentage of body fat, which provides this toning effect. You don't need a gym membership to melt that unwanted flab and look fit. In fact, you don't even need equipment. With minimal equipment and the convenience of home, these high-energy home workouts for women can help you get fit and lean fast. Combining cardio and strength, this full body workout burns calories fast. It can be carried out at home with no equipment. The strength exercises uses only body weight, making sure the female watchers will tone but not build their muscles. Bodyweight exercises are realistic and functional, meaning that they help us strengthen our muscles that we use in our daily lives. Every bodyweight exercise involved utilizes multiple muscle groups, gets your heart rate pumping, and burns tons of calories. Essentially, circuit weight training, or circuit bodyweight training, burns more calories than interval training, and that in turn burns a lot more calories than steady cardio. When you strength train, you burn calories. Then, your body needs to spend hours and hours afterwards rebuilding your muscles, which in turns burns even more calories. App features: - 6 Workouts for beginners and advanced at the comfort of your own home. - 11 Workout Programs, varying from 30 days to 12 weeks. - Tracks your progress and keeps you motivated - View statistics about your workouts Gym Workout Routines for Women for Beginners Are you new to working out? Our 4-week beginner workout plan for women is perfect to jump start your metabolism and improve your fitness level. Lose body fat, gain lean muscle mass and take back control of your life and health! Go from beginner to advanced in just 4 to 12 weeks and reach peak performance with the help of our Beginner Program.",
+  "privacyText": "http://fm.stefanroobol.com/privacy-policy/femaleworkouts",
+  "numInstalls": 100000,
+  "developer": "Stay Fit With Samantha",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://samantha.steveloper.nl",
+    "Developer Email": "samantharoobol@gmail.com",
+    "Privacy Policy": "http://fm.stefanroobol.com/privacy-policy/femaleworkouts"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

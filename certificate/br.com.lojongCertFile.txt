@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 576761845 (0x2260aff5)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BR, ST=SP, L=S\xC3\xA3o Paulo, O=Lojong, OU=Lojong, CN=Lojong
+        Validity
+            Not Before: Apr 18 00:13:56 2017 GMT
+            Not After : Aug 20 00:13:56 3015 GMT
+        Subject: C=BR, ST=SP, L=S\xC3\xA3o Paulo, O=Lojong, OU=Lojong, CN=Lojong
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:81:96:8a:2c:64:9a:67:4f:82:a4:cb:c4:b0:6d:
+                    c2:81:e0:ee:9c:30:9b:92:e5:82:0b:3f:5e:6d:ef:
+                    b4:8e:6e:ab:14:85:ec:1e:de:ac:ce:de:38:8d:89:
+                    25:be:8b:c6:89:e8:fd:68:06:ed:67:4f:69:f0:d6:
+                    be:eb:af:6f:42:20:3b:bf:1c:d5:0d:70:d0:f8:95:
+                    46:0b:4b:d5:45:8c:0f:a4:a3:b0:4e:ef:ef:82:2f:
+                    c6:46:4c:77:cd:a2:e0:98:98:a2:ed:d5:8b:65:b3:
+                    69:7d:df:8d:dc:32:b1:62:e3:14:ae:76:f2:1d:ae:
+                    07:b2:5a:79:95:71:35:ef:61:2b:69:a9:c1:73:b0:
+                    3f:09:08:bb:ec:6f:42:cb:3a:3c:af:dc:40:b1:64:
+                    de:c9:be:50:b5:f9:61:93:6d:c4:d5:b6:bc:ec:3c:
+                    0f:c0:5f:ac:1c:6a:37:5d:c1:4f:6d:59:37:65:85:
+                    24:e9:29:f4:b7:21:d0:cc:8e:76:35:cb:ca:db:07:
+                    5d:94:3f:24:4d:69:6d:7e:42:4d:22:be:12:ed:76:
+                    d8:9c:fe:2c:4f:74:82:ab:5c:a8:c0:9c:c5:e0:25:
+                    5c:c5:76:a9:2b:d6:27:08:5a:2a:f5:97:6d:3c:72:
+                    d0:67:5f:c9:57:35:4f:2c:d6:14:0b:77:50:33:06:
+                    29:e5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                D8:8D:C9:49:4F:E8:E7:C6:FA:9D:BD:16:1F:6F:FB:F1:08:26:B3:F7
+    Signature Algorithm: sha256WithRSAEncryption
+         6d:97:88:f2:16:11:3e:64:ba:e9:79:b9:2a:1b:c2:32:4a:09:
+         75:7f:d5:a3:24:0f:c3:fa:5e:e5:18:58:0c:6c:c4:6b:d2:1b:
+         a9:61:9c:3c:45:7a:4c:c6:bb:da:2e:79:72:76:0e:30:e8:c4:
+         85:52:d9:64:51:01:f2:5c:d0:3c:1d:f1:88:ee:cd:37:c6:d9:
+         14:8e:bb:f5:7b:48:0f:67:84:f9:a7:c7:14:b2:84:ab:ef:17:
+         b8:5e:68:bc:5c:59:95:03:a7:35:5b:e8:8d:d4:be:59:d9:9b:
+         6c:45:4f:3a:13:69:78:3e:00:5a:3c:29:58:17:2a:3d:ff:77:
+         5f:62:5e:cc:3c:30:40:c6:67:4e:5d:87:a8:b4:ec:f5:89:91:
+         1e:be:7f:70:e2:0b:7d:be:86:84:2b:dc:bf:3d:e6:f9:d3:36:
+         80:26:ff:55:4b:b3:b7:1c:54:6a:b0:40:17:cc:ff:7b:4a:ca:
+         f0:c4:a0:4d:ea:91:bb:83:5a:5b:ae:b0:6f:4b:11:aa:1a:97:
+         02:0c:aa:9f:84:82:26:d2:4e:e8:8f:1c:39:88:2e:02:a4:34:
+         e7:81:f3:47:ce:8d:92:c7:0c:60:41:91:6e:43:00:6a:50:bb:
+         c4:92:31:ca:bf:cf:49:de:73:d7:72:18:43:13:8d:38:46:72:
+         87:48:94:ca
+-----BEGIN CERTIFICATE-----
+MIIDZTCCAk2gAwIBAgIEImCv9TANBgkqhkiG9w0BAQsFADBiMQswCQYDVQQGEwJC
+UjELMAkGA1UECBMCU1AxEzARBgNVBAcMClPDo28gUGF1bG8xDzANBgNVBAoTBkxv
+am9uZzEPMA0GA1UECxMGTG9qb25nMQ8wDQYDVQQDEwZMb2pvbmcwIBcNMTcwNDE4
+MDAxMzU2WhgPMzAxNTA4MjAwMDEzNTZaMGIxCzAJBgNVBAYTAkJSMQswCQYDVQQI
+EwJTUDETMBEGA1UEBwwKU8OjbyBQYXVsbzEPMA0GA1UEChMGTG9qb25nMQ8wDQYD
+VQQLEwZMb2pvbmcxDzANBgNVBAMTBkxvam9uZzCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAIGWiixkmmdPgqTLxLBtwoHg7pwwm5Llggs/Xm3vtI5uqxSF
+7B7erM7eOI2JJb6Lxono/WgG7WdPafDWvuuvb0IgO78c1Q1w0PiVRgtL1UWMD6Sj
+sE7v74IvxkZMd82i4JiYou3Vi2WzaX3fjdwysWLjFK528h2uB7JaeZVxNe9hK2mp
+wXOwPwkIu+xvQss6PK/cQLFk3sm+ULX5YZNtxNW2vOw8D8BfrBxqN13BT21ZN2WF
+JOkp9Lch0MyOdjXLytsHXZQ/JE1pbX5CTSK+Eu122Jz+LE90gqtcqMCcxeAlXMV2
+qSvWJwhaKvWXbTxy0GdfyVc1TyzWFAt3UDMGKeUCAwEAAaMhMB8wHQYDVR0OBBYE
+FNiNyUlP6OfG+p29Fh9v+/EIJrP3MA0GCSqGSIb3DQEBCwUAA4IBAQBtl4jyFhE+
+ZLrpebkqG8IySgl1f9WjJA/D+l7lGFgMbMRr0hupYZw8RXpMxrvaLnlydg4w6MSF
+UtlkUQHyXNA8HfGI7s03xtkUjrv1e0gPZ4T5p8cUsoSr7xe4Xmi8XFmVA6c1W+iN
+1L5Z2ZtsRU86E2l4PgBaPClYFyo9/3dfYl7MPDBAxmdOXYeotOz1iZEevn9w4gt9
+voaEK9y/Peb50zaAJv9VS7O3HFRqsEAXzP97SsrwxKBN6pG7g1pbrrBvSxGqGpcC
+DKqfhIIm0k7ojxw5iC4CpDTngfNHzo2SxwxgQZFuQwBqULvEkjHKv89J3nPXchhD
+E404RnKHSJTK
+-----END CERTIFICATE-----
+

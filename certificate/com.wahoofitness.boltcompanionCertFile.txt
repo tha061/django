@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 716963604 (0x2abbff14)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=Georgia, L=Atlanta, O=Wahoo Fitness, CN=Michael Fomin
+        Validity
+            Not Before: Oct 15 03:32:07 2015 GMT
+            Not After : Oct  8 03:32:07 2040 GMT
+        Subject: C=US, ST=Georgia, L=Atlanta, O=Wahoo Fitness, CN=Michael Fomin
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c2:1a:48:56:6e:22:2f:de:6c:54:1b:76:c0:ab:
+                    a5:e8:ad:f4:51:39:1c:84:a4:08:08:0a:b9:c5:ed:
+                    e3:88:4c:59:91:31:06:cb:05:fb:03:b6:52:a5:b0:
+                    a9:b4:0a:0e:a2:97:25:d9:aa:b8:2a:25:20:16:79:
+                    54:53:2f:78:4e:dd:28:83:ba:36:72:ef:cb:f8:d0:
+                    5e:78:07:7c:ff:c1:91:ec:48:44:9b:fa:59:a7:03:
+                    6e:1a:9b:20:ec:20:44:8e:b1:40:39:5a:dc:3e:3f:
+                    9d:3a:17:02:2c:be:49:77:07:bd:2c:cb:11:66:62:
+                    66:c3:55:f0:64:a6:d2:40:31:ea:48:48:c0:46:82:
+                    78:a0:ed:c6:c4:8e:47:04:c6:61:21:fe:26:4b:3f:
+                    9d:30:21:e8:3b:73:fe:85:31:47:9f:2c:3d:47:9f:
+                    86:85:84:b1:d1:b1:61:14:e1:55:34:65:b7:2e:3e:
+                    b6:86:7d:cf:b3:a0:ce:15:0b:96:a2:40:ae:9a:d7:
+                    4c:21:af:0d:42:cf:ee:ba:f2:3b:39:8f:9b:95:8f:
+                    c5:ef:cb:c1:24:6d:8e:a1:4f:8c:f2:e0:5b:b0:78:
+                    21:e7:8e:7a:fc:0b:9b:a3:0e:34:dd:4d:69:87:d5:
+                    c3:d9:c0:18:1d:e4:29:9e:01:06:2d:fe:09:31:57:
+                    a4:01
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                64:A2:EC:8B:DA:78:B7:E0:D5:61:1E:90:E9:DA:2A:2C:21:AB:8A:CB
+    Signature Algorithm: sha256WithRSAEncryption
+         23:db:b5:27:f8:68:17:80:0e:58:f0:ad:a4:68:78:1d:f4:7f:
+         2e:7e:b0:bf:90:64:99:43:9c:08:79:3a:0a:89:ab:bb:49:a3:
+         f4:89:19:35:d9:f0:fb:07:7f:87:f8:41:f6:68:46:db:f6:af:
+         4d:24:ce:ee:28:74:ba:76:eb:39:41:3b:1f:40:da:64:56:84:
+         9d:c7:09:0c:ee:cd:4e:e8:fe:cd:b7:4e:88:30:ac:d8:ff:66:
+         a3:7d:e8:b7:51:6a:55:ed:8a:32:4a:71:f0:85:f2:d4:a3:55:
+         16:ac:7b:1e:71:6d:e1:4d:84:65:53:7b:93:95:0e:9e:68:4c:
+         3c:3a:fe:b7:03:8b:b3:cf:54:9e:ce:ce:d2:a2:03:ea:d7:08:
+         ed:6c:1b:90:50:0e:65:18:61:a5:d6:5c:f2:fc:06:dd:1c:db:
+         1f:b6:5c:34:82:d3:68:bc:f5:90:20:df:06:9e:07:1f:54:52:
+         15:6d:b7:81:59:fa:6f:9c:67:8b:fa:3f:0b:80:46:f7:7c:a4:
+         71:b8:d4:44:da:20:7a:1b:f6:32:2f:ef:26:29:5c:94:53:9f:
+         7a:45:28:3f:89:63:e8:0a:00:b4:28:2e:94:7f:12:ab:1c:6e:
+         d4:2b:ab:77:68:74:25:98:ef:e9:27:ed:d0:b2:25:a5:f9:7c:
+         12:54:63:4c
+-----BEGIN CERTIFICATE-----
+MIIDYTCCAkmgAwIBAgIEKrv/FDANBgkqhkiG9w0BAQsFADBhMQswCQYDVQQGEwJV
+UzEQMA4GA1UECBMHR2VvcmdpYTEQMA4GA1UEBxMHQXRsYW50YTEWMBQGA1UEChMN
+V2Fob28gRml0bmVzczEWMBQGA1UEAxMNTWljaGFlbCBGb21pbjAeFw0xNTEwMTUw
+MzMyMDdaFw00MDEwMDgwMzMyMDdaMGExCzAJBgNVBAYTAlVTMRAwDgYDVQQIEwdH
+ZW9yZ2lhMRAwDgYDVQQHEwdBdGxhbnRhMRYwFAYDVQQKEw1XYWhvbyBGaXRuZXNz
+MRYwFAYDVQQDEw1NaWNoYWVsIEZvbWluMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAwhpIVm4iL95sVBt2wKul6K30UTkchKQICAq5xe3jiExZkTEGywX7
+A7ZSpbCptAoOopcl2aq4KiUgFnlUUy94Tt0og7o2cu/L+NBeeAd8/8GR7EhEm/pZ
+pwNuGpsg7CBEjrFAOVrcPj+dOhcCLL5Jdwe9LMsRZmJmw1XwZKbSQDHqSEjARoJ4
+oO3GxI5HBMZhIf4mSz+dMCHoO3P+hTFHnyw9R5+GhYSx0bFhFOFVNGW3Lj62hn3P
+s6DOFQuWokCumtdMIa8NQs/uuvI7OY+blY/F78vBJG2OoU+M8uBbsHgh5456/Aub
+ow403U1ph9XD2cAYHeQpngEGLf4JMVekAQIDAQABoyEwHzAdBgNVHQ4EFgQUZKLs
+i9p4t+DVYR6Q6doqLCGrisswDQYJKoZIhvcNAQELBQADggEBACPbtSf4aBeADljw
+raRoeB30fy5+sL+QZJlDnAh5OgqJq7tJo/SJGTXZ8PsHf4f4QfZoRtv2r00kzu4o
+dLp26zlBOx9A2mRWhJ3HCQzuzU7o/s23TogwrNj/ZqN96LdRalXtijJKcfCF8tSj
+VRasex5xbeFNhGVTe5OVDp5oTDw6/rcDi7PPVJ7OztKiA+rXCO1sG5BQDmUYYaXW
+XPL8Bt0c2x+2XDSC02i89ZAg3waeBx9UUhVtt4FZ+m+cZ4v6PwuARvd8pHG41ETa
+IHob9jIv7yYpXJRTn3pFKD+JY+gKALQoLpR/EqscbtQrq3dodCWY7+kn7dCyJaX5
+fBJUY0w=
+-----END CERTIFICATE-----
+

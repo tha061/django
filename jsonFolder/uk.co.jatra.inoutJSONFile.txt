@@ -1,0 +1,71 @@
+{
+  "name": "uk.co.jatra.inout",
+  "fileSize": "20.4 MB",
+  "VTmd5": "5d242d9024df948ebbcccfb6d46b3166",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/edc887f5ff23bf94a1cb8e539c83b0067dd011896ffb19a7fc30b4e807dd6211/detection/f-edc887f5ff23bf94a1cb8e539c83b0067dd011896ffb19a7fc30b4e807dd6211-1601703278",
+  "VTresource": "edc887f5ff23bf94a1cb8e539c83b0067dd011896ffb19a7fc30b4e807dd6211",
+  "VTresponsecode": 1,
+  "VTscanID": "edc887f5ff23bf94a1cb8e539c83b0067dd011896ffb19a7fc30b4e807dd6211-1601703278",
+  "VTsha1": "79424f61a040253d742157699ff881d6f69321a8",
+  "VTsha256": "edc887f5ff23bf94a1cb8e539c83b0067dd011896ffb19a7fc30b4e807dd6211",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "uk.co.jatra.inout.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: uk.co.jatra.inout.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "6 July 2017",
+    "Size": "Varies with device",
+    "Installs": "100000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Jatra",
+    "Developer": "Visit website apps@jatra.co.uk Privacy Policy"
+  },
+  "rating": "4.4",
+  "description": "Breathe is an app designed to help you \u2018watch your breath\u2019. For centuries, deep breathing has been an integral part of meditation practices. It has more recently been adopted by everyone from world class athletes to the U.S. army. Studies have shown that with regular practice meditation can reduce anxiety, stress, and depression. Cognitive benefits include improved focus, memory and decision making. The phrase \u2018watch your breath\u2019 is common among meditation practitioners, and is actualised in Breathe: there are animations to signal your inhales and exhales, and you have tools to customize the length of each breath. Intentionally breathing in and out can be a powerful, calming, and joyful experience. Breathe is offered free, with no ads and no hidden features. Android permissions requested are to enhance the app during usage (prevent device from sleeping) and to provide anonymous usage reporting (network permissions for Google's Firebase library) to steer further development.  No access is made to contacts or data stored on device. Feedback, suggestion, translations or other comments welcome via email to apps@jatra.co.uk",
+  "privacyText": "https://jatra.app/breathe",
+  "numInstalls": 100000,
+  "developer": "Jatra",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://jatra.app/breathe",
+    "Developer Email": "apps@jatra.co.uk",
+    "Privacy Policy": "https://jatra.app/breathe"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

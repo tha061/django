@@ -1,0 +1,92 @@
+{
+  "name": "com.psychetruth.YogaByPsycheTruth",
+  "fileSize": "26.5 MB",
+  "VTmd5": "f587b29aabe06e1dd338cc8663264068",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/74b1c34d1170e67c7dd9ac3a99606053de4fc50830eb6c64d6a465d55a4b318b/detection/f-74b1c34d1170e67c7dd9ac3a99606053de4fc50830eb6c64d6a465d55a4b318b-1590474789",
+  "VTresource": "74b1c34d1170e67c7dd9ac3a99606053de4fc50830eb6c64d6a465d55a4b318b",
+  "VTresponsecode": 1,
+  "VTscanID": "74b1c34d1170e67c7dd9ac3a99606053de4fc50830eb6c64d6a465d55a4b318b-1590474789",
+  "VTsha1": "73187c1683450bf11e055c6eca28e1d98d888cf2",
+  "VTsha256": "74b1c34d1170e67c7dd9ac3a99606053de4fc50830eb6c64d6a465d55a4b318b",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.SYSTEM_ALERT_WINDOW Protection Level: signature|preinstalled|appop|pre23|development",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.psychetruth.YogaByPsycheTruth.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous"
+  ],
+  "permissions": [
+    "   name: com.psychetruth.YogaByPsycheTruth.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.littlevideoapp.notifications.FirebaseMessageService  permission: ",
+      "name: com.littlevideoapp.notifications.RegisterTokenId  permission: ",
+      "name: com.google.android.gms.cast.framework.media.MediaNotificationService  permission: ",
+      "name: com.google.android.gms.cast.framework.ReconnectionService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.tagmanager.TagManagerService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "18 January 2019",
+    "Size": "26M",
+    "Installs": "10000",
+    "Current Version": "116",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$9.99 \u2013 $99.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Target Public Media LLC",
+    "Developer": "Visit website psychetruth@gmail.com Privacy Policy 403 E Ben White BLVD\nAustin TX\n78748\nUnited States"
+  },
+  "rating": "3.6",
+  "description": "The perfect yoga & wellness app for everyone.  Yoga Plus offers 400+ flows, workouts, guided meditations, nutrition guides & pilates to help you transform your life. Whether you\u2019re a yoga pro, or just stepping onto the mat, Yoga Plus has what you need. With 15+ certified yoga instructors, nutritionists, and health professionals, Yoga Plus has everything you need to improve your health, happiness and overall lifestyle.  Escape expensive yoga classes, dealing with overcrowded studios and the stress of fighting traffic to make it to your yoga class. Turn your living room into the perfect yoga studio.     LOSE WEIGHT with Julia Marie\u2019s new 30 Days of Yoga for Weight Loss program, which utilizes a unique fusion of power yoga and high intensity interval training to help you get the most burn for your buck, PLUS relaxing yin yoga on recovery days and bonus nutrition and lifestyle tips for a sustainable, holistic approach to weight loss. \u2022 \u2022 \u2022 \u2022 \u2022  \u201cJulia is probably one of the best instructors I have yet to find.\u201d -Cielle B.  EASE PAIN with Yoga Therapy for Pain Relief from licensed massage therapist Lindsey Samper, which leads you through simple, gentle stretches for common areas of pain and tension in the body.  \u2022 \u2022 \u2022 \u2022 \u2022  \u201cWhenever I feel aches in my back or neck, I do these videos.\u201d -James P.  FIND BALANCE in your life with The Chakra Series from Julia Jarvis as she takes you through flows designed to balance the energy in each of your seven chakra centers. Feel calm and energized PLUS strengthen the mind-body connection while tapping into your spiritual side.  \u2022 \u2022 \u2022 \u2022 \u2022  \u201cI actually look forward to being on the mat again.\u201d -M.L.A.  Features: -350+ unique videos including free and premium classes -30+ comprehensive courses designed and taught by top certified instructors -Topic based yoga for all levels including yoga for weight loss, relaxation, flexibility, and pain relief, as well as a variety styles including vinyasa, hatha, yin, and power yoga -\u201dPLUS\u201d videos including fitness, pilates, dance, and guided meditations   -Playlist capabilities so you can create your own collection or add to your favorites -Downloadable videos for yoga offline -Frequent updates and new classes -Weekly episodes of The Wellness Plus Podcast -Completely ad free browsing and viewing -Compatible with iPhone, iPad. Subscription Pricing: Yoga Plus offers a FREE level with access to a variety of classes. Once you\u2019re ready to level-up you can start your 14-day free trial of the Yoga Plus subscription and gain access to our entire library for just $9.99/month.   WE CREATE OUR OWN VIDEOS, meaning more of the money you spend on your subscription goes directly to the yoga instructors you love, and feeds back into the yoga community. * All payments will be paid through your iTunes Account and may be managed under Account Settings after the initial payment. Subscription payments will automatically renew unless deactivated at least 24-hours before the end of the current cycle. Your account will be charged for renewal at least 24-hours prior to the end of the current cycle. Any unused portion of your free trial will be forfeited upon payment. Cancellations are incurred by disabling auto-renewal. This video app / vid-app is proudly powered by Vidapp. If you need help with it, please head to: http://vidapp.com/app-vid-app-user-support-faqs Terms of Service: http://vidapp.com/terms-and-conditions Privacy Policy: http://vidapp.com/privacy-policy Vidapp - Connect, M",
+  "privacyText": "http://vidapp.com/privacy-policy",
+  "numInstalls": 10000,
+  "developer": "Target Public Media LLC",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.psychetruth.vhx.tv",
+    "Developer Email": "psychetruth@gmail.com",
+    "Privacy Policy": "http://vidapp.com/privacy-policy"
+  },
+  "smali_Directories": [
+    "Bugsense",
+    "Bumptech",
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

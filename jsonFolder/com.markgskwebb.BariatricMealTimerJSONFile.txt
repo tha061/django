@@ -1,0 +1,89 @@
+{
+  "name": "com.markgskwebb.BariatricMealTimer",
+  "fileSize": "6.3 MB",
+  "VTmd5": "1e53f21a1e9d2e9530c5bab199e3f380",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/33cb421bbfffebb503e9f88194d6b37ac4ea80379c2632b27d65b6a1c25ae17f/detection/f-33cb421bbfffebb503e9f88194d6b37ac4ea80379c2632b27d65b6a1c25ae17f-1578172177",
+  "VTresource": "33cb421bbfffebb503e9f88194d6b37ac4ea80379c2632b27d65b6a1c25ae17f",
+  "VTresponsecode": 1,
+  "VTscanID": "33cb421bbfffebb503e9f88194d6b37ac4ea80379c2632b27d65b6a1c25ae17f-1578172177",
+  "VTsha1": "c4ac809cdd1dc3e5fca8a0d3d8d389bbba3cbda0",
+  "VTsha256": "33cb421bbfffebb503e9f88194d6b37ac4ea80379c2632b27d65b6a1c25ae17f",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "com.sonyericsson.home.permission.BROADCAST_BADGE Protection Level: Developer Defined Permission",
+    "com.htc.launcher.permission.READ_SETTINGS Protection Level: Developer Defined Permission",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.huawei.android.launcher.permission.CHANGE_BADGE Protection Level: Developer Defined Permission",
+    "com.markgskwebb.BariatricMealTimer.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.huawei.android.launcher.permission.WRITE_SETTINGS Protection Level: signature|preinstalled|appop|pre23",
+    "com.majeur.launcher.permission.UPDATE_BADGE Protection Level: Developer Defined Permission",
+    "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE Protection Level: Developer Defined Permission",
+    "com.htc.launcher.permission.UPDATE_SHORTCUT Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.sec.android.provider.badge.permission.WRITE Protection Level: Developer Defined Permission",
+    "com.sec.android.provider.badge.permission.READ Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.anddoes.launcher.permission.UPDATE_COUNT Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "com.huawei.android.launcher.permission.READ_SETTINGS Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.markgskwebb.BariatricMealTimer.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.onesignal.GcmIntentService  permission: ",
+      "name: com.onesignal.SyncService  permission: ",
+      "name: com.onesignal.NotificationRestoreService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "3 October 2018",
+    "Size": "6.3M",
+    "Installs": "10000",
+    "Current Version": "258",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Webb Dsgn",
+    "Developer": "Visit website mail@webbdsgn.com Privacy Policy"
+  },
+  "rating": "4.2",
+  "description": "This app was born out of necessity. Since I had gastric bypass surgery in July 2017, I've tried a lot of ways to make sure I get as many nutrients as I need. The best way I've personally found is to eat for two minutes, then take a break for two minutes, and repeat this until I can't eat any more. I couldn't find a decent app that could do what I needed, so I decided to make one. Bariatric Meal Timer plays a short sound effect, vibrates the device briefly, and changes color of on-screen elements, depending on whether it's time to eat or rest. Available intervals for each timer range from thirty seconds, one minute, through five minutes. By default, the timer is set to two minutes. Features include a themes, the ability to enable or disable sounds and haptics, a night mode, and a summary screen that displays before the timer begins. There are no ads or in-app purchases. If you love the app and find it useful, please rate it five stars. I will never interrupt your use of the app to ask you to rate it.",
+  "privacyText": "https://webbdsgn.com/privacy/",
+  "numInstalls": 10000,
+  "developer": "Webb Dsgn",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": true,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://webbdsgn.com",
+    "Developer Email": "mail@webbdsgn.com",
+    "Privacy Policy": "https://webbdsgn.com/privacy/"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

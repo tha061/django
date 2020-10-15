@@ -1,0 +1,67 @@
+{
+  "name": "au.com.openbiz.android.megathlon.free.activity",
+  "fileSize": "3.0 MB",
+  "VTmd5": "fd3a4125cc5a962cdd355f274a0fc32c",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/28f2dc0c7afd5693c9467506ed9dd50de5bbb9173c57761b754d6637bb0805e4/detection/f-28f2dc0c7afd5693c9467506ed9dd50de5bbb9173c57761b754d6637bb0805e4-1585413142",
+  "VTresource": "28f2dc0c7afd5693c9467506ed9dd50de5bbb9173c57761b754d6637bb0805e4",
+  "VTresponsecode": 1,
+  "VTscanID": "28f2dc0c7afd5693c9467506ed9dd50de5bbb9173c57761b754d6637bb0805e4-1585413142",
+  "VTsha1": "2db730d14b5fa8170b7c6a9cb491c2fb295b250a",
+  "VTsha256": "28f2dc0c7afd5693c9467506ed9dd50de5bbb9173c57761b754d6637bb0805e4",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: au.com.openbiz.android.billing.BillingService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "28 March 2020",
+    "Size": "3.0M",
+    "Installs": "50000",
+    "Current Version": "4.4",
+    "Requires Android": "4.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u2013 $4.01 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "PentaTech Software Services",
+    "Developer": "Visit website mobileapps@pentatech.com.au Privacy Policy Parcel Collect 10086 52938 48 Denman Parade Normanhurst NSW 2076"
+  },
+  "rating": "4.0",
+  "description": "Megathlon provides triathlon training programs for half-sprint, sprint, olympic, half-ironman and ironman distances and different training levels such as easy, intermediate and advanced. Additionally, duathlon and aquathlon training programs are available in sprint and olympic distances for easy and advanced. These triathlon training programs are supplied as templates, so you can create as many plans as you want out of those templates. While executing the created training plans, you will be able to provide actuals to compare against the planned figures. Fully customizable triathlon training plans. After creating plans from templates, you will be able to add, delete, copy and move training activities within a training week. What is more, you can generate plan summary reports and email your on-going plans. What's more, you could export your training plan for a given day to your calendar. Megathlon can be configured to use km/meters or miles/yards. Furthermore, it provides supporting tools for your training such as heart rate zones calculator, a plan exporter, race checklist and weight tracker. Another useful tool that can be acquired is the Training fatigue calculator which basically allows you to project your current capabilities over greater distances, review results and export them to spreadsheet and send it via email. Note that some triathlon training program templates and tools are free and others can be bought in the Megathlon In-app store. There is a preview option available for triathlon training programs and tools. Awesome free widgets: - Today's training plan. Size: 4x1. Displays your current plan and today's training activities. On a single tap will lead you to the current training week. - Current Plan Weekly Summary. Size: 4x2. Displays your current plan weekly summary. On a single tap will lead you to the current training week. - Training program life cycle tools    -> before the plan starts         training log (t-log)         calculates number of days to plan start         create new templates         weight tracker    -> during plan execution         calculates plan completion %         heart rate zones calculator tool         plan provides what/when to do for training every day         weekly aggregates per discipline         training log (t-log)         training fatigue calculator tool         track injuries in t-log         export and email plan tool         export to calendar         plan summary report         plan customisation (move/copy activities to different days, add and delete activities)         update actuals and compare against planned         weight tracker         running shoes tracker    -> on the event day         race checklist tool    -> after plan is completed         calculates plan completion %         training log (t-log)         export and email plan tool         weight tracker - NO Advertising Megathlon does not use any of your personal or non-personal information for advertising. This app does not display advertisements in any form or way. We support our development by selling the best training programs and tools via in-app purchases. - Pricing structure The following training programs are free: Half Sprint Triathlon (Easy), Half Sprint Off season (Easy), Sprint Triathlon (Easy), Sprint Duathlon (Easy) and Sprint Aquathlon (Easy). Also the following tools are free: Heart rate zones calculator, plan exporter, weight and sleeping hour tracker, running shoes tracker and backup/import. The rest can be bought via in-app purchases. - Promotions Buy 2 or more Triathlon Training Programs and get the 'Race Checklist' Tool free of charge.  Buy 3 or more and you get 'Training Fatigue Calculator'. openBiz Solutions commits to fixing any issues that could arise as soon as possible.",
+  "privacyText": "https://docs.google.com/document/d/1OLhRp_i0_RDCscRPULrXPf3kusAbvH6SWMNJ30uLYio/edit?usp=sharing",
+  "numInstalls": 50000,
+  "developer": "PentaTech Software Services",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://pentatech.com.au/mobileapps/",
+    "Developer Email": "mobileapps@pentatech.com.au",
+    "Privacy Policy": "https://docs.google.com/document/d/1OLhRp_i0_RDCscRPULrXPf3kusAbvH6SWMNJ30uLYio/edit?usp=sharing"
+  },
+  "smali_Directories": [],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,47 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 1250515368 (0x4a8959a8)
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=FR, L=France, CN=Giorgio Regni
+        Validity
+            Not Before: Aug 17 13:22:48 2009 GMT
+            Not After : Aug 11 13:22:48 2034 GMT
+        Subject: C=FR, L=France, CN=Giorgio Regni
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d4:9a:dd:cf:f4:a7:28:14:ab:57:fb:71:3f:33:
+                    55:39:56:00:45:ff:01:24:4a:0a:85:1e:ac:db:05:
+                    07:83:ed:a6:21:0e:9a:3f:7f:c3:64:f1:c3:7d:51:
+                    22:7f:63:e5:5b:10:da:9e:71:ee:d3:b5:b9:e9:2e:
+                    09:43:ef:77:cb:6a:47:cf:5d:91:e6:2c:54:27:9c:
+                    69:0e:94:27:ec:88:79:cf:a2:80:05:85:5b:1d:0a:
+                    2d:7f:01:4a:84:73:f6:c3:e9:16:6d:07:b1:03:0f:
+                    b0:a1:dd:da:97:54:22:67:9a:47:8a:10:3c:34:e7:
+                    54:ea:4f:1f:e7:a0:35:85:b9
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: md5WithRSAEncryption
+         80:32:ec:88:eb:01:4a:19:5e:f9:5f:32:38:33:36:0a:f3:27:
+         57:e7:e3:65:10:31:64:b4:57:12:85:dd:3f:46:b8:73:15:6d:
+         ab:1b:31:af:18:46:31:4a:fc:14:c9:b5:6d:a1:68:7f:69:49:
+         9a:8b:77:7d:77:da:a3:1c:8c:a3:b2:89:2c:2f:07:95:c9:45:
+         00:20:09:46:09:c7:e1:bf:dd:ce:80:4f:1a:6b:a2:73:e7:bb:
+         b3:fd:87:f9:08:44:55:5d:59:9d:1b:d1:6c:95:53:3e:97:c8:
+         31:0b:b0:b9:12:0d:83:31:4c:6c:ea:48:6b:4d:7c:0d:b3:67:
+         b2:ae
+-----BEGIN CERTIFICATE-----
+MIIB3jCCAUcCBEqJWagwDQYJKoZIhvcNAQEEBQAwNjELMAkGA1UEBhMCRlIxDzAN
+BgNVBAcTBkZyYW5jZTEWMBQGA1UEAxMNR2lvcmdpbyBSZWduaTAeFw0wOTA4MTcx
+MzIyNDhaFw0zNDA4MTExMzIyNDhaMDYxCzAJBgNVBAYTAkZSMQ8wDQYDVQQHEwZG
+cmFuY2UxFjAUBgNVBAMTDUdpb3JnaW8gUmVnbmkwgZ8wDQYJKoZIhvcNAQEBBQAD
+gY0AMIGJAoGBANSa3c/0pygUq1f7cT8zVTlWAEX/ASRKCoUerNsFB4PtpiEOmj9/
+w2Txw31RIn9j5VsQ2p5x7tO1uekuCUPvd8tqR89dkeYsVCecaQ6UJ+yIec+igAWF
+Wx0KLX8BSoRz9sPpFm0HsQMPsKHd2pdUImeaR4oQPDTnVOpPH+egNYW5AgMBAAEw
+DQYJKoZIhvcNAQEEBQADgYEAgDLsiOsBShle+V8yODM2CvMnV+fjZRAxZLRXEoXd
+P0a4cxVtqxsxrxhGMUr8FMm1baFof2lJmot3fXfaoxyMo7KJLC8HlclFACAJRgnH
+4b/dzoBPGmuic+e7s/2H+QhEVV1ZnRvRbJVTPpfIMQuwuRINgzFMbOpIa018DbNn
+sq4=
+-----END CERTIFICATE-----
+

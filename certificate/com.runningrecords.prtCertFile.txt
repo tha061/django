@@ -1,0 +1,50 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1305126979 (0x4dcaa843)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=38, ST=Irkutsk Area, L=Irkutsk, O=LLC iPoint Rus, OU=Software Development, CN=Alexey Fedyunin
+        Validity
+            Not Before: May 11 15:16:19 2011 GMT
+            Not After : May  4 15:16:19 2036 GMT
+        Subject: C=38, ST=Irkutsk Area, L=Irkutsk, O=LLC iPoint Rus, OU=Software Development, CN=Alexey Fedyunin
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:9e:ae:72:e1:b4:b2:4b:73:e0:fd:28:4d:68:97:
+                    e3:9e:8d:a0:8c:e9:6b:ec:85:4c:4e:59:c2:ef:41:
+                    3d:68:52:37:50:d8:9c:23:fd:47:b0:03:ac:3d:7d:
+                    a4:ec:66:d1:bf:96:d5:79:ac:cf:eb:79:dd:fa:bb:
+                    dd:f5:86:ca:03:6f:ce:a0:92:b5:7a:90:55:4d:3a:
+                    c1:de:e1:a4:ea:2f:4e:25:92:38:9f:30:7f:12:b6:
+                    83:f1:b0:e7:d9:06:3c:1a:cc:e1:55:35:85:78:cd:
+                    a3:39:d1:6a:ea:cd:4d:54:dd:39:47:3d:d6:58:16:
+                    2a:80:71:52:52:94:1a:15:97
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         76:0a:8d:b4:0b:8e:24:5e:f9:25:e6:53:86:a9:32:0a:3b:8a:
+         13:86:c3:ae:87:dd:3d:6f:78:d6:56:8e:76:a1:9e:6b:d8:45:
+         04:cc:eb:7b:d0:07:51:1b:4f:71:cf:19:19:fa:07:03:0f:1b:
+         34:41:ad:e0:86:ed:ec:31:f1:2c:53:8e:58:ad:fb:aa:34:33:
+         a1:a2:11:76:89:fe:2f:63:86:01:1e:83:b2:9e:da:e2:81:f1:
+         74:59:e5:35:ed:97:08:6f:ed:3e:7a:d3:15:4a:bc:20:f1:d6:
+         87:08:c3:ee:6b:6b:d7:d9:43:b6:b6:c7:8f:4c:26:bb:0b:ce:
+         bb:2f
+-----BEGIN CERTIFICATE-----
+MIICiTCCAfKgAwIBAgIETcqoQzANBgkqhkiG9w0BAQUFADCBiDELMAkGA1UEBhMC
+MzgxFTATBgNVBAgTDElya3V0c2sgQXJlYTEQMA4GA1UEBxMHSXJrdXRzazEXMBUG
+A1UEChMOTExDIGlQb2ludCBSdXMxHTAbBgNVBAsTFFNvZnR3YXJlIERldmVsb3Bt
+ZW50MRgwFgYDVQQDEw9BbGV4ZXkgRmVkeXVuaW4wHhcNMTEwNTExMTUxNjE5WhcN
+MzYwNTA0MTUxNjE5WjCBiDELMAkGA1UEBhMCMzgxFTATBgNVBAgTDElya3V0c2sg
+QXJlYTEQMA4GA1UEBxMHSXJrdXRzazEXMBUGA1UEChMOTExDIGlQb2ludCBSdXMx
+HTAbBgNVBAsTFFNvZnR3YXJlIERldmVsb3BtZW50MRgwFgYDVQQDEw9BbGV4ZXkg
+RmVkeXVuaW4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ6ucuG0sktz4P0o
+TWiX456NoIzpa+yFTE5Zwu9BPWhSN1DYnCP9R7ADrD19pOxm0b+W1Xmsz+t53fq7
+3fWGygNvzqCStXqQVU06wd7hpOovTiWSOJ8wfxK2g/Gw59kGPBrM4VU1hXjNoznR
+aurNTVTdOUc91lgWKoBxUlKUGhWXAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAdgqN
+tAuOJF75JeZThqkyCjuKE4bDrofdPW941laOdqGea9hFBMzre9AHURtPcc8ZGfoH
+Aw8bNEGt4Ibt7DHxLFOOWK37qjQzoaIRdon+L2OGAR6Dsp7a4oHxdFnlNe2XCG/t
+PnrTFUq8IPHWhwjD7mtr19lDtrbHj0wmuwvOuy8=
+-----END CERTIFICATE-----
+

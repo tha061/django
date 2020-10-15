@@ -38,7 +38,7 @@ def vt_scan(app_id):
 #print(app_hashes)
 
 
-app_id = 'com.nexample.martinmazanec.foamrollercoachapp'
+app_id = 'com.tinymission.dailyyogafree'
 print(app_id)
 vt_scan(app_id)
 

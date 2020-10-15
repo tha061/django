@@ -1,0 +1,88 @@
+{
+  "name": "com.bodyfast",
+  "fileSize": "35.0 MB",
+  "VTmd5": "b50dd65c28bad62d20522dc71df7132a",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/cb74e2333e4b8413161f4538d38f6eee38fa47bcdb9376aa79b120b14f15c40a/detection/f-cb74e2333e4b8413161f4538d38f6eee38fa47bcdb9376aa79b120b14f15c40a-1601569841",
+  "VTresource": "cb74e2333e4b8413161f4538d38f6eee38fa47bcdb9376aa79b120b14f15c40a",
+  "VTresponsecode": 1,
+  "VTscanID": "cb74e2333e4b8413161f4538d38f6eee38fa47bcdb9376aa79b120b14f15c40a-1601569841",
+  "VTsha1": "ea21e0ea8a6accc23482ac5f5d7bb3f01f5b5132",
+  "VTsha256": "cb74e2333e4b8413161f4538d38f6eee38fa47bcdb9376aa79b120b14f15c40a",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.SYSTEM_ALERT_WINDOW Protection Level: signature|preinstalled|appop|pre23|development",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.bodyfast.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.bodyfast.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: io.invertase.firebase.messaging.RNFirebaseMessagingService  permission: ",
+      "name: io.invertase.firebase.messaging.RNFirebaseInstanceIdService  permission: ",
+      "name: io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "1 October 2020",
+    "Size": "35M",
+    "Installs": "5000000",
+    "Current Version": "3.3.45",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$5.99 \u2013 $89.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "BodyFast GmbH",
+    "Developer": "Visit website info@bodyfast.de Privacy Policy Tal 36\n80331 M\u00fcnchen"
+  },
+  "rating": "4.5",
+  "description": "We \u2764\ufe0f fasting Fast with the #1 app: More than 15 million people worldwide use BodyFast. Track your fasts and be guided personally on your journey to your goals. Reach your dream weight, renew your body and get healthy and full of energy. Join our movement!  The BodyFast app \u25cf Intermittent fasting for beginners and experienced fasters \u25cf The BodyFast Coach creates you your optimal personal fasting plan each week Get it for free: \u25cf More than 10 fasting plans like 16-8 or 5-2 \u25cf A fasting tracker and timer guiding you through your weeks \u25cf Track your weight and body measurements \u25cf An easy-to use water tracker that reminds you of drinking enough \u25cf Multiple notification options \u25cf Knowledge pool for intermittent fasting \u25cf No advertisements The BodyFast Coach Your personal fasting program: reach your goals 30% faster! Each week, the BodyFast Coach calculates the fasting plan for your. Be motivated and get extra challenges for a healthy life. \u25cf Each week a new individual plan by the Coach \u25cf Your personal program based on your progress and preconditions \u25cf Personal weekly health and fitness challenges \u25cf Collect trophies for your progress \u25cf Optional: choose between 50+ fasting methods manually \u25cf Take a \"Joker Day\" off from fasting Intermittent fasting with BodyFast Become a BodyFaster now! \u25cf It has never been easier to lose weight and feel great  \u25cf Simply take a break from eating \u25cf You can eat what you want - no calorie counter needed \u25cf No diet, no yoyo-effect \u25cf Combinable with diets such as keto, paleo or low carb \u25cf Ideal also for water fasting and lent Intermittent fasting is the healthiest way to lose weight - no diet, no yoyo-effect. Numerous scientific studies confirm: \u25cf Intermittent fasting is the most natural way to lose weight \u25cf You strengthen your immune system \u25cf The body learns anew to burn fat \u25cf Your body starts detox processes while fasting \u25cf You live healthier and have more energy \u25cf You prevent numerous illnesses like diabetes \u25cf Allergies, inflammations and food intolerances can be reduced \u25cf Losing weight has never been easier - without a diet! Find out more about the science behind intermittent fasting on www.bodyfast.app BodyFast works! Join our Facebook groups and discuss your experiences with more than 100,000 members. Have a try and download the app for free! BodyFast intermittent fasting website: https://www.bodyfast.app Help & support concerning intermittent fasting and the app: https://www.bodyfast.app/#contact BodyFast Privacy Policy: https://www.bodyfast.app/privacy BodyFast General Terms and conditions: https://www.bodyfast.app/terms INFORMATION ON USING THE APP AND REGARDING THE SUBSCRIPTION The download and usage of BodyFast is free of charge. Get your fasting plan and further features with the Coach, which is available in the app with a subscription. The subscription automatically renews if it is not cancelled within 24 hours before the end of the current subscription period. Your account will be charged for the next subscription period up to 24 hours prior to the current subscription expiring. It is not possible to cancel an existing in-app subscription. You can disable the automatic renewal function at any time by adjusting your Google Play account settings.",
+  "privacyText": "https://bodyfast.de/privacy",
+  "numInstalls": 5000000,
+  "developer": "BodyFast GmbH",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://www.bodyfast.de",
+    "Developer Email": "info@bodyfast.de",
+    "Privacy Policy": "https://bodyfast.de/privacy"
+  },
+  "smali_Directories": [
+    "Appsflyer",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

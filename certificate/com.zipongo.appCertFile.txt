@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1385636552 (0x529722c8)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=California, L=San Francisco, O=Zipongo, OU=Company, CN=Jason Langheier
+        Validity
+            Not Before: Nov 28 11:02:32 2013 GMT
+            Not After : Nov 22 11:02:32 2038 GMT
+        Subject: C=US, ST=California, L=San Francisco, O=Zipongo, OU=Company, CN=Jason Langheier
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:82:b0:ba:89:22:da:64:fa:0f:84:93:7d:d0:d8:
+                    6e:b6:91:cf:77:db:58:a8:ed:34:ea:d4:67:ed:c0:
+                    a0:5a:22:42:16:5c:6a:2f:be:37:db:57:09:82:af:
+                    7e:01:62:dc:b6:32:25:96:14:0d:08:48:c2:cc:4b:
+                    c2:17:4c:bd:38:4c:77:08:1e:37:fa:e4:f5:92:92:
+                    7e:90:69:7a:bc:fe:71:91:30:8b:ad:84:a3:d7:ce:
+                    36:f2:6e:e3:0f:c0:ba:6a:f0:6c:8d:bb:d9:3c:de:
+                    59:08:46:51:98:07:ba:b6:2c:a5:34:29:5d:e4:a4:
+                    f5:4d:11:64:54:31:44:05:ed
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         58:35:67:f3:e3:1b:91:eb:88:8b:93:8a:f3:fa:96:33:c5:93:
+         8c:a0:d1:4b:7b:25:cf:d8:cb:86:d2:90:76:be:c7:81:85:d7:
+         8d:04:1d:b2:c4:7d:b7:c8:cd:bb:1b:f1:8f:b8:55:42:86:b8:
+         5f:16:a8:65:1b:4e:ce:b4:7d:8a:79:45:90:08:54:6a:d6:b8:
+         74:ee:57:9d:b4:eb:bd:e6:09:d5:24:66:48:22:db:ec:ce:ed:
+         08:0d:a7:de:06:6a:b0:13:7d:96:d8:8d:5e:ec:26:6f:40:7e:
+         17:1f:7d:2b:28:7c:81:dc:36:89:5c:25:a9:57:1d:31:78:70:
+         37:77
+-----BEGIN CERTIFICATE-----
+MIICZzCCAdCgAwIBAgIEUpciyDANBgkqhkiG9w0BAQUFADB4MQswCQYDVQQGEwJV
+UzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEQ
+MA4GA1UEChMHWmlwb25nbzEQMA4GA1UECxMHQ29tcGFueTEYMBYGA1UEAxMPSmFz
+b24gTGFuZ2hlaWVyMB4XDTEzMTEyODExMDIzMloXDTM4MTEyMjExMDIzMloweDEL
+MAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNhbiBG
+cmFuY2lzY28xEDAOBgNVBAoTB1ppcG9uZ28xEDAOBgNVBAsTB0NvbXBhbnkxGDAW
+BgNVBAMTD0phc29uIExhbmdoZWllcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkC
+gYEAgrC6iSLaZPoPhJN90NhutpHPd9tYqO006tRn7cCgWiJCFlxqL74321cJgq9+
+AWLctjIllhQNCEjCzEvCF0y9OEx3CB43+uT1kpJ+kGl6vP5xkTCLrYSj18428m7j
+D8C6avBsjbvZPN5ZCEZRmAe6tiylNCld5KT1TRFkVDFEBe0CAwEAATANBgkqhkiG
+9w0BAQUFAAOBgQBYNWfz4xuR64iLk4rz+pYzxZOMoNFLeyXP2MuG0pB2vseBhdeN
+BB2yxH23yM27G/GPuFVChrhfFqhlG07OtH2KeUWQCFRq1rh07ledtOu95gnVJGZI
+Itvszu0IDafeBmqwE32W2I1e7CZvQH4XH30rKHyB3DaJXCWpVx0xeHA3dw==
+-----END CERTIFICATE-----
+

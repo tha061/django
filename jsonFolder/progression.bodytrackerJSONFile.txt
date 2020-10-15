@@ -1,0 +1,85 @@
+{
+  "name": "progression.bodytracker",
+  "fileSize": "2.5 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "progression.bodytracker.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   description: @string/permission_entries_write   label: @string/permission_entries_write   name: progression.bodytracker.READ_WRITE_ENTRIES   protectionLevel: normal",
+    "   name: progression.bodytracker.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: progression.bodytracker.sync.firebase.sync.FirebaseSyncService  permission: ",
+      "name: progression.bodytracker.sync.googlefit.sync.service.GoogleFitSyncService  permission: ",
+      "name: progression.bodytracker.data.entry.service.EntryInteractorService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.evernote.android.job.v21.PlatformJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.evernote.android.job.v14.PlatformAlarmService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "4 October 2018",
+    "Size": "2.5M",
+    "Installs": "10000",
+    "Current Version": "1.0",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$3.49 \u2013 $6.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Zoltan Demant",
+    "Developer": "Visit website info@progression-app.com Privacy Policy Persgatan 57,\n252 22 Helsingborg"
+  },
+  "rating": "3.8",
+  "description": "Track and understand your body with the help of Progression \u2013 become a winner in body and soul. Timeline offers you a quick overview of your measurements for a given bodypart or your bodyweight. Adding a new measurement is no more than a click away. Powerful statistics give you an in-depth analysis of your journey. Upgrade and use the graph to see the bigger picture, and view your stats to get additional insights. Its all about you. Under the profile screen you can view an overview of where you\u2019re currently at, view all measurements split up on a day-to-day basis, as well as get all the necessary BMI information you might want.  Day-to-day, most places in the app will let you view all the powerful statistics and your timeline exclusively for each measurement category (bodyweight, or any tape measurement). Use the day collection screen to review all your measurements for a given day, compare it to other days, and quickly add full body measurements in one go. Google Fit lets you easily stay up to date with measurements from any other connected apps, or scales that support this (Withings, amongst others).  Your data is precious, therefore you can sign in with your Google account to have it automatically backed up and synchronized across all your connected devices, instantaneously. Going the extra mile, for you. Use the dark & light theme options to make the app look and feel just the way you love it. Supported measurements include bodyweight, bodyfat, chest, shoulders, overarms, forearms, hips, waist, legs and calves.  ---- Mission statement We believe in a world where everyone reaches their full potential. And we believe that keeping track of yourself is the way to make steady progress towards it, and make it a reality.  By keeping track of your body, you will with the help of Progression start seeing patterns, and learn to work with them rather than against them. Many users in our early beta program have reported being much more aware of themselves, and where their bodyweight is headed, as well as being able to take control and push it in the direction they really want to go. ---- You are beautiful just the way you are. Progression is not about changing your body - it is about making sure it functions well - so that you can live everyday of your life with a smile on your face, knowing that things are getting even better with each new day. If you share our vision, please get in touch. We would love to hear from you, tell us your story, tell us what additional tools you might want to make things even better and easier to manage. We want to make this world a better place, and this is our contribution.",
+  "privacyText": "https://goo.gl/NWWGGK",
+  "numInstalls": 10000,
+  "developer": "Zoltan Demant",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://progression-app.com",
+    "Developer Email": "info@progression-app.com",
+    "Privacy Policy": "https://goo.gl/NWWGGK"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

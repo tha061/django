@@ -1,0 +1,77 @@
+{
+  "name": "com.hodoz.splits",
+  "fileSize": "45.4 MB",
+  "VTmd5": "5e1f278e1202de47db8561e4948f0f6d",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/36973e925202a0f06e885bbff75e8e05fdd719eb2b4a4dc4ec5fb9ed8a7e7b7a/detection/f-36973e925202a0f06e885bbff75e8e05fdd719eb2b4a4dc4ec5fb9ed8a7e7b7a-1598461699",
+  "VTresource": "36973e925202a0f06e885bbff75e8e05fdd719eb2b4a4dc4ec5fb9ed8a7e7b7a",
+  "VTresponsecode": 1,
+  "VTscanID": "36973e925202a0f06e885bbff75e8e05fdd719eb2b4a4dc4ec5fb9ed8a7e7b7a-1598461699",
+  "VTsha1": "de340eb0f9d74a63ee3ecabe600c309ace64c288",
+  "VTsha256": "36973e925202a0f06e885bbff75e8e05fdd719eb2b4a4dc4ec5fb9ed8a7e7b7a",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "1 May 2020",
+    "Size": "45M",
+    "Installs": "500000",
+    "Current Version": "2.1.101",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$4.49 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Hodoz",
+    "Developer": "Visit website goodmigel@gmail.com Privacy Policy 660018, Russia, Krasnoyarsk, Timiryazev st. 2"
+  },
+  "rating": "4.5",
+  "description": "Splits - Flexibility Training - Stretching Exercises  is a cutting-edge app with video tutorials of exercises from a professional trainer. By using these  effective workouts and stretching tips , you will learn how to do the splits quickly and easily. You don\u2019t need any equipment, the app can be used  for stretching at home , and it will teach you how to do splits at home. The stretching exercises and flexibility training are for everyone, so men, women and children can all learn how to do the splits.  It might seem like doing the splits for beginners sounds unrealistic , but it's  100% possible!  The trainer will explain how you can quickly do the side splits and the front splits. Stretching for the best flexibility and for the splits in 30 days is not something unreachable, and even if you are not so flexible, this can be worked on during the training process. The stretching exercises for the splits will help you to see rapid progress and achieve the goals that you set yourself.  Download Splits for beginners - Flex&Stretch app now and discover your newfound flexibility in just a few days!",
+  "privacyText": "https://hodoz.com/privacy.html",
+  "numInstalls": 500000,
+  "developer": "Hodoz",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://hodoz.com",
+    "Developer Email": "goodmigel@gmail.com",
+    "Privacy Policy": "https://hodoz.com/privacy.html"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

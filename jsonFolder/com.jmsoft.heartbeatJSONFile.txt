@@ -1,0 +1,68 @@
+{
+  "name": "com.jmsoft.heartbeat",
+  "fileSize": "2.5 MB",
+  "VTmd5": "ba42ac86708c55aef6f0c2135354b78a",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/6a1619d65513d2efe6b6a958268ae0834713d730bbecac0b319748c21585ed03/detection/f-6a1619d65513d2efe6b6a958268ae0834713d730bbecac0b319748c21585ed03-1600076897",
+  "VTresource": "6a1619d65513d2efe6b6a958268ae0834713d730bbecac0b319748c21585ed03",
+  "VTresponsecode": 1,
+  "VTscanID": "6a1619d65513d2efe6b6a958268ae0834713d730bbecac0b319748c21585ed03-1600076897",
+  "VTsha1": "2f654cd4de609adf86d7f1126b63bdf2f6bb6c11",
+  "VTsha256": "6a1619d65513d2efe6b6a958268ae0834713d730bbecac0b319748c21585ed03",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "13 August 2020",
+    "Size": "2.5M",
+    "Installs": "50000",
+    "Current Version": "2.27",
+    "Requires Android": "4.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$2.00 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "JMSoft Applications",
+    "Developer": "Visit website jmsoftbrazil@gmail.com Campinas, SP. Brazil"
+  },
+  "rating": "3.9",
+  "description": "If you practice exercises and want to manage each series time and the resting time, this app is perfect for you! You can also share your results with your friends and get even better! Set your times, do your exercises and check your score! Beat your friends and become an athlete! Jumping rope, gym, running, grinding, etc Download it now, it's free!",
+  "privacyText": "",
+  "numInstalls": 50000,
+  "developer": "JMSoft Applications",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://jmsantana.github.io/",
+    "Developer Email": "jmsoftbrazil@gmail.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

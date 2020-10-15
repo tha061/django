@@ -1,0 +1,47 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1319211137 (0x4ea19081)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CH, O=SymptoTherm Foundation, CN=Harri Wettstein
+        Validity
+            Not Before: Oct 21 15:32:17 2011 GMT
+            Not After : Oct  8 15:32:17 2061 GMT
+        Subject: C=CH, O=SymptoTherm Foundation, CN=Harri Wettstein
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:89:1f:53:1f:10:58:82:f3:be:0c:b4:76:01:02:
+                    80:9c:18:c5:8d:30:6d:df:41:9f:66:7f:d8:c7:e6:
+                    94:a7:83:aa:82:2b:42:a0:6d:38:c0:ce:e7:e9:67:
+                    97:90:06:ec:69:10:5e:93:14:63:53:4d:d0:5b:b6:
+                    3f:f4:fc:ca:93:64:ad:d4:44:58:7d:30:ac:d1:87:
+                    7a:e3:43:b0:c9:82:c5:c1:f3:58:56:57:71:f3:dd:
+                    05:9f:a4:4d:67:70:b7:37:7f:7c:34:8c:fc:24:e0:
+                    4a:f7:40:e8:d7:d9:18:5e:45:f7:40:21:4e:8a:b6:
+                    19:55:06:6d:e5:69:6a:b0:e9
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         52:06:bc:56:6a:82:62:ab:2c:56:c9:18:03:46:fc:00:89:3c:
+         c9:1c:08:55:09:ac:bf:9f:91:3a:cb:f3:f4:55:18:18:6e:b6:
+         a6:84:f3:d1:c8:d1:bb:ee:33:53:3e:c9:bb:ca:2e:dd:0f:c0:
+         8e:cd:d3:a6:c7:da:c3:a1:54:81:01:02:38:11:f1:b5:55:08:
+         5a:db:62:4d:d6:37:e4:20:98:33:19:8e:34:e4:60:79:81:4a:
+         e2:4d:91:76:9a:96:7c:82:31:85:0e:d0:88:b8:77:73:54:38:
+         72:9a:6f:6f:95:d1:82:8b:b4:8c:c3:44:d5:dd:7b:9c:f8:f7:
+         0f:03
+-----BEGIN CERTIFICATE-----
+MIICCTCCAXKgAwIBAgIETqGQgTANBgkqhkiG9w0BAQUFADBIMQswCQYDVQQGEwJD
+SDEfMB0GA1UEChMWU3ltcHRvVGhlcm0gRm91bmRhdGlvbjEYMBYGA1UEAxMPSGFy
+cmkgV2V0dHN0ZWluMCAXDTExMTAyMTE1MzIxN1oYDzIwNjExMDA4MTUzMjE3WjBI
+MQswCQYDVQQGEwJDSDEfMB0GA1UEChMWU3ltcHRvVGhlcm0gRm91bmRhdGlvbjEY
+MBYGA1UEAxMPSGFycmkgV2V0dHN0ZWluMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCB
+iQKBgQCJH1MfEFiC874MtHYBAoCcGMWNMG3fQZ9mf9jH5pSng6qCK0KgbTjAzufp
+Z5eQBuxpEF6TFGNTTdBbtj/0/MqTZK3URFh9MKzRh3rjQ7DJgsXB81hWV3Hz3QWf
+pE1ncLc3f3w0jPwk4Er3QOjX2RheRfdAIU6KthlVBm3laWqw6QIDAQABMA0GCSqG
+SIb3DQEBBQUAA4GBAFIGvFZqgmKrLFbJGANG/ACJPMkcCFUJrL+fkTrL8/RVGBhu
+tqaE89HI0bvuM1M+ybvKLt0PwI7N06bH2sOhVIEBAjgR8bVVCFrbYk3WN+QgmDMZ
+jjTkYHmBSuJNkXaalnyCMYUO0Ii4d3NUOHKab2+V0YKLtIzDRNXde5z49w8D
+-----END CERTIFICATE-----
+

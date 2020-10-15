@@ -1,0 +1,78 @@
+{
+  "name": "com.yogadownload.app",
+  "fileSize": "82.5 MB",
+  "VTmd5": "1fb38abce265a5d63c7805e6173cc18b",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/af0051cc0fb97291a2a2d91db5baeba0704222590c7f8177132f0d3b072ff01c/detection/f-af0051cc0fb97291a2a2d91db5baeba0704222590c7f8177132f0d3b072ff01c-1595050569",
+  "VTresource": "af0051cc0fb97291a2a2d91db5baeba0704222590c7f8177132f0d3b072ff01c",
+  "VTresponsecode": 1,
+  "VTscanID": "af0051cc0fb97291a2a2d91db5baeba0704222590c7f8177132f0d3b072ff01c-1595050569",
+  "VTsha1": "79f80b8fe4c1929da53dd655b7f0e6a9061c513c",
+  "VTsha256": "af0051cc0fb97291a2a2d91db5baeba0704222590c7f8177132f0d3b072ff01c",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: crc64bf2aa6d622d4888c.AudioPlayerService  permission: ",
+      "name: crc64bf2aa6d622d4888c.PushNotificationService  permission: ",
+      "name: com.google.android.gms.cast.framework.media.MediaNotificationService  permission: ",
+      "name: com.google.android.gms.cast.framework.ReconnectionService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "20 July 2020",
+    "Size": "83M",
+    "Installs": "50000",
+    "Current Version": "1.5.1",
+    "Requires Android": "5.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u00e2\u20ac\u201c $119.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "YogaDownload.com",
+    "Developer": "Visit website help@yogadownload.com Privacy Policy 2701 Lawrence St. #11\nDenver, CO 80205"
+  },
+  "rating": "4.5",
+  "description": "GET 50% OFF UNLIMITED FULL ACCESS! It's time for yoga at home! We're here to support you! This fitness & yoga app is a great opportunity to get in shape, stay fit and calm, and crush your exercise goals! With the YogaDownload App you can throw away the script, think outside the yoga studio, and build the yoga practice that works for you! Discover new teachers, styles, and inspiring places to take your yoga with an ever-growing library of 1,600+ yoga, meditation, fitness, Pilates and barre classes from internationally acclaimed yoga teachers. Using our yoga guide for yoga poses & a yoga practice could change your life! Not only will you become healthier and stronger physically, you will also rewire your brain to become calm, more centered + less reactive. Also, find peace and sleep better! The YogaDownload site and yoga fitness app provide the most affordable and convenient way to access the healing benefits of yoga classes and develop a consistent practice. YogaDownload offers yoga for every body, ability, time & place, since 2006. It's time to personalize your practice with daily yoga videos! This yoga studio mind body app allows you to use your existing membership, or create a new one. New users will get a 5-day free trial before having to register. Once you register, you will get an additional 15-day free trial. Once your trial ends you will have access to select free classes only or can purchase a membership to continue with full access. Why our yoga classes & yoga poses app: FULL UNLIMITED ACCESS - Access your existing YogaDownload account including your current membership and class favorites - With a membership (after your free trial ends) you will gain full unlimited access to our entire library of over 1,600 classes (yoga, fitness/fusion classes, meditation, Pilates, and barre are all included) with new classes added each week. Find what feels good for your body and reduce stress while practicing smart weight loss. - Achieve your goals with over 50 expertly curated programs including Yoga for Weight Loss, Heal Your Back Pain, Yoga for Runners, challenges, Poses for Stress Relief and prenatal programs TOP-RATED CLASSES FROM WORLD-CLASS INSTRUCTORS - Enjoy the best classes out there - over half of our library is rated 4.8/5 stars or higher - Find top, talented, inspiring teachers & yoga coaches that have mastered the art of teaching online FIND YOUR PERFECT CLASS - Advanced filtering: find your perfect class for right now through filtering by exercise, length, level, intensity, style, teacher, and even a specific goal or focus - We offer a wide variety of yoga, yoga asanas, meditation, Pilates, barre and beginner daily yoga videos in many lengths including 20-30 min complete classes CLASSES AND PROGRAMS FOR BEGINNERS - We have classes, yoga plans, and programs that are designed for absolute beginners (yes it\u00e2\u20ac\u2122s your yoga for beginners free app) or those that have just a little experience with yoga - Develop your practice and an understanding of yoga in the comfort of your own home, or anywhere you might be. Practice daily yoga and improve your elasticity, strength, flexibility, balance, flexibility, and overall health. Review of our Beginner Yoga 101 Program: \"This series single-handedly got me into Yoga. I found it to be exactly the stretching I had been craving to help some hip pain (which went away.) It was also at a good pace for someone that didn't always have the best flexibility, although that is now changing. Thank you Jackie, you get full credit for making yoga relevant and enjoyable for me!\" ~ Shannon ACCESS CLASSES EVEN WHEN OFFLINE - Choose to download classes so they are stored and accessible even when you don't have an internet connection. Access yoga tutors and instructors without internet. DON'T JUST TAKE OUR WORD FOR IT... \"I am so in love with this site! As a newbie to yoga, I was intimidated by it. But, the many classes and options really helped me get into practicing!\" ~ Devon L.",
+  "privacyText": "https://www.yogadownload.com/Footer/TermsofUse.aspx",
+  "numInstalls": 50000,
+  "developer": "YogaDownload.com",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.yogadownload.com",
+    "Developer Email": "help@yogadownload.com",
+    "Privacy Policy": "https://www.yogadownload.com/Footer/TermsofUse.aspx"
+  },
+  "smali_Directories": [
+    "Appsflyer",
+    "Facebook",
+    "YOC"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

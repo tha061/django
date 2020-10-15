@@ -1,0 +1,73 @@
+{
+  "name": "uk.co.telesense.tm.free",
+  "fileSize": "2.0 MB",
+  "VTmd5": "7145625f85bba59b09ad1cdd0ffa385b",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/ed3848a09c570638b47f30d8395f325f8dcb9f7dc4e05e3f7f0a372d7e303189/detection/f-ed3848a09c570638b47f30d8395f325f8dcb9f7dc4e05e3f7f0a372d7e303189-1594313076",
+  "VTresource": "ed3848a09c570638b47f30d8395f325f8dcb9f7dc4e05e3f7f0a372d7e303189",
+  "VTresponsecode": 1,
+  "VTscanID": "ed3848a09c570638b47f30d8395f325f8dcb9f7dc4e05e3f7f0a372d7e303189-1594313076",
+  "VTsha1": "2168e0a8aef2fa40f03728307c25b6a776520dfc",
+  "VTsha256": "ed3848a09c570638b47f30d8395f325f8dcb9f7dc4e05e3f7f0a372d7e303189",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NOTIFICATION_POLICY Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "8 July 2020",
+    "Size": "2.4M",
+    "Installs": "50000",
+    "Current Version": "1.0.3.2",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Telesense",
+    "Developer": "info@telesense.co.uk Privacy Policy 410 Davina House\n137-149 Goswell Road\nLondon EC1V 7ET"
+  },
+  "rating": "4.8",
+  "description": "This is a simple and attractive meditation timer which can completely silence your device while you meditate.  Core Features: - One click to start, one click to finish - Block all distractions with 100% reliability - Meditate using your own technique - Optional gong sound - Currently all features are free - No ads Recent Reviews: \"Best meditation timer! Use it every day and it works perfectly.\" \"I love it! Simplest and best meditation timer.\" \"Simple and efficient. Bravo\"  \"Perfect. Simple. Good looking app.\" \"Simple. Yet you won't need anything more!\" \"I like that this app does exactly what is needed and that it silences other notifications far better than other apps on the market place! A great bonus too that it doesn't try and log to social media or dictate how you should meditate\" \"The best meditation timer I can find. I especially appreciate the new color and dimming options on the screen as other apps have bright invasive screens that can't be adjusted. \" \"Simple and beautiful;) I wanted a very simple timer with time setting and Gong at the end. Goal finally achieved .... The timer now ever so chic and well recognizable comes (night mode) makes me very happy!\" [ German ] \"The best app for TM I've come across. Especially like the optional gong and that if you choose to use it, the sound can be set very low. Like the simplicity ( I know how to meditate! Don't need someone to tell me!) Would definitely recommend it to experienced TM meditators to support their practice occasionally\" The timer can be used for Vipassana, Transcendental Meditation (TM), mindfulness, Zen,  Zazen or any other meditation technique. It does not include guided meditations or meditation instructions. Vipassana refers to the Vipassana meditation technique popularized and taught by S.N.Goenka. Transcendental Meditation (TM) is a trademark of the Maharishi Foundation and refers to the technique popularized by Maharishi Mahesh Yogi.",
+  "privacyText": "http://www.telesense.co.uk/privacy.html",
+  "numInstalls": 50000,
+  "developer": "Telesense",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.telesense.co.uk/privacy.html",
+    "Developer Email": "info@telesense.co.uk",
+    "Privacy Policy": "http://www.telesense.co.uk/privacy.html"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

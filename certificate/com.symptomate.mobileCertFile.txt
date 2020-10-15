@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1382966456 (0x526e64b8)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=PL, ST=dolnoslaskie, L=Wroclaw, OU=mobile, O=symptomate.com, CN=symptomate.com
+        Validity
+            Not Before: Oct 28 13:20:56 2013 GMT
+            Not After : Sep  5 13:20:56 2046 GMT
+        Subject: C=PL, ST=dolnoslaskie, L=Wroclaw, OU=mobile, O=symptomate.com, CN=symptomate.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:88:80:91:07:df:4e:e6:21:84:bc:93:f8:39:70:
+                    5a:7d:d4:b7:47:e4:b8:b0:7d:19:73:da:f1:7c:f9:
+                    2b:35:b3:90:39:84:fc:6b:7d:7f:f6:e1:bd:3b:89:
+                    5a:dc:b8:1f:4b:67:cf:ef:e9:95:17:99:ae:f1:ff:
+                    21:c7:51:a0:62:50:e6:ca:8f:c4:30:b7:b4:5a:0d:
+                    9d:b9:19:d0:cf:e5:7e:3f:d3:1e:f6:d5:3a:26:fb:
+                    8b:66:8e:fd:b7:13:c6:0f:c6:c6:58:1d:ec:df:b4:
+                    07:82:8e:91:b3:55:7a:63:18:38:d4:2b:2a:47:44:
+                    77:03:93:ba:e2:3f:47:47:89:a7:44:9e:76:70:46:
+                    91:b0:19:2d:a0:bc:46:b1:ac:fb:2d:1a:fd:67:49:
+                    f4:c9:34:ae:c1:07:65:47:29:b3:4c:63:7c:7d:9b:
+                    f4:c6:ac:a4:9e:b3:1d:77:ae:ec:73:5e:91:1d:f2:
+                    47:d7:d3:56:cf:eb:cf:f0:ef:31:4a:8d:9c:2c:8d:
+                    19:1a:4b:59:76:56:65:a0:01:b4:cd:da:bc:8a:6b:
+                    ca:81:2d:81:f0:b1:e6:5f:93:99:18:ba:8c:a5:50:
+                    bb:eb:f0:b4:ce:0b:86:b9:ed:48:5b:f2:87:fd:ce:
+                    ab:9b:5f:06:15:14:9d:de:2b:5d:e6:14:2a:4a:c5:
+                    f0:8b
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         60:6a:6b:b5:fb:cc:c7:43:a2:aa:bb:82:c3:89:a4:91:44:28:
+         1d:45:e0:80:9c:24:f6:b9:3c:20:7f:df:7d:de:71:73:a9:26:
+         09:10:82:15:9f:c1:12:c5:72:90:65:32:86:6f:70:02:7b:b5:
+         d7:12:84:0b:cf:98:38:35:cb:de:65:68:ca:d0:b7:0f:c8:4a:
+         22:55:86:67:79:4d:51:31:43:5a:29:a0:ef:79:93:45:ec:f9:
+         a0:bc:a1:15:c2:6d:2d:24:e2:9d:95:f7:58:1f:f5:e0:4f:4e:
+         a7:1c:a5:b0:de:f7:21:f2:73:81:c1:72:6d:b1:d3:ae:16:d6:
+         68:d9:c3:4a:3d:1c:e6:93:1d:e7:be:19:56:0d:b7:e6:e7:59:
+         78:53:42:e8:59:b3:a0:d4:6a:4c:e0:e3:a4:03:5b:f6:ae:24:
+         b6:67:56:d7:70:3a:2f:64:4c:25:70:7d:c2:2c:3a:1d:f7:53:
+         b9:10:4e:2d:7b:c6:15:73:28:81:79:01:f5:11:fa:6b:fd:8b:
+         8f:f9:05:e7:87:3e:d7:c3:52:58:71:d3:d2:d7:7a:c5:30:bc:
+         eb:8a:db:bc:d2:59:f4:47:b8:47:68:5f:d3:bb:30:37:b1:56:
+         83:d4:0c:31:00:c3:2f:c8:65:e5:4d:f6:84:08:aa:9b:f4:18:
+         73:83:ba:4e
+-----BEGIN CERTIFICATE-----
+MIIDbjCCAlagAwIBAgIEUm5kuDANBgkqhkiG9w0BAQUFADB5MQswCQYDVQQGEwJQ
+TDEVMBMGA1UECBMMZG9sbm9zbGFza2llMRAwDgYDVQQHEwdXcm9jbGF3MQ8wDQYD
+VQQLEwZtb2JpbGUxFzAVBgNVBAoTDnN5bXB0b21hdGUuY29tMRcwFQYDVQQDEw5z
+eW1wdG9tYXRlLmNvbTAeFw0xMzEwMjgxMzIwNTZaFw00NjA5MDUxMzIwNTZaMHkx
+CzAJBgNVBAYTAlBMMRUwEwYDVQQIEwxkb2xub3NsYXNraWUxEDAOBgNVBAcTB1dy
+b2NsYXcxDzANBgNVBAsTBm1vYmlsZTEXMBUGA1UEChMOc3ltcHRvbWF0ZS5jb20x
+FzAVBgNVBAMTDnN5bXB0b21hdGUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAiICRB99O5iGEvJP4OXBafdS3R+S4sH0Zc9rxfPkrNbOQOYT8a31/
+9uG9O4la3LgfS2fP7+mVF5mu8f8hx1GgYlDmyo/EMLe0Wg2duRnQz+V+P9Me9tU6
+JvuLZo79txPGD8bGWB3s37QHgo6Rs1V6Yxg41CsqR0R3A5O64j9HR4mnRJ52cEaR
+sBktoLxGsaz7LRr9Z0n0yTSuwQdlRymzTGN8fZv0xqyknrMdd67sc16RHfJH19NW
+z+vP8O8xSo2cLI0ZGktZdlZloAG0zdq8imvKgS2B8LHmX5OZGLqMpVC76/C0zguG
+ue1IW/KH/c6rm18GFRSd3itd5hQqSsXwiwIDAQABMA0GCSqGSIb3DQEBBQUAA4IB
+AQBgamu1+8zHQ6Kqu4LDiaSRRCgdReCAnCT2uTwgf9993nFzqSYJEIIVn8ESxXKQ
+ZTKGb3ACe7XXEoQLz5g4NcveZWjK0LcPyEoiVYZneU1RMUNaKaDveZNF7PmgvKEV
+wm0tJOKdlfdYH/XgT06nHKWw3vch8nOBwXJtsdOuFtZo2cNKPRzmkx3nvhlWDbfm
+51l4U0LoWbOg1GpM4OOkA1v2riS2Z1bXcDovZEwlcH3CLDod91O5EE4te8YVcyiB
+eQH1Efpr/YuP+QXnhz7Xw1JYcdPS13rFMLzritu80ln0R7hHaF/TuzA3sVaD1Awx
+AMMvyGXlTfaECKqb9Bhzg7pO
+-----END CERTIFICATE-----
+

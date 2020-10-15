@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2068230621 (0x7b46b1dd)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=RU, ST=St.Petersburg, L=St.Petersburg, O=Kirill Mironov, CN=Kirill Mironov
+        Validity
+            Not Before: Apr  6 09:11:11 2017 GMT
+            Not After : Mar 31 09:11:11 2042 GMT
+        Subject: C=RU, ST=St.Petersburg, L=St.Petersburg, O=Kirill Mironov, CN=Kirill Mironov
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cd:cc:67:72:af:9b:d0:3b:40:89:bc:4d:2a:a6:
+                    91:c6:15:c3:b9:3e:e3:e3:76:3f:c5:0b:94:1e:25:
+                    83:73:2d:14:4b:d1:c6:df:74:2c:43:ea:b0:00:a7:
+                    ee:85:5d:d2:28:97:56:73:d0:8b:a4:50:27:f2:3b:
+                    c6:52:68:8c:02:cb:98:b8:af:b8:c2:38:eb:5f:63:
+                    00:c9:d4:b3:f8:9f:4d:a6:a9:17:af:ab:4c:7e:8b:
+                    7a:f7:7c:9e:15:46:00:d1:82:dd:66:24:36:76:d2:
+                    61:45:5e:85:d1:f3:21:87:2e:ca:78:64:55:73:73:
+                    ea:bc:bf:8d:e0:58:f0:1b:83:a8:f0:6a:14:c0:62:
+                    27:1c:bb:77:85:f1:98:59:11:5d:7c:57:46:6d:d4:
+                    f0:59:e8:ef:5d:ba:cc:e9:a7:6f:94:c9:c8:a4:92:
+                    26:43:92:e8:6b:75:f0:61:8a:18:4d:eb:ae:7b:8f:
+                    14:62:74:b6:1b:3e:6f:81:ba:d1:50:83:1a:2b:36:
+                    a3:ed:e8:ca:d7:e5:cd:75:d3:de:7a:52:06:52:1f:
+                    ff:5d:67:57:67:f8:f4:b2:76:9c:82:e5:f9:b0:f3:
+                    f4:5b:b4:6c:81:ca:11:e2:99:8f:c8:3e:63:7f:81:
+                    52:96:ec:88:f3:fc:a4:13:2e:f3:b6:d3:9f:d2:81:
+                    5b:11
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                F9:25:D7:91:78:3D:35:40:2C:DE:CD:17:C3:78:E1:C5:0D:95:AB:9F
+    Signature Algorithm: sha256WithRSAEncryption
+         24:d1:bf:88:fa:67:6a:d7:8c:ad:1c:14:b8:8c:98:e7:b3:7a:
+         ac:81:15:32:c6:aa:b7:3b:2d:ab:0e:7f:2f:b0:27:ef:eb:61:
+         84:bb:46:1e:60:13:89:62:5b:25:d7:59:7d:df:8e:76:d6:2b:
+         3a:ca:9f:a1:33:cc:c4:c5:9c:42:b7:a0:90:df:70:3a:9e:c0:
+         79:95:2f:b2:cf:9e:cf:b6:b6:ac:5d:a4:b1:5c:11:31:23:7b:
+         5c:54:bf:0c:8d:67:44:2e:45:82:b7:d5:08:f9:5d:8d:5c:32:
+         e4:75:6d:b4:06:76:e8:4d:c9:5d:d1:a5:32:d2:1b:32:7b:77:
+         93:88:87:f4:7d:8b:dc:2b:0e:0e:0d:4d:85:81:50:c8:1c:24:
+         5c:dd:95:b4:f8:6f:89:3d:5a:14:74:0b:10:92:0d:a1:86:de:
+         b2:fe:6c:2f:15:46:e9:b9:53:b1:f1:f2:8c:f7:ab:db:52:bd:
+         8e:ef:c5:c5:53:96:e4:b4:ff:cf:4e:c1:4d:ed:27:fe:27:90:
+         5a:d9:d8:df:7b:21:7f:0b:3b:4e:61:88:ec:e2:20:0e:f8:d1:
+         81:f0:16:ff:d1:fd:4a:4c:01:ff:3b:af:8d:bf:3f:83:e3:b6:
+         e1:cd:a1:38:40:3d:39:ac:ba:a2:4e:1c:86:c0:0a:13:6d:eb:
+         0f:5a:bb:dd
+-----BEGIN CERTIFICATE-----
+MIIDfTCCAmWgAwIBAgIEe0ax3TANBgkqhkiG9w0BAQsFADBvMQswCQYDVQQGEwJS
+VTEWMBQGA1UECBMNU3QuUGV0ZXJzYnVyZzEWMBQGA1UEBxMNU3QuUGV0ZXJzYnVy
+ZzEXMBUGA1UEChMOS2lyaWxsIE1pcm9ub3YxFzAVBgNVBAMTDktpcmlsbCBNaXJv
+bm92MB4XDTE3MDQwNjA5MTExMVoXDTQyMDMzMTA5MTExMVowbzELMAkGA1UEBhMC
+UlUxFjAUBgNVBAgTDVN0LlBldGVyc2J1cmcxFjAUBgNVBAcTDVN0LlBldGVyc2J1
+cmcxFzAVBgNVBAoTDktpcmlsbCBNaXJvbm92MRcwFQYDVQQDEw5LaXJpbGwgTWly
+b25vdjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM3MZ3Kvm9A7QIm8
+TSqmkcYVw7k+4+N2P8ULlB4lg3MtFEvRxt90LEPqsACn7oVd0iiXVnPQi6RQJ/I7
+xlJojALLmLivuMI4619jAMnUs/ifTaapF6+rTH6Levd8nhVGANGC3WYkNnbSYUVe
+hdHzIYcuynhkVXNz6ry/jeBY8BuDqPBqFMBiJxy7d4XxmFkRXXxXRm3U8Fno7126
+zOmnb5TJyKSSJkOS6Gt18GGKGE3rrnuPFGJ0ths+b4G60VCDGis2o+3oytflzXXT
+3npSBlIf/11nV2f49LJ2nILl+bDz9Fu0bIHKEeKZj8g+Y3+BUpbsiPP8pBMu87bT
+n9KBWxECAwEAAaMhMB8wHQYDVR0OBBYEFPkl15F4PTVALN7NF8N44cUNlaufMA0G
+CSqGSIb3DQEBCwUAA4IBAQAk0b+I+mdq14ytHBS4jJjns3qsgRUyxqq3Oy2rDn8v
+sCfv62GEu0YeYBOJYlsl11l934521is6yp+hM8zExZxCt6CQ33A6nsB5lS+yz57P
+trasXaSxXBExI3tcVL8MjWdELkWCt9UI+V2NXDLkdW20BnboTcld0aUy0hsye3eT
+iIf0fYvcKw4ODU2FgVDIHCRc3ZW0+G+JPVoUdAsQkg2hht6y/mwvFUbpuVOx8fKM
+96vbUr2O78XFU5bktP/PTsFN7Sf+J5Ba2djfeyF/CztOYYjs4iAO+NGB8Bb/0f1K
+TAH/O6+Nvz+D47bhzaE4QD05rLqiThyGwAoTbesPWrvd
+-----END CERTIFICATE-----
+

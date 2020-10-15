@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1500352607 (0x596d905f)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=oog
+        Validity
+            Not Before: Jul 18 04:36:47 2017 GMT
+            Not After : Jul 12 04:36:47 2042 GMT
+        Subject: CN=oog
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a1:9e:48:08:eb:95:f9:c6:52:67:b4:41:bb:93:
+                    c0:d5:bf:7e:d2:4f:6a:30:08:a4:e1:51:64:77:63:
+                    9f:f1:25:53:a4:50:f3:6e:b0:c6:3c:70:89:42:93:
+                    1c:3b:10:7e:1f:31:76:48:a1:2b:be:c9:9d:ea:a6:
+                    0f:57:a6:a5:0e:43:c3:a3:bc:c7:8d:ae:2c:cf:88:
+                    90:cf:83:e7:41:32:25:90:e8:63:a7:d9:48:53:a3:
+                    e0:51:bf:50:4a:f9:57:4e:01:c1:9b:cb:65:45:45:
+                    8c:d2:ad:5c:eb:53:07:03:87:a8:28:44:f6:26:cb:
+                    5a:82:00:04:3e:26:f8:81:77
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         85:d6:b9:6c:7a:df:53:52:77:b9:b6:0a:8e:68:7d:e8:69:8a:
+         46:ef:68:35:fd:38:5e:2e:e1:6f:2d:07:d0:a2:a4:74:de:01:
+         54:a1:c2:a5:83:4b:77:7d:a7:da:0b:a2:4e:b7:05:e5:84:a1:
+         c7:d7:bc:28:fb:53:fe:da:ee:33:db:7e:12:d7:71:33:9e:f4:
+         e7:04:b8:d7:91:b1:45:36:ca:53:aa:70:0d:60:4a:bb:4a:89:
+         46:df:e0:0a:fd:7e:64:48:79:c4:05:01:ed:ea:40:a7:68:39:
+         74:af:18:45:be:34:dd:e3:bc:6c:ee:34:63:0d:1f:8f:2f:aa:
+         b1:6e
+-----BEGIN CERTIFICATE-----
+MIIBkjCB/KADAgECAgRZbZBfMA0GCSqGSIb3DQEBBQUAMA4xDDAKBgNVBAMTA29v
+ZzAeFw0xNzA3MTgwNDM2NDdaFw00MjA3MTIwNDM2NDdaMA4xDDAKBgNVBAMTA29v
+ZzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoZ5ICOuV+cZSZ7RBu5PA1b9+
+0k9qMAik4VFkd2Of8SVTpFDzbrDGPHCJQpMcOxB+HzF2SKErvsmd6qYPV6alDkPD
+o7zHja4sz4iQz4PnQTIlkOhjp9lIU6PgUb9QSvlXTgHBm8tlRUWM0q1c61MHA4eo
+KET2JstaggAEPib4gXcCAwEAATANBgkqhkiG9w0BAQUFAAOBgQCF1rlset9TUne5
+tgqOaH3oaYpG72g1/TheLuFvLQfQoqR03gFUocKlg0t3fafaC6JOtwXlhKHH17wo
++1P+2u4z234S13EznvTnBLjXkbFFNspTqnANYEq7SolG3+AK/X5kSHnEBQHt6kCn
+aDl0rxhFvjTd47xs7jRjDR+PL6qxbg==
+-----END CERTIFICATE-----
+

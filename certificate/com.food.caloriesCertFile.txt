@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1213512450 (0x4854bb02)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Alex Korobov
+        Validity
+            Not Before: Jan  5 08:13:36 2016 GMT
+            Not After : Sep  6 08:13:36 2515 GMT
+        Subject: CN=Alex Korobov
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9a:22:2e:3b:6c:5e:cc:b2:24:f9:67:ec:8d:58:
+                    cd:b0:41:00:5c:e4:5b:aa:24:81:c0:72:eb:a4:99:
+                    b6:79:61:30:a4:dc:1a:4a:ca:97:18:90:34:d0:21:
+                    62:bc:68:09:fb:84:c6:1c:45:99:50:75:fe:68:1c:
+                    fb:ab:f8:90:6b:13:fd:b4:4b:3b:4c:d3:c0:a7:25:
+                    fe:17:6d:20:9d:18:c5:59:b9:51:31:af:1a:1b:2b:
+                    39:0b:34:b2:54:73:a8:ef:b5:e1:71:d5:e8:d6:4c:
+                    04:5f:23:8d:be:36:40:9b:f1:d8:1b:6a:c3:77:44:
+                    1c:51:bd:d6:bd:97:2f:bb:5b:c7:66:5f:16:47:d3:
+                    72:a2:cc:62:7a:3b:fa:15:c5:16:d2:76:33:b3:72:
+                    5c:49:b7:d4:04:00:37:bf:a0:92:4c:62:22:80:4a:
+                    9c:7d:90:3f:f6:6f:c6:bd:8f:96:90:69:04:6f:50:
+                    ec:a8:9b:71:fc:a2:0d:75:f7:d8:91:02:8f:88:2e:
+                    25:e4:04:1f:56:8f:e5:65:ed:f6:2a:3c:ff:24:7d:
+                    36:58:e0:c4:e7:a8:73:5a:2d:58:39:1a:b5:cb:84:
+                    02:40:c8:ba:e3:1b:23:98:08:93:d1:5f:f0:d2:e3:
+                    de:6c:73:15:3a:31:5f:80:87:06:31:d6:fd:1d:2e:
+                    b0:b3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                65:A7:2A:9E:3F:2D:C9:6C:71:FA:05:AC:89:49:A1:DB:C2:B4:F3:DE
+    Signature Algorithm: sha256WithRSAEncryption
+         3a:4b:10:68:3f:ee:18:1f:ec:11:0b:bc:a6:e1:5e:50:68:2b:
+         88:d5:bf:ea:82:36:d6:86:42:c0:91:14:40:1f:16:2d:f9:3e:
+         c5:35:57:51:17:a2:9a:df:96:61:e6:65:b0:fe:8d:23:cc:73:
+         2e:4e:29:51:f6:70:70:39:9e:d3:8b:c2:e4:21:5e:58:c5:15:
+         74:c0:b0:c2:10:d7:6d:96:a8:7f:92:dd:18:15:47:8e:41:e4:
+         89:46:9c:ed:2f:36:a7:bd:18:12:13:35:79:63:93:2e:a0:a2:
+         2c:72:db:56:cc:05:ef:5f:a4:bc:85:9b:07:52:38:5f:25:55:
+         41:a4:62:7e:a2:e8:c0:65:b4:0f:c8:95:92:b0:9c:7e:34:6f:
+         be:98:c9:51:35:85:72:0f:87:3a:b0:b4:81:91:d8:b2:95:60:
+         44:bf:92:c5:30:09:92:43:a6:61:6e:58:c4:9f:05:30:49:41:
+         2c:af:0c:35:4b:89:d9:88:14:e6:f5:dd:75:0c:33:bd:a4:61:
+         34:b2:c0:6f:75:ef:80:71:12:ce:aa:c4:94:4c:b6:3e:f2:cd:
+         01:e8:c4:4d:7f:f2:a3:82:e3:43:15:db:a7:ad:3d:9e:da:a0:
+         29:8c:88:95:ad:02:08:24:d1:1a:8c:29:a8:01:3e:b1:0b:da:
+         62:22:92:26
+-----BEGIN CERTIFICATE-----
+MIICzzCCAbegAwIBAgIESFS7AjANBgkqhkiG9w0BAQsFADAXMRUwEwYDVQQDEwxB
+bGV4IEtvcm9ib3YwIBcNMTYwMTA1MDgxMzM2WhgPMjUxNTA5MDYwODEzMzZaMBcx
+FTATBgNVBAMTDEFsZXggS29yb2JvdjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAJoiLjtsXsyyJPln7I1YzbBBAFzkW6okgcBy66SZtnlhMKTcGkrKlxiQ
+NNAhYrxoCfuExhxFmVB1/mgc+6v4kGsT/bRLO0zTwKcl/hdtIJ0YxVm5UTGvGhsr
+OQs0slRzqO+14XHV6NZMBF8jjb42QJvx2Btqw3dEHFG91r2XL7tbx2ZfFkfTcqLM
+Yno7+hXFFtJ2M7NyXEm31AQAN7+gkkxiIoBKnH2QP/Zvxr2PlpBpBG9Q7Kibcfyi
+DXX32JECj4guJeQEH1aP5WXt9io8/yR9NljgxOeoc1otWDkatcuEAkDIuuMbI5gI
+k9Ff8NLj3mxzFToxX4CHBjHW/R0usLMCAwEAAaMhMB8wHQYDVR0OBBYEFGWnKp4/
+LclscfoFrIlJodvCtPPeMA0GCSqGSIb3DQEBCwUAA4IBAQA6SxBoP+4YH+wRC7ym
+4V5QaCuI1b/qgjbWhkLAkRRAHxYt+T7FNVdRF6Ka35Zh5mWw/o0jzHMuTilR9nBw
+OZ7Ti8LkIV5YxRV0wLDCENdtlqh/kt0YFUeOQeSJRpztLzanvRgSEzV5Y5MuoKIs
+cttWzAXvX6S8hZsHUjhfJVVBpGJ+oujAZbQPyJWSsJx+NG++mMlRNYVyD4c6sLSB
+kdiylWBEv5LFMAmSQ6ZhbljEnwUwSUEsrww1S4nZiBTm9d11DDO9pGE0ssBvde+A
+cRLOqsSUTLY+8s0B6MRNf/KjguNDFdunrT2e2qApjIiVrQIIJNEajCmoAT6xC9pi
+IpIm
+-----END CERTIFICATE-----
+

@@ -1,0 +1,72 @@
+{
+  "name": "com.fertilityfocus.ovusense2",
+  "fileSize": "11.7 MB",
+  "VTmd5": "390ffcb43c1af73fabc80e3a6e4859c4",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/3749f33c1eb650fc6d4bbc1c60537083e24c08c273346c51291bacc63815d0a4/detection/f-3749f33c1eb650fc6d4bbc1c60537083e24c08c273346c51291bacc63815d0a4-1594913297",
+  "VTresource": "3749f33c1eb650fc6d4bbc1c60537083e24c08c273346c51291bacc63815d0a4",
+  "VTresponsecode": 1,
+  "VTscanID": "3749f33c1eb650fc6d4bbc1c60537083e24c08c273346c51291bacc63815d0a4-1594913297",
+  "VTsha1": "4e3334f6a12c79d83b0ff33f9b99f8895307e379",
+  "VTsha256": "3749f33c1eb650fc6d4bbc1c60537083e24c08c273346c51291bacc63815d0a4",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.NFC Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "8 June 2020",
+    "Size": "12M",
+    "Installs": "10000",
+    "Current Version": "2.1.6.0",
+    "Requires Android": "4.1 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fertility Focus Ltd",
+    "Developer": "Visit website support@ovusense.com Privacy Policy"
+  },
+  "rating": "3.9",
+  "description": "TAKE BACK CONTROL OF YOUR FERTILITY: OvuSense\u2122 is an extremely accurate cycle monitoring system, unlike any other fertility tracker on the market. OvuSense can predict ovulation up to a day in advance, in real time, and detects the exact date of ovulation with clinically proven 99% accuracy.    OVUSENSE - THE MOST ACCURATE CYCLE MONITORING SYSTEM YOU CAN BUY:  * Clinically proven in over 6,000 cycles of use: Clinical studies show that ovulation predictor kits (OPKs), and fertility tracker Apps can produce an incorrect result in at least one in every five cycles1, leaving you confused about when to try to get pregnant.  * Real time 24 hour advance ovulation prediction: Unlike any product, OvuSense provides a day's advance notice of when you are going to ovulate in real time along with your 4 day ovulation window \u2013 with clinically proven 96% correct results. [2] * 8 day fertile window: In addition, at the start of each cycle OvuSense provides a full 8 day fertile window - these features help you take back control of your planning for pregnancy. [2] * 99% accurate patented technology: Protected by nine patents, OvuSense monitors your 'core temperature' while you sleep, giving a true indication of your Progesterone levels each cycle enabling the detection of the exact date of ovulation with 99% accuracy proven in clinical trials. [2]  * Fully certified: OvuSense is a fully regulated medical device and complies with all the necessary certifications for the countries in which it is available \u2013 MDD CE mark in Europe, FDA 510(k) in USA, CMDCAS in Canada, TGA in Australia.   [1]: Arici A (1992). 48th AFS; ASRM (2012) Fertil Steril 98; Baird D (1995). Epidemiology 6; Irons DW (1994) Hum Rep 9; Kousta E (1999) Hum Rep 14; Lloyd R (1989) Am J Obstet Gynecol, 60; McGovern PG (2004) Fertil Steril 82; Rollason JCB (2014) IJWH 6; Robinson S (1992) Br J Obstet Gynaecol 99; Setton R (2016) Obstet Gynecol 2016 Jun 6; Vlaisavljevi\u0107 V (2007) Obstetrics and Gynecology. 1(20); Wise LA (2015) Fertil Steril Vol 104 [2]: Coyne MD (2000) Am J Physiol Regul Integr Comp Physiol 279; Papaioannou S (2013) ASRM 69th An. Conf; Papaioannou S (2013) J Obstet Gynaecol 33; Papaioannou S (2012) ASRM 68th An. Conf; Papaioannou S (2012) ESHRE 28th An. Conf; Papaioannou S, Delkos D, Pardey J (2014) ESHRE 30th An. Conf. THE OVUSENSE SYSTEM: * OvuSense has two parts: a vaginal Sensor and an App. * You will require an OvuSense Sensor to measure your cycles.  * The App charts and messages provide all the information you need to help you identify when you ovulate, giving you the best chances of conceiving. * You can use the OvuSense App to share data with your doctor and family members. TRUSTED, ACCURATE, AFFORDABLE Read testimonials here https://www.ovusense.com/us/what-customers-say",
+  "privacyText": "https://www.ovusense.com/us/privacy-and-cookies/",
+  "numInstalls": 10000,
+  "developer": "Fertility Focus Ltd",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.ovusense.com/",
+    "Developer Email": "support@ovusense.com",
+    "Privacy Policy": "https://www.ovusense.com/us/privacy-and-cookies/"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

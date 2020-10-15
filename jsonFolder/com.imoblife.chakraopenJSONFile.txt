@@ -1,0 +1,77 @@
+{
+  "name": "com.imoblife.chakraopen",
+  "fileSize": "55.4 MB",
+  "VTmd5": "12bd7280d856d75d92d8e949d3e2fd60",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/2371019236e7b1026c0fa3a34fdec36c90040b9a6faba33a83e5d8053cba8fec/detection/f-2371019236e7b1026c0fa3a34fdec36c90040b9a6faba33a83e5d8053cba8fec-1568971244",
+  "VTresource": "2371019236e7b1026c0fa3a34fdec36c90040b9a6faba33a83e5d8053cba8fec",
+  "VTresponsecode": 1,
+  "VTscanID": "2371019236e7b1026c0fa3a34fdec36c90040b9a6faba33a83e5d8053cba8fec-1568971244",
+  "VTsha1": "d8bf97b8a0ff56182637bae643bca61de4a769d8",
+  "VTsha256": "2371019236e7b1026c0fa3a34fdec36c90040b9a6faba33a83e5d8053cba8fec",
+  "VTtotal": 60,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.imoblife.chakraopen.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.imoblife.chakraopen.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.imoblife.chakraopen.PlayerService  permission: ",
+      "name: com.imoblife.chakraopen.update.UpdateService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "4 December 2017",
+    "Size": "55M",
+    "Installs": "100000",
+    "Current Version": "1.5",
+    "Requires Android": "4.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "The Unexplainable Store\u00ae",
+    "Developer": "Visit website feedback@imoblife.net Privacy Policy 14739 Kitlanselt Way, Orlando, FL 32828"
+  },
+  "rating": "4.2",
+  "description": "Top quality Binaural Beats combined with relaxing ambient music.  As world-renowned brainwave specialist, The Unexplainable Store\u00ae has been providing brainwave entrainment since the year 2000. All the brainwaves are meticulously created with the latest brainwave entrainment technology.  1.Covers Each and Every Chakra (Root Chakra, Sacral Chakra, Solar Plexus Chakra, Heart Chakra, Throat Chakra, Brow Chakra, Crown Chakra) 2.No Extensive Practice Required 3.Immediate Results Guaranteed Chakra Stimulation is an ancient art used by Practitioners of Yoga and Meditation experts to heighten spiritual awareness.  Spiritual energy is the core of every ability you possess, and Chakras are the factories of this spiritual energy.  In several ways, the Chakras are the most important thing to develop. The human nervous system is a network connecting the sensory organs to the brain.  The Chakras, or energy centers, act as a \"\"pump\"\" which direct spiritual energy through this system.  For example, Earth energy is drawn up through your Root Chakra and passed to the Sacral Chakra which is then passed to the Solar Plexus, then the heart, then throat, brow, and finally the crown.  Once energy reaches beyond the crown, experiences and sensations move to realms beyond explanation.  The Chakra system is considered by many to be the most important system to work on.  It is a base on which most other development is built. The Chakra Stimulating system stimulates each of the seven Chakras with different frequency ranges and predetermined base frequencies.  It has been reported to be extremely effective by users worldwide!  The minds of yogis undergoing deep spiritual progression have been studied for years, and now by integrating our system into what we know of their brain patterns, we are able to give you the tools to reproduce their experiences! *** BENEFITS: - Total relaxation of the entire body from head to toe - Feeling of sedation - Enhance cognitive ability - Increase ability to meditate deeply - Explore spiritual side of life And a lot more is waiting for you to explore.  To Contact Us: feedback@imoblife.net *** NOTE Every person's brain works differently, but on the same basic principles. Some minds are more open to suggestion, while others refuse to let go. As each recording is specifically designed for a certain purpose, effects on individuals differ. Just be aware that your mind wants what you want. It takes some time to really feel effects, so don\u2019t give up if you fail to reach where you would like to be after the first try. Also, headphone is highly recommended.",
+  "privacyText": "http://www.imoblife.net/PrivacyPolicy/index.html",
+  "numInstalls": 100000,
+  "developer": "The Unexplainable Store\u00ae",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://www.unexplainablestore.com",
+    "Developer Email": "feedback@imoblife.net",
+    "Privacy Policy": "http://www.imoblife.net/PrivacyPolicy/index.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Google Ads",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

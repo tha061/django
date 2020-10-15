@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1293561262 (0x4d1a2dae)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=NY, L=New York, O=WebMD, LLC, OU=WebMD Mobile, CN=Mobile Developer
+        Validity
+            Not Before: Dec 28 18:34:22 2010 GMT
+            Not After : May 15 18:34:22 2038 GMT
+        Subject: C=US, ST=NY, L=New York, O=WebMD, LLC, OU=WebMD Mobile, CN=Mobile Developer
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:84:be:4e:fe:9f:77:32:8c:a8:91:6b:e6:0e:3c:
+                    3a:6f:9c:2c:94:6b:89:f0:d0:00:a4:e3:f0:8c:d1:
+                    1c:b3:bf:ab:83:f0:30:45:ba:8f:76:8e:ce:5f:c1:
+                    c7:e2:e1:fb:ad:c1:be:94:dc:06:95:05:a3:89:39:
+                    0c:66:5f:19:ec:ac:88:b4:ed:5d:3f:6f:ef:ef:d5:
+                    d1:8c:ec:ec:b6:26:22:d6:bf:10:fb:e3:5b:fd:2e:
+                    77:24:6d:af:af:31:8b:a9:93:46:69:db:00:d3:b7:
+                    fd:69:97:33:84:2c:e8:e1:e2:a4:8a:a7:03:6f:fc:
+                    04:12:fd:ef:35:a5:90:4e:bc:1f:61:71:cc:21:49:
+                    2d:3b:a1:e9:74:8e:9b:8d:56:8d:35:fc:d7:f3:a7:
+                    ad:db:11:17:2c:3a:59:60:6c:65:a7:5a:fc:05:29:
+                    41:db:c2:ad:57:c1:72:a1:fa:aa:63:e8:5d:cc:6f:
+                    cf:a7:0d:ff:1b:5a:65:aa:44:6d:02:a2:41:10:cd:
+                    8a:79:d6:22:a8:b1:4e:66:2e:da:60:92:c1:87:03:
+                    47:c5:b7:16:0b:4b:46:00:f6:31:b8:84:c0:63:35:
+                    55:7d:f4:0c:16:88:3d:12:b6:29:40:c8:92:34:8d:
+                    65:16:23:b0:c0:8d:d4:7e:05:07:3d:71:9b:99:87:
+                    3f:ed
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         28:17:6d:46:e5:81:cc:40:09:cb:d2:f7:ff:4a:4a:ab:f9:59:
+         8c:09:bf:22:82:ca:c4:66:dd:c0:70:43:7e:77:d4:16:19:b8:
+         f0:55:13:ba:18:f2:fc:d1:91:44:c4:46:5d:c6:55:25:c2:75:
+         b1:72:7b:26:3d:3d:57:8a:35:02:35:ff:40:19:7e:c3:78:cb:
+         d4:cc:8f:ec:de:d7:d6:77:d9:36:ca:7b:e3:d5:ec:6f:c0:65:
+         bd:e8:b9:ab:06:7b:e3:06:ec:ec:9e:af:0f:61:9e:3b:d2:17:
+         dc:be:ce:61:89:9a:c9:15:65:e1:9c:73:db:8c:2f:2f:2f:59:
+         84:31:0f:90:e8:42:7e:f5:4b:ba:4d:d9:00:30:44:f4:70:28:
+         bc:62:2e:08:96:af:e9:89:19:80:c5:4a:d9:2f:70:a1:65:cf:
+         7c:d5:d1:66:bd:83:ed:cc:b8:e1:d4:ba:01:a6:af:c9:5c:04:
+         0f:4a:4b:b8:b8:e4:b7:cd:85:c7:45:c0:4b:11:aa:91:d3:23:
+         63:64:bd:cf:0a:80:a5:48:b9:4a:e8:d3:58:f8:8e:15:af:e0:
+         e4:d6:6f:ed:e7:d2:b0:73:34:08:30:94:9d:4c:d2:ab:22:27:
+         b9:d9:0c:57:34:52:f1:91:37:95:1d:82:4f:1e:99:be:e9:fb:
+         78:bd:12:80
+-----BEGIN CERTIFICATE-----
+MIIDZDCCAkygAwIBAgIETRotrjANBgkqhkiG9w0BAQUFADB0MQswCQYDVQQGEwJV
+UzELMAkGA1UECBMCTlkxETAPBgNVBAcTCE5ldyBZb3JrMRMwEQYDVQQKEwpXZWJN
+RCwgTExDMRUwEwYDVQQLEwxXZWJNRCBNb2JpbGUxGTAXBgNVBAMTEE1vYmlsZSBE
+ZXZlbG9wZXIwHhcNMTAxMjI4MTgzNDIyWhcNMzgwNTE1MTgzNDIyWjB0MQswCQYD
+VQQGEwJVUzELMAkGA1UECBMCTlkxETAPBgNVBAcTCE5ldyBZb3JrMRMwEQYDVQQK
+EwpXZWJNRCwgTExDMRUwEwYDVQQLEwxXZWJNRCBNb2JpbGUxGTAXBgNVBAMTEE1v
+YmlsZSBEZXZlbG9wZXIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCE
+vk7+n3cyjKiRa+YOPDpvnCyUa4nw0ACk4/CM0Ryzv6uD8DBFuo92js5fwcfi4fut
+wb6U3AaVBaOJOQxmXxnsrIi07V0/b+/v1dGM7Oy2JiLWvxD741v9Lnckba+vMYup
+k0Zp2wDTt/1plzOELOjh4qSKpwNv/AQS/e81pZBOvB9hccwhSS07oel0jpuNVo01
+/Nfzp63bERcsOllgbGWnWvwFKUHbwq1XwXKh+qpj6F3Mb8+nDf8bWmWqRG0CokEQ
+zYp51iKosU5mLtpgksGHA0fFtxYLS0YA9jG4hMBjNVV99AwWiD0StilAyJI0jWUW
+I7DAjdR+BQc9cZuZhz/tAgMBAAEwDQYJKoZIhvcNAQEFBQADggEBACgXbUblgcxA
+CcvS9/9KSqv5WYwJvyKCysRm3cBwQ3531BYZuPBVE7oY8vzRkUTERl3GVSXCdbFy
+eyY9PVeKNQI1/0AZfsN4y9TMj+ze19Z32TbKe+PV7G/AZb3ouasGe+MG7Oyerw9h
+njvSF9y+zmGJmskVZeGcc9uMLy8vWYQxD5DoQn71S7pN2QAwRPRwKLxiLgiWr+mJ
+GYDFStkvcKFlz3zV0Wa9g+3MuOHUugGmr8lcBA9KS7i45LfNhcdFwEsRqpHTI2Nk
+vc8KgKVIuUro01j4jhWv4OTWb+3n0rBzNAgwlJ1M0qsiJ7nZDFc0UvGRN5Udgk8e
+mb7p+3i9EoA=
+-----END CERTIFICATE-----
+

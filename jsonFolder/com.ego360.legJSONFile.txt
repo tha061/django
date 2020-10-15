@@ -1,0 +1,80 @@
+{
+  "name": "com.ego360.leg",
+  "fileSize": "44.1 MB",
+  "VTmd5": "28b13a8bd7b142e8eb6d5bd24a1ba0a1",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/85d1bdc5d5cf08f98339d438a5f41713e5cf5db99addddb8e59c4608fe2bba3a/detection/f-85d1bdc5d5cf08f98339d438a5f41713e5cf5db99addddb8e59c4608fe2bba3a-1573528018",
+  "VTresource": "85d1bdc5d5cf08f98339d438a5f41713e5cf5db99addddb8e59c4608fe2bba3a",
+  "VTresponsecode": 1,
+  "VTscanID": "85d1bdc5d5cf08f98339d438a5f41713e5cf5db99addddb8e59c4608fe2bba3a-1573528018",
+  "VTsha1": "728445b79cb59abdaf011ef033d1064af2ccfb6a",
+  "VTsha256": "85d1bdc5d5cf08f98339d438a5f41713e5cf5db99addddb8e59c4608fe2bba3a",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.ego360.leg.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.ego360.leg.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.ego360.leg.GcmIntentService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "12 April 2017",
+    "Size": "44M",
+    "Installs": "500000",
+    "Current Version": "1.1.34",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$5.28 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Lumowell - Ego360",
+    "Developer": "Visit website service.ego360@gmail.com Privacy Policy Via Cimarosa, 65 - 80127 Napoli"
+  },
+  "rating": "4.8",
+  "description": "Leg trainer to tone thigh and burn fat, daily bodyweight exercises to have thin thighs at home that can be done without equipment, wherever you want. A virtual personal trainer will guide you in the workouts by showing you how to perform the leg exercises correctly.  To get toned and slim legs you need to train consistently,  the virtual coach will help you to be constant and will make your leg workouts effective and fun .  To get perfect legs, in addition to training, you need to follow a healthy meal plan to burn fat and speed up your metabolism. In the advanced version, you'll find a meal generator to create an eating plans to burn fat. Train harder your legs, test your limits and your progress with the 30 day Squat Challenge. The workout will allow you to gradually increase effort, avoiding stalling phases. At the end of the program your legs will be slimmer and toned.  In summary, this app provides: - A 3-level program that will guide you along the way by indicating the weekly frequency and the time required to move on to the next level.  - Detailed explanation of the exercises with videos and descriptions to avoid mistakes.  - Alternative lower intensity exercises for those who want a slower approach.  - A meal and diet planner to burn fat.  - The Squat Challenge for an even more intense training.  - Cool-down stretching exercises for legs.  - Motivational quotes to achieve your goals. Leg workout application made \u200b\u200bby Ego360 for the LumoFit / LumoWell project. Follow us: - YouTube channel: http://goo.gl/jl3wc1 - Website: http://www.lumowell.com/ - Facebook: http://goo.gl/RytPDg - Google+: http://goo.gl/3Q8Tru",
+  "privacyText": "http://www.lumowell.com/privacy.php",
+  "numInstalls": 500000,
+  "developer": "Lumowell - Ego360",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.lumowell.com/",
+    "Developer Email": "service.ego360@gmail.com",
+    "Privacy Policy": "http://www.lumowell.com/privacy.php"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Google Analytics",
+    "YOC"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

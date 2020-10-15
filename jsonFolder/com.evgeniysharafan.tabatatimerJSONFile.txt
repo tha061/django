@@ -1,0 +1,83 @@
+{
+  "name": "com.evgeniysharafan.tabatatimer",
+  "fileSize": "12.2 MB",
+  "VTmd5": "41827c53a80637da395bfb3cc0f64956",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/0c8cfd63fb29507699d4a8d4470a121e44f6da3630d65c0c825ab287d5e89a27/detection/f-0c8cfd63fb29507699d4a8d4470a121e44f6da3630d65c0c825ab287d5e89a27-1591131379",
+  "VTresource": "0c8cfd63fb29507699d4a8d4470a121e44f6da3630d65c0c825ab287d5e89a27",
+  "VTresponsecode": 1,
+  "VTscanID": "0c8cfd63fb29507699d4a8d4470a121e44f6da3630d65c0c825ab287d5e89a27-1591131379",
+  "VTsha1": "434edd27de1ad8c02a7ea7155eb425c51cbec746",
+  "VTsha256": "0c8cfd63fb29507699d4a8d4470a121e44f6da3630d65c0c825ab287d5e89a27",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.android.launcher.permission.INSTALL_SHORTCUT Protection Level: normal",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.evgeniysharafan.tabatatimer.ui.service.BackgroundService  permission: ",
+      "name: com.evgeniysharafan.tabatatimer.ui.service.DoNothingIntentService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "25 August 2020",
+    "Size": "13M",
+    "Installs": "1000000",
+    "Current Version": "5.2.2",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u2013 $7.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Eugene Sharafan",
+    "Developer": "Visit website evgeniysharafan.apps@gmail.com Privacy Policy 18 Tankopiya St., Apt. 32, Kharkiv 61100, Ukraine"
+  },
+  "rating": "4.9",
+  "description": "Beginners will find a simple interface to start a workout in one click. Advanced users many options and the ability to fine-tune their workouts to fit their needs. Tabata Timer: Interval Timer Workout Timer for HIIT is a free interval workout timer app for high intensity interval training (HIIT timer). It is more than a stopwatch or countdown clock. Are you looking for a good sports interval timer app? If so, you're in the right place! \ud83d\ude09 This Tabata Timer: Interval Timer Workout Timer for HIIT offers: \ud83d\udd50  Very intuitive interface . After installing this HIIT timer,  you only need to press one button to start a tabata workout  with classic settings. \ud83d\udd51  Huge digits! \ud83d\udd52  Bright customizable colors. \ud83d\udd53  You can add descriptions to intervals and sets  that will be displayed on the timer screen and will be voiced. \ud83d\udd54  Add images  (including animated ones). \ud83d\udd55  Intervals can be configured individually . With this interval training timer you can create any interval workout with any sequence of intervals. \ud83d\udd56  Create sequences of workouts  so that they run one after another. \ud83d\udd57  Works in the background  and shows the current progress in a  notification  when your screen is locked or you're using another app (music player, workouts app, etc). \ud83d\udd58  Sound and vibration. Over 50 sounds available! You can set sounds for each interval type, for halfway, last seconds, time left, every N seconds, etc. \ud83d\udd59  Add your own sounds . \ud83d\udd5a  Voice assistant with text-to-speech. \ud83d\udd5b  Music. \ud83d\udd50 Ability to  lower the volume in your music player  while playing the timer sounds ( ducking ). \ud83d\udd51  Metronome (1\u2013300 beats per minute) . \ud83d\udd52 Any interval can be started in  repetitions mode with tempo . \ud83d\udd53 Ability to  back up your workouts and settings . \ud83d\udd54 You can  share your workouts with friends . \ud83d\udd55 Ability to  filter your workouts  by type, favorites, color, text, collapse/expand them. \ud83d\udd56 You can  add notes  to your workouts. \ud83d\udd57 Two time formats:  seconds  or  hours, minutes, and seconds . \ud83d\udd58  Shortcuts  for your workouts to  start them in one click from the launcher . \ud83d\udd59 You can  choose the buttons that are shown on the timer screen .  25 options  are available. \ud83d\udd5a Works with  wearable devices  ( Wear OS  and some others). \ud83d\udd5b Integration with  Google Fit . Use this gym timer for training with weights, kettlebells, bodyweight exercises, crossfit, 7 minute workout, WOD, TRX, cardio exercises, stretching, spinning, calisthenics, tabata, boot camp circuit workout training, or any other high intensity interval training. This fitness timer will be useful for sprints, push-ups, jumping jacks, sit-ups, cycling, running, boxing, plank, weightlifting, martial arts, and other fitness activities. Whether it\u2019s a timer for HIIT workouts at home, circuit training in the gym or home workouts, this exercise timer is for you. You can even use this circuit timer as a  productivity timer  to focus on your work tasks. Unlike specialized timers for time management, this HIIT interval timer doesn't limit you in any way and doesn't impose any productivity system. Numerous studies have shown that  HIIT workouts burn more fat  than regular training because they  speed up metabolism  within 24 hours after exercise.  Production of growth hormone  that affects the intensity of fat burning,  increased up to 450% . HIIT  accelerates metabolism ,  increases aerobic endurance ,  increases the level of tissue oxygen consumption . Tabata training has a positive effect on glucose metabolism gradually reducing adipose tissue sensitivity to insulin.",
+  "privacyText": "https://docs.google.com/document/d/1QawVD1GQOZTVkjZU-cMw4sO1HjNMzWv1OzyjJt4uDq8/edit",
+  "numInstalls": 1000000,
+  "developer": "Eugene Sharafan",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://tabatatimer-1262.web.app",
+    "Developer Email": "evgeniysharafan.apps@gmail.com",
+    "Privacy Policy": "https://docs.google.com/document/d/1QawVD1GQOZTVkjZU-cMw4sO1HjNMzWv1OzyjJt4uDq8/edit"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

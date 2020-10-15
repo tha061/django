@@ -1,0 +1,89 @@
+{
+  "name": "com.geonaute.onconnect",
+  "fileSize": "47.3 MB",
+  "VTmd5": "b12687a628edbede67daf90bbb0d4d06",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/4b55e1a9b9b70c9ea36868301e249f3119f3724d2b46d7cbc8d848d17fc90bf2/detection/f-4b55e1a9b9b70c9ea36868301e249f3119f3724d2b46d7cbc8d848d17fc90bf2-1572690660",
+  "VTresource": "4b55e1a9b9b70c9ea36868301e249f3119f3724d2b46d7cbc8d848d17fc90bf2",
+  "VTresponsecode": 1,
+  "VTscanID": "4b55e1a9b9b70c9ea36868301e249f3119f3724d2b46d7cbc8d848d17fc90bf2-1572690660",
+  "VTsha1": "2270ad27e5ea220ffb77f05b98afe089f1090ffc",
+  "VTsha256": "4b55e1a9b9b70c9ea36868301e249f3119f3724d2b46d7cbc8d848d17fc90bf2",
+  "VTtotal": 54,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.BLUETOOTH Protection Level: normal",
+    "android.permission.BLUETOOTH_ADMIN Protection Level: normal",
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.ACCESS_FINE_LOCATION Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.geonaute.onconnect.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.geonaute.onconnect.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.geonaute.onconnect.service.ONXmlSpringAndroidSpiceService  permission: ",
+      "name: com.geonaute.onconnect.api.connectivity.ble.BluetoothLeService  permission: ",
+      "name: com.geonaute.onconnect.service.PairingOnScaleService  permission: ",
+      "name: com.geonaute.onconnect.service.PostMeasuresToLinkDataService  permission: ",
+      "name: com.geonaute.onconnect.service.SynchronizeOnScaleService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsService  permission: ",
+      "name: com.google.android.gms.analytics.AnalyticsJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "31 October 2019",
+    "Size": "47M",
+    "Installs": "100000",
+    "Current Version": "3.6.7.3",
+    "Requires Android": "4.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Decathlon",
+    "Developer": "support@geonaute.com Privacy Policy Decathlon SA\n4 boulevard de Mons\n59650 Villeneuve d'Ascq"
+  },
+  "rating": "1.8",
+  "description": "The myGeonaute connect application allows you to pair with and view GPS ONmove 200, ONmove 220 and ONmove 500 watch data in addition to the connected Scale 700 scales.  NOTE: For GPS Watches, our new DECATHLON CONNECT application replaces this one (also available on the Play Store).    If you have a connection or synchronization problem with your scale, follow these instructions: 1- Check the battery of your scale. Replace if necessary. 2- RESET the scale by following the video: https://www.youtube.com/watch?v=xnjr3Mgxm8k 3- For good use, place the scale on \"hard\" and perfectly flat ground. 4- Charge your phone to more than 50% (below 50%, the phone may deactivate some necessary features). 5- Check that the phone has all the latest updates (Application, OS, System, etc.). 6- \"Forget\" the scale from the bluetooth settings and deactivate bluetooth on the phone. 7- Uninstall the My geonaute Connect application from your phone (in order to empty the cache memory). 8- Switch off then switch on the phone again. 9- Activate bluetooth on the phone. 10- Check that the phone is properly connected to an internet network (4G or WIFI). 11- Install the My Geonaute Connect application. 12- Launch the application, log into your account and add the scale as a new product (following the steps on the screen). 13- Check that the location and storage settings on the phone are activated for the application. 14- If possible depending on the phone model, prevent the application from going into standby mode (see authorizations). Also deactivate the energy saving function for the app. if after these checks, the problem remains, contact our support team here: https://support.decathlon.co.uk/ Features:  - Wireless transfer: synchronise your weight with your smartphone using Bluetooth Smart  - Monitor the long-term development of body parameters: Save measurements and view the long-term development of body parameters, weekly, monthly and annually. Understand your body at a glance with the body composition pie chart.  - Complete view of daily energy requirements: Your Scale 700 automatically calculates your basal metabolic rate (energy requirements when resting) and adds this to the calories used during the day's physical activity. It is also possible to completely view your daily calorie expenditure.  - Calculation of Body Mass Index (BMI)",
+  "privacyText": "https://d2xieom5wxz8kh.cloudfront.net/CGU/CGUmyGeonauteconnect+v1_ENG.pdf",
+  "numInstalls": 100000,
+  "developer": "Decathlon",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://d2xieom5wxz8kh.cloudfront.net/CGU/CGUmyGeonauteconnect+v1_ENG.pdf",
+    "Developer Email": "support@geonaute.com",
+    "Privacy Policy": "https://d2xieom5wxz8kh.cloudfront.net/CGU/CGUmyGeonauteconnect+v1_ENG.pdf"
+  },
+  "smali_Directories": [
+    "Crashlytics",
+    "Google Ads",
+    "Google Analytics",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

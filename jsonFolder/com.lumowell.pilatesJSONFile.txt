@@ -1,0 +1,80 @@
+{
+  "name": "com.lumowell.pilates",
+  "fileSize": "69.8 MB",
+  "VTmd5": "5b2460706728e8f3b4fffca7e70806e3",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/0b29e4ad6baf1eca099b3bc78c235905e6e47e2d5f6aa7896d35aae3111848a6/detection/f-0b29e4ad6baf1eca099b3bc78c235905e6e47e2d5f6aa7896d35aae3111848a6-1589873415",
+  "VTresource": "0b29e4ad6baf1eca099b3bc78c235905e6e47e2d5f6aa7896d35aae3111848a6",
+  "VTresponsecode": 1,
+  "VTscanID": "0b29e4ad6baf1eca099b3bc78c235905e6e47e2d5f6aa7896d35aae3111848a6-1589873415",
+  "VTsha1": "9116b80b731bd06a843897b4f11d3437b3df2f63",
+  "VTsha256": "0b29e4ad6baf1eca099b3bc78c235905e6e47e2d5f6aa7896d35aae3111848a6",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "com.android.vending.CHECK_LICENSE Protection Level: Developer Defined Permission",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.GET_ACCOUNTS Protection Level: dangerous",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.lumowell.pilates.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.lumowell.pilates.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.lumowell.pilates.GcmIntentService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "26 January 2017",
+    "Size": "70M",
+    "Installs": "100000",
+    "Current Version": "1.0.8",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Lumowell - Ego360",
+    "Developer": "Visit website service.ego360@gmail.com Privacy Policy Via Cimarosa, 65 - 80127 Napoli"
+  },
+  "rating": "4.7",
+  "description": "Pilates workouts to lose weight and tone your muscles at home without equipment. Best Pilates exercises for beginners or advanced, for women and for men to get a fit body fast. You can do the workouts everyday. Unlock the advanced training program and the diet planner to maximize the results.  Pilates - Lumowell - Ego360 (A024).",
+  "privacyText": "http://www.ego360.com/privacy.php",
+  "numInstalls": 100000,
+  "developer": "Lumowell - Ego360",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.lumowell.com/",
+    "Developer Email": "service.ego360@gmail.com",
+    "Privacy Policy": "http://www.ego360.com/privacy.php"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Google Ads",
+    "Google Analytics",
+    "YOC"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

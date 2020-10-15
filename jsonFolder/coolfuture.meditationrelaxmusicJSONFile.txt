@@ -1,0 +1,64 @@
+{
+  "name": "coolfuture.meditationrelaxmusic",
+  "fileSize": "51.0 MB",
+  "VTmd5": "573b3528118ffc48b5ba382be5d53ab5",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/05e697811552c4910f03539c161303c212db3118aea85d2e764e2bad8788742a/detection/f-05e697811552c4910f03539c161303c212db3118aea85d2e764e2bad8788742a-1573526897",
+  "VTresource": "05e697811552c4910f03539c161303c212db3118aea85d2e764e2bad8788742a",
+  "VTresponsecode": 1,
+  "VTscanID": "05e697811552c4910f03539c161303c212db3118aea85d2e764e2bad8788742a-1573526897",
+  "VTsha1": "865a98bb04d92b5ba5b966f57d5cd729a63d05e1",
+  "VTsha256": "05e697811552c4910f03539c161303c212db3118aea85d2e764e2bad8788742a",
+  "VTtotal": 55,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "9 May 2016",
+    "Size": "51M",
+    "Installs": "10000",
+    "Current Version": "Meditation relax music 1.1",
+    "Requires Android": "2.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Cool Future",
+    "Developer": "Visit website coolfutureapps@gmail.com Privacy Policy C/ Manuel Lasala 42, 1\u00c2\u00baA, 50.006 Zaragoza, Espa\u00c3\u00b1a"
+  },
+  "rating": "4.4",
+  "description": "Meditation relax music offers you 9 amazing relaxing music sessions to use them how: ambiance music, massage music, music to meditation\u00e2\u20ac\u00a6 Meditation relax music is your perfect relax aid and help to stop anxiety and daily stress, relieve headache, cure insomnia and how relax music spa. Discover the power of relax melodies, close your eyes and reach a peaceful state of mind. Improve your health and improve your mood easily, with this app we promise you that you will sleep better. This soft melodies will help your baby to sleep too, how if this music were his favorite lullaby. It\u00e2\u20ac\u2122s perfect to use with your daily yoga training and how music to meditate. \u00e2\u02dc\u2026\u00e2\u02dc\u2026\u00e2\u02dc\u2026 FEATURES \u00e2\u02dc\u2026\u00e2\u02dc\u2026\u00e2\u02dc\u2026 \u00e2\u0153\u201c9 amazing relax music sessions  \u00e2\u0153\u201c Relaxing MP3 music \u00e2\u0153\u201c Beautiful HD fullscreen photos \u00e2\u0153\u201c Play music in background very easily \u00e2\u0153\u201c Sleep timer to set exact minutes you want to stop music \u00e2\u0153\u201c 8 different languages \u00e2\u0153\u201cInstall to SD Card Our goal is your happiness\u00e2\u20ac\u00a6 we wish we can get a better life to you!",
+  "privacyText": "https://coolfutureapps.com/privacy-policy/",
+  "numInstalls": 10000,
+  "developer": "Cool Future",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://coolfutureapps.com/",
+    "Developer Email": "coolfutureapps@gmail.com",
+    "Privacy Policy": "https://coolfutureapps.com/privacy-policy/"
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

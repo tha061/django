@@ -1,0 +1,69 @@
+{
+  "name": "com.samantharoobol.yogachallenge",
+  "fileSize": "5.3 MB",
+  "VTmd5": "c203169a81873a12a2a321f3d29e5d8a",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/208266fef1726c1218143b406ccd72f81ee34c08a3479cb209605ef6262065d1/detection/f-208266fef1726c1218143b406ccd72f81ee34c08a3479cb209605ef6262065d1-1572766494",
+  "VTresource": "208266fef1726c1218143b406ccd72f81ee34c08a3479cb209605ef6262065d1",
+  "VTresponsecode": 1,
+  "VTscanID": "208266fef1726c1218143b406ccd72f81ee34c08a3479cb209605ef6262065d1-1572766494",
+  "VTsha1": "507510f43f43c4162f1def1a3d2fa9f603051ca7",
+  "VTsha256": "208266fef1726c1218143b406ccd72f81ee34c08a3479cb209605ef6262065d1",
+  "VTtotal": 60,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.MODIFY_AUDIO_SETTINGS Protection Level: normal",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.READ_PHONE_STATE Protection Level: dangerous",
+    "android.permission.VIBRATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "17 November 2018",
+    "Size": "5.3M",
+    "Installs": "50000",
+    "Current Version": "1.1",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.49 \u2013 $4.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Stay Fit With Samantha",
+    "Developer": "Visit website samantharoobol@gmail.com Privacy Policy Laurierhof 23, Papendrecht"
+  },
+  "rating": "3.5",
+  "description": "Let\u2019s burn a few pounds of those pesky pounds off with our yoga workout programs for weight loss!  Yoga is an incredible form of exercise that can be used for flexibility, strength, and yes, losing weight.  Tone Your Whole Body With Yoga, HIIT & More. Yoga's deceptively easy poses are a challenge to the body's muscles because they truly test their range of movement and degree of freedom. Working through various yoga asanas, this advanced yoga stream won\u2019t just enable you to acquire quality and stamina however it will likewise perfect for weight reduction, fat misfortune, and muscle definition. For most of us burning calories means long lasting and tiring cardio workouts, but did you know that yoga for fat loss can be efficient as well? There are several yoga exercises that not only help to relax, strengthen and tone your muscles but also support losing weight. And if these efficient moves are put together into a workout, we get a perfect routine that we can do at home. Yoga can truly be an incredible workout, and our fat burning yoga workout programs for beginners can really transform your body if you put your mind to it. The key is to focus your concentration on your body while you are holding and performing poses. Focus on how they make you feel, and how you can improve. Yoga has a profound effect on weight loss, and our workout programs will help burn off belly fat faster than ever! These yoga workouts for weight loss will also help with energy levels and flexibility, giving the body a renewed sense of purpose and the extra energy to burn more calories. Who is the workout program for? - Complete beginners - People looking to improve their flexibility - People looking to use yoga to lose weight 30 Days of Yoga? An all-levels series that will help you cultivate a daily practice. We created a superb 30-day challenge. We have workouts designed specifically for beginners. There aren\u2019t any advanced moves in the workout and going from one pose to the next is supposed to be a smooth transition so you can have a flow throughout the duration of the workout. Be prepared to feel a little burn. Yes, yoga works your muscles much more than you think it does. Our Yoga Challenges are your ultimate guide to getting on track with a daily practice. Yoga is wonderful for so many reasons. It's great for stretching, refocusing your mind, and unwinding after a long day. For some people, relaxing, low-key poses will do the trick. For others, higher intensity gets them feeling strong and centered.  We made different workout challenges where you do lunges, balances, core work, and more\u2014making this a total-body workout that's challenging, effective, and fun. Challenging, fast-paced power yoga workouts will definitely make you stronger, but they can also bolster your confidence and mental power off the mat. Try our intense power yoga workout challenges for a way to stretch, strengthen, and feel like a badass all at once!",
+  "privacyText": "http://fm.stefanroobol.com/privacy-policy/yogachallenge",
+  "numInstalls": 50000,
+  "developer": "Stay Fit With Samantha",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://samantha.steveloper.nl",
+    "Developer Email": "samantharoobol@gmail.com",
+    "Privacy Policy": "http://fm.stefanroobol.com/privacy-policy/yogachallenge"
+  },
+  "smali_Directories": [
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

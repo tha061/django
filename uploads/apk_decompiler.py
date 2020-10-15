@@ -7,7 +7,7 @@ import shutil
 import zipfile
 
 from subprocess import call, DEVNULL
-
+from .filepaths import *
 
 tools_path = "tools"
 dex2jar_path = tools_path + "/dex2jar/d2j-dex2jar.sh"

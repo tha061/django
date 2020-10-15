@@ -1,0 +1,93 @@
+{
+  "name": "com.bluecorner.totalgym",
+  "fileSize": "29.6 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.ACCESS_COARSE_LOCATION Protection Level: dangerous",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "android.permission.WRITE_CALENDAR Protection Level: dangerous",
+    "android.permission.READ_CALENDAR Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.bluecorner.totalgym.permission.C2D_MESSAGE Protection Level: Developer Defined Permission",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.bluecorner.totalgym.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.android.datatransport.runtime.backends.TransportBackendDiscovery  permission: ",
+      "name: com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService  permission: android.permission.BIND_JOB_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "28 July 2020",
+    "Size": "30M",
+    "Installs": "1000000",
+    "Current Version": "4.0.8",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$0.99 \u2013 $3.59 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Total Fitness Blue Corner",
+    "Developer": "Visit website totalfitness.bluecorner@gmail.com Privacy Policy C/Adela Bazo 10, Pamplona, Espa\u00f1a"
+  },
+  "rating": "4.5",
+  "description": "Total Fitness is a fitness guide for this sport\u00b4s fans. Total Fitness offers you a big amount of info that will help you to reach your goals. Total Fitness has many exercises and workouts for training at your gym or at home Total Fitness has the following sections: Gym Exercises Guide More than 100 different exercises to do at the gym with explanation of the exercise, info about involved muscles, images and an explanation video Gym & Home Workouts Different workouts that will help you to schedule your weekly work, as hard as you want or you can. You can train at the gym or at home Guided Workouts Different guided workouts that will allow you to practice fitness at home with this app\u00b4s help Challenges Try to beat yourself and reach some of the goals that Total Fitness proposes you, try to reach your best training with these workouts. My Progress Total Fitness helps you to monitorize your improvements with this section. Here, you will be able to control your BMI (body mass index), Fat %, and your strength. Workout Builder Create your own workouts! Nutrition Total Fitness will help you support your work in the gym with nutrition advice so that you know what, when and how to eat to achieve your goals. Utilities Total Fitness offers you the way to calculate your IMC, Fat %, and your Strength. This app is free, we only ask you for your positive rating so that more people knows the app and we can keep improving it We hope you like it!!",
+  "privacyText": "http://www.totalfitnessapp.com/about/privacy",
+  "numInstalls": 1000000,
+  "developer": "Total Fitness Blue Corner",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.totalfitnessapp.com",
+    "Developer Email": "totalfitness.bluecorner@gmail.com",
+    "Privacy Policy": "http://www.totalfitnessapp.com/about/privacy"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Mobfox",
+    "MobFox",
+    "Nuance",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

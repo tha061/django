@@ -1,0 +1,72 @@
+{
+  "name": "com.barsense.main",
+  "fileSize": "15.0 MB",
+  "VTmd5": "89a5463905e4f3ee25eb9e6308a95fcd",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/b4b64109d68c1c80e6e7b23a095de4030ce84b28a2a10390e8be34b075695336/detection/f-b4b64109d68c1c80e6e7b23a095de4030ce84b28a2a10390e8be34b075695336-1575634879",
+  "VTresource": "b4b64109d68c1c80e6e7b23a095de4030ce84b28a2a10390e8be34b075695336",
+  "VTresponsecode": 1,
+  "VTscanID": "b4b64109d68c1c80e6e7b23a095de4030ce84b28a2a10390e8be34b075695336-1575634879",
+  "VTsha1": "c55fc4bf750eb80aa197e5149157064a32bff33d",
+  "VTsha256": "b4b64109d68c1c80e6e7b23a095de4030ce84b28a2a10390e8be34b075695336",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.RECORD_AUDIO Protection Level: dangerous",
+    "android.permission.CAMERA Protection Level: dangerous",
+    "android.permission.WRITE_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.barsense.main.BarTraceService  permission: ",
+      "name: com.barsense.main.ExportService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "15 August 2018",
+    "Size": "15M",
+    "Installs": "100000",
+    "Current Version": "2.3",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Martin Drashkov",
+    "Developer": "Visit website info@barsense.com Privacy Policy 10 Dundas Street East, Suite 600\nToronto, On"
+  },
+  "rating": "2.4",
+  "description": "BarSense allows you quickly and easily analyze and track your barbell lifts. \u2713 See the bar path of your lift \u2713 See the bar velocity  \u2713 Focus on particular reps or parts of a rep \u2713 Export your videos Unlike other workout logs and fitness trackers which only allow you to track sets and reps, Bar Sense lets you track the quality of your excercise, rather than just the quantity. Using BarSense's path tracking, you can see: \u2713 How straight you kept your bar during a squat \u2713 Whether your squat was deep enough \u2713 If your bench press incline is too vertical or just right \u2713 Whether you used your arms during a clean or snatch. \u2713 if you catch the bar too low \u2713 How fast your did your lift and how much power you output Whether you're into bodybuilding, strength training, Olympic lifts or CrossFit, use BarSense to improve your technique, get feedback and progress faster in a safe and efficient manner. See our blog at http://blog.barsense.com on how to interpret the graphs, what to look for in different lifts and general weightlifting tips.",
+  "privacyText": "http://www.barsense.com/about/privacy",
+  "numInstalls": 100000,
+  "developer": "Martin Drashkov",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.barsense.com",
+    "Developer Email": "info@barsense.com",
+    "Privacy Policy": "http://www.barsense.com/about/privacy"
+  },
+  "smali_Directories": [
+    "Commonsware",
+    "Googlecode"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1292896025 (0x4d100719)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=48105, ST=MI, L=Ann Arbor, O=Saagara LLC, OU=Peddi, CN=Nagabhushanam
+        Validity
+            Not Before: Dec 21 01:47:05 2010 GMT
+            Not After : Dec 15 01:47:05 2035 GMT
+        Subject: C=48105, ST=MI, L=Ann Arbor, O=Saagara LLC, OU=Peddi, CN=Nagabhushanam
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a5:03:8f:e1:1f:99:01:6a:df:49:45:8f:d7:ca:
+                    66:73:ad:24:bb:7b:99:13:0e:a5:f1:da:0a:33:7c:
+                    37:d1:9b:b8:c0:d6:8a:f9:2f:72:5d:8d:cd:83:2a:
+                    58:33:a9:9d:8f:5a:66:69:03:68:90:e3:34:8a:83:
+                    64:4c:cf:23:a0:ac:27:61:07:74:ea:c8:2a:e9:f1:
+                    20:b8:9b:aa:20:14:97:e3:8a:d6:45:a3:b2:c9:52:
+                    45:04:75:6a:c7:8b:e2:3d:72:18:88:c0:30:7d:fc:
+                    5a:40:c3:6b:bd:eb:5b:4c:fc:df:af:58:d3:32:45:
+                    ad:5b:46:b1:6a:25:21:43:31
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         5f:15:fa:de:24:0c:af:51:c4:9d:ca:bd:20:f5:47:0b:3f:ea:
+         4e:b6:db:9e:be:32:ec:31:d3:d2:f9:33:47:15:55:ce:51:27:
+         bb:4a:ba:7c:b5:05:e3:f1:fd:4f:38:50:68:07:cc:ce:af:bc:
+         8e:af:d7:6e:34:0a:e6:16:52:a6:6d:ba:41:d7:bf:e4:3c:f3:
+         35:39:dd:c4:51:36:0c:5d:0e:b3:b2:d3:b2:3a:5f:0b:1b:65:
+         b0:3f:66:83:91:cc:e3:0a:aa:5a:39:f3:bd:ef:53:67:98:aa:
+         8e:0c:11:fa:5b:9a:97:90:60:74:89:c4:c7:a9:f5:51:29:31:
+         b3:88
+-----BEGIN CERTIFICATE-----
+MIICVTCCAb6gAwIBAgIETRAHGTANBgkqhkiG9w0BAQUFADBvMQ4wDAYDVQQGEwU0
+ODEwNTELMAkGA1UECBMCTUkxEjAQBgNVBAcTCUFubiBBcmJvcjEUMBIGA1UEChML
+U2FhZ2FyYSBMTEMxDjAMBgNVBAsTBVBlZGRpMRYwFAYDVQQDEw1OYWdhYmh1c2hh
+bmFtMB4XDTEwMTIyMTAxNDcwNVoXDTM1MTIxNTAxNDcwNVowbzEOMAwGA1UEBhMF
+NDgxMDUxCzAJBgNVBAgTAk1JMRIwEAYDVQQHEwlBbm4gQXJib3IxFDASBgNVBAoT
+C1NhYWdhcmEgTExDMQ4wDAYDVQQLEwVQZWRkaTEWMBQGA1UEAxMNTmFnYWJodXNo
+YW5hbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEApQOP4R+ZAWrfSUWP18pm
+c60ku3uZEw6l8doKM3w30Zu4wNaK+S9yXY3NgypYM6mdj1pmaQNokOM0ioNkTM8j
+oKwnYQd06sgq6fEguJuqIBSX44rWRaOyyVJFBHVqx4viPXIYiMAwffxaQMNrvetb
+TPzfr1jTMkWtW0axaiUhQzECAwEAATANBgkqhkiG9w0BAQUFAAOBgQBfFfreJAyv
+UcSdyr0g9UcLP+pOttuevjLsMdPS+TNHFVXOUSe7Srp8tQXj8f1POFBoB8zOr7yO
+r9duNArmFlKmbbpB17/kPPM1Od3EUTYMXQ6zstOyOl8LG2WwP2aDkczjCqpaOfO9
+71NnmKqODBH6W5qXkGB0icTHqfVRKTGziA==
+-----END CERTIFICATE-----
+

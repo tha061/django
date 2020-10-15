@@ -1,0 +1,80 @@
+{
+  "name": "com.fitifyapps.swissball",
+  "fileSize": "21.5 MB",
+  "VTmd5": "ad695e84168063885cde7befc2f4a561",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/00aaeff9077369f4d949420ee6504cf8fbd7127024d40adeb1002bc3300373c4/detection/f-00aaeff9077369f4d949420ee6504cf8fbd7127024d40adeb1002bc3300373c4-1602492791",
+  "VTresource": "00aaeff9077369f4d949420ee6504cf8fbd7127024d40adeb1002bc3300373c4",
+  "VTresponsecode": 1,
+  "VTscanID": "00aaeff9077369f4d949420ee6504cf8fbd7127024d40adeb1002bc3300373c4-1602492791",
+  "VTsha1": "86ce336b83fee6fedbb0c20fe0969e9ec345c5a6",
+  "VTsha256": "00aaeff9077369f4d949420ee6504cf8fbd7127024d40adeb1002bc3300373c4",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "9 April 2020",
+    "Size": "Varies with device",
+    "Installs": "100000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$2.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fitify Apps",
+    "Developer": "Visit website martinmazanec1@gmail.com Privacy Policy Podhurecka 558 Klatovy 33901 Czech Republic"
+  },
+  "rating": "4.6",
+  "description": "Get fit with Fitify \u2013 your very own personal trainer. Swiss Ball Workouts is an app, which teaches you how to use the big exercise ball (a.k.a. Gym, Swiss, Exercise, Fit, Stability or Pilates Ball).  It's a cool way to increase muscular strength and cardio condition as well. - no internet connection required - easy to use - clear HD video demonstrations - voice coach included - more than 50 exercises - select any time from 1 to 60 minutes - Full Body - Core Strength (Core muscles and Abs) - Back Strength - Upper Body - Lower Body (Legs and Glutes) - Stretch & Relief Check-out other Fitify apps with different fitness tools (such as Kettlebell, Resistance Band, TRX or Foam Roller).",
+  "privacyText": "https://fitifyapps.com/privacy-policy.html",
+  "numInstalls": 100000,
+  "developer": "Fitify Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://fitifyapps.com/",
+    "Developer Email": "martinmazanec1@gmail.com",
+    "Privacy Policy": "https://fitifyapps.com/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

@@ -1,0 +1,79 @@
+{
+  "name": "com.fitifyapps.resistance",
+  "fileSize": "14.8 MB",
+  "VTmd5": "93b78ef74875d04ed1c0a073a9aaa4a7",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/6cec73eb5e8cdf3995d99ca4d156521a436af66c52f8e8e1ce679e473ab7a90f/detection/f-6cec73eb5e8cdf3995d99ca4d156521a436af66c52f8e8e1ce679e473ab7a90f-1595098907",
+  "VTresource": "6cec73eb5e8cdf3995d99ca4d156521a436af66c52f8e8e1ce679e473ab7a90f",
+  "VTresponsecode": 1,
+  "VTscanID": "6cec73eb5e8cdf3995d99ca4d156521a436af66c52f8e8e1ce679e473ab7a90f-1595098907",
+  "VTsha1": "39157c657da9a493f4a1d9c8dc6fd96c5be01fb8",
+  "VTsha256": "6cec73eb5e8cdf3995d99ca4d156521a436af66c52f8e8e1ce679e473ab7a90f",
+  "VTtotal": 60,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.VIBRATE Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.auth.api.signin.RevocationBoundService  permission: com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: androidx.room.MultiInstanceInvalidationService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "12 March 2020",
+    "Size": "15M",
+    "Installs": "100000",
+    "Current Version": "1.6.2",
+    "Requires Android": "4.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Fitify Apps",
+    "Developer": "Visit website support@fitifyapps.com Privacy Policy Podhurecka 558 Klatovy 33901 Czech Republic"
+  },
+  "rating": "4.2",
+  "description": "Resistance Band Workouts by Fitify is a video coaching app, which gives you full workout sessions with Resistance Band (a.k.a Therapy Band).  Increase muscular strength, posture and balance as well.  Features \u2022 over 30 exercises \u2022 4 unique workout programs \u2022 voice coach \u2022 clear HD video demonstrations \u2022 works offline Custom Workouts Create your own workouts from our exercise library. Adaptable difficulty We adjust your training level up or down based on your feedback. Be stronger, leaner, healthier with Fitify \u2013 your very own personal trainer. Check other Fitify apps with different fitness tools (such as TRX, Kettlebell, Swiss Ball, Bosu or Foam Roller).",
+  "privacyText": "https://fitifyapps.com/privacy-policy.html",
+  "numInstalls": 100000,
+  "developer": "Fitify Apps",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://fitifyapps.com/",
+    "Developer Email": "support@fitifyapps.com",
+    "Privacy Policy": "https://fitifyapps.com/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

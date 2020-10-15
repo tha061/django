@@ -1,0 +1,80 @@
+{
+  "name": "com.neou.fitness",
+  "fileSize": "22.7 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "com.google.android.assistant.READ_HOTWORD_STATE Protection Level: Developer Defined Permission",
+    "com.google.android.assistant.WRITE_HOTWORD_STATE Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.ACCESS_WIFI_STATE Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.READ_EXTERNAL_STORAGE Protection Level: dangerous",
+    "android.permission.FOREGROUND_SERVICE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.android.gms.cast.framework.media.MediaNotificationService  permission: ",
+      "name: com.google.android.gms.cast.framework.ReconnectionService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "6 October 2020",
+    "Size": "Varies with device",
+    "Installs": "100000",
+    "Current Version": "Varies with device",
+    "Requires Android": "Varies with device",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "Digital purchases",
+    "In-app Products": "$7.99 \u2013 $99.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "NEOU Fitness",
+    "Developer": "Visit website feedback@neoufitness.com Privacy Policy 420 5th Avenue\nNew York, NY 10018"
+  },
+  "rating": "3.5",
+  "description": "Discover the NEW YOU with at-home and on-the-go fitness reimagined! Work out anytime, anywhere with thousands of live on-demand classes from 100+ world-class instructors and fitness studios. Free trial for new members. CLASS TYPES: Bootcamp/HIT Dance Toning & Sculpting Yoga Core Strength Stretching & Recovery Pilates Barre Boxing & Kickboxing Meditation & Breathing Nutrition Running Machine Cardio Pre/Postnatal Stream workouts on your Android phone or Tablet, or cast to your TV with Chromecast. Also available on Apple TV, Roku and Amazon Fire TV. FEATURES:   Guided programs & challenges: Designed with a fitness goal in mind, NEOU experts have created curated programs and challenges to help you reach your goals or test your limits.Try favorites like \u201cProject Weight Loss\u201d or \u201cGet Strong.\u201d  Classes for all levels and preferences: Filter thousands of workouts by difficulty, body focus, duration, equipment, and music to easily find the perfect workout for you. Track your progress and achievements: Set goals for number of workouts per week and track your progress within the app. Earn badges for completing a program or challenge, or hitting a workout milestone.  Personalized recommendations: Answer a few quick questions about your goals and fitness level and you\u2019ll see recommended classes, instructors, and programs for your preferences. Stay connected with in-app messages: Add instructors and concepts to your favorites to receive alerts for new classes and concepts, recommended workouts, and feedback from instructors.  Download classes: Take your workouts anywhere! Preload classes to work out offline or reduce data usage. Ready to Join? Download the app and get unlimited access with a 7-day free trial. Afterward, subscribe to our annual membership and keep sweating with our community of instructors and members. A monthly membership is also available. TERMS & CONDITIONS Monthly & Annual subscriptions are available. Select the plan that works best for you! Payment will be charged to your Google Play Account at confirmation of purchase and subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user\u2019s Account Settings after purchase.",
+  "privacyText": "https://neoufitness.com/privacy-policy",
+  "numInstalls": 100000,
+  "developer": "NEOU Fitness",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "https://www.neoufitness.com",
+    "Developer Email": "feedback@neoufitness.com",
+    "Privacy Policy": "https://neoufitness.com/privacy-policy"
+  },
+  "smali_Directories": [
+    "Appsflyer",
+    "Bumptech",
+    "Crashlytics",
+    "Facebook",
+    "Github",
+    "Jakewharton",
+    "Squareup"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

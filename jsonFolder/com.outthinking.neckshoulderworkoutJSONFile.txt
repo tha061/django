@@ -1,0 +1,87 @@
+{
+  "name": "com.outthinking.neckshoulderworkout",
+  "fileSize": "9.9 MB",
+  "VTmd5": "81a8ee84e8f9baeeed81ed118d76e168",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/14053721057606cc1faf07ff2fbc536c98ac03d979b9a60f2ad89d02f27b7b07/detection/f-14053721057606cc1faf07ff2fbc536c98ac03d979b9a60f2ad89d02f27b7b07-1601206149",
+  "VTresource": "14053721057606cc1faf07ff2fbc536c98ac03d979b9a60f2ad89d02f27b7b07",
+  "VTresponsecode": 1,
+  "VTscanID": "14053721057606cc1faf07ff2fbc536c98ac03d979b9a60f2ad89d02f27b7b07-1601206149",
+  "VTsha1": "18e28417b6fb603cbe3dbc48678d87988da2bc9b",
+  "VTsha256": "14053721057606cc1faf07ff2fbc536c98ac03d979b9a60f2ad89d02f27b7b07",
+  "VTtotal": 63,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.SET_ALARM Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE Protection Level: Developer Defined Permission",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission",
+    "com.outthinking.neckshoulderworkout.permission.C2D_MESSAGE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [
+    "   name: com.outthinking.neckshoulderworkout.permission.C2D_MESSAGE   protectionLevel: signature"
+  ],
+  "service": {
+    "Service and Permissions": [
+      "name: com.outthinking.neckshoulderworkout.Firebase.MyFirebaseMessagingService  permission: ",
+      "name: com.outthinking.neckshoulderworkout.Firebase.MyFirebaseInstanceIDService  permission: ",
+      "name: com.outthinking.neckshoulderworkout.Firebase.MyJobService  permission: ",
+      "name: com.facebook.ads.internal.ipc.AdsProcessPriorityService  permission: ",
+      "name: com.facebook.ads.internal.ipc.AdsMessengerService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: ",
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementService  permission: ",
+      "name: com.google.android.gms.measurement.AppMeasurementJobService  permission: android.permission.BIND_JOB_SERVICE",
+      "name: com.google.firebase.iid.FirebaseInstanceIdService  permission: ",
+      "name: com.firebase.jobdispatcher.GooglePlayReceiver  permission: com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE"
+    ]
+  },
+  "metaData": {
+    "Updated": "20 June 2020",
+    "Size": "9.9M",
+    "Installs": "100000",
+    "Current Version": "1.4",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "OHealthApps Studio",
+    "Developer": "ohealthappsstudio@gmail.com Privacy Policy"
+  },
+  "rating": "4.5",
+  "description": "Shoulder Pain Relief! Neck and Shoulder pain\u00a0is common but severe, If you are experiencing neck and shoulder pain try this strengthening shoulder pain exercise to relieve\u00a0your pain of shoulder and neck, Check out these easy and effective\u00a010 Min daily exercise of shoulder pain and stretches to relieve neck and shoulder\u00a0pain at home. Easy Stretches for Neck, Shoulder Pain Relief Do It Yourself\u00a0Exercises? Best\u00a0exercises\u00a0to Relieve\u00a0shoulder muscle pain and Sore Neck, whether you are in the office or at home find relief with these easy\u00a0neck pain exercises and stretches. If you struggle with regular\u00a0neck pain it's a good idea to do\u00a0exercises, this yoga for neck and shoulder pain app includes the variety of\u00a0neck\u00a0&\u00a0shoulder exercises and stretches. Core\u00a0Exercises\u00a0to prevent neck pain Daily\u00a0Exercises\u00a0to support your spine\u00a0and Prevent\u00a0Neck Pain! Find out\u00a0unlimited core\u00a0exercises for every day\u00a0to keep\u00a0neck pain\u00a0away, neck and shoulder stretch app contains quick exercises for serious issues like sciatica, back pain, etc. get stiff\u00a0neck by spending 10 minutes\u00a0a day\u00a0for yoga and exercise. Neck Stretches, Neck Stretching & Neck Stretch How to relieve\u00a0neck\u00a0pain? Best exercises for neck pain to a get stiff neck! Sitting at a desk for long periods of time causes stiffness and pain, we\u2019ve got the\u00a0Neck stretches, exercise of shoulder pain\u00a0and flexibility the exercises for neck\u00a0flexion, later\u00a0neck\u00a0flexion.  Best shoulder and Neck pain exercises! Fast and Effective workout & stretches for Shoulder & neck pain relief. Shoulder Physical Therapy & Shoulder Pain Exercise Shoulder and back pain are all too common problem with professionals, Shoulder Pain Exercise is useful in the treating common causes of\u00a0left and right shoulder pain exercise.  Special Features  \t\u2022\tFree! No hidden charges  \t\u2022\tNeck and Shoulder Pain Exercises \t\u2022\tDesk-related\u00a0Shoulder,\u00a0Neck Pain and rotator cuff \t\u2022\tShoulder pain exercises and  therapy exercises at home \t\u2022\tShoulder pain at night exercises and stretches  \t\u2022\tShoulder pain exercise yoga for muscle pain \t\u2022\tNeck exercises for pain \t\u2022\tNeck pain exercises yoga for relief \t\u2022\tback of neck pain exercises and Neck pain stretching exercise \t\u2022\tExercise to relieve shoulder pain \t\u2022\tPhysical therapy for shoulder pain exercise Download the Shoulder and Neck pain exercise app for android! Includes stretching Exercises and neck pain\u00a0relief exercises for shoulder and\u00a0neck pain.",
+  "privacyText": "https://ohealthapps.blogspot.com/p/privacy-policy.html",
+  "numInstalls": 100000,
+  "developer": "OHealthApps Studio",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://ohealthapps.blogspot.com/p/privacy-policy.html",
+    "Developer Email": "ohealthappsstudio@gmail.com",
+    "Privacy Policy": "https://ohealthapps.blogspot.com/p/privacy-policy.html"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Github",
+    "Google Ads",
+    "Squareup",
+    "YOC"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

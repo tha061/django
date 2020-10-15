@@ -1,0 +1,71 @@
+{
+  "name": "com.dnt.fitness.homeworkout",
+  "fileSize": "40.3 MB",
+  "VTmd5": "NA",
+  "VTmsg": "NA",
+  "VTpermalink": "NA",
+  "VTresource": "NA",
+  "VTresponsecode": "NA",
+  "VTscanID": "NA",
+  "VTsha1": "NA",
+  "VTsha256": "NA",
+  "VTtotal": "NA",
+  "VTpositives": "NA",
+  "VTratio": "error - need to upload file not just hash",
+  "usesPermissions": [
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal",
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.dnt.fitness.homeworkout.service.BootService  permission: ",
+      "name: com.dnt.fitness.homeworkout.service.ReminderChangeService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "2 December 2018",
+    "Size": "40M",
+    "Installs": "100000",
+    "Current Version": "2.8",
+    "Requires Android": "4.0.3 and up",
+    "Content Rating": "Everyone Learn More",
+    "In-app Products": "$1.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "JunStudio",
+    "Developer": "Visit website junduong1415@gmail.com Privacy Policy CA 2033, New York, United State"
+  },
+  "rating": "4.6",
+  "description": "Are you want to have a healthy body? Are you want a beautiful body? Are you want to build all your muscle groups so beautiful and attractive? Just a few minutes a day and no gym, no time off. Our bodybuilding app with all the exercise no equipment or trainers will help you get a beautiful body and a healthy body. Our application builds exercises for abs muscles, chest, legs, arms, butt and full body. All exercises are designed by our specialists. All our assignments do not require equipment and do not require a gym with visual 3D visualization. Just a few minutes of practice each day and time by your initiative, you do not need to gym but can still workout and build you a beautiful body. More than just a trainer of your own. Our non-invasive workout program provides exercises that help you build muscle quickly with levels from easy to difficult, suitable for all subjects from beginners. Just a few minutes a day and no time to gym you will see your muscle development within a few weeks. On top of all that, you have a healthy, non-fat body. Bodybuilding App no equipment required Looking for a bodybuilding app? Do you find it difficult to visualize 2D images? Try our bodybuilding app no equipment required! Application with exercises built by our experts with 3D video demonstration Mechanical groups: \u2022 Abs exercise \u2022 Chest exercise \u2022 Arm exercise \u2022 Butt exercise \u2022 Full body exercise \u2022 Leg exercise Multiple exercises: Push up, squats, plank, wall sit, spiderman push up, sumo squat ... Feature: \u2022 Easy-to-understand 3D illustrated video \u2022 Weight chart tracker \u2022 Track your work history \u2022 Detail exercise with 3D video \u2022 Reminds you to exercise well \u2022 Exercise to lose weight Wish you have a toned and healthy body! If you have any suggestions, please email us at: junduong1415@gmail.com",
+  "privacyText": "https://sites.google.com/view/policyjunstudio/trang-ch%E1%BB%A7",
+  "numInstalls": 100000,
+  "developer": "JunStudio",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": true,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://jun-studio.web.app",
+    "Developer Email": "junduong1415@gmail.com",
+    "Privacy Policy": "https://sites.google.com/view/policyjunstudio/trang-ch%E1%BB%A7"
+  },
+  "smali_Directories": [
+    "Github",
+    "Google Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

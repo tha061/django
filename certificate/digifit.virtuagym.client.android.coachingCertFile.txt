@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1234010321 (0x498d80d1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=NL, ST=Unknown, L=Bussum, O=Mobidapt, OU=Mobidapt, CN=Mobidapt
+        Validity
+            Not Before: Feb  7 12:38:41 2009 GMT
+            Not After : Jun 25 12:38:41 2036 GMT
+        Subject: C=NL, ST=Unknown, L=Bussum, O=Mobidapt, OU=Mobidapt, CN=Mobidapt
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:81:08:38:db:d1:41:c2:a2:ef:a7:ff:2d:9f:29:
+                    18:a0:64:f4:32:4f:7c:43:93:28:d7:ee:e3:1a:f1:
+                    e7:f4:3e:75:5e:b7:74:92:11:64:cc:1d:0b:7a:cc:
+                    ac:5a:f8:a0:7d:bb:b9:19:cd:67:53:4b:10:9d:68:
+                    48:76:00:d2:2a:a4:d9:b2:71:17:75:4d:1d:2c:ea:
+                    f0:c1:3f:d9:45:39:36:09:a1:a2:1b:16:14:f9:74:
+                    69:f8:f9:c3:e2:d2:5a:eb:cd:44:08:b6:ec:e7:55:
+                    25:e6:01:c7:9d:06:a4:a8:5c:d1:07:53:4e:45:50:
+                    a4:7a:15:b4:f6:85:24:0d:c7
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         0d:e9:9c:ba:ab:59:c6:f0:c9:58:c5:62:5e:3e:8a:89:fd:0a:
+         55:b5:cc:aa:68:12:d1:c2:e4:dd:93:76:84:fb:d0:03:2e:27:
+         7c:73:42:15:a9:65:45:f3:9f:16:ed:85:19:d2:37:16:b0:67:
+         b1:9c:45:4b:6d:55:37:d9:ed:8b:7f:de:f5:31:ed:20:cb:19:
+         f1:e1:d1:ad:08:f4:15:b8:c1:27:d2:f8:b5:ed:03:41:a9:76:
+         e6:aa:b6:ae:08:6e:65:3a:74:23:bc:a4:f0:ce:94:80:b1:76:
+         c4:4f:01:b4:8c:52:c0:1f:82:e7:58:12:0b:65:0b:29:29:c8:
+         f4:52
+-----BEGIN CERTIFICATE-----
+MIICSTCCAbKgAwIBAgIESY2A0TANBgkqhkiG9w0BAQUFADBpMQswCQYDVQQGEwJO
+TDEQMA4GA1UECBMHVW5rbm93bjEPMA0GA1UEBxMGQnVzc3VtMREwDwYDVQQKEwhN
+b2JpZGFwdDERMA8GA1UECxMITW9iaWRhcHQxETAPBgNVBAMTCE1vYmlkYXB0MB4X
+DTA5MDIwNzEyMzg0MVoXDTM2MDYyNTEyMzg0MVowaTELMAkGA1UEBhMCTkwxEDAO
+BgNVBAgTB1Vua25vd24xDzANBgNVBAcTBkJ1c3N1bTERMA8GA1UEChMITW9iaWRh
+cHQxETAPBgNVBAsTCE1vYmlkYXB0MREwDwYDVQQDEwhNb2JpZGFwdDCBnzANBgkq
+hkiG9w0BAQEFAAOBjQAwgYkCgYEAgQg429FBwqLvp/8tnykYoGT0Mk98Q5Mo1+7j
+GvHn9D51Xrd0khFkzB0LesysWvigfbu5Gc1nU0sQnWhIdgDSKqTZsnEXdU0dLOrw
+wT/ZRTk2CaGiGxYU+XRp+PnD4tJa681ECLbs51Ul5gHHnQakqFzRB1NORVCkehW0
+9oUkDccCAwEAATANBgkqhkiG9w0BAQUFAAOBgQAN6Zy6q1nG8MlYxWJePoqJ/QpV
+tcyqaBLRwuTdk3aE+9ADLid8c0IVqWVF858W7YUZ0jcWsGexnEVLbVU32e2Lf971
+Me0gyxnx4dGtCPQVuMEn0vi17QNBqXbmqrauCG5lOnQjvKTwzpSAsXbETwG0jFLA
+H4LnWBILZQspKcj0Ug==
+-----END CERTIFICATE-----
+

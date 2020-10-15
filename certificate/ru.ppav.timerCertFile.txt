@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2015911967 (0x7828601f)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=pavel potanin
+        Validity
+            Not Before: Oct 21 07:42:39 2016 GMT
+            Not After : Sep 27 07:42:39 2116 GMT
+        Subject: CN=pavel potanin
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ae:d0:fe:51:ce:73:35:85:1c:a5:ff:67:a8:0e:
+                    bf:a8:da:6a:96:30:13:52:94:fc:45:50:3f:03:4a:
+                    b2:a5:4b:0e:55:a5:44:a9:18:63:1c:b3:e9:7a:50:
+                    8a:ac:9b:d8:d3:bb:39:1d:00:17:35:8b:f2:69:34:
+                    45:c7:ed:ec:5b:11:9f:d0:fc:fc:31:11:34:84:82:
+                    e6:77:19:58:83:6d:23:ee:82:00:ea:7e:3e:6a:25:
+                    07:36:e0:68:74:ea:3b:f1:55:d2:9c:31:f8:dc:eb:
+                    0e:d5:d5:a4:09:3f:67:06:c7:23:df:60:b8:d8:21:
+                    60:ee:6b:58:e1:54:a1:b8:b6:63:2f:8e:d3:a7:e7:
+                    37:74:fe:94:9b:ba:a1:a7:f7:55:6f:af:f2:dd:f0:
+                    8e:b8:56:c2:ad:f7:59:ed:5e:c9:53:ee:52:55:e3:
+                    ba:b9:a6:0a:48:f5:09:7b:4e:0f:e4:1d:00:7c:af:
+                    f8:45:01:f4:b1:ef:9e:07:2e:c9:28:f2:97:86:10:
+                    1c:56:ab:22:7a:1b:c2:7d:f3:1b:1c:86:8d:d0:9f:
+                    fe:dc:2b:4d:16:52:4a:e9:dd:ce:c0:09:75:b8:e8:
+                    6c:19:2d:83:46:61:9a:af:18:6a:f8:9f:9e:46:f0:
+                    0a:d0:25:e2:55:80:1b:ef:1f:09:6e:ed:42:eb:5d:
+                    e2:4b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                3C:25:6B:48:BC:E9:EF:A8:92:E6:BA:43:84:2D:1F:FB:D0:93:C4:74
+    Signature Algorithm: sha256WithRSAEncryption
+         16:c4:7e:1a:3a:24:1f:72:e5:32:82:4d:b0:f0:e0:ef:77:e0:
+         93:a4:ab:82:57:c3:a6:49:d2:49:26:e4:b9:39:32:f3:a6:45:
+         79:1b:58:f4:c2:44:09:4c:2a:ff:1b:ee:74:1e:f4:d0:b4:3c:
+         43:88:f3:e7:1f:59:48:be:35:6c:b9:4a:c5:02:7d:07:38:e5:
+         64:f3:e2:ca:29:98:ac:a7:1f:a2:d3:68:a9:49:a1:ff:d5:35:
+         cd:e1:67:85:65:81:e4:cb:25:94:b0:ed:14:7c:30:f5:87:4e:
+         10:87:67:ac:64:e8:14:55:d4:80:e5:d1:e9:61:97:9b:cb:e7:
+         73:05:f4:97:77:c4:3e:fe:90:ec:1f:fc:7e:47:6a:b0:52:e4:
+         91:1c:1d:53:1e:8c:52:d0:f8:c2:fd:bb:eb:a4:45:c9:94:07:
+         0c:15:fb:92:38:b9:d6:eb:db:1e:79:e6:d7:85:66:02:0f:a8:
+         b1:8f:4c:22:13:b5:49:7a:d4:c3:2d:e5:b7:81:d7:e9:16:d1:
+         8a:67:4f:22:bd:b0:49:05:9f:09:72:81:d1:2a:be:09:7d:23:
+         99:0e:b9:bd:7d:f3:fe:89:2f:e3:83:16:eb:8c:f9:53:48:d1:
+         7e:9d:fb:79:4b:04:64:61:09:1f:68:04:fc:86:da:6e:33:72:
+         6a:76:c1:b7
+-----BEGIN CERTIFICATE-----
+MIIC0TCCAbmgAwIBAgIEeChgHzANBgkqhkiG9w0BAQsFADAYMRYwFAYDVQQDEw1w
+YXZlbCBwb3RhbmluMCAXDTE2MTAyMTA3NDIzOVoYDzIxMTYwOTI3MDc0MjM5WjAY
+MRYwFAYDVQQDEw1wYXZlbCBwb3RhbmluMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEArtD+Uc5zNYUcpf9nqA6/qNpqljATUpT8RVA/A0qypUsOVaVEqRhj
+HLPpelCKrJvY07s5HQAXNYvyaTRFx+3sWxGf0Pz8MRE0hILmdxlYg20j7oIA6n4+
+aiUHNuBodOo78VXSnDH43OsO1dWkCT9nBscj32C42CFg7mtY4VShuLZjL47Tp+c3
+dP6Um7qhp/dVb6/y3fCOuFbCrfdZ7V7JU+5SVeO6uaYKSPUJe04P5B0AfK/4RQH0
+se+eBy7JKPKXhhAcVqsiehvCffMbHIaN0J/+3CtNFlJK6d3OwAl1uOhsGS2DRmGa
+rxhq+J+eRvAK0CXiVYAb7x8Jbu1C613iSwIDAQABoyEwHzAdBgNVHQ4EFgQUPCVr
+SLzp76iS5rpDhC0f+9CTxHQwDQYJKoZIhvcNAQELBQADggEBABbEfho6JB9y5TKC
+TbDw4O934JOkq4JXw6ZJ0kkm5Lk5MvOmRXkbWPTCRAlMKv8b7nQe9NC0PEOI8+cf
+WUi+NWy5SsUCfQc45WTz4sopmKynH6LTaKlJof/VNc3hZ4VlgeTLJZSw7RR8MPWH
+ThCHZ6xk6BRV1IDl0elhl5vL53MF9Jd3xD7+kOwf/H5HarBS5JEcHVMejFLQ+ML9
+u+ukRcmUBwwV+5I4udbr2x555teFZgIPqLGPTCITtUl61MMt5beB1+kW0YpnTyK9
+sEkFnwlygdEqvgl9I5kOub198/6JL+ODFuuM+VNI0X6d+3lLBGRhCR9oBPyG2m4z
+cmp2wbc=
+-----END CERTIFICATE-----
+

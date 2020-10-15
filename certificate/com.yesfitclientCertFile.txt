@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 582376125 (0x22b65abd)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=Florida, L=Lakeland, O=Yes.Fit, OU=Software Development, CN=Graham Morris
+        Validity
+            Not Before: Oct  4 18:28:37 2017 GMT
+            Not After : Sep 28 18:28:37 2042 GMT
+        Subject: C=US, ST=Florida, L=Lakeland, O=Yes.Fit, OU=Software Development, CN=Graham Morris
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:85:78:12:74:0e:72:c6:75:06:0b:1a:52:ef:85:
+                    19:b4:13:bb:ec:4b:8b:31:55:12:9a:6e:d9:04:2c:
+                    29:a4:99:7d:c9:90:b1:59:95:90:be:71:05:4c:96:
+                    4e:c0:2f:83:75:2b:75:04:50:00:32:a0:5e:ae:96:
+                    0c:23:e8:db:ec:cc:26:26:ec:9e:9d:0d:df:67:1a:
+                    f4:af:4a:e5:1d:5a:32:76:e7:6f:c6:8c:11:ef:30:
+                    73:d7:dc:e4:b5:29:04:0a:db:e2:85:0a:d7:b2:4c:
+                    fe:7f:e8:71:13:24:6d:a8:4b:44:5b:ae:6b:5d:f6:
+                    53:4f:53:b7:7e:34:36:7a:00:3c:9f:3a:5b:91:1c:
+                    46:0d:b1:d2:ee:b3:79:24:2b:48:f5:30:13:ab:c8:
+                    38:ec:47:5b:0c:7c:90:d9:9d:c8:5a:67:4d:e3:6b:
+                    ba:29:76:56:b1:95:0c:a0:6a:f9:c7:fb:d5:e8:dc:
+                    2c:bb:74:24:bf:a8:a1:c0:aa:66:8f:11:da:f4:a4:
+                    db:79:d1:c8:3f:10:f5:95:cc:1c:c5:b5:d2:21:fe:
+                    e3:20:b9:57:91:c4:7e:1f:0f:77:70:1c:01:b0:20:
+                    c9:48:0a:72:ab:df:71:c8:fd:4e:0c:4f:e5:07:24:
+                    3b:b5:c6:70:75:f3:c4:b2:a8:84:be:92:7d:1b:16:
+                    83:5f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                3F:E9:4C:72:43:A5:51:76:37:12:4F:E1:7E:F7:D6:DC:16:48:CB:3A
+    Signature Algorithm: sha256WithRSAEncryption
+         5b:47:50:6d:1d:f3:04:c0:c4:c9:67:1f:23:fe:28:56:a0:a1:
+         94:73:a8:20:18:3a:9c:ad:83:fc:0b:f4:ab:8d:06:df:6a:34:
+         1c:d4:af:88:4b:c3:56:58:8f:76:64:4e:44:2f:fe:25:f5:8c:
+         47:38:34:af:6f:0a:66:ba:a2:c5:4a:c6:69:17:2d:eb:85:17:
+         4e:96:c7:bc:38:10:ab:9a:fd:89:cd:cc:46:78:33:20:30:d0:
+         a7:86:79:f5:0b:e0:d1:5a:30:b8:36:f3:76:ab:26:6f:e7:91:
+         34:46:8e:bc:12:a5:49:5f:a4:89:98:3d:21:44:af:35:27:19:
+         8a:d3:5f:5a:ee:9d:58:e0:21:0f:8a:30:68:7f:c8:3f:1f:04:
+         74:f0:2a:2a:83:50:b9:af:52:b7:c7:4f:59:b7:69:23:ca:22:
+         bf:59:a5:90:af:a3:a1:38:63:ee:b8:32:27:5d:4b:ef:f4:6c:
+         42:9a:73:9f:c1:2e:54:fb:30:a8:85:7c:ee:90:d8:cd:57:97:
+         0d:03:48:94:1f:db:b2:c1:35:26:a0:41:54:4e:51:17:6e:56:
+         dd:e6:d3:74:cb:aa:bd:cb:44:b1:27:4f:a6:06:cb:10:6e:96:
+         6f:3b:fd:42:41:94:d9:75:1f:92:5d:19:da:75:f3:ee:91:6a:
+         21:82:33:2c
+-----BEGIN CERTIFICATE-----
+MIIDlTCCAn2gAwIBAgIEIrZavTANBgkqhkiG9w0BAQsFADB7MQswCQYDVQQGEwJV
+UzEQMA4GA1UECBMHRmxvcmlkYTERMA8GA1UEBxMITGFrZWxhbmQxEDAOBgNVBAoT
+B1llcy5GaXQxHTAbBgNVBAsTFFNvZnR3YXJlIERldmVsb3BtZW50MRYwFAYDVQQD
+Ew1HcmFoYW0gTW9ycmlzMB4XDTE3MTAwNDE4MjgzN1oXDTQyMDkyODE4MjgzN1ow
+ezELMAkGA1UEBhMCVVMxEDAOBgNVBAgTB0Zsb3JpZGExETAPBgNVBAcTCExha2Vs
+YW5kMRAwDgYDVQQKEwdZZXMuRml0MR0wGwYDVQQLExRTb2Z0d2FyZSBEZXZlbG9w
+bWVudDEWMBQGA1UEAxMNR3JhaGFtIE1vcnJpczCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAIV4EnQOcsZ1BgsaUu+FGbQTu+xLizFVEppu2QQsKaSZfcmQ
+sVmVkL5xBUyWTsAvg3UrdQRQADKgXq6WDCPo2+zMJibsnp0N32ca9K9K5R1aMnbn
+b8aMEe8wc9fc5LUpBArb4oUK17JM/n/ocRMkbahLRFuua132U09Tt340NnoAPJ86
+W5EcRg2x0u6zeSQrSPUwE6vIOOxHWwx8kNmdyFpnTeNruil2VrGVDKBq+cf71ejc
+LLt0JL+oocCqZo8R2vSk23nRyD8Q9ZXMHMW10iH+4yC5V5HEfh8Pd3AcAbAgyUgK
+cqvfccj9TgxP5QckO7XGcHXzxLKohL6SfRsWg18CAwEAAaMhMB8wHQYDVR0OBBYE
+FD/pTHJDpVF2NxJP4X731twWSMs6MA0GCSqGSIb3DQEBCwUAA4IBAQBbR1BtHfME
+wMTJZx8j/ihWoKGUc6ggGDqcrYP8C/SrjQbfajQc1K+IS8NWWI92ZE5EL/4l9YxH
+ODSvbwpmuqLFSsZpFy3rhRdOlse8OBCrmv2JzcxGeDMgMNCnhnn1C+DRWjC4NvN2
+qyZv55E0Ro68EqVJX6SJmD0hRK81JxmK019a7p1Y4CEPijBof8g/HwR08Coqg1C5
+r1K3x09Zt2kjyiK/WaWQr6OhOGPuuDInXUvv9GxCmnOfwS5U+zCohXzukNjNV5cN
+A0iUH9uywTUmoEFUTlEXblbd5tN0y6q9y0SxJ0+mBssQbpZvO/1CQZTZdR+SXRna
+dfPukWohgjMs
+-----END CERTIFICATE-----
+

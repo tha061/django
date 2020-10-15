@@ -1,0 +1,64 @@
+{
+  "name": "org.ishafoundation.app.yoga",
+  "fileSize": "44.3 MB",
+  "VTmd5": "da729939e0d2d36e062d5d04bcf86960",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/06120b441582d59f9f2b4b423e0948e35dfc4acf126df92f15ca529b34442728/detection/f-06120b441582d59f9f2b4b423e0948e35dfc4acf126df92f15ca529b34442728-1572984465",
+  "VTresource": "06120b441582d59f9f2b4b423e0948e35dfc4acf126df92f15ca529b34442728",
+  "VTresponsecode": 1,
+  "VTscanID": "06120b441582d59f9f2b4b423e0948e35dfc4acf126df92f15ca529b34442728-1572984465",
+  "VTsha1": "f764db8fa5f673ebc8e870732edce10b25d0625d",
+  "VTsha256": "06120b441582d59f9f2b4b423e0948e35dfc4acf126df92f15ca529b34442728",
+  "VTtotal": 57,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "19 June 2015",
+    "Size": "44M",
+    "Installs": "100000",
+    "Current Version": "1.0",
+    "Requires Android": "3.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Isha Foundation",
+    "Developer": "Visit website apps@ishafoundation.org Isha Foundation\n15, Govindasamy Naidu Layout, Singanallur\nCoimbatore - 641 005, INDIA"
+  },
+  "rating": "4.7",
+  "description": "Just five minutes a day can transform your life! Whether you\u2019re seeking health and joy or peace and love, whether it\u2019s success in the world or inner exploration you\u2019re striving for, these 5-minute practices are designed to help you cut through the struggle and walk through life with ease.  The app includes guided instruction videos with demos and explanations for each of the seven practices.  The videos are available offline too, so once downloaded, the app needs no internet connection. The seven practices include: Yoga for Health This practice is a simple way to activate the energy nodules in your joints and exercise your muscles, bringing ease to the whole system. Yoga for Success The energy and neurological systems branch out in a big way in the region of the shoulder blades and above. The neck practices activate these systems, bringing alertness and intellectual sharpness. Yoga for Wellbeing Yoga Namaskar is a powerful practice that nurtures the physical, psychological and energy dimensions of a human being. Yoga for Peace The Nadi Shuddhi practice cleanses the nadis \u2013 the pathways through which pranic energy flows \u2013 resulting in a balanced system and psychological wellbeing. Yoga for Joy Nada Yoga \u2013 the yoga of sound or reverberation \u2013 allows you to utter the sounds that create an inner atmosphere of joy, making it a natural way to be. Yoga for Inner Exploration Shambhavi Mudra is an easy, effortless process that enhances your perception and makes you receptive to that dimension of life, often termed as Grace. Yoga for Love The many nerve endings in your palms make them very sensitive. By placing them together in a Namaskar, you can change your chemistry to foster love within. Benefits of Upa Yoga Designed by Sadhguru, these practices are based on the science of Upa Yoga, which is oriented towards physical and psychological benefits. These practices help:  \u2022\tEnhance vitality, focus, memory and productivity \u2022\tStabilize the body, mind and emotions \u2022\tStrengthen and stabilize the spine \u2022\tHelp relieve back pain, stress, anxiety and tension \u2022\tHelp relieve chronic ailments and improve overall health \u2022\tEnhance teamwork and communication \u2022\tImpart a lasting sense of joy, peace and fulfillment Practice Guidelines \u2022\tThe practices can be done at any time and anywhere. It is best to do them in the sequence given in the app. Each practice can also be done individually, if your focus is only on some of the aspects.  \u2022\tIf you are looking at doing just one practice, we recommend doing Yoga Namaskar for overall wellbeing. \u2022\tA light stomach is recommended (keep a 1.5-hour gap after food). If you do not fulfill this condition on a particular day, please skip the Yoga Namaskar practice. \u2022\tAnyone over 7 years of age can do the practices. About Sadhguru Sadhguru is a yogi, mystic and visionary, offering the science of yoga in a format relevant to contemporary minds. Provocative, insightful and unfailingly witty, Sadhguru\u2019s talks have earned him the reputation of a speaker and opinion-maker of international renown on spiritual matters, business, environmental and international affairs. Sadhguru\u2019s presence has touched and transformed millions of lives in ways that cannot be expressed.   Sadhguru is also the founder of Isha Foundation, a non-religious, non-profit organization supported by over 2 million volunteers and 200 centers worldwide. The foundation has been dedicated to the wellbeing of the individual and the world for the past three decades.  More apps:  Mystic quotes: http://market.android.com/details?id=org.ishafoundation.app.quotes Isha chants: http://market.android.com/details?id=org.ishafoundation.app.chants Website: http://isha.sadhguru.org/5-min-practices/ https://www.youtube.com/user/sadhguru https://www.facebook.com/sadhguru https://twitter.com/sadhguruJV",
+  "privacyText": "",
+  "numInstalls": 100000,
+  "developer": "Isha Foundation",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": true,
+  "contradiction": true,
+  "links": {
+    "Developer Website": "http://isha.sadhguru.org/international-yoga-day/",
+    "Developer Email": "apps@ishafoundation.org",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Google Analytics"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

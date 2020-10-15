@@ -1,0 +1,69 @@
+{
+  "name": "com.MindSoftCreative.HappyMind",
+  "fileSize": "20.0 MB",
+  "VTmd5": "83bb02d7b7a742263767d7c9d3d1f0e6",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/a184e0a0e43b2e01991f7fb334bebebb45799955a9a06463d16d235f7de5858d/detection/f-a184e0a0e43b2e01991f7fb334bebebb45799955a9a06463d16d235f7de5858d-1581054962",
+  "VTresource": "a184e0a0e43b2e01991f7fb334bebebb45799955a9a06463d16d235f7de5858d",
+  "VTresponsecode": 1,
+  "VTscanID": "a184e0a0e43b2e01991f7fb334bebebb45799955a9a06463d16d235f7de5858d-1581054962",
+  "VTsha1": "2ee8e3da8acbb6b438c40fb459bdd016d04baf09",
+  "VTsha256": "a184e0a0e43b2e01991f7fb334bebebb45799955a9a06463d16d235f7de5858d",
+  "VTtotal": 64,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "com.android.vending.BILLING Protection Level: Developer Defined Permission",
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.CHANGE_WIFI_MULTICAST_STATE Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.RECEIVE_BOOT_COMPLETED Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "28 December 2019",
+    "Size": "20M",
+    "Installs": "10000",
+    "Current Version": "1.4.6",
+    "Requires Android": "5.0 and up",
+    "Content Rating": "Everyone Learn More",
+    "Interactive Elements": "In-app purchases",
+    "In-app Products": "$7.99 \u00e2\u20ac\u201c $199.99 per item",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "Mind Soft Creative LLC",
+    "Developer": "Visit website support@happymindapp.com Privacy Policy 502 West 30th Street #9\nAustin TX 78705"
+  },
+  "rating": "4.1",
+  "description": "* 2019 Best New Meditation App * Meditation has been proven time and time again to help reduce stress and improve the overall quality of life.  A Happy Mind guided meditation app will give you unlimited access to original guided meditations for reducing stress and anxiety and boost well being, self-esteem, focus, gratitude, happiness, joy and so much more. A Happy Mind is recommended by leading psychologists, therapists and mental health professionals. A Happy Mind gives you special guided meditations for improving sleep and relaxation with new content added monthly. Enjoy a peaceful, happier and healthier life with full access to the entire Happy Mind library. Also, enjoy exclusive unguided nature sounds and music playlists for deep meditation, focus, relaxation, healing, and sleep. Use it anytime and anywhere by downloading meditations and listening anywhere with no internet connection needed. Guided meditations are available at various lengths from 5 to 30 minutes so you can choose the right session to fit your specific schedule. Mindfulness sessions are designed for both beginners and experienced users. Mindfulness Categories include: Mindfulness Essentials Well-being Health & Fitness Feel Happier Relationships Personal Growth Life Challenges Manifesting Sleep Relaxation Unguided Meditation Music Playlists for meditation, yoga, relaxation, healing and sleep. Meditation sessions for: Reducing stress, anxiety, panic, sadness, and negative emotions Improving well-being, self-esteem, gratitude, happiness, and joy Increasing focus and concentration Loving yourself and others Body scans, deep relaxation, and visualization Deep breathing exercises to help you soothe and relax Mindfulness exercises Manifesting love, abundance and success Sleeping better Exclusive music (some with binaural beats) and nature sounds for deep meditation, focused awareness, yoga, relaxation, healing and sleep Get unlimited access with premium Monthly $7.99/month Yearly $44.99/year \u00e2\u20ac\u201c A 53% Savings! Try for 7 days free! A Happy Mind offers two auto-renewing subscription options to help you cultivate mindfulness. Payment will be charged to your credit card connected to your iTunes Account when you confirm your initial subscription purchase.  Subscriptions automatically renew at the end of each term unless auto-renew is turned off at least 24-hours before the end of current subscription period, but refunds will not be provided for any unused portion of the term. Any unused portion of a free trial will be forfeited when a subscription is purchased, if applicable. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence. Connect with A Happy Mind: Facebook: https://www.facebook.com/ahappymind Instagram: https://www.instagram.com/ahappymindapp Twitter: https://twitter.com/ahappymindapp Got any feedback or questions? Send us an email at support@happymindapp.com Thanks for using A Happy Mind! :)",
+  "privacyText": "http://www.happymindapp.com/privacy-notice.html",
+  "numInstalls": 10000,
+  "developer": "Mind Soft Creative LLC",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "http://www.happymindapp.com",
+    "Developer Email": "support@happymindapp.com",
+    "Privacy Policy": "http://www.happymindapp.com/privacy-notice.html"
+  },
+  "smali_Directories": [
+    "Facebook",
+    "Unity3d"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

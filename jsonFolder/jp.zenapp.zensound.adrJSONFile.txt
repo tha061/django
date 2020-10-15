@@ -1,0 +1,70 @@
+{
+  "name": "jp.zenapp.zensound.adr",
+  "fileSize": "27.7 MB",
+  "VTmd5": "539ab74b2073562557b96865f2927e9d",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/11e219ef83f18dd37987de841d7e41f03500613f9015f379536d568f2cdc226b/detection/f-11e219ef83f18dd37987de841d7e41f03500613f9015f379536d568f2cdc226b-1598003389",
+  "VTresource": "11e219ef83f18dd37987de841d7e41f03500613f9015f379536d568f2cdc226b",
+  "VTresponsecode": 1,
+  "VTscanID": "11e219ef83f18dd37987de841d7e41f03500613f9015f379536d568f2cdc226b-1598003389",
+  "VTsha1": "81791eb6d633e7c2fdd247e20d45328ed651940f",
+  "VTsha256": "11e219ef83f18dd37987de841d7e41f03500613f9015f379536d568f2cdc226b",
+  "VTtotal": 61,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.INTERNET Protection Level: normal",
+    "android.permission.ACCESS_NETWORK_STATE Protection Level: normal",
+    "android.permission.WAKE_LOCK Protection Level: normal",
+    "com.google.android.c2dm.permission.RECEIVE Protection Level: Developer Defined Permission"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": [
+      "name: com.google.firebase.components.ComponentDiscoveryService  permission: ",
+      "name: com.google.firebase.messaging.FirebaseMessagingService  permission: "
+    ]
+  },
+  "metaData": {
+    "Updated": "25 July 2020",
+    "Size": "37M",
+    "Installs": "10000",
+    "Current Version": "501",
+    "Requires Android": "4.4 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "ZEN APP",
+    "Developer": "Visit website zenapp.jp@gmail.com Privacy Policy Japan"
+  },
+  "rating": "4.7",
+  "description": "This is an app of the world of Zen sounds. Since the spoken word is forbidden in Buddhist practice, resonating sounds are the source of communication and inspiration. This collection of real sounds, such as bells, musical instruments, and sutras used in Buddhist Zen temples, could help you in your own Zen practice. The pure and simple sounds resonate, and are used for meditation, healing, concentration, sleep and more. For beginners the app contains clear instructions on how to practice Zazen (i.e. Zen meditation), focusing on body posture, breathing, and thoughts. For experienced users the app contains a practice timer, that can be customized to your personal taste.",
+  "privacyText": "https://szmt.xsrv.jp/apps/policy.html",
+  "numInstalls": 10000,
+  "developer": "ZEN APP",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": false,
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "https://szmt.xsrv.jp/",
+    "Developer Email": "zenapp.jp@gmail.com",
+    "Privacy Policy": "https://szmt.xsrv.jp/apps/policy.html"
+  },
+  "smali_Directories": [
+    "Google Ads",
+    "Unity3d",
+    "Unity Ads"
+  ],
+  "PolicySharesInfo3rdParty": true
+}

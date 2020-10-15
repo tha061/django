@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 17550720 (0x10bcd80)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CZ, ST=Czech Republic, L=Prague, O=Fitify Apps
+        Validity
+            Not Before: Jan 30 15:12:53 2018 GMT
+            Not After : Jan 24 15:12:53 2043 GMT
+        Subject: C=CZ, ST=Czech Republic, L=Prague, O=Fitify Apps
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e9:0c:97:11:ea:65:82:30:b1:7d:1d:0a:fe:ab:
+                    13:cd:f7:a9:10:75:9e:ac:9b:0f:d4:bd:18:eb:59:
+                    94:cb:2d:8d:7c:9c:fd:8a:aa:6d:ca:dc:8a:42:34:
+                    d0:1c:fe:12:97:c8:89:47:19:d9:97:31:03:a3:f4:
+                    70:37:37:f7:5c:45:38:2a:80:5f:bf:e0:2a:c0:04:
+                    b2:c9:ec:7e:36:f3:14:27:a8:fe:cb:36:c5:52:1e:
+                    a4:ef:c6:aa:94:01:cd:1a:e3:6b:3a:1e:f8:64:e5:
+                    44:6d:25:ac:6b:3d:78:d5:30:c5:27:5a:09:f9:c7:
+                    a7:2e:28:d4:48:3b:b4:49:cf:44:c3:ee:82:9a:d4:
+                    d9:c3:b0:ef:d3:01:fd:83:d2:6c:bd:6f:02:2e:ed:
+                    4d:da:2f:73:aa:a6:42:d8:83:3c:57:c6:3e:d5:4d:
+                    73:42:99:82:a3:b2:4f:10:4e:7c:58:53:9c:32:e1:
+                    6c:9f:ab:aa:be:50:3e:87:1a:a9:98:ab:06:14:92:
+                    5f:a3:5e:df:c4:24:a0:d8:f0:6f:d4:24:9a:eb:b4:
+                    5f:89:45:8c:4d:11:2c:f3:cf:61:c2:ab:3e:5e:52:
+                    b7:fe:39:64:46:7b:8b:a2:48:38:ac:31:fc:0e:29:
+                    45:3c:c9:91:c2:9f:57:e7:dc:7c:ba:20:2b:cf:99:
+                    06:a1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                D3:B4:DE:5B:5B:CC:89:ED:D5:6E:15:54:2F:C0:33:DB:F5:CE:1B:94
+    Signature Algorithm: sha256WithRSAEncryption
+         bf:13:2a:e0:a9:6a:5a:83:e1:8e:a2:b1:b8:f7:a3:29:aa:ee:
+         6c:33:a7:63:8e:81:20:0a:ef:a9:c6:a5:f9:b9:f5:18:b3:ba:
+         29:1b:18:b4:6a:95:54:85:3f:69:3c:6a:06:ca:3d:90:a0:2e:
+         b2:35:b2:94:90:63:21:62:db:5b:2d:74:dc:f7:8c:2b:ff:7a:
+         fa:e9:2e:0f:bb:bd:03:24:d0:47:9b:ab:85:09:d1:41:29:01:
+         0f:e4:53:69:3d:60:d1:7e:8a:38:34:6c:3d:9a:ba:e8:0c:3c:
+         3c:06:47:63:6c:b5:08:83:e6:9d:97:6d:8c:64:f4:e8:b7:79:
+         88:05:0c:64:a9:14:60:ab:2d:9a:6b:56:9f:8e:d3:c5:24:55:
+         4f:8f:3e:6d:23:01:02:7d:db:d7:39:45:de:95:cb:4b:bf:04:
+         02:07:65:df:23:4a:44:4d:0c:be:2c:14:0c:6e:3e:d3:b9:62:
+         ea:29:76:bb:e4:2f:d9:45:e7:37:62:63:7d:be:a4:e4:69:69:
+         2d:93:ed:23:78:68:74:50:84:d7:cd:eb:3e:39:05:9d:3f:0c:
+         55:d8:9b:dc:4e:4a:13:d2:4f:dd:9d:1c:b7:b9:7d:ed:4e:f7:
+         8f:d2:02:2e:0a:fc:80:53:67:ba:f5:a1:dd:a7:e6:49:ec:8f:
+         f6:e9:bf:bc
+-----BEGIN CERTIFICATE-----
+MIIDOTCCAiGgAwIBAgIEAQvNgDANBgkqhkiG9w0BAQsFADBNMQswCQYDVQQGEwJD
+WjEXMBUGA1UECBMOQ3plY2ggUmVwdWJsaWMxDzANBgNVBAcTBlByYWd1ZTEUMBIG
+A1UEChMLRml0aWZ5IEFwcHMwHhcNMTgwMTMwMTUxMjUzWhcNNDMwMTI0MTUxMjUz
+WjBNMQswCQYDVQQGEwJDWjEXMBUGA1UECBMOQ3plY2ggUmVwdWJsaWMxDzANBgNV
+BAcTBlByYWd1ZTEUMBIGA1UEChMLRml0aWZ5IEFwcHMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDpDJcR6mWCMLF9HQr+qxPN96kQdZ6smw/UvRjrWZTL
+LY18nP2Kqm3K3IpCNNAc/hKXyIlHGdmXMQOj9HA3N/dcRTgqgF+/4CrABLLJ7H42
+8xQnqP7LNsVSHqTvxqqUAc0a42s6Hvhk5URtJaxrPXjVMMUnWgn5x6cuKNRIO7RJ
+z0TD7oKa1NnDsO/TAf2D0my9bwIu7U3aL3OqpkLYgzxXxj7VTXNCmYKjsk8QTnxY
+U5wy4Wyfq6q+UD6HGqmYqwYUkl+jXt/EJKDY8G/UJJrrtF+JRYxNESzzz2HCqz5e
+Urf+OWRGe4uiSDisMfwOKUU8yZHCn1fn3Hy6ICvPmQahAgMBAAGjITAfMB0GA1Ud
+DgQWBBTTtN5bW8yJ7dVuFVQvwDPb9c4blDANBgkqhkiG9w0BAQsFAAOCAQEAvxMq
+4KlqWoPhjqKxuPejKarubDOnY46BIArvqcal+bn1GLO6KRsYtGqVVIU/aTxqBso9
+kKAusjWylJBjIWLbWy103PeMK/96+ukuD7u9AyTQR5urhQnRQSkBD+RTaT1g0X6K
+ODRsPZq66Aw8PAZHY2y1CIPmnZdtjGT06Ld5iAUMZKkUYKstmmtWn47TxSRVT48+
+bSMBAn3b1zlF3pXLS78EAgdl3yNKRE0MviwUDG4+07li6il2u+Qv2UXnN2Jjfb6k
+5GlpLZPtI3hodFCE183rPjkFnT8MVdib3E5KE9JP3Z0ct7l97U73j9ICLgr8gFNn
+uvWh3afmSeyP9um/vA==
+-----END CERTIFICATE-----
+

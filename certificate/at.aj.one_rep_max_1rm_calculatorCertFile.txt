@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1456524483 (0x56d0ccc3)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AT, ST=Vienna, L=Vienna, O=AJ Devmonkeys, CN=Alexander Sch\xC3\xB6ll
+        Validity
+            Not Before: Feb 26 22:08:03 2016 GMT
+            Not After : Feb 19 22:08:03 2041 GMT
+        Subject: C=AT, ST=Vienna, L=Vienna, O=AJ Devmonkeys, CN=Alexander Sch\xC3\xB6ll
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a1:40:cd:bb:86:34:0f:c4:0c:d1:81:b5:ec:55:
+                    d7:5a:3e:f1:98:5e:1e:32:cf:84:2b:c6:80:1f:76:
+                    bf:32:0b:94:9b:74:e9:9b:5c:76:3e:aa:f0:01:7b:
+                    c8:f4:20:46:9f:57:0c:e9:70:b3:8d:8c:89:ef:6e:
+                    ee:16:9c:fd:67:41:00:e2:5a:31:b2:dd:ef:59:e6:
+                    70:e5:7d:2f:a7:88:20:40:bb:54:12:40:79:04:91:
+                    be:3b:89:35:cf:d0:10:18:5d:2c:4b:6e:63:08:d1:
+                    80:8c:6d:77:b4:59:a2:6f:2e:6e:8c:93:2a:b6:ae:
+                    94:29:2c:42:f4:30:d0:45:09
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         16:cf:56:46:b5:57:21:11:8b:37:b0:bd:5f:2b:aa:ee:ef:3c:
+         64:0b:6a:7c:16:b0:45:cf:b7:d4:81:6b:50:f0:a5:85:c6:ae:
+         ba:a3:24:22:da:e0:1a:b0:cc:0f:bc:46:6a:68:6d:be:51:00:
+         0b:04:b1:a9:41:34:18:e8:37:9c:83:6e:cd:cc:7c:b3:71:62:
+         e7:58:40:ef:72:d5:8e:f0:bc:f8:25:81:06:56:9a:16:6d:12:
+         19:78:28:be:ce:2d:34:ce:2e:f2:42:f0:fb:05:b4:32:9c:41:
+         89:b1:b8:00:d1:59:e9:5b:94:4d:e2:a3:27:ab:96:6a:5f:8e:
+         c5:94
+-----BEGIN CERTIFICATE-----
+MIICPTCCAaagAwIBAgIEVtDMwzANBgkqhkiG9w0BAQUFADBjMQswCQYDVQQGEwJB
+VDEPMA0GA1UECBMGVmllbm5hMQ8wDQYDVQQHEwZWaWVubmExFjAUBgNVBAoTDUFK
+IERldm1vbmtleXMxGjAYBgNVBAMMEUFsZXhhbmRlciBTY2jDtmxsMB4XDTE2MDIy
+NjIyMDgwM1oXDTQxMDIxOTIyMDgwM1owYzELMAkGA1UEBhMCQVQxDzANBgNVBAgT
+BlZpZW5uYTEPMA0GA1UEBxMGVmllbm5hMRYwFAYDVQQKEw1BSiBEZXZtb25rZXlz
+MRowGAYDVQQDDBFBbGV4YW5kZXIgU2Now7ZsbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEAoUDNu4Y0D8QM0YG17FXXWj7xmF4eMs+EK8aAH3a/MguUm3Tpm1x2
+PqrwAXvI9CBGn1cM6XCzjYyJ727uFpz9Z0EA4loxst3vWeZw5X0vp4ggQLtUEkB5
+BJG+O4k1z9AQGF0sS25jCNGAjG13tFmiby5ujJMqtq6UKSxC9DDQRQkCAwEAATAN
+BgkqhkiG9w0BAQUFAAOBgQAWz1ZGtVchEYs3sL1fK6ru7zxkC2p8FrBFz7fUgWtQ
+8KWFxq66oyQi2uAasMwPvEZqaG2+UQALBLGpQTQY6Decg27NzHyzcWLnWEDvctWO
+8Lz4JYEGVpoWbRIZeCi+zi00zi7yQvD7BbQynEGJsbgA0VnpW5RN4qMnq5ZqX47F
+lA==
+-----END CERTIFICATE-----
+

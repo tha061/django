@@ -1,0 +1,62 @@
+{
+  "name": "com.minhphan.android.seven",
+  "fileSize": "887.5 KB",
+  "VTmd5": "35900cd9a020223c466420d509deaf6d",
+  "VTmsg": "Scan finished, information embedded",
+  "VTpermalink": "https://www.virustotal.com/gui/file/bf7f767c22ffbc17551544cbd3b9e1bd6b3d47bea8a5940784dd1e73684bb3f2/detection/f-bf7f767c22ffbc17551544cbd3b9e1bd6b3d47bea8a5940784dd1e73684bb3f2-1577895279",
+  "VTresource": "bf7f767c22ffbc17551544cbd3b9e1bd6b3d47bea8a5940784dd1e73684bb3f2",
+  "VTresponsecode": 1,
+  "VTscanID": "bf7f767c22ffbc17551544cbd3b9e1bd6b3d47bea8a5940784dd1e73684bb3f2-1577895279",
+  "VTsha1": "26650d218695518e1a9c6801435b141571375531",
+  "VTsha256": "bf7f767c22ffbc17551544cbd3b9e1bd6b3d47bea8a5940784dd1e73684bb3f2",
+  "VTtotal": 62,
+  "VTpositives": 0,
+  "VTratio": "0.0",
+  "usesPermissions": [
+    "android.permission.VIBRATE Protection Level: normal"
+  ],
+  "permissions": [],
+  "service": {
+    "Service and Permissions": []
+  },
+  "metaData": {
+    "Updated": "11 June 2013",
+    "Size": "888k",
+    "Installs": "1000000",
+    "Current Version": "1.3.1",
+    "Requires Android": "2.2 and up",
+    "Content Rating": "Everyone Learn More",
+    "Permission": "View details",
+    "Report": "Flag as inappropriate",
+    "Offered By": "mphan",
+    "Developer": "dmphan+seven@gmail.com"
+  },
+  "rating": "4.4",
+  "description": "Don't have enough time to exercise every day? Try the 7-Minute Workout! Based on 'The Scientific 7-Minute Workout' routine posted in the American College of Sports Medicine's Health & Fitness Journal and highlighted by The New York Times (http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/), this high intensity interval training app will get you sweating. 12 exercises, 3 required items (yourself, a chair, a wall), and 7 minutes is all you need to start getting in shape again!",
+  "privacyText": "",
+  "numInstalls": 1000000,
+  "developer": "mphan",
+  "boolDangerousPerm": false,
+  "boolSmali": false,
+  "boolPP3rdPartyPP": false,
+  "PPClaims3rdPartySharing": false,
+  "PPNoContact": "o",
+  "PPEmpty": false,
+  "boolPermissionsDangerous": false,
+  "boolPermissionsSignature": false,
+  "boolPermissionsNormal": false,
+  "networkTraffic": false,
+  "networkTrafficTracking": false,
+  "networkTrafficContradiction": false,
+  "libraryContradiction": false,
+  "contradiction": false,
+  "links": {
+    "Developer Website": "",
+    "Developer Email": "dmphan+seven@gmail.com",
+    "Privacy Policy": ""
+  },
+  "smali_Directories": [
+    "Actionbarsherlock"
+  ],
+  "PolicySharesInfo3rdParty": false
+}

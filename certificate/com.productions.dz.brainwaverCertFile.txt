@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 368726657 (0x15fa5281)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=01, ST=FL, L=Hollywood, O=IoT Switcher, OU=CEO, CN=Daniel Zada
+        Validity
+            Not Before: Nov  5 21:51:06 2016 GMT
+            Not After : Oct 30 21:51:06 2041 GMT
+        Subject: C=01, ST=FL, L=Hollywood, O=IoT Switcher, OU=CEO, CN=Daniel Zada
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:96:3c:91:cc:c5:a4:af:de:7f:67:4f:cb:87:7c:
+                    d7:dc:5f:11:1c:1e:04:3f:d3:fb:bd:a6:63:13:b3:
+                    51:2b:4f:47:ff:1f:91:2a:c6:98:96:78:fc:c5:e2:
+                    df:40:33:84:cd:91:28:ea:11:2e:5b:71:a3:65:65:
+                    34:29:4c:a4:03:38:60:ee:4d:b5:65:7d:66:d8:91:
+                    df:f3:83:c5:a1:b9:94:20:c0:e0:2f:94:ff:ea:a7:
+                    59:51:02:5b:1c:72:1e:03:4b:bd:2f:07:d5:cc:5a:
+                    aa:d6:98:cb:37:9f:0e:fc:e9:c0:6d:a2:ad:1d:1a:
+                    b4:fd:a2:94:c9:86:29:8c:26:4c:ca:b3:b3:27:ac:
+                    b5:de:ca:52:d9:45:02:b5:4f:08:cf:47:45:c6:24:
+                    91:c6:e0:71:27:ca:26:a4:e0:5e:75:4b:64:f5:88:
+                    e3:26:07:a4:90:72:39:d8:36:09:1b:c7:31:31:53:
+                    27:ba:52:6d:7b:b0:02:1a:40:35:fd:db:53:4f:28:
+                    1b:c1:98:ac:e5:7d:33:ad:43:8e:c6:85:9d:79:f4:
+                    15:11:79:2a:16:ed:a8:18:f8:ce:4d:00:f7:c8:04:
+                    74:65:c4:0f:21:45:a6:3a:24:38:df:77:b6:19:a2:
+                    ac:c8:a0:d2:7e:a6:2d:95:b5:3f:dd:8b:56:9f:78:
+                    d4:85
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                D6:F8:7A:5A:4E:70:F1:72:4F:C1:4E:44:F4:61:B4:F0:DA:5A:BC:57
+    Signature Algorithm: sha256WithRSAEncryption
+         0c:c5:ac:89:fd:ad:6a:f7:f8:9a:9c:a4:45:67:68:43:1b:62:
+         9d:24:54:5b:14:06:96:e7:f8:ec:1a:05:10:89:70:3a:52:1e:
+         c1:6c:df:15:fd:cf:16:ce:0b:b3:a1:ef:3d:a7:f0:c0:7c:47:
+         e8:6c:37:61:02:28:93:2c:57:b6:62:f2:34:6c:9f:3c:05:59:
+         03:5f:2e:2a:b2:b6:83:a6:e0:4d:97:71:af:4d:37:ef:bc:95:
+         a9:44:d4:33:56:a3:c1:43:a6:47:19:36:4c:fb:6e:7a:bf:94:
+         95:a3:1b:0f:9d:19:19:d6:00:06:6c:a4:cf:24:55:7a:ac:f4:
+         12:f7:5d:6d:f7:a6:03:e8:c1:90:1e:1f:af:3c:5f:4b:3f:06:
+         4b:7f:3d:85:04:f2:c9:db:44:6e:b4:4e:64:0f:53:5e:24:a8:
+         90:7a:44:28:66:45:14:57:6c:c1:69:9d:9b:84:54:88:9d:15:
+         1e:47:50:36:b9:a4:89:07:68:36:e9:5a:f3:d8:44:a7:8b:c7:
+         9a:68:6c:c7:39:2a:7c:b7:5e:1c:bd:9c:9a:ad:b9:81:cf:5a:
+         b9:d3:1e:57:bf:4e:48:c5:aa:33:94:01:5c:85:0c:2a:1f:4a:
+         78:fe:45:74:65:d9:b8:0d:06:ce:df:47:87:96:cb:3b:a4:27:
+         cd:ef:17:0c
+-----BEGIN CERTIFICATE-----
+MIIDcTCCAlmgAwIBAgIEFfpSgTANBgkqhkiG9w0BAQsFADBpMQswCQYDVQQGEwIw
+MTELMAkGA1UECBMCRkwxEjAQBgNVBAcTCUhvbGx5d29vZDEVMBMGA1UEChMMSW9U
+IFN3aXRjaGVyMQwwCgYDVQQLEwNDRU8xFDASBgNVBAMTC0RhbmllbCBaYWRhMB4X
+DTE2MTEwNTIxNTEwNloXDTQxMTAzMDIxNTEwNlowaTELMAkGA1UEBhMCMDExCzAJ
+BgNVBAgTAkZMMRIwEAYDVQQHEwlIb2xseXdvb2QxFTATBgNVBAoTDElvVCBTd2l0
+Y2hlcjEMMAoGA1UECxMDQ0VPMRQwEgYDVQQDEwtEYW5pZWwgWmFkYTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAJY8kczFpK/ef2dPy4d819xfERweBD/T
++72mYxOzUStPR/8fkSrGmJZ4/MXi30AzhM2RKOoRLltxo2VlNClMpAM4YO5NtWV9
+ZtiR3/ODxaG5lCDA4C+U/+qnWVECWxxyHgNLvS8H1cxaqtaYyzefDvzpwG2irR0a
+tP2ilMmGKYwmTMqzsyestd7KUtlFArVPCM9HRcYkkcbgcSfKJqTgXnVLZPWI4yYH
+pJByOdg2CRvHMTFTJ7pSbXuwAhpANf3bU08oG8GYrOV9M61DjsaFnXn0FRF5Khbt
+qBj4zk0A98gEdGXEDyFFpjokON93thmirMig0n6mLZW1P92LVp941IUCAwEAAaMh
+MB8wHQYDVR0OBBYEFNb4elpOcPFyT8FORPRhtPDaWrxXMA0GCSqGSIb3DQEBCwUA
+A4IBAQAMxayJ/a1q9/ianKRFZ2hDG2KdJFRbFAaW5/jsGgUQiXA6Uh7BbN8V/c8W
+zguzoe89p/DAfEfobDdhAiiTLFe2YvI0bJ88BVkDXy4qsraDpuBNl3GvTTfvvJWp
+RNQzVqPBQ6ZHGTZM+256v5SVoxsPnRkZ1gAGbKTPJFV6rPQS911t96YD6MGQHh+v
+PF9LPwZLfz2FBPLJ20RutE5kD1NeJKiQekQoZkUUV2zBaZ2bhFSInRUeR1A2uaSJ
+B2g26Vrz2ESni8eaaGzHOSp8t14cvZyarbmBz1q50x5Xv05IxaozlAFchQwqH0p4
+/kV0Zdm4DQbO30eHlss7pCfN7xcM
+-----END CERTIFICATE-----
+
